@@ -1,0 +1,62 @@
+Known Atari composers and handles                                 Dec 27 2000
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This list contains only composers who have at least 3 songs in ASMA
+collection. The composers are sorted in ABC order according to their surnames
+(if known, otherwise by their handles). There are 57 composers in this list.
+
+Badkowski, Marek - Bac
+Bienias, Adam - SoTe
+Brooke, Jason C.
+Cornelius, Orall
+Czartynski, Marcin - Cedyn
+Daglish, Ben
+Dariusz Duma - Dhor
+Dojwa, Jacek
+Drozdowski, Marek - Marucha
+Duesterhoeft, Stephan - Benjy
+Galinski, Adrian - Daxey
+Gilmore, Adam
+<?> - Gnome Design
+Golewski Filip, - Zoltar X
+Grad, Jacek - Tabu
+Gwozdziej, Mirek - Zur-soft 1/2
+Holda, Leszek
+Hubbard, Rob
+Husak, Jakub
+Kalinowski, Bartosz - Bartman
+Karwacki, Jakub - Yezus
+Kucisz, Tomasz - VLX
+Kuczek, Konrad
+Kwiatek, Grzegorz - Greg
+Lepkowski, Michal - Josh
+Liebich, Tomasz
+Luberda, Michal
+Luszcz, Tomasz
+Majewski, Jerzy - Zur-soft 2/2
+Majewski, Tomasz - Mayonez
+Makowski, Robert - Gutek
+<?> - Marcys
+Martin, Aleksander - Alex
+Matyasik, Krzysztof - Mateoos
+Munns, Richard
+Numan, Daniel - Zbx Virus
+Padula, Jaroslaw - Solo
+Pelc, Janusz
+<?> - Pet
+Podedworny, Wojtek - Ferro
+Pucimski, Rafal - Dex
+Radecki, Michal - Tehno
+<?> - Ramzes
+Skwiot, Stanislaw - Stanley
+Sterba, Radek - RASTER
+Swierszcz, Piotr - Samurai
+Sychowicz, Lukasz - X-Ray
+Szmatola, Krysztof
+Szpilowski, Michal - Miker
+Szymczuk, Daniel
+<?> - Top Odin
+Trokowicz, B.
+Vogt, Dariusz - DJ V
+Vybostok, Marian - Goldmaster
+Wasilewski, Dariusz - Trener
+Whittaker, David
