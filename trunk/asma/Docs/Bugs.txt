@@ -1,2 +1,4 @@
-Classics\Gilmore_Adam\Las_Vegas_Casino.sap - tune 0 doesn't exist (silence)
-Various\Liebich_Tomasz\Deimos.sap - tune 0 doesn't exist (distorted sounds)
+Classics/Gilmore_Adam/Las_Vegas_Casino.sap - tune 0 doesn't exist (silence)
+Various/Liebich_Tomasz/Deimos.sap - tune 0 doesn't exist (distorted sounds)
+Demos/Time_To_Enjoy.sap - Tune falls out of synch after some time
+Games/Classic/Mule.sap - Tune falls out of synch after some time
