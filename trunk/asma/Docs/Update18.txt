@@ -1,3 +1,16 @@
+ASMA Update #18
+Date: July 15, 2004
+
+These rips together with the original ASMA collection will make version 2.8
+of the ASMA (out of version 2.7).
+
+Number of new tunes: 70
+Credits fixes: 8
+Better rips: 1
+Removed files: 1
+
+New tunes
+---------
 Unsorted/Flatfish.sap
 Unsorted/Just_Crazy.sap
 Unsorted/Lampa.sap
@@ -68,3 +81,22 @@ Various/Zaborowski_Robert/Triumph_4.sap
 Various/Zaborowski_Robert/Triumph_5.sap
 Various/Zaborowski_Robert/Triumph_6.sap
 Various/Zaborowski_Robert/Triumph_7.sap
+
+Credits fixes (includes filename or location changes)
+-----------------------------------------------------
+Demos/Hobbytronic_90_2.sap > Various/Tegethoff_Sven/
+Unsorted/Aquanaut.sap > Classics/Ezcan_Kemal/
+Unsorted/CompyShop_Magazin_09_88.sap > Classics/Ezcan_Kemal/Its_a_Sin.sap
+Unsorted/Digiloo_Digiley.sap > Classics/Ezcan_Kemal/
+Unsorted/Globetrotter.sap > Classics/Ezcan_Kemal/
+Unsorted/Unknown.sap > Classics/Ezcan_Kemal/Cavehunt.sap
+Unsorted/Color.sap > Various/Hudak_Matej/
+Unsorted/ElanLL02.sap > Various/Hudak_Matej/
+
+Better Rips
+-----------
+Various/Gora_Jakub/I_Love_Somebody.sap (previous version "Love_Somebody.sap" was wrongly transposed)
+
+Removed files
+-------------
+Unsorted/Aura_30.sap (same as Various/Tegethoff_Sven/Hobbytronic_90_2.sap, without samples)

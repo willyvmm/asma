@@ -17,9 +17,9 @@
                                   Version 2.7
 
                          Started on 4th of August 1999
-                      Last updated on 12th of November 2003
+                       Last updated on 15th of July 2004
 
-                      Total number of tunes: 1771 (124 new)
+                      Total number of tunes: 1840 (70 new)
 
 
  Introduction
@@ -32,31 +32,31 @@
 
  Statistics
  ~~~~~~~~~~
- Number of tunes:      1771 (2246 including subtunes)
- Compared to HVSC:     8.3% (HVSC v5.4 contains 21272 tunes)
- Disk space ocupied:   10317746 bytes (10172795 bytes excluding Docs folder)
- Average SAP filesize: 5744 bytes
+ Number of tunes:      1840 (2326 including subtunes)
+ Compared to HVSC:     6.8% (HVSC v5.7 contains 27087 tunes)
+ Disk space ocupied:   10811349 bytes (10661564 bytes excluding documents)
+ Average SAP filesize: 5794 bytes
  Songs with subsongs:  164
- Unsorted tunes:       98
- Number of musicians:  92
- Most active musician: Lukasz Sychowicz    (96 tunes + 7 cooperations)
+ Unsorted tunes:       95
+ Number of musicians:  95
+ Most active musician: Lukasz Sychowicz    (119 tunes + 13 cooperations)
  Biggest SAP tune:     Garfield_Part_2.sap (61547 bytes)
  Smallest SAP tune:    Self_Test.sap       (150 bytes)
  Files with subtunes:
   2 tunes: 57x
-  3 tunes: 32x
+  3 tunes: 33x
   4 tunes: 27x
   5 tunes: 23x
   6 tunes:  9x
   7 tunes:  4x
-  8 tunes:  3x
+  8 tunes:  4x
   9 tunes:  2x
  10 tunes:  2x
  11 tunes:  2x
  13 tunes:  1x
  14 tunes:  1x
  15 tunes:  1x
- Total: 475 subtunes
+ Total: 486 subtunes
  2 tunes have unexisting tune "0"
 
 

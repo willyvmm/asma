@@ -1,8 +1,8 @@
 ##############################################################################
 #
-#  STIL v2.7 - SAP Tune Information List
+#  STIL v2.8 - SAP Tune Information List
 #  Maintained by Zdenek Eisenhammer (PG)
-#  Total number of entries: 185
+#  Total number of entries: 191
 #
 
 ### Orall Corneliuss #########################################################
@@ -745,9 +745,54 @@ COMMENT: Silly Venture 2k music compo entry.
 
 ### Sven Tegethoff (Gnome Design) ############################################
 
+/Various/Tegethoff_Sven/
+COMMENT: Tegethoff's own comments are denoted by (ST).
+
+/Various/Tegethoff_Sven/Abbuc_20_1.sap 
+COMMENT: "Entry in the annual Abbuc demo competition (can't remember the year)
+         held at the 'Hobbytronic' Computer Fair in Dortmund, Germany. The song
+         is an adaption of a popular tune from the Commodore C64. It's such a 
+         crappy rendition because this is a LOADER music, and you can only use
+         two voices while loading from floppy. The demo (not this particular
+         tune) won first price. Uses custom player routines." (ST)
+
 /Various/Tegethoff_Sven/Abbuc_20_2.sap
   TITLE: Commando, Tune #2
  ARTIST: Rob Hubbard
+COMMENT: "The second loader music from the same demo. This is an equally crappy
+         rendition of the High Score theme from the C64 game 'Commando'. The
+         demo (not this particular tune) won first price. Uses custom player
+         routines." (ST)
+
+/Various/Tegethoff_Sven/Abbuc_21_1.sap
+COMMENT: "Another entry in the annual Abbuc demo competition (can't remember
+         the year) held at the 'Hobbytronic' Computer Fair in Dortmund,
+         Germany. The demo (not this particular tune) won first price. Written
+         using 'The Black Magic Composer'.
+
+/Various/Tegethoff_Sven/Abbuc_21_3.sap
+COMMENT: "Another entry in the annual Abbuc demo competition (can't remember
+         the year) held at the 'Hobbytronic' Computer Fair in Dortmund,
+         Germany. Written using 'The Black Magic Composer' with Digi-Drums.
+         Drums were blatantly ripped from various Chris Huelsbeck modules :)" 
+         (ST)
+
+/Various/Tegethoff_Sven/The_Top_2_2.sap
+COMMENT: "This song was part of the same Abbuc Demo like Abbuc_20_1.sap and 
+         Abbuc_21_2.sap. The complete demo (not this particular tune) won first
+         price. The tune was ripped and re-used by some czech demo crew in a 
+         demo called 'the top'. But I forgive them, because they gave me the
+         proper credits :)  Makes heavy uses of the  very few modulations the
+         atari sound chip allowed for. Written using 'The Black Magic Composer' 
+         with Digi-Drums. Drums were blatantly ripped from various Chris
+         Huelsbeck modules :)" (ST)
+         Sven is wrong here, The Top demos were produced in Poland.
+
+/Various/Tegethoff_Sven/Hobbytronic_90_2.sap
+COMMENT: "Entry in the annual Abbuc demo competition 1990 held at the
+         'Hobbytronic' Computer Fair in Dortmund, Germany. Written using 'The
+         Black Magic Composer' with Digi-Drums. Drums were blatantly ripped
+         from various Chris Huelsbeck modules :)" (ST)
 
 ### Top Odin #################################################################
 
