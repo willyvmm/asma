@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 1.9
+                                  Version 2.0
 
                          Started on 4th of August 1999
-                       Last updated on 18th of April 2001
+                       Last updated on 4th of August 2001
 
-                      Total number of tunes: 985 (89 new)
+                      Total number of tunes: 1055 (70 new)
 
 
  Introduction
@@ -27,29 +27,31 @@
  This is the release version of the first Atari XL/XE chip-music collection.
  The outfit of the whole collection was inspired by the HVSC collection (with 
  some differences). I hope you'll like this collection. To get in touch with 
- me, see the "Contact" chapter.
+ me, see the "Contact" section of this document.
 
 
  Statistics
  ~~~~~~~~~~
- Number of tunes:      985 (1304 including subtunes)
- Compared to HVSC:     6.4% (HVSC v4.0 contains 15342 tunes)
- Unsorted tunes:       70
- Number of musicians:  61
+ Number of tunes:      1055 (1397 including subtunes)
+ Compared to HVSC:     6.7% (HVSC v4.1 contains 15808 tunes)
+ Disk space ocupied:   5616279 bytes (excluding Docs folder)
+ Average SAP filesize: 5323 bytes
+ Unsorted tunes:       74
+ Number of musicians:  64
  Most active musician: Grzegorz Kwiatek    (75 tunes)
- Biggest SAP tune:     Garfield_Part_2.sap (61556 bytes)
- Smallest SAP tune:    Self_Test.sap       (159 bytes)
+ Biggest SAP tune:     Garfield_Part_2.sap (61547 bytes)
+ Smallest SAP tune:    Self_Test.sap       (150 bytes)
  Files with subtunes:
-  2 tunes: 29x
-  3 tunes: 20x
+  2 tunes: 34x
+  3 tunes: 21x
   4 tunes: 20x
-  5 tunes: 12x
-  6 tunes:  5x
+  5 tunes: 16x
+  6 tunes:  6x
   7 tunes:  4x
   8 tunes:  2x
   9 tunes:  1x
  10 tunes:  1x
- 11 tunes:  1x
+ 11 tunes:  2x
  13 tunes:  1x
  14 tunes:  1x
  15 tunes:  1x
@@ -62,9 +64,9 @@
  you're 100% sure about origin of any of these tunes (Who did it, where does 
  it come from, when was it composed), please let us know immediately so that 
  we can complete the information about the tune in ASMA (and move it to the 
- right directory). We would welcome if you sent us also the binary file (or 
- an ATR/XFD disk image) with the original peace of software with that tune. 
- Mail any such information to pg@pinknet.cz. Our aim is to completely 
+ appropriate directory). We would welcome if you sent us also the binary file 
+ (or an ATR/XFD disk image) with the original piece of software with that 
+ tune. Mail any such information to pg@dspaudio.com. Our aim is to completely 
  annihilate the 'Unsorted' directory :-)
 
 
@@ -90,6 +92,7 @@
 
  Creator & Contributors
  ~~~~~~~~~~~~~~~~~~~~~~
+ Mr. Bacardi
  Tamas Bene (<?> of Hard)
  Adam Bienias (SoTe of Slight)
  Zdenek Eisenhammer (PG of Unreal)

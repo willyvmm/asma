@@ -100,7 +100,7 @@ TYPE B - any player. In this case, also these commands must appear: PLAYER,
          distinguish is for future SAP releases.
 
 TYPE S - SoftSynth. Like type "C", this type is temporary, and is used only
-         for special type of songs, that where composed using program
+         for special type of songs, that were composed using program
          SoftSynth.
 TYPE D - Digital. In SAP file with this type, must be also defined commands
          "INIT" and "PLAYER". "PLAYER" (like in type "B") sets address of
