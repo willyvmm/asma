@@ -164,7 +164,7 @@ Various\Szpilowski_Michal\Extract_Intro.sap (wrong tune start)
 Removed files
 -------------
 Games\Classic\WhistlerBrothers.sap (not removed by mistake)
-Unknown\Pmix.sap (not removed by mistake)
-Unknown\Przepraszam.sap (not removed by mistake)
+Unsorted\Pmix.sap (not removed by mistake)
+Unsorted\Przepraszam.sap (not removed by mistake)
 Various\Drozdowski_Marek\Barymag_1_2.sap (same as Sweet_Illusion_APC_Part.sap)
 Various\Kwiatek_Grzegorz\Energy_1_Intro.sap (same as Expression_1.sap)

@@ -31,6 +31,10 @@ COMMENT: "Warhawk was a c64 tune originally called Proteus." (RH)
 
 ### Demos ####################################################################
 
+/Demos/Bitter_Reality_Dragon_Bobs.sap
+  TITLE: Stationary Ark
+ ARTIST: John Mills-Cockell <?>
+
 /Demos/Bitter_Reality_Rzog_Plazma.sap
   TITLE: Impact <?> [from the Amiga MOD module]
  ARTIST: <?>
@@ -104,10 +108,6 @@ COMMENT: Although the C64 version was composed by Rob Hubbard, Hubbard has
  ARTIST: <?>
 
 ### Games/Various ############################################################
-
-/Games/Various/Incydent.sap
-  TITLE: Sadeness
- ARTIST: Enigma
 
 /Games/Various/Reverse.sap
   TITLE: Dear Rob [from the Amiga MOD module]
@@ -192,6 +192,12 @@ COMMENT: Lato Ludzikow 2000 music compo entry.
   TITLE: Ice Machine
  ARTIST: Depeche Mode
 
+### Orall Corneliuss ##############################################################
+
+/Various/Cornelius_Orall/Tiger_Attack.sap 
+  Title: Phantoms of the Asteroids (from the C-64 game)
+ ARTIST: Rob Hubbard
+
 ### Adrian Galinski ##########################################################
 
 /Various/Galinski_Adrian/Abdicus.sap
@@ -221,6 +227,10 @@ COMMENT: 3rd place at Shadows Party music compo.
 /Various/Husak_Jakub/Garfield.sap
   TITLE: Crockett's Theme [from the TV series Miami Vice]
  ARTIST: Jan Hammer
+
+/Various/Husak_Jakub/Garfield_Part_2.sap
+  TITLE: Musik Non Stop
+ ARTIST: Kraftwerk
 
 ### Jakub Karwacki ###########################################################
 
@@ -269,6 +279,12 @@ COMMENT: 2nd place at Rush Hours '97 music compo.
 /Various/Luberda_Michal/U235_Ingame.sap
   TITLE: Last Ninja 2, Tune #2 - Central Park (in-game)
  ARTIST: Matt Gray
+
+### Robert Makowski #########################################################
+
+/Various/Makowski_Robert/Incydent.sap
+  TITLE: Sadeness
+ ARTIST: Enigma
 
 ### Jaroslaw Padula ##########################################################
 

@@ -100,4 +100,4 @@ Removed files
 -------------
 Various\Kalinowski_Bartosz\Caveman.sap (same as Various\Swierszcz_Piotr\Total_Daze.sap)
 Various\Kwiatek_Grzegorz\Angel.sap (same as Angel_of_Death.sap)
-Qwerty.sap (same as Various\Karwacki_Jakub\Lark.sap)
+Unsorted\Qwerty.sap (same as Various\Karwacki_Jakub\Lark.sap)

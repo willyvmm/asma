@@ -65,14 +65,14 @@ TYPE C - player from CMC (Chaos Music Composer). In this case, also these
          lda #$70
          ldx #<MUSIC
          ldy #>MUSIC
-         jsr PLAYER+6
+         jsr PLAYER+3
          lda #$00
          ldx #DEFSONG
-         jsr PLAYER+6
+         jsr PLAYER+3
 
          in 1/50 intervals will be executed:
 
-         jsr PLAYER+3
+         jsr PLAYER+6
 
 TYPE M - player from ???????? (this player was used by composers like Adam
          Gilmore, David Whittaker, etc). In this case, also these commands
