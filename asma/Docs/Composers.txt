@@ -1,8 +1,8 @@
-Known Atari composers and handles                                 Aug 16 2000
+Known Atari composers and handles                                 Dec 27 2000
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This list contains only composers who have at least 3 songs in ASMA
 collection. The composers are sorted in ABC order according to their surnames
-(if known, otherwise by their handles). There are 52 composers in this list.
+(if known, otherwise by their handles). There are 57 composers in this list.
 
 Badkowski, Marek - Bac
 Bienias, Adam - SoTe
@@ -11,6 +11,7 @@ Cornelius, Orall
 Czartynski, Marcin - Cedyn
 Daglish, Ben
 Dariusz Duma - Dhor
+Dojwa, Jacek
 Drozdowski, Marek - Marucha
 Duesterhoeft, Stephan - Benjy
 Galinski, Adrian - Daxey
@@ -23,13 +24,16 @@ Holda, Leszek
 Hubbard, Rob
 Husak, Jakub
 Kalinowski, Bartosz - Bartman
-Karwacki, Jakub - Yesus
+Karwacki, Jakub - Yezus
 Kucisz, Tomasz - VLX
 Kuczek, Konrad
 Kwiatek, Grzegorz - Greg
+Lepkowski, Michal - Josh
 Liebich, Tomasz
 Luberda, Michal
+Luszcz, Tomasz
 Majewski, Jerzy - Zur-soft 2/2
+Majewski, Tomasz - Mayonez
 Makowski, Robert - Gutek
 <?> - Marcys
 Martin, Aleksander - Alex

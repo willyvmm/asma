@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 1.7
+                                  Version 1.8
 
                          Started on 4th of August 1999
-                      Last updated on 22th of August 2000
+                     Last updated on 27th of December 2000
 
-                      Total number of tunes: 840 (51 new)
+                      Total number of tunes: 899 (61 new)
 
 
  Introduction
@@ -32,23 +32,24 @@
 
  Statistics
  ~~~~~~~~~~
- Number of tunes:      840 (1080 including subtunes)
- Compared to HVSC:     6.4% (HVSC v3.6 contains 13028 tunes)
- Unsorted tunes:       78
+ Number of tunes:      899 (1189 including subtunes)
+ Compared to HVSC:     6.1% (HVSC v3.9 contains 14809 tunes)
+ Unsorted tunes:       79
  Number of musicians:  52
  Most active musician: Grzegorz Kwiatek    (75 tunes)
  Biggest SAP tune:     Garfield_Part_2.sap (61556 bytes)
  Smallest SAP tune:    Self_Test.sap       (159 bytes)
  Files with subtunes:
-  2 tunes: 24x
-  3 tunes: 16x
-  4 tunes: 16x
-  5 tunes: 10x
-  6 tunes:  2x
-  7 tunes:  3x
+  2 tunes: 26x
+  3 tunes: 18x
+  4 tunes: 20x
+  5 tunes: 11x
+  6 tunes:  4x
+  7 tunes:  4x
   8 tunes:  2x
   9 tunes:  1x
  10 tunes:  1x
+ 11 tunes:  1x
  13 tunes:  1x
  14 tunes:  1x
  15 tunes:  1x
