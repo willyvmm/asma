@@ -1,8 +1,8 @@
-Known Atari composers and handles                                 13 Nov 1999
+Known Atari composers and handles                                  Dec 4 1999
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This list contains only composers who have made at least 3 songs on Atari
 XL/XE. The composers are sorted in ABC order according to their surnames (if 
-known, otherwise by their handles). There are 27 composers in this list.
+known, otherwise by their handles). There are 35 composers in this list.
 
 Badkowski, Marek - Bac
 Bienias, Adam - SoTe
@@ -10,24 +10,32 @@ Brooke, Jason C.
 Czartynski, Marci - Cedyn
 Daglish, Ben
 Drozdowski, Marek - Marucha
-Duesterhoeft_Stephan - Benjy
+Duesterhoeft, Stephan - Benjy
 Galinski, Adrian - Daxey
 Gilmore, Adam
 Gwozdziej, Mirek - Zur-soft 1/2
+Holda, Leszek
 Hubbard, Rob
 Husak, Jakub
 Kalinowski, Bartosz - Bartman
 Kwiatek, Grzegorz - Greg
 Liebich, Tomasz
+Luberda, Michal
 Majewski, Jerzy - Zur-soft 2/2
 Makowski, Robert - Gutek
+<?> - Marcys
 Martin, Aleksander - Alex
 Munns, Richard
 Pelc, Janusz
+Pucimski, Rafal
+Radecki, Michal - Tehno
+<?> - Ramzes
 Sterba, Radek - RASTER
 Swierszcz, Piotr - Samurai
 Sychowicz, Lukasz - X-Ray
+Sziplowski, Michal - Miker
 Szymczuk, Daniel
 Trokowicz, B.
 Vogt, Dariusz - DJ V
+Wasilewski, Dariusz - Trener
 Whittaker, David

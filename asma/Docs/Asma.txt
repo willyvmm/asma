@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 1.1
+                                  Version 1.2
 
                            Started on 4th of August 1999
-                        Last updated on 13th of November 1999
+                        Last updated on 4th of December 1999
 
-                        Total number of tunes: 407 (48 new)
+                        Total number of tunes: 493 (86 new)
 
 
  Introduction
@@ -32,12 +32,12 @@
 
  Statistics
  ~~~~~~~~~~
- Number of tunes:      407
- Compared to HVSC 3.3: 3.5% (HVSC contains 11660 tunes)
- Unsorted tunes:       58
- Number of musicians:  27
+ Number of tunes:      493
+ Compared to HVSC 3.3: 4.2% (HVSC contains 11660 tunes)
+ Unsorted tunes:       67
+ Number of musicians:  35
  Most active musician: Tomasz Liebich     (30 tunes)
- Biggest SAP tune:     Exodus.sap         (38481 bytes)
+ Biggest SAP tune:     Bonanza_Digi.sap   (55374 bytes)
  Smallest SAP tune:    Self_Test.sap      (159 bytes)
 
  Help!
@@ -75,13 +75,14 @@
  Creator & Contributors
  ~~~~~~~~~~~~~~~~~~~~~~
  Zdenek Eisenhammer (PG of Unreal) - maintainer of the archive, ripped about
-                                     15% of the tunes
- Adam Bienias (SoTe of Slight) - ripped almost 75% of the tunes
- Piotr Fusik (Fox of Taquart) - ripped about 10% of the tunes (now he's my
+                                     12% of the tunes
+ Adam Bienias (SoTe of Slight) - ripped almost 70% of the tunes
+ Piotr Fusik (Fox of Taquart) - ripped about 12% of the tunes (now he's my
                                 main contributor)
- Tamas Bene (??? of Hard) - ripped about 2% of the tunes :)
+ Tamas Bene (??? of Hard) - ripped a few tunes
  Jindrich Kubec - ripped some tunes as well :)
  Radek Sterba - sent most of his tunes. Thanx!
+ <?> (Dracon of Taquart) - ripped ca. 30 tunes
 
 
  Contact
