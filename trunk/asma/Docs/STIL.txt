@@ -1,9 +1,9 @@
 ##############################################################################
 #
-#  STIL v2.5 - SAP Tune Information List
-#  The fileformat is 100% HVSC STIL compatible - hopefully someone will
-#  finally support STIL database in their SAP player
-#  Total number of entries: 165
+#  STIL v2.6 - SAP Tune Information List
+#  Maintained by Zdenek Eisenhammer (PG)
+#  Total number of entries: 183
+#
 
 ### Orall Corneliuss #########################################################
 
@@ -192,6 +192,11 @@ COMMENT: Lato Ludzikow 2001 music compo entry.
   TITLE: Oxygene 4 [from Oxygene]
  ARTIST: Jean Michel Jarre
 
+### Marek Badkowski (Bac) ####################################################
+
+/Various/Badkowski_Marek/Jade.sap
+COMMENT: Orneta '96 music compo entry.
+
 ### Adam Bienias (SoTe) ######################################################
 
 /Various/Bienias_Adam/Crazy.sap
@@ -208,8 +213,24 @@ COMMENT: Lato Ludzikow 2001 music compo entry.
 
 ### Ce-Pumpkin ###############################################################
 
+/Various/Ce_Pumpkin/
+COMMENT: There is a well known scener hiding behind this nickname.
+
+/Various/Ce_Pumpkin/Rulez_2.sap
+COMMENT: Last Party '02 music compo entry.
+
 /Various/Ce_Pumpkin/Skis.sap
 COMMENT: Lato Ludzikow 2002 music compo entry.
+
+### Cierkonski Michal (Morgoth) ##############################################
+
+/Various/Cierkonski_Michal/Yo.sap
+COMMENT: Orneta '96 music compo entry.
+
+### Czartynski Marcin (Cedyn) ################################################
+
+/Various/Czartynski_Marcin/Hlejnia.sap
+COMMENT: Orneta '96 music compo entry.
 
 ### Jacek Dojwa ##############################################################
 
@@ -263,6 +284,9 @@ COMMENT: 3rd place at Shadows Party music compo.
 
 /Various/Gora_Jakub/Holiday.sap
 COMMENT: Scenery Copy Party '98 music compo entry.
+
+/Various/Gora_Jakub/Love_Somebody.sap
+COMMENT: Last Party '02 music compo entry.
 
 /Various/Gora_Jakub/Psica.sap
 COMMENT: Last Party '98 music compo entry.
@@ -349,6 +373,9 @@ COMMENT: Last Party '99 music compo entry.
 /Various/Karwacki_Jakub/Geotion.sap
 COMMENT: Lato Ludzikow 2000 music compo entry.
 
+/Various/Karwacki_Jakub/Prelude.sap
+COMMENT: Last Party '02 music compo entry.
+
 /Various/Karwacki_Jakub/Shell.sap
 COMMENT: Lato Ludzikow 2000 music compo entry.
 
@@ -360,6 +387,11 @@ COMMENT: Lato Ludzikow 2002 mucic compo entry.
 
 /Various/Karwacki_Jakub/Uht05.sap
 COMMENT: Lato Ludzikow 2002 mucic compo entry.
+
+### Leszek Kazimierczak (Mr MB) ##############################################
+
+/Various/Kazimierczak_Leszek/Bad_Girl.sap
+COMMENT: Orneta '95 music compo entry.
 
 ### Tomasz Kucisz (VLX) ######################################################
 
@@ -377,6 +409,17 @@ COMMENT: Lato Ludzikow 2002 mucic compo entry.
   TITLE: Mama
  ARTIST: Phil Collins
 
+### Grzegorz Kulinski (QLX) ##################################################
+
+/Various/Kulinski_Grzegorz/2Ferie94.sap
+COMMENT: Last Party '02 music compo entry.
+
+/Various/Kulinski_Grzegorz/Psy_hoza.sap
+COMMENT: Last Party '02 music compo entry.
+
+/Various/Kulinski_Grzegorz/Yeah.sap
+COMMENT: Last Party '02 music compo entry.
+
 ### Grzegorz Kwiatek (Greg) ##################################################
 
 /Various/Kwiatek_Grzegorz/Alive.sap
@@ -388,12 +431,24 @@ COMMENT: Last Party '99 music compo entry.
 /Various/Kwiatek_Grzegorz/Desastre.sap
 COMMENT: 2nd place at Intel Outside 4 music compo.
 
+/Various/Kwiatek_Grzegorz/DrillDance.sap
+COMMENT: Last Party '02 music compo entry. This song is a cooperation between
+         Grzegorz Kwiatek and Lukasz Sychowicz.
+
+/Various/Kwiatek_Grzegorz/Euglena_Zielona.sap
+COMMENT: This song is a cooperation between Grzegorz Kwiatek and Lukasz
+         Sychowicz.
+
 /Various/Kwiatek_Grzegorz/Failure_Dream.sap
 COMMENT: 2nd place at Rush Hours '97 music compo.
 
 /Various/Kwiatek_Grzegorz/No_Limit.sap
   TITLE: No Limit
  ARTIST: 2 Unlimited
+
+/Various/Kwiatek_Grzegorz/Pneumatic_Driller.sap
+COMMENT: This song is a cooperation between Grzegorz Kwiatek and Lukasz
+         Sychowicz.
 
 ### Pavol Laciak (pL79) ######################################################
 
@@ -531,6 +586,17 @@ COMMENT: Rush Hours '97 music compo entry.
   TITLE: Blade Runner (End Titles) [from the movie]
  ARTIST: Vangelis
 
+### Rafal Pucimski (Dex) #####################################################
+
+/Various/Pucimski_Rafal/Kick.sap
+COMMENT: Orneta '95 music compo entry.
+
+/Various/Pucimski_Rafal/Magic.sap
+COMMENT: Orneta '95 music compo entry.
+
+/Various/Pucimski_Rafal/Rama.sap
+COMMENT: Orneta '96 music compo entry.
+
 ### Michal Radecki (Tehno) ###################################################
 
 /Various/Radecki_Michal/Entrance_of_Dragon_Intro_2.sap
@@ -606,7 +672,11 @@ COMMENT: Forever 3 music compo entry.
 ### Piotr Swierszcz (Samurai) ################################################
 
 /Various/Swierszcz_Piotr/Ardeny_Demo.sap
-COMMENT: This song is a cooperation between Piotr Swierszcz and Marek Badkowski.
+COMMENT: This song is a cooperation between Piotr Swierszcz and Marek
+         Badkowski
+
+/Various/Swierszcz_Piotr/Last World.sap
+COMMENT: Quast party '95 music compo entry.
 
 /Various/Swierszcz_Piotr/Overmind_TLB_546_Dots.sap
   TITLE: <?> [from the Amiga MOD module]
