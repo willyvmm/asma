@@ -61,7 +61,7 @@ Credits fixes
 Demos\Bitter_Reality_Dragon_Bobs.sap : AUTHOR "Torsten Karwoth"
 Demos\Dual_Yellow_Energy.sap : > Various\Drozdowski_Marek\
 Games\Various\Barahir.sap : > Various\Luberda_Michal\Barahir_Ingame.sap
-Games\Various\Hans_Kloss.sap : > DATE "1992"
+Games\Various\Hans_Kloss.sap : DATE "1992"
 Games\Various\Upior.sap
 Games\Various\Special_Forces.sap: > Various\Galinski_Adrian\
 Games\Various\Zeus.sap : > Various\Kalinowski_Bartosz\
