@@ -1,9 +1,9 @@
 ##############################################################################
 #
-#  STIL v2.4 - SAP Tune Information List
+#  STIL v2.5 - SAP Tune Information List
 #  The fileformat is 100% HVSC STIL compatible - hopefully someone will
 #  finally support STIL database in their SAP player
-#  Total number of entries: 152
+#  Total number of entries: 165
 
 ### Orall Corneliuss #########################################################
 
@@ -130,6 +130,9 @@ COMMENT: Although the C64 version was composed by Rob Hubbard, Hubbard has
 
 ### Unsorted #################################################################
 
+/Unsorted/Aggressive.sap
+COMMENT: From an unknown Atari ST demo.
+
 /Unsorted/Benny_Hill_Show_theme.sap
   TITLE: Yakety Sax [from Yakety Sax]
  ARTIST: James Rich & Boots Randolph
@@ -157,6 +160,9 @@ COMMENT: Forever 2e3 music compo entry.
 /Unsorted/Dupa.sap
 COMMENT: Silly Venture 2k music compo entry.
 
+/Unsorted/Elanll02.sap
+COMMENT: Lato Ludzikow 2002 music compo entry.
+
 /Unsorted/Globetrotter.sap
   TITLE: Ticket To Ride
  ARTIST: The Beatles
@@ -172,6 +178,9 @@ COMMENT: Lato Ludzikow 2000 music compo entry.
 
 /Unsorted/Pizza_Margerita_Suxx.sap
 COMMENT: Lato Ludzikow 2000 music compo entry.
+
+/Unsorted/Scream.sap
+COMMENT: Lato Ludzikow 2002 music compo entry.
 
 /Unsorted/Suprajs.sap
 COMMENT: Lato Ludzikow 2000 music compo entry.
@@ -196,6 +205,11 @@ COMMENT: Lato Ludzikow 2001 music compo entry.
 /Various/Bienias_Adam/Ice_Machine.sap
   TITLE: Ice Machine
  ARTIST: Depeche Mode
+
+### Ce-Pumpkin ###############################################################
+
+/Various/Ce_Pumpkin/Skis.sap
+COMMENT: Lato Ludzikow 2002 music compo entry.
 
 ### Jacek Dojwa ##############################################################
 
@@ -252,6 +266,9 @@ COMMENT: Scenery Copy Party '98 music compo entry.
 
 /Various/Gora_Jakub/Psica.sap
 COMMENT: Last Party '98 music compo entry.
+
+/Various/Gora_Jakub/Return.sap
+COMMENT: Lato Ludizkow 2002 mucis compo entry.
 
 ### Jacek Grad (Tabu) ########################################################
 
@@ -337,6 +354,12 @@ COMMENT: Lato Ludzikow 2000 music compo entry.
 
 /Various/Karwacki_Jakub/Somemuz.sap
 COMMENT: Lato Ludzikow 2001 music compo entry.
+
+/Various/Karwacki_Jakub/Uht03.sap
+COMMENT: Lato Ludzikow 2002 mucic compo entry.
+
+/Various/Karwacki_Jakub/Uht05.sap
+COMMENT: Lato Ludzikow 2002 mucic compo entry.
 
 ### Tomasz Kucisz (VLX) ######################################################
 
@@ -522,6 +545,9 @@ COMMENT: Last Party '99 music compo entry.
 /Various/Skowiniak_Krystian/Old_Socks.sap
 COMMENT: Last Party '99 music compo entry.
 
+/Various/Skowiniak_Krystian/Osadnicy_2.sap
+COMMENT: Lato Ludzikow 2002 music compo entry.
+
 /Various/Skowiniak_Krystian/Pies_drapie_sie_po_jajach.sap
 COMMENT: Last Party 2001 music compo entry.
 
@@ -598,19 +624,29 @@ COMMENT: 1st place at Rush Hours '97 music compo.
 /Various/Sychowicz_Lukasz/Draka.sap
 COMMENT: Inspired by Classics/Adam_Gilmore/Draconus.sap
 
+/Various/Sychowicz_Lukasz/Glikol.sap
+COMMENT: 3rd place at Lato Ludzikow 2002 music compo.
+
 /Various/Sychowicz_Lukasz/Hypnotize.sap
 COMMENT: 1st place at Intel Outside 4 music compo.
 
 /Various/Sychowicz_Lukasz/King_of_Agregat.sap
 COMMENT: Orneta music compo entry.
 
+/Various/Sychowicz_Lukasz/Komar.sap
+COMMENT: 2nd place at Lato Ludzikow 2002 music compo.
+
 /Various/Sychowicz_Lukasz/Porazka.sap
-COMMENT: 1st place at Quast party '96. This song is a cooperation between 
-         Lukasz Sychowicz and Piotr Swierszcz.
+COMMENT: 1st place at Quast party '96 music compo. This song is a cooperation 
+         between Lukasz Sychowicz and Piotr Swierszcz.
 
 /Various/Sychowicz_Lukasz/Porazka_2.sap
-COMMENT: 1st place at Quast party '97. This song is a cooperation between 
-         Lukasz Sychowicz and Piotr Swierszcz.
+COMMENT: 1st place at Quast party '97 music compo. This song is a cooperation
+         between Lukasz Sychowicz and Piotr Swierszcz.
+
+/Various/Sychowicz_Lukasz/Porazka_3.sap
+COMMENT: 1st place at Lato Ludzikow 2002 music compo. This song is a
+         cooperation between Lukasz Sychowicz and Piotr Swierszcz.
 
 ### Michal Szpilowski (Miker) ################################################
 

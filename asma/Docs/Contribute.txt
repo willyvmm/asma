@@ -1,11 +1,19 @@
 This file gives all the information needed for those who want to send songs
 to ASMA archive.
 
+If you want to send me some tunes, they should be already converted to SAP
+format and should include all the information needed (author, name, date,
+number of songs). If you're unsure about any information needed, you can
+send me the music as well, maybe we can find the info together. If you don't
+know how to create SAP files, send me the binary file with the INIT and PLAY
+addresses and memory location where the tune has to be loaded. See Sap.txt
+for SAP format description. 
+
 File formats accepted
 ~~~~~~~~~~~~~~~~~~~~~
 SAP - already created SAP file
 CMC - Chaos Music Composer
-CMR - Chaos Music Composer with alternative notetables
+CMR - Chaos Music Composer with alternative notetables (Rzog's)
 DMC - Doublespeed Chaos Music Composer
 MPT - Music ProTracker
 MD1+D15 - Music ProTracker with one 15kHz digichannel
@@ -14,6 +22,7 @@ MD2+D8 - Music ProTracker with two 8kHz digichannels
 TMC - Theta Music Composer
 TM8 - Theta Music Composer dual POKEY configuration (stereo)
 Benjy Soundmonitor
+AMS
 
 Information needed (or welcome)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,8 +52,8 @@ Digital_Trash.sap
 Desastre.sap
 COMMENT: 2nd place at Intel Outside 4 music compo.
 
-SAP heder conventions
-~~~~~~~~~~~~~~~~~~~~~
+SAP header conventions
+~~~~~~~~~~~~~~~~~~~~~~
 The filenames must not be longer than 26 characters (plus .sap) e.g.:
 
  12345678901234567890123456.123
