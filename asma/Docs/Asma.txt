@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 2.0
+                                  Version 2.1
 
                          Started on 4th of August 1999
-                       Last updated on 4th of August 2001
+                      Last updated on 31th of August 2001
 
-                      Total number of tunes: 1055 (70 new)
+                      Total number of tunes: 1181 (131 new)
 
 
  Introduction
@@ -32,24 +32,25 @@
 
  Statistics
  ~~~~~~~~~~
- Number of tunes:      1055 (1397 including subtunes)
- Compared to HVSC:     6.7% (HVSC v4.1 contains 15808 tunes)
- Disk space ocupied:   5616279 bytes (excluding Docs folder)
- Average SAP filesize: 5323 bytes
- Unsorted tunes:       74
- Number of musicians:  64
- Most active musician: Grzegorz Kwiatek    (75 tunes)
+ Number of tunes:      1181 (1581 including subtunes)
+ Compared to HVSC:     7.5% (HVSC v4.1 contains 15808 tunes)
+ Disk space ocupied:   6552742 bytes (6458873 bytes excluding Docs folder)
+ Average SAP filesize: 5469 bytes
+ Songs with subsongs:  129
+ Unsorted tunes:       69
+ Number of musicians:  72
+ Most active musician: Lukasz Sychowicz    (76 tunes)
  Biggest SAP tune:     Garfield_Part_2.sap (61547 bytes)
  Smallest SAP tune:    Self_Test.sap       (150 bytes)
  Files with subtunes:
-  2 tunes: 34x
-  3 tunes: 21x
-  4 tunes: 20x
-  5 tunes: 16x
-  6 tunes:  6x
+  2 tunes: 36x
+  3 tunes: 28x
+  4 tunes: 23x
+  5 tunes: 21x
+  6 tunes:  7x
   7 tunes:  4x
   8 tunes:  2x
-  9 tunes:  1x
+  9 tunes:  2x
  10 tunes:  1x
  11 tunes:  2x
  13 tunes:  1x
@@ -67,23 +68,23 @@
  appropriate directory). We would welcome if you sent us also the binary file 
  (or an ATR/XFD disk image) with the original piece of software with that 
  tune. Mail any such information to pg@dspaudio.com. Our aim is to completely 
- annihilate the 'Unsorted' directory :-)
+ annihilate the unrecognized tunes.
 
 
  For contributors
  ~~~~~~~~~~~~~~~~
- If you want to send me some tunes, they must be already converted to SAP
+ If you want to send me some tunes, they should be already converted to SAP
  format and should include all the information needed (author, name, date,
  number of songs). If you're unsure about any information needed, you can
  send me the music as well, maybe we can find the info together. If you don't
  know how to create SAP files, send me the binary file with the INIT and PLAY
- addresses and memory location where the tune has to be loaded. See SAP.TXT
+ addresses and memory location where the tune has to be loaded. See Sap.txt
  for SAP format description. The filenames must not be longer than 26
  characters (plus .sap) e.g.:
 
  12345678901234567890123456.123
  Intel_Outside_Fractal_Part.sap - all right
- Jocky_Wilsons_Darts_Challenge.sap - wrong!
+ Jocky_Wilsons_Darts_Compendium.sap - wrong!
 
  Because of compatibility reasons only characters 'A..Z', 'a..z', and '0..9'
  can be used in the filenames. All spaces must be replaced with underscore
@@ -92,10 +93,12 @@
 
  Creator & Contributors
  ~~~~~~~~~~~~~~~~~~~~~~
+ (in ABC order)
+
  Mr. Bacardi
  Tamas Bene (<?> of Hard)
  Adam Bienias (SoTe of Slight)
- Zdenek Eisenhammer (PG of Unreal)
+ Zdenek Eisenhammer (PG)
  Piotr Fusik (Fox of Taquart)
  Michal Garbaciak (Dracon of Taquart)
  Jindrich Kubec
@@ -107,6 +110,7 @@
 
  Contact
  ~~~~~~~
- E-mail:   pg@dspaudio.com
- ICQ:      66411804
- Homepage: http://asma.dspaudio.com
+ E-mail:       pg@dspaudio.com
+ ICQ:          66411804
+ Homepage:     http://asma.dspaudio.com (alias http://asma.atari.org)
+ Czech mirror: http://mp3.musichall.cz/Unreal/ASMA
