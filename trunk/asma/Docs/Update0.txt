@@ -1,0 +1,49 @@
+ASMA Update #0 (pre-release)
+
+These rips together with the original ASMA collection will make version 0.6
+of ASMA.
+
+Beside the new rips in ASMA, the archive now uses slightly different
+organization. The "classical" atari musicians were all moved to the
+'Classics' directory. Also, some tunes from the 'Unsorted' directory were
+moved to other directories (mostly 'Demos' and 'Various').
+
+----------------------------------------------------------------------------
+Note: This is the pre-release update of ASMA, thus it will be not counted as
+      update when the first official ASMA archive will be released.
+----------------------------------------------------------------------------
+
+Classics\Gilmore_Adam\Blinkys_Scary_School.sap
+Classics\Gilmore_Adam\Jocky_Wilsons_Darts_Chal.sap
+Classics\Gilmore_Adam\Las_Vegas_Casino.sap
+Classics\Gilmore_Adam\Mountain_Bike.sap
+Classics\Gilmore_Adam\Ninja_Commando.sap
+Classics\Gilmore_Adam\Zybex.sap
+Classics\Hubbard_Rob\Extirpator.sap
+Classics\Hubbard_Rob\Jet_Set_Willy.sap
+Classics\Hubbard_Rob\International_Karate.sap
+Classics\Hubbard_Rob\Last_V8.sap
+Classics\Hubbard_Rob\Warhawk.sap
+Classics\Munns_Richard\Black_Lamp.sap
+Classics\Munns_Richard\Plastron_Ingame.sap
+Classics\Whittaker_David\180.sap
+Classics\Whittaker_David\Amaurote.sap
+Classics\Whittaker_David\BMX_Simulator.sap
+Classics\Whittaker_David\Feud.sap
+Classics\Whittaker_David\Grand_Prix_Simulator.sap
+Classics\Whittaker_David\Milk_Race.sap
+Classics\Whittaker_David\Panther.sap
+Classics\Whittaker_David\Red_Max.sap
+Classics\Whittaker_David\Storm.sap
+Games\Spy_Master.sap
+Games\Winter_Games_88_Biathlon.sap
+Games\Winter_Games_88_Bobsled.sap
+Games\Winter_Games_88_Ski_Jump.sap
+Games\Winter_Games_88_Slalom.sap
+Games\Reachout.sap
+Games\Submission.sap
+Unsorted\Cool.sap
+Unsorted\Technus.sap
+Unsorted\Think.sap
+Unsorted\Yamaha.sap
+Various\Pelc_Janusz\Lasermania.sap
