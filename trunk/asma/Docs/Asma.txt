@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 2.4
+                                  Version 2.5
 
                          Started on 4th of August 1999
-                       Last updated on 13th of July 2002
+                     Last updated on 7th of November 2002
 
-                     Total number of tunes: 1480 (94 new)
+                     Total number of tunes: 1554 (74 new)
 
 
  Introduction
@@ -32,19 +32,19 @@
 
  Statistics
  ~~~~~~~~~~
- Number of tunes:      1480 (1949 including subtunes)
- Compared to HVSC:     7.9% (HVSC v4.6 contains 18618 tunes)
- Disk space ocupied:   8185482 bytes (8065189 bytes excluding Docs folder)
- Average SAP filesize: 5449 bytes
- Songs with subsongs:  159
- Unsorted tunes:       70
- Number of musicians:  84
- Most active musician: Lukasz Sychowicz    (84 tunes)
+ Number of tunes:      1554 (2026 including subtunes)
+ Compared to HVSC:     8.1% (HVSC v5.1 contains 19203 tunes)
+ Disk space ocupied:   8825715 bytes (8697023 bytes excluding Docs folder)
+ Average SAP filesize: 5597 bytes
+ Songs with subsongs:  161
+ Unsorted tunes:       75
+ Number of musicians:  86
+ Most active musician: Lukasz Sychowicz    (92 tunes)
  Biggest SAP tune:     Garfield_Part_2.sap (61547 bytes)
  Smallest SAP tune:    Self_Test.sap       (150 bytes)
  Files with subtunes:
-  2 tunes: 53x
-  3 tunes: 31x
+  2 tunes: 54x
+  3 tunes: 32x
   4 tunes: 27x
   5 tunes: 23x
   6 tunes:  9x
@@ -56,7 +56,7 @@
  13 tunes:  1x
  14 tunes:  1x
  15 tunes:  1x
- Total: 469 subtunes
+ Total: 472 subtunes
  2 tunes have unexisting tune "0"
 
 
@@ -74,28 +74,12 @@
 
  For contributors
  ~~~~~~~~~~~~~~~~
- If you want to send me some tunes, they should be already converted to SAP
- format and should include all the information needed (author, name, date,
- number of songs). If you're unsure about any information needed, you can
- send me the music as well, maybe we can find the info together. If you don't
- know how to create SAP files, send me the binary file with the INIT and PLAY
- addresses and memory location where the tune has to be loaded. See Sap.txt
- for SAP format description. The filenames must not be longer than 26
- characters (plus .sap) e.g.:
-
- 12345678901234567890123456.123
- Intel_Outside_Fractal_Part.sap - all right
- Jocky_Wilsons_Darts_Compendium.sap - wrong!
-
- Because of compatibility reasons only characters 'A..Z', 'a..z', and '0..9'
- can be used in the filenames. All spaces must be replaced with underscore
- ("_"). The dash ("-") is also allowed but from no reason we don't use it :-)
+ Check the file Contribute.txt for more info.
 
 
  Contributors
  ~~~~~~~~~~~~
  (in ABC order)
- Mr. Bacardi
  Tamas Bene (<?> of Hard)
  Adam Bienias (SoTe of Slight)
  Zdenek Eisenhammer (PG)
@@ -104,16 +88,18 @@
  Jaymz Julian (alih)
  Jindrich Kubec
  Marek Pavlik (MaPa)
+ Stephan Pollock (Mr. Bacardi)
  Marcin Prusisz (Pigula of Shpoon)
  Martin Simecek
  Slawek Sledz (Slaves of Taquart)
  Radek Sterba (RASTER)
  ..and people at the HVSC mailing list at http://groups.yahoo.com/group/hvsc/
 
+
  Contact
  ~~~~~~~
  E-mail:        pg@pinknet.cz
  ICQ:           66411804
  Homepage:      http://asma.atari.org (redirects to http://asma.dspaudio.com)
- Czech mirror:  http://asma.musichall.cz
+ Czech mirror:  http://asma.musichall.cz (Czech language)
  Polish mirror: http://atariarea.nostalgia.pl/asma
