@@ -14,34 +14,34 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 1.5
+                                  Version 1.6
 
                            Started on 4th of August 1999
-                         Last updated on 9th of April 2000
+                         Last updated on 19th of May 2000
 
-                        Total number of tunes: 755 (76 new)
+                        Total number of tunes: 792 (44 new)
 
 
  Introduction
  ~~~~~~~~~~~~
  This is the release version of the first Atari XL/XE chip-music collection.
- The whole collection outfit was inspired by the HVSC collection (with some
- differences). I hope you'll like this collection. To get in touch with me,
- cee the "Contact" chapter.
+ The outfit of the whole collection was inspired by the HVSC collection (with 
+ some differences). I hope you'll like this collection. To get in touch with 
+ me, see the "Contact" chapter.
 
 
  Statistics
  ~~~~~~~~~~
- Number of tunes:      755 (1008 including subtunes)
- Compared to HVSC:     6.0% (HVSC v3.5 contains 12554 tunes)
- Unsorted tunes:       84
- Number of musicians:  44
- Most active musician: Grzegorz Kwiatek    (62 tunes)
+ Number of tunes:      792 (1032 including subtunes)
+ Compared to HVSC:     6.3% (HVSC v3.5 contains 12554 tunes)
+ Unsorted tunes:       73
+ Number of musicians:  49
+ Most active musician: Grzegorz Kwiatek    (66 tunes)
  Biggest SAP tune:     Garfield_Part_2.sap (61550 bytes)
  Smallest SAP tune:    Self_Test.sap       (159 bytes)
  Files with subtunes:
   2 tunes: 24x
-  3 tunes: 15x
+  3 tunes: 16x
   4 tunes: 16x
   5 tunes: 10x
   6 tunes:  2x
@@ -52,18 +52,19 @@
  13 tunes:  1x
  14 tunes:  1x
  15 tunes:  1x
+ (2 tunes have unexisting tune "0")
 
 
  Help!
  ~~~~~
  As you can see, there are lots of tunes in the 'Unsorted' directory. If
- you're 100%ly sure about origin of any of these tunes (Who did it, where
- does it come from, when was it composed), please let us know immediately
- so that we can complete the information about the tune in ASMA (and move it
- to the right directory). We would welcome if you sent us also the binary
- file (or an ATR/XFD disk image) with the original peace of software with
- that tune. Mail any such information to pg@pinknet.cz. Our aim is to
- completely annihilate the 'Unsorted' directory :-)
+ you're 100% sure about origin of any of these tunes (Who did it, where does 
+ it come from, when was it composed), please let us know immediately so that 
+ we can complete the information about the tune in ASMA (and move it to the 
+ right directory). We would welcome if you sent us also the binary file (or 
+ an ATR/XFD disk image) with the original peace of software with that tune. 
+ Mail any such information to pg@pinknet.cz. Our aim is to completely 
+annihilate the 'Unsorted' directory :-)
 
 
  For contributors
@@ -92,14 +93,16 @@
                                      10% of the tunes
  Adam Bienias (SoTe of Slight) - ripped over 55% of the tunes
  Piotr Fusik (Fox of Taquart) - ripped about 15% of the tunes (now he's my
-                                main contributor)
+                                main contributor). He's also author of a cool
+                                multiformat SAP converter.
  Tamas Bene (<?> of Hard) - ripped a few tunes (when will you rip your SID
                             emulated tunes? ;-)
  Jindrich Kubec - ripped some tunes as well :)
  Radek Sterba (RASTER) - sent most of his tunes. Thanx! If only every
                          musician did this...
  <?> (Dracon of Taquart) - ripped about 15% of the tunes
- <?> (Pigula of Shpoon) -ripped many tunes in update 1.5
+ <?> (Pigula of Shpoon) - ripped many tunes in update 1.5
+ Slawek Sledz (Slaves of Taquart) - many bugreports in ASMA 1.6 pre-release
 
 
  Contact
