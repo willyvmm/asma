@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 2.2
+                                  Version 2.3
 
                          Started on 4th of August 1999
-                     Last updated on 25th of September 2001
+                     Last updated on 27th of December 2001
 
-                      Total number of tunes: 1277 (97 new)
+                     Total number of tunes: 1387 (110 new)
 
 
  Introduction
@@ -32,22 +32,22 @@
 
  Statistics
  ~~~~~~~~~~
- Number of tunes:      1277 (1722 including subtunes)
- Compared to HVSC:     8.1% (HVSC v4.1 contains 15808 tunes)
- Disk space ocupied:   7096714 bytes (6995329 bytes excluding Docs folder)
- Average SAP filesize: 5478 bytes
- Songs with subsongs:  148
- Unsorted tunes:       64
- Number of musicians:  78
+ Number of tunes:      1387 (1838 including subtunes)
+ Compared to HVSC:     7.8% (HVSC v4.4 contains 17730 tunes)
+ Disk space ocupied:   7577997 bytes (7465845 bytes excluding Docs folder)
+ Average SAP filesize: 5383 bytes
+ Songs with subsongs:  150
+ Unsorted tunes:       65
+ Number of musicians:  82
  Most active musician: Lukasz Sychowicz    (77 tunes)
  Biggest SAP tune:     Garfield_Part_2.sap (61547 bytes)
  Smallest SAP tune:    Self_Test.sap       (150 bytes)
  Files with subtunes:
-  2 tunes: 46x
+  2 tunes: 47x
   3 tunes: 31x
   4 tunes: 26x
   5 tunes: 22x
-  6 tunes:  7x
+  6 tunes:  8x
   7 tunes:  4x
   8 tunes:  3x
   9 tunes:  2x
@@ -56,7 +56,8 @@
  13 tunes:  1x
  14 tunes:  1x
  15 tunes:  1x
- (2 tunes have unexisting tune "0")
+ Total: 453 subtunes
+ 2 tunes have unexisting tune "0"
 
 
  Help!
@@ -91,16 +92,16 @@
  ("_"). The dash ("-") is also allowed but from no reason we don't use it :-)
 
 
- Creator & Contributors
- ~~~~~~~~~~~~~~~~~~~~~~
+ Contributors
+ ~~~~~~~~~~~~
  (in ABC order)
-
  Mr. Bacardi
  Tamas Bene (<?> of Hard)
  Adam Bienias (SoTe of Slight)
  Zdenek Eisenhammer (PG)
  Piotr Fusik (Fox of Taquart)
  Michal Garbaciak (Dracon of Taquart)
+ Jaymz Julian (alih)
  Jindrich Kubec
  Marek Pavlik (MaPa)
  Marcin Prusisz (Pigula of Shpoon)
@@ -110,7 +111,8 @@
 
  Contact
  ~~~~~~~
- E-mail:       pg@dspaudio.com
- ICQ:          66411804
- Homepage:     http://asma.atari.org (redirects to http://asma.dspaudio.com)
- Czech mirror: http://mp3.musichall.cz/Unreal/ASMA
+ E-mail:        pg@dspaudio.com
+ ICQ:           66411804
+ Homepage:      http://asma.atari.org (redirects to http://asma.dspaudio.com)
+ Czech mirror:  http://asma.musichall.cz
+ Polish mirror: http://atariarea.nostalgia.pl/asma

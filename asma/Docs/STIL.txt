@@ -1,9 +1,9 @@
 ##############################################################################
 #
-#  STIL v2.2 - SAP Tune Information List
+#  STIL v2.3 - SAP Tune Information List
 #  The fileformat is 100% HVSC STIL compatible - hopefully someone will
 #  finally support STIL database in their SAP player
-#  Total number of entries: 130
+#  Total number of entries: 133
 
 ### Orall Corneliuss #########################################################
 
@@ -164,10 +164,6 @@ COMMENT: Lato Ludzikow 2000 music compo entry.
 /Unsorted/Pizza_Margerita_Suxx.sap
 COMMENT: Lato Ludzikow 2000 music compo entry.
 
-/Unsorted/Spellbound_Partial_Version.sap
-  TITLE: Spellbound
- ARTIST: Rob Hubbard
-
 /Unsorted/Suprajs.sap
 COMMENT: Lato Ludzikow 2000 music compo entry.
 
@@ -177,10 +173,6 @@ COMMENT: Lato Ludzikow 2001 music compo entry.
 /Unsorted/That_Demo_1.sap
   TITLE: Oxygene 4 [from Oxygene]
  ARTIST: Jean Michel Jarre
-
-/Unsorted/Turrican_2_Level_1_Traps.sap
-  TITLE: Turrican 2 - World 1, Tune #3
- ARTIST: Chris Huelsbeck
 
 ### Adam Bienias (SoTe) ######################################################
 
@@ -206,6 +198,32 @@ COMMENT: Lato Ludzikow 2001 music compo entry.
   TITLE: <?> [from the Amiga MOD module]
  ARTIST: <?>
 
+### Marek Drozdowski (Marucha) ###############################################
+
+/Various/Drozdowski_Marek/Shakemix.sap
+  TITLE: Shake
+ ARTIST: Marek Drozdowski (Marucha)
+COMMENT: This cover uses just slightly different sounds.
+
+### Zdenek Eisenhammer (PG) ##################################################
+
+/Various/Eisenhammer_Zdenek/Deus_Ex_Machina.sap
+  TITLE: Hard Track
+ ARTIST: Soren Lund (Jeff)
+
+/Various/Eisenhammer_Zdenek/Spellbound_Partial_Version.sap
+  TITLE: Spellbound
+ ARTIST: Rob Hubbard
+
+/Various/Eisenhammer_Zdenek//Turrican_2_Level_1_Traps.sap
+  TITLE: Turrican 2 - World 1, Tune #3
+ ARTIST: Chris Huelsbeck
+
+/Various/Eisenhammer_Zdenek/Visitors.sap
+  TITLE: Navstevnici [from the TV series]
+ ARTIST: Karel Svoboda
+COMMENT: Covers a version made by Lars Hutzelmann (The Blue Ninja) on the C64.
+
 ### Adrian Galinski (Daxey) ##################################################
 
 /Various/Galinski_Adrian/Abdicus.sap
@@ -217,13 +235,6 @@ COMMENT: 3rd place at Shadows Party music compo.
 /Various/Galinski_Adrian/Intel_Outside_The_Intro.sap
   TITLE: Oxygene 4 [from Oxygene]
  ARTIST: Jean Michel Jarre
-
-### Marek Drozdowski (Marucha) ###############################################
-
-/Various/Drozdowski_Marek/Shakemix.sap
-  TITLE: Shake
- ARTIST: Marek Drozdowski (Marucha)
-COMMENT: This cover uses just slightly different sounds.
 
 ### Jacek Grad (Tabu) ########################################################
 
@@ -276,10 +287,12 @@ COMMENT: Originally a C64 SID tune "Wonderland" with POKEY routine added.
 COMMENT: Originally a C64 SID tune "Ace II" with POKEY routine added.
 
 /Various/Hard_Software/Veronika_5.sap
-COMMENT: Originally a C64 SID tune "Hollywood Poker Pro" with POKEY routine added.
+COMMENT: Originally a C64 SID tune "Hollywood Poker Pro" with POKEY routine
+         added.
 
 /Various/Hard_Software/Veronika_6.sap
-COMMENT: Originally a C64 SID tune "Turrican 2 - The Final Fight (song 2)" with POKEY routine added.
+COMMENT: Originally a C64 SID tune "Turrican 2 - The Final Fight (song 2)" with 
+         POKEY routine added.
 
 ### Jakub Husak ##############################################################
 
@@ -339,32 +352,37 @@ COMMENT: 2nd place at Rush Hours '97 music compo.
   TITLE: No Limit
  ARTIST: 2 Unlimited
 
-### Tomasz Liebich ##########################################################
+### Pavol Laciak (pL79) ######################################################
+/Various/Laciak_Pavol/R-Type.sap
+  TITLE: R-Type
+ ARTIST: Chris Huelsbeck
+
+### Tomasz Liebich ###########################################################
 
 /Various/Liebich_Tomasz/Hi_Alf.sap
   TITLE: Alf TV Series Theme
  ARTIST: Tom Kramer & Alf Clausen
 
-### Michal Luberda ##########################################################
+### Michal Luberda ###########################################################
 
 /Various/Luberda_Michal/U235_Ingame.sap
   TITLE: Last Ninja 2, Tune #2 - Central Park (in-game)
  ARTIST: Matt Gray
 
 
-### Tomasz Majewski (Mayonez) ###############################################
+### Tomasz Majewski (Mayonez) ################################################
 
 /Various/Majewski_Tomasz/Crocketts_Theme.sap
   TITLE: Crockett's Theme [from the TV series Miami Vice]
  ARTIST: Jan Hammer
 
-### Grzegorz Makara #########################################################
+### Grzegorz Makara ##########################################################
 
 /Various/Makara_Grzegorz/Neron_Ingame.sap
   TITLE: The Hootchy Kootchy Dance
  ARTIST: Sol Bloom
 
-### Robert Makowski (Gutek) #################################################
+### Robert Makowski (Gutek) ##################################################
 
 /Various/Makowski_Robert/Alfaboot_Ingame.sap
   TITLE: Das Boot [from the movie]

@@ -1,8 +1,8 @@
-Known Atari composers and handles                                 Sep 25 2001
+Known Atari composers and handles                                 Dec 25 2001
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This list contains only composers who have at least 3 songs in ASMA
 collection. The composers are sorted in ABC order according to their surnames
-(if known, otherwise by their handles). There are 78 composers in this list.
+(if known, otherwise by their handles). There are 82 composers in this list.
 
 Badkowski, Marek - Bac
 Bienias, Adam - SoTe
@@ -17,6 +17,7 @@ Dariusz Duma - Dhor
 Dojwa, Jacek
 Drozdowski, Marek - Marucha
 Duesterhoeft, Stephan - Benjy
+Eisenhammer, Zdenek - PG, PseudoGrafx
 Galinski, Adrian - Daxey
 Gilmore, Adam
 Golewski Filip, - Zoltar X
@@ -33,12 +34,13 @@ Kalinowski, Bartosz - Bartman
 Karwacki, Jakub - Yezus
 Kielczyk, Piotr - Pet
 Kociuba, Dariusz - Sherlock
+Krasuski, Jaroslaw - Jaras
 Krawczyk, Adam
 Kucharski, Konrad - Kuchara
 Kucisz, Tomasz - VLX
 Kuczek, Konrad
 Kwiatek, Grzegorz - Greg
-Lajciak, Pavol - Flame
+Lajciak, Pavol - pL79, Flame
 Lepkowski, Michal - Josh
 Liebich, Tomasz
 Loos, Uwe
@@ -58,7 +60,7 @@ Numan, Daniel - Zbx Virus
 Oscadal, Filip - Fred Brooker
 Padula, Jaroslaw - Solo
 Pelc, Janusz
-Pesout, Marek
+Pesout, Marek - Poison
 Podedworny, Wojtek - Ferro
 Przybyszewski, Krzysztof - BLB
 Pucimski, Rafal - Dex
@@ -66,6 +68,7 @@ Radecki, Michal - Tehno
 Radzikowski, Ireneusz - Jager
 Roszkowski, Marek - Marcys
 <?> - Ramzes
+Sedlak, Jiri
 Skowiniak, Krystian - Pinokio
 Skwiot, Stanislaw - Stanley
 Sterba, Radek - RASTER
@@ -77,6 +80,7 @@ Szymczuk, Daniel - Lorien
 <?> - Top Odin
 Tegethoff, Sven - Gnome Design
 Trokowicz, B.
+Vavra, Karel
 Vogt, Dariusz - DJ V
 Vybostok, Marian - Goldmaster
 Wasilewski, Dariusz - Trener
