@@ -1,0 +1,108 @@
+                                        ___
+        yy yyy yy          ,gp.      ,gS$$$Sp.  d$$.     ,$$b     ,gp.
+        $$ $$$ $$         :$$$$:    ,$$$$A$$$$. $$$b     d$$$    :$$$$:
+        $$ $$$ $$         $$$$$$    $$$'   `?$P $$$$.   ,$$$$    $$$$$$
+        $$ $$$ $$        :$$P?$$:   $$$         $$$$b   d$$$$   :$$P?$$:
+        $$ $$$ $$        d$$'`$$b   ?$$b.       $$$$$. ,$$$$$   d$$'`$$b
+        $$ $$$ $$        $$P  ?$$    `$$$$$o.   $$$?$b d$P$$$   $$P  ?$$
+       ,$7 $$$ ?$.      :$$'  `$$:     `?$$$$b  $$$`$$v$$'$$$  :$$'  `$$:
+       d$  $$$  $b      d$$$$$$$$b        `?$$b $$$ ?$$$P $$$  d$$$$$$$$b
+     ,d$'  $$$  `$b.    $$$$$$$$$$          $$$ $$$ `$$$' $$$  $$$$$$$$$$
+   y$$$'   $$$   `$$$y :$$P    ?$$: d$b.   ,$$P $$$  ?$P  $$$ :$$:    ?$$:
+   $$P'    $$$    `t$$ $$$'    `$$b `$$$$S$$$$' $$$  `S'  $$$ $$$'    `$$b
+   "~      """      ~" $$P      ?$$  `?$$$$$P'  $$$       $$$ $$P      ?$$
+                       ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
+
+                            Atari SAP Music Archive
+                                  Version 1.5
+
+                           Started on 4th of August 1999
+                         Last updated on 9th of April 2000
+
+                        Total number of tunes: 755 (76 new)
+
+
+ Introduction
+ ~~~~~~~~~~~~
+ This is the release version of the first Atari XL/XE chip-music collection.
+ The whole collection outfit was inspired by the HVSC collection (with some
+ differences). I hope you'll like this collection. To get in touch with me,
+ cee the "Contact" chapter.
+
+
+ Statistics
+ ~~~~~~~~~~
+ Number of tunes:      755 (1008 including subtunes)
+ Compared to HVSC:     6.0% (HVSC v3.5 contains 12554 tunes)
+ Unsorted tunes:       84
+ Number of musicians:  44
+ Most active musician: Grzegorz Kwiatek    (62 tunes)
+ Biggest SAP tune:     Garfield_Part_2.sap (61550 bytes)
+ Smallest SAP tune:    Self_Test.sap       (159 bytes)
+ Files with subtunes:
+  2 tunes: 24x
+  3 tunes: 15x
+  4 tunes: 16x
+  5 tunes: 10x
+  6 tunes:  2x
+  7 tunes:  3x
+  8 tunes:  2x
+  9 tunes:  1x
+ 10 tunes:  1x
+ 13 tunes:  1x
+ 14 tunes:  1x
+ 15 tunes:  1x
+
+
+ Help!
+ ~~~~~
+ As you can see, there are lots of tunes in the 'Unsorted' directory. If
+ you're 100%ly sure about origin of any of these tunes (Who did it, where
+ does it come from, when was it composed), please let us know immediately
+ so that we can complete the information about the tune in ASMA (and move it
+ to the right directory). We would welcome if you sent us also the binary
+ file (or an ATR/XFD disk image) with the original peace of software with
+ that tune. Mail any such information to pg@pinknet.cz. Our aim is to
+ completely annihilate the 'Unsorted' directory :-)
+
+
+ For contributors
+ ~~~~~~~~~~~~~~~~
+ If you want to send me some tunes, they must be already converted to SAP
+ format and should include all the information needed (author, name, date,
+ number of songs). If you're unsure about any information needed, you can
+ send me the music as well, maybe we can find the info together. If you don't
+ know how to create SAP files, send me the binary file with the INIT and PLAY
+ addresses and memory location where the tune has to be loaded. See SAP.TXT
+ for SAP format description. The filenames must not be longer than 26
+ characters (plus .sap) e.g.:
+
+ 12345678901234567890123456.123
+ Intel_Outside_Fractal_Part.sap - all right
+ Jocky_Wilsons_Darts_Challenge.sap - wrong!
+
+ Because of compatibility reasons only characters 'A..Z', 'a..z', and '0..9'
+ can be used in the filenames. All spaces must be replaced with underscore
+ ("_"). The dash ("-") is also allowed but from no reason we don't use it :-)
+
+
+ Creator & Contributors
+ ~~~~~~~~~~~~~~~~~~~~~~
+ Zdenek Eisenhammer (PG of Unreal) - maintainer of the archive, ripped about
+                                     10% of the tunes
+ Adam Bienias (SoTe of Slight) - ripped over 55% of the tunes
+ Piotr Fusik (Fox of Taquart) - ripped about 15% of the tunes (now he's my
+                                main contributor)
+ Tamas Bene (<?> of Hard) - ripped a few tunes (when will you rip your SID
+                            emulated tunes? ;-)
+ Jindrich Kubec - ripped some tunes as well :)
+ Radek Sterba (RASTER) - sent most of his tunes. Thanx! If only every
+                         musician did this...
+ <?> (Dracon of Taquart) - ripped about 15% of the tunes
+ <?> (Pigula of Shpoon) -ripped many tunes in update 1.5
+
+
+ Contact
+ ~~~~~~~
+ For any suggestions write to pg@pinknet.cz.
+ Homepage: http://mp3.musichall.cz/Unreal/ASMA (temporary site)
