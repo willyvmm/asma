@@ -1,8 +1,8 @@
-Known Atari composers and handles                                 Dec 25 2001
+Known Atari composers and handles                                 Jul 12 2002
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This list contains only composers who have at least 3 songs in ASMA
 collection. The composers are sorted in ABC order according to their surnames
-(if known, otherwise by their handles). There are 82 composers in this list.
+(if known, otherwise by their handles). There are 84 composers in this list.
 
 Badkowski, Marek - Bac
 Bienias, Adam - SoTe
@@ -68,10 +68,12 @@ Radecki, Michal - Tehno
 Radzikowski, Ireneusz - Jager
 Roszkowski, Marek - Marcys
 <?> - Ramzes
+Sasik, Marek
 Sedlak, Jiri
 Skowiniak, Krystian - Pinokio
 Skwiot, Stanislaw - Stanley
 Sterba, Radek - RASTER
+Swiecicki, Krzysztof - Swiety
 Swierszcz, Piotr - Samurai
 Sychowicz, Lukasz - X-Ray
 Szmatola, Krysztof

@@ -1,4 +1,4 @@
-Currently we are searching for these rips:
+Currently we are searching for these rips (mostly we have the binaries):
 
 Ben Daglish
 Rampage
@@ -16,7 +16,7 @@ Dangerous Street
 Hard Software
 Blip, Cool Emotion (digitunes)
 
-ESC
+Robert Zaborowski <?>
 Classic, Crix, Ra, Triumph, etc.
 
 Classic games

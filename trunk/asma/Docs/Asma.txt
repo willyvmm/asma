@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 2.3
+                                  Version 2.4
 
                          Started on 4th of August 1999
-                     Last updated on 27th of December 2001
+                       Last updated on 13th of July 2002
 
-                     Total number of tunes: 1387 (110 new)
+                     Total number of tunes: 1480 (94 new)
 
 
  Introduction
@@ -32,22 +32,22 @@
 
  Statistics
  ~~~~~~~~~~
- Number of tunes:      1387 (1838 including subtunes)
- Compared to HVSC:     7.8% (HVSC v4.4 contains 17730 tunes)
- Disk space ocupied:   7577997 bytes (7465845 bytes excluding Docs folder)
- Average SAP filesize: 5383 bytes
- Songs with subsongs:  150
- Unsorted tunes:       65
- Number of musicians:  82
- Most active musician: Lukasz Sychowicz    (77 tunes)
+ Number of tunes:      1480 (1949 including subtunes)
+ Compared to HVSC:     7.9% (HVSC v4.6 contains 18618 tunes)
+ Disk space ocupied:   8185482 bytes (8065189 bytes excluding Docs folder)
+ Average SAP filesize: 5449 bytes
+ Songs with subsongs:  159
+ Unsorted tunes:       70
+ Number of musicians:  84
+ Most active musician: Lukasz Sychowicz    (84 tunes)
  Biggest SAP tune:     Garfield_Part_2.sap (61547 bytes)
  Smallest SAP tune:    Self_Test.sap       (150 bytes)
  Files with subtunes:
-  2 tunes: 47x
+  2 tunes: 53x
   3 tunes: 31x
-  4 tunes: 26x
-  5 tunes: 22x
-  6 tunes:  8x
+  4 tunes: 27x
+  5 tunes: 23x
+  6 tunes:  9x
   7 tunes:  4x
   8 tunes:  3x
   9 tunes:  2x
@@ -56,7 +56,7 @@
  13 tunes:  1x
  14 tunes:  1x
  15 tunes:  1x
- Total: 453 subtunes
+ Total: 469 subtunes
  2 tunes have unexisting tune "0"
 
 
@@ -105,13 +105,14 @@
  Jindrich Kubec
  Marek Pavlik (MaPa)
  Marcin Prusisz (Pigula of Shpoon)
+ Martin Simecek
  Slawek Sledz (Slaves of Taquart)
  Radek Sterba (RASTER)
-
+ ..and people at the HVSC mailing list at http://groups.yahoo.com/group/hvsc/
 
  Contact
  ~~~~~~~
- E-mail:        pg@dspaudio.com
+ E-mail:        pg@pinknet.cz
  ICQ:           66411804
  Homepage:      http://asma.atari.org (redirects to http://asma.dspaudio.com)
  Czech mirror:  http://asma.musichall.cz
