@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 1.8
+                                  Version 1.9
 
                          Started on 4th of August 1999
-                     Last updated on 27th of December 2000
+                       Last updated on 18th of April 2001
 
-                      Total number of tunes: 899 (61 new)
+                      Total number of tunes: 985 (89 new)
 
 
  Introduction
@@ -32,19 +32,19 @@
 
  Statistics
  ~~~~~~~~~~
- Number of tunes:      899 (1189 including subtunes)
- Compared to HVSC:     6.1% (HVSC v3.9 contains 14809 tunes)
- Unsorted tunes:       79
- Number of musicians:  52
+ Number of tunes:      985 (1304 including subtunes)
+ Compared to HVSC:     6.4% (HVSC v4.0 contains 15342 tunes)
+ Unsorted tunes:       70
+ Number of musicians:  61
  Most active musician: Grzegorz Kwiatek    (75 tunes)
  Biggest SAP tune:     Garfield_Part_2.sap (61556 bytes)
  Smallest SAP tune:    Self_Test.sap       (159 bytes)
  Files with subtunes:
-  2 tunes: 26x
-  3 tunes: 18x
+  2 tunes: 29x
+  3 tunes: 20x
   4 tunes: 20x
-  5 tunes: 11x
-  6 tunes:  4x
+  5 tunes: 12x
+  6 tunes:  5x
   7 tunes:  4x
   8 tunes:  2x
   9 tunes:  1x
@@ -90,24 +90,20 @@
 
  Creator & Contributors
  ~~~~~~~~~~~~~~~~~~~~~~
- Zdenek Eisenhammer (PG of Unreal) - maintainer of the archive, ripped about
-                                     12% of the tunes
- Adam Bienias (SoTe of Slight) - ripped over 50% of the tunes
- Piotr Fusik (Fox of Taquart) - ripped about 15% of the tunes (now he's my
-                                main contributor). He's also author of a cool
-                                multiformat SAP converter.
- Tamas Bene (<?> of Hard) - ripped a few tunes (when will you rip your SID
-                            emulated tunes? ;-)
- Jindrich Kubec - ripped some tunes as well :)
- Radek Sterba (RASTER) - sent most of his tunes. Thanx! If only every
-                         musician did this...
- Michal Garbaciak (Dracon of Taquart) - ripped about 15% of the tunes
- Marcin Prusisz (Pigula of Shpoon) - ripped many tunes in update 1.5
- Slawek Sledz (Slaves of Taquart) - many bugreports in ASMA 1.6 pre-release
+ Tamas Bene (<?> of Hard)
+ Adam Bienias (SoTe of Slight)
+ Zdenek Eisenhammer (PG of Unreal)
+ Piotr Fusik (Fox of Taquart)
+ Michal Garbaciak (Dracon of Taquart)
+ Jindrich Kubec
+ Marek Pavlik (MaPa)
+ Marcin Prusisz (Pigula of Shpoon)
+ Slawek Sledz (Slaves of Taquart)
+ Radek Sterba (RASTER)
 
 
  Contact
  ~~~~~~~
- For any suggestions write to pg@pinknet.cz.
- My ICQ: 66411804
+ E-mail:   pg@dspaudio.com
+ ICQ:      66411804
  Homepage: http://asma.dspaudio.com
