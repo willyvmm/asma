@@ -1,0 +1,106 @@
+                                        ___
+        yy yyy yy          ,gp.      ,gS$$$Sp.  d$$.     ,$$b     ,gp.
+        $$ $$$ $$         :$$$$:    ,$$$$A$$$$. $$$b     d$$$    :$$$$:
+        $$ $$$ $$         $$$$$$    $$$'   `?$P $$$$.   ,$$$$    $$$$$$
+        $$ $$$ $$        :$$P?$$:   $$$         $$$$b   d$$$$   :$$P?$$:
+        $$ $$$ $$        d$$'`$$b   ?$$b.       $$$$$. ,$$$$$   d$$'`$$b
+        $$ $$$ $$        $$P  ?$$    `$$$$$o.   $$$?$b d$P$$$   $$P  ?$$
+       ,$7 $$$ ?$.      :$$'  `$$:     `?$$$$b  $$$`$$v$$'$$$  :$$'  `$$:
+       d$  $$$  $b      d$$$$$$$$b        `?$$b $$$ ?$$$P $$$  d$$$$$$$$b
+     ,d$'  $$$  `$b.    $$$$$$$$$$          $$$ $$$ `$$$' $$$  $$$$$$$$$$
+   y$$$'   $$$   `$$$y :$$P    ?$$: d$b.   ,$$P $$$  ?$P  $$$ :$$:    ?$$:
+   $$P'    $$$    `t$$ $$$'    `$$b `$$$$S$$$$' $$$  `S'  $$$ $$$'    `$$b
+   "~      """      ~" $$P      ?$$  `?$$$$$P'  $$$       $$$ $$P      ?$$
+                       ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
+
+                            Atari SAP Music Archive
+                                  Version 2.7
+
+                         Started on 4th of August 1999
+                      Last updated on 12th of November 2003
+
+                      Total number of tunes: 1771 (124 new)
+
+
+ Introduction
+ ~~~~~~~~~~~~
+ This is the release version of the first Atari XL/XE chip-music collection.
+ The outfit of the whole collection was inspired by the HVSC collection (with 
+ some differences). I hope you'll like this collection. To get in touch with 
+ me, see the "Contact" section of this document.
+
+
+ Statistics
+ ~~~~~~~~~~
+ Number of tunes:      1771 (2246 including subtunes)
+ Compared to HVSC:     8.3% (HVSC v5.4 contains 21272 tunes)
+ Disk space ocupied:   10317746 bytes (10172795 bytes excluding Docs folder)
+ Average SAP filesize: 5744 bytes
+ Songs with subsongs:  164
+ Unsorted tunes:       98
+ Number of musicians:  92
+ Most active musician: Lukasz Sychowicz    (96 tunes + 7 cooperations)
+ Biggest SAP tune:     Garfield_Part_2.sap (61547 bytes)
+ Smallest SAP tune:    Self_Test.sap       (150 bytes)
+ Files with subtunes:
+  2 tunes: 57x
+  3 tunes: 32x
+  4 tunes: 27x
+  5 tunes: 23x
+  6 tunes:  9x
+  7 tunes:  4x
+  8 tunes:  3x
+  9 tunes:  2x
+ 10 tunes:  2x
+ 11 tunes:  2x
+ 13 tunes:  1x
+ 14 tunes:  1x
+ 15 tunes:  1x
+ Total: 475 subtunes
+ 2 tunes have unexisting tune "0"
+
+
+ Help!
+ ~~~~~
+ As you can see, there are lots of tunes in the 'Unsorted' directory. If
+ you're 100% sure about origin of any of these tunes (Who did it, where does 
+ it come from, when was it composed), please let us know immediately so that 
+ we can complete the information about the tune in ASMA (and move it to the 
+ appropriate directory). We would welcome if you sent us also the binary file 
+ (or an ATR/XFD disk image) with the original piece of software with that 
+ tune. Mail any such information to pg@dspaudio.com. Our aim is to completely 
+ annihilate the unrecognized tunes.
+
+
+ For contributors
+ ~~~~~~~~~~~~~~~~
+ Check the file Contribute.txt for more info.
+
+
+ Contributors
+ ~~~~~~~~~~~~
+ (in ABC order)
+ Tamas Bene (<?> of Hard)
+ Adam Bienias (SoTe of Slight)
+ Marcin Dubicki (MacGyver)
+ Zdenek Eisenhammer (PG)
+ Piotr Fusik (Fox of Taquart)
+ Michal Garbaciak (Dracon of Taquart)
+ Jaymz Julian (alih)
+ Jindrich Kubec
+ Marek Pavlik (MaPa)
+ Stephan Pollock (Mr. Bacardi)
+ Marcin Prusisz (Pigula of Shpoon)
+ Martin Simecek
+ Slawek Sledz (Slaves of Taquart)
+ Radek Sterba (RASTER)
+ ..and people at the HVSC mailing list at http://groups.yahoo.com/group/hvsc/
+
+
+ Contact
+ ~~~~~~~
+ E-mail:        pg@pinknet.cz
+ ICQ:           66411804
+ Homepage:      http://asma.atari.org (redirects to http://asma.dspaudio.com)
+ Czech mirror:  http://asma.musichall.cz (Czech language)
+ Polish mirror: http://atariarea.histeria.pl/asma
