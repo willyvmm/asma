@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 1.2
+                                  Version 1.3
 
                            Started on 4th of August 1999
-                        Last updated on 4th of December 1999
+                       Last updated on 27th of December 1999
 
-                        Total number of tunes: 493 (86 new)
+                        Total number of tunes: 555 (62 new)
 
 
  Introduction
@@ -32,13 +32,27 @@
 
  Statistics
  ~~~~~~~~~~
- Number of tunes:      493
- Compared to HVSC 3.3: 4.2% (HVSC contains 11660 tunes)
+ Number of tunes:      555 (768 including subtunes)
+ Compared to HVSC:     4.8% (HVSC v3.3 contains 11660 tunes)
  Unsorted tunes:       67
- Number of musicians:  35
- Most active musician: Tomasz Liebich     (30 tunes)
- Biggest SAP tune:     Bonanza_Digi.sap   (55374 bytes)
- Smallest SAP tune:    Self_Test.sap      (159 bytes)
+ Number of musicians:  37
+ Most active musician: Tomasz Liebich      (30 tunes)
+ Biggest SAP tune:     Garfield_Part_2.sap (61550 bytes)
+ Smallest SAP tune:    Self_Test.sap       (159 bytes)
+ Files with subtunes:
+  2 tunes: 18x
+  3 tunes: 13x
+  4 tunes: 15x
+  5 tunes:  8x
+  6 tunes:  2x
+  7 tunes:  2x
+  8 tunes:  2x
+  9 tunes:  1x
+ 10 tunes:  1x
+ 13 tunes:  1x
+ 14 tunes:  1x
+ 15 tunes:  1x
+
 
  Help!
  ~~~~~
@@ -76,13 +90,15 @@
  ~~~~~~~~~~~~~~~~~~~~~~
  Zdenek Eisenhammer (PG of Unreal) - maintainer of the archive, ripped about
                                      12% of the tunes
- Adam Bienias (SoTe of Slight) - ripped almost 70% of the tunes
- Piotr Fusik (Fox of Taquart) - ripped about 12% of the tunes (now he's my
+ Adam Bienias (SoTe of Slight) - ripped about 65% of the tunes
+ Piotr Fusik (Fox of Taquart) - ripped about 15% of the tunes (now he's my
                                 main contributor)
- Tamas Bene (??? of Hard) - ripped a few tunes
+ Tamas Bene (<?> of Hard) - ripped a few tunes (when will you rip your SID
+                            emulated tunes? ;-)
  Jindrich Kubec - ripped some tunes as well :)
- Radek Sterba - sent most of his tunes. Thanx!
- <?> (Dracon of Taquart) - ripped ca. 30 tunes
+ Radek Sterba (RASTER) - sent most of his tunes. Thanx! If only every
+                         musician did this...
+ <?> (Dracon of Taquart) - ripped about 8% of the tunes
 
 
  Contact

@@ -1,6 +1,7 @@
 Classics/Gilmore_Adam/Las_Vegas_Casino.sap - tune 0 doesn't exist (silence)
 Classics/Munns_Richard/Rebound.sap - tune doesn't play first note (drum)
+Demos/Time_To_Enjoy.sap - Tune falls out of synch after some time
+Games/Classic/Archon.sap - the first few notes of the bass sound are inaudible
+Games/Classic/Mule.sap - Tune falls out of synch after about 35 secs
 Various/Husak_Jakub/Bank_Bang_2.sap - strange note at the end of subsong #1
 Various/Liebich_Tomasz/Deimos.sap - tune 0 doesn't exist (distorted sounds)
-Demos/Time_To_Enjoy.sap - Tune falls out of synch after some time
-Games/Classic/Mule.sap - Tune falls out of synch after about 35 secs

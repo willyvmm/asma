@@ -98,7 +98,6 @@ Various/Zur-soft/Humanoid.sap
 Various/Zur-soft/Humanoid_Ingame.sap
 Various/Zur-soft/Humanoid_The_End.sap
 
-
 Credits fixes
 -------------
 Demos/Annael.sap
@@ -110,8 +109,8 @@ Various/Bienias_Adam/Zdzisio_1.sap
 Various/Bienias_Adam/Zdzisio_2.sap
 Various/Czartynski_Marcin/Exodus.sap
 Various/Galinski_Adrian/Guard.sap
-Various/Kalinowski_Bartosz/Sweet_Illusions_Pl/Various/Sterba_Radek/Flop_Magazin_31.sap
-Various/Kalinowski_Bartosz/Sweet_Illusions_Tr/Various/Sterba_Radek/Flop_Magazin_31_Christmas.sap
+Various/Kalinowski_Bartosz/Sweet_Illusions_Plot_Maste.sap
+Various/Kalinowski_Bartosz/Sweet_Illusions_Tracing.sap
 Various/Luberda_Michal/U235.sap
 Various/Luberda_Michal/U235_Ingame.sap
 Various/Martin_Aleksander/Extract_Note.sap
