@@ -1,0 +1,137 @@
+SAP file divides into two parts. First part (in text format) describes
+player/music type. Second part (in binary format) contains player and music
+data formed into Atari Binary File Format. This format has two bytes header
+FF,FF. Next two bytes tell loader, where to load data, and next two bytes
+describes where the data end.
+Init data block ($02E2,$02E3) is not supported.
+
+A little example:
+
+FF FF 00 20 05 20 01 42 A3 04 D5
+\___/ \_________/ \____________/
+  A        B            C
+
+A - Binary file header identification (always FF FF)
+B - Load addres (StartAddr, EndAddr in LO,HI order - $2000 to $2005)
+C - Data (that will be loaded from StartAddr)
+
+This example will load values 01,42,A3,04,D5 into memory from $2000 to $2005.
+
+
+Player Description format (first part of .sap file)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This description (in text format) is loaded line per line. Each line contains
+command with parameters. Other lines which are not recognized are treated as
+comment lines. Right now only these commands are supported:
+
+   TYPE      - player type
+   PLAYER    - address of player part which will be executed in 1/50 sec
+               intervals
+   MUSIC     - address with data
+   INIT      - address of player part which will init player
+   SONGS     - number of songs
+   DEFSONG   - first song which will be played when .sap will be loaded
+   FASTPLAY  - number of lines between each call of playing routine (312 by
+               default, which is one screen - 1/50 of sec.). For example for
+               double-speed tune put here the value 156 (312/2). 99% of tunes
+               are single-speed which means that you don't have to define the
+               FASTPLAY variable for them. Works for player TYPE "B".
+
+commands PLAYER, MUSIC, INIT contain addresses in hexadecimal format:
+
+PLAYER A000
+PLAYER 1234
+MUSIC  F400
+
+commands SONGS, DEFSONG contain decimal numbers:
+
+SONGS 10
+DEFSONG 9
+
+command TYPE contains single character which describes player type. Right now
+only the following characters are supported:
+
+TYPE C
+TYPE B
+TYPE M
+TYPE S
+TYPE D
+TYPE R
+
+TYPE C - player from CMC (Chaos Music Composer). In this case, also these
+         commands must appear: PLAYER, MUSIC, SONGS, and DEFSONG. Player will
+         be initialized as follows:
+
+         lda #$70
+         ldx #<MUSIC
+         ldy #>MUSIC
+         jsr PLAYER+3
+         lda #$00
+         ldx #DEFSONG
+         jsr PLAYER+3
+
+         in 1/50 intervals will be executed:
+
+         jsr PLAYER+6
+
+TYPE M - player from ???????? (this player was used by composers like Adam
+         Gilmore, David Whittaker, etc). In this case, also these commands
+         must appear: PLAYER, INIT, SONGS, and DEFSONG. Player will be
+         initialized as follows:
+
+         lda #DEFSONG
+         jsr INIT
+
+         in 1/50 intervals will be executed:
+
+         jsr PLAYER
+
+TYPE B - any player. In this case, also these commands must appear: PLAYER,
+         INIT, SONGS, and DEFSONG. Player will be initialized as follows:
+
+         lda #DEFSONG
+         jsr INIT
+
+         in 1/50 intervals will be executed:
+
+         jsr PLAYER
+
+         TYPE B is right now exactly the same like TYPE M but this
+         distinguish is for future SAP releases.
+
+TYPE S - SoftSynth. Like type "C", this type is temporary, and is used only
+         for special type of songs, that were composed using program
+         SoftSynth.
+TYPE D - Digital. In SAP file with this type, must be also defined commands
+         "INIT" and "PLAYER". "PLAYER" (like in type "B") sets address of
+         procedure that will be called in 1/50s intervals and (like in type
+         "B") must end with RTS opcode. INIT this time is a bit different. It
+         sets address of procedure that will be called (with number of song
+         in register A) to initialize program, but it can't end with RTS. It
+         should start playing digis in endless loop. In SAP player there are
+         emulated two ANTIC registers $D40A and $D40B that can help playing
+         samples. D40B register increases its contents each two screen lines.
+         D40A holds CPU till the end of actually created line. SAP emulates
+         Atari in PAL with disabled screen. It means that we have 312 PAL
+         lines, while each lines has 105 CPU cycles and 9 cycles of memory
+         refresh (114 cycles per line).
+
+Planned features:
+TYPE R - Registers. In this type, binary part is not an Atari binary file.
+         This part contains values that will be directly written to Pokey
+         registers ($D200-$D208) in 1/50s intervals.
+TIME xx:xx - song duration
+
+How to create .SAP file
+~~~~~~~~~~~~~~~~~~~~~~~
+First of all we need to rip music from a game or a demo and save it in atari
+binary file. Next we can create text file with commands (described above),
+then we can make .sap file by linking thwse two files. We can do that using
+DOS command "copy", e.g.:
+
+copy /b music.txt+music.bin music.sap
+
+The file is done now!
+If you didn't find that song in ASMA, feel free to send it to pg@pinknet.cz
+with all needed information (see ASMA.TXT for details). The song should be 
+included in the nearest ASMA update.
