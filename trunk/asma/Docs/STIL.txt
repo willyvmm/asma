@@ -1,6 +1,23 @@
 # STIL betaversion
-# Just an attempt how it would look like. The fileformat is 100% C-64 STIL 
+# Just an attempt how it would look like. The fileformat is 100% C-64 STIL
 # compatible
+
+### Unsorted #################################################################
+
+/Unsorted/Avm.sap
+COMMENT: Last Party '99 contribution.
+
+/Unsorted/Lark.sap
+COMMENT: Last Party '99 contribution.
+
+/Unsorted/Old_Socks.sap
+COMMENT: Last Party '99 contribution.
+
+/Unsorted/Pmix.sap
+COMMENT: Last Party '99 contribution.
+
+/Unsorted/Qwerty.sap
+COMMENT: Last Party '99 contribution.
 
 ### Galinski_Adrian ##########################################################
 
@@ -10,8 +27,21 @@ COMMENT: 1st place at Shadows Party music compo.
 /Various/Galinski_Adrian/Bells.sap
 COMMENT: 3rd place at Shadows Party music compo.
 
-/Various/Sychowicz_Lukasz/Hypek.sap
+### Kwiatek_Grzegorz #########################################################
+
+/Various/Kwiatek_Grzegorz/Alive.sap
+COMMENT: Last Party '99 contribution.
+
+/Various/Kwiatek_Grzegorz/Cubeniculosis.sap
+COMMENT: Last Party '99 contribution.
+
+/Various/Kwiatek_Grzegorz/Desastre.sap
+COMMENT: 2nd place at Intel Outside 4 music compo.
+
+### Sychowicz_Lukasz #########################################################
+
+/Various/Sychowicz_Lukasz/Hypnotize.sap
 COMMENT: 1st place at Intel Outside 4 music compo.
 
-/Various/Sychowicz_Lukasz/X_Ray_2.sap
+/Various/Sychowicz_Lukasz/King_of_Agregat.sap
 COMMENT: Orneta music compo contribution.
