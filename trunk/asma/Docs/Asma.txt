@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 2.6
+                                  Version 2.7
 
                          Started on 4th of August 1999
-                      Last updated on 9th of January 2003
+                      Last updated on 12th of November 2003
 
-                     Total number of tunes: 1647 (93 new)
+                      Total number of tunes: 1771 (124 new)
 
 
  Introduction
@@ -32,18 +32,18 @@
 
  Statistics
  ~~~~~~~~~~
- Number of tunes:      1647 (2119 including subtunes)
- Compared to HVSC:     8.1% (HVSC v5.2 contains 20325 tunes)
- Disk space ocupied:   9563007 bytes (9426463 bytes excluding Docs folder)
- Average SAP filesize: 5723 bytes
- Songs with subsongs:  161
- Unsorted tunes:       76
- Number of musicians:  89
- Most active musician: Lukasz Sychowicz    (89 tunes + 6 cooperations)
+ Number of tunes:      1771 (2246 including subtunes)
+ Compared to HVSC:     8.3% (HVSC v5.4 contains 21272 tunes)
+ Disk space ocupied:   10317746 bytes (10172795 bytes excluding Docs folder)
+ Average SAP filesize: 5744 bytes
+ Songs with subsongs:  164
+ Unsorted tunes:       98
+ Number of musicians:  92
+ Most active musician: Lukasz Sychowicz    (96 tunes + 7 cooperations)
  Biggest SAP tune:     Garfield_Part_2.sap (61547 bytes)
  Smallest SAP tune:    Self_Test.sap       (150 bytes)
  Files with subtunes:
-  2 tunes: 54x
+  2 tunes: 57x
   3 tunes: 32x
   4 tunes: 27x
   5 tunes: 23x
@@ -56,7 +56,7 @@
  13 tunes:  1x
  14 tunes:  1x
  15 tunes:  1x
- Total: 472 subtunes
+ Total: 475 subtunes
  2 tunes have unexisting tune "0"
 
 
@@ -103,4 +103,4 @@
  ICQ:           66411804
  Homepage:      http://asma.atari.org (redirects to http://asma.dspaudio.com)
  Czech mirror:  http://asma.musichall.cz (Czech language)
- Polish mirror: http://atariarea.nostalgia.pl/asma
+ Polish mirror: http://atariarea.histeria.pl/asma

@@ -1,8 +1,8 @@
 ##############################################################################
 #
-#  STIL v2.6 - SAP Tune Information List
+#  STIL v2.7 - SAP Tune Information List
 #  Maintained by Zdenek Eisenhammer (PG)
-#  Total number of entries: 183
+#  Total number of entries: 185
 #
 
 ### Orall Corneliuss #########################################################
@@ -450,6 +450,9 @@ COMMENT: 2nd place at Rush Hours '97 music compo.
 COMMENT: This song is a cooperation between Grzegorz Kwiatek and Lukasz
          Sychowicz.
 
+/Various/Grayscale/Kwiatek_Grzegorz/Still_Alive.sap
+COMMENT: 3rd place at Forever 4 music compo.
+
 ### Pavol Laciak (pL79) ######################################################
 
 /Various/Laciak_Pavol/R-Type.sap
@@ -687,6 +690,9 @@ COMMENT: Quast party '95 music compo entry.
  ARTIST: Hot Butter
 
 ### Lukasz Sychowicz (X-Ray) #################################################
+
+/Various/Grayscale/Sychowicz_Lukasz/Accident.sap
+COMMENT: 2nd place at Forever 4 music compo.
 
 /Various/Sychowicz_Lukasz/Cabil.sap
 COMMENT: 1st place at Rush Hours '97 music compo.
