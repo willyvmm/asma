@@ -17,9 +17,9 @@
                                   Version 0.8
 
                            Started on 4th of August 1999
-                        Last updated on 16th of September 1999
+                        Last updated on 5th of October 1999
 
-                        Total number of tunes: 267 (30 new)
+                        Total number of tunes: 310 (38 new)
 
 
  Introduction
@@ -32,12 +32,12 @@
 
  Statistics
  ~~~~~~~~~~
- Number of tunes:      266
- Unsorted tunes:       40
- Number of musicians:  22
- Most active musician: Adrian Galinski      (24 tunes)
+ Number of tunes:      310
+ Unsorted tunes:       41
+ Number of musicians:  24
+ Most active musician: Tomasz Liebich       (29 tunes)
  Biggest SAP tune:     Exodus.sap           (38481 bytes)
- Smallest SAP tune:    Submission.sap       (498 bytes)
+ Smallest SAP tune:    Self_Test.sap        (159 bytes)
 
 
  Help!
@@ -72,17 +72,18 @@
  ("_").
 
 
- Creators
- ~~~~~~~~
+ Creator & Contributors
+ ~~~~~~~~~~~~~~~~~~~~~~
  Zdenek Eisenhammer (PG of Unreal) - maintainer of the archive, ripped about
                                      20% of the tunes
 
  Adam Bienias (SoTe of Slight) - ripped about 80% of the tunes
 
- <?> (Fox of Infinity) - ripped 2 tunes (not that much but enough to be 
-                         credited ;-)
+ Piotr Fusik (Fox of Infinity) - ripped a few tunes (not that much but enough 
+                                 to be credited ;-)
+ Tamas Bene - also ripped a few tunes :)
 
  Contact
  ~~~~~~~
  For any suggestions write to pg@pinknet.cz.
- Homepage: not available yet (should be http:\\asma.xaudio.de)
+ Homepage: http://mp3.musichall.cz/Unreal/ASMA (temporary only)

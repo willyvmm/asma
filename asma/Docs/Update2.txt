@@ -3,7 +3,7 @@ ASMA Update #2 (pre-release)
 These rips together with the original ASMA collection will make version 0.8
 of ASMA (out of version 0.7).
 
-Number of new tunes: 30 <UNFINISHED UPDATE!>
+Number of new tunes: 35
 
 Besides adding new tuns some credit fixes have been made.
 
@@ -18,8 +18,13 @@ Demos/Commando.sap
 Demos/Movements.sap
 Games/Axilox.sap
 Games/Barahir.sap
+Games/Ninja.sap
 Games/SEX_Versi.sap
+Games/Spy_vs_Spy.sap
+Games/Spy_vs_Spy_3.sap
+Games/Taxicab_Hill.sap
 Games/Zeus.sap
+Unsorted/Self_Test.sap
 Unsorted/Spellbound_Partial_Version.sap
 Various/Bartman/Kapitan_Planeta.sap
 Various/Bienias_Adam/Music_1.sap
