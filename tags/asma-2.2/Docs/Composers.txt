@@ -1,0 +1,84 @@
+Known Atari composers and handles                                 Sep 25 2001
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This list contains only composers who have at least 3 songs in ASMA
+collection. The composers are sorted in ABC order according to their surnames
+(if known, otherwise by their handles). There are 78 composers in this list.
+
+Badkowski, Marek - Bac
+Bienias, Adam - SoTe
+Bloszko, Marek - Markus
+Brooke, Jason C.
+Bruenninski, Uwe - Hu-Soft
+Bryla, Krzysztof - Woppie, Foster
+Cierkonski, Michal - Morgoth
+Cornelius, Orall
+Czartynski, Marcin - Cedyn
+Dariusz Duma - Dhor
+Dojwa, Jacek
+Drozdowski, Marek - Marucha
+Duesterhoeft, Stephan - Benjy
+Galinski, Adrian - Daxey
+Gilmore, Adam
+Golewski Filip, - Zoltar X
+Gora, Jakub - Cubes
+Grad, Jacek - Tabu
+Grzyb, Janusz
+Gwozdziej, Mirek - Zur-soft 1/2
+<?> - Hard Software
+Holda, Leszek
+Hubbard, Rob
+Husak, Jakub
+Jastrzebski, Dominik - Fatman
+Kalinowski, Bartosz - Bartman
+Karwacki, Jakub - Yezus
+Kielczyk, Piotr - Pet
+Kociuba, Dariusz - Sherlock
+Krawczyk, Adam
+Kucharski, Konrad - Kuchara
+Kucisz, Tomasz - VLX
+Kuczek, Konrad
+Kwiatek, Grzegorz - Greg
+Lajciak, Pavol - Flame
+Lepkowski, Michal - Josh
+Liebich, Tomasz
+Loos, Uwe
+Luberda, Michal
+Luszcz, Tomasz
+Majewski, Jerzy - Zur-soft 2/2
+Majewski, Tomasz - Mayonez
+Makara, Grzegorz
+Makowski, Robert - Gutek
+Martin, Aleksander - Alex
+Matyasik, Krzysztof - Mateoos
+Mikolajczak, Pawel
+Mrozowski, Robert
+Munns, Richard
+Nabialek, Dawid - Dave
+Numan, Daniel - Zbx Virus
+Oscadal, Filip - Fred Brooker
+Padula, Jaroslaw - Solo
+Pelc, Janusz
+Pesout, Marek
+Podedworny, Wojtek - Ferro
+Przybyszewski, Krzysztof - BLB
+Pucimski, Rafal - Dex
+Radecki, Michal - Tehno
+Radzikowski, Ireneusz - Jager
+Roszkowski, Marek - Marcys
+<?> - Ramzes
+Skowiniak, Krystian - Pinokio
+Skwiot, Stanislaw - Stanley
+Sterba, Radek - RASTER
+Swierszcz, Piotr - Samurai
+Sychowicz, Lukasz - X-Ray
+Szmatola, Krysztof
+Szpilowski, Michal - Miker
+Szymczuk, Daniel - Lorien
+<?> - Top Odin
+Tegethoff, Sven - Gnome Design
+Trokowicz, B.
+Vogt, Dariusz - DJ V
+Vybostok, Marian - Goldmaster
+Wasilewski, Dariusz - Trener
+Whittaker, David
+Witkiewicz, Dariusz - Flash
