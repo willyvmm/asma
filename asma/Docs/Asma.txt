@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 0.7
+                                  Version 0.8
 
                            Started on 4th of August 1999
-                        Last updated on 10th of August 1999
+                        Last updated on 16th of September 1999
 
-                        Total number of tunes: 237 (132 new)
+                        Total number of tunes: 267 (30 new)
 
 
  Introduction
@@ -32,11 +32,11 @@
 
  Statistics
  ~~~~~~~~~~
- Number of tunes:      237
- Unsorted tunes:       43
- Number of musicians:  18
- Most active musician: Adrian Galinski      (20 tunes)
- Biggest SAP tune:     Hobbytronic_90_2.sap (20086 bytes)
+ Number of tunes:      266
+ Unsorted tunes:       40
+ Number of musicians:  22
+ Most active musician: Adrian Galinski      (24 tunes)
+ Biggest SAP tune:     Exodus.sap           (38481 bytes)
  Smallest SAP tune:    Submission.sap       (498 bytes)
 
 
@@ -71,15 +71,16 @@
  can be used in the filenames. All spaces must be replaced with underscore
  ("_").
 
- And one more thing: we don't accept BASIC tunes!
-
 
  Creators
  ~~~~~~~~
- Zdenek Eisenhammer (PG or Unreal)
- Adam Bienias (SoTe of Slight)
- <unknown person> - ripped most of the tunes in pre-release update #1
+ Zdenek Eisenhammer (PG of Unreal) - maintainer of the archive, ripped about
+                                     20% of the tunes
 
+ Adam Bienias (SoTe of Slight) - ripped about 80% of the tunes
+
+ <?> (Fox of Infinity) - ripped 2 tunes (not that much but enough to be 
+                         credited ;-)
 
  Contact
  ~~~~~~~

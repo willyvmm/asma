@@ -6,7 +6,7 @@ of ASMA.
 Number of tunes: 34
 
 Beside the new rips in ASMA, the archive now uses slightly different
-organization. The "classical" atari musicians were all moved to the
+organization. The "classical" Atari musicians were all moved to the
 'Classics' directory. Also, some tunes from the 'Unsorted' directory were
 moved to other directories (mostly 'Demos' and 'Various').
 
