@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 1.0
+                                  Version 1.1
 
                            Started on 4th of August 1999
-                        Last updated on 16th of October 1999
+                        Last updated on 13th of November 1999
 
-                        Total number of tunes: 359 (50 new)
+                        Total number of tunes: 407 (48 new)
 
 
  Introduction
@@ -32,24 +32,24 @@
 
  Statistics
  ~~~~~~~~~~
- Number of tunes:      359
- Compared to HVSC 3.3: 3.1% (HVSC contains 11660 tunes)
- Unsorted tunes:       55
- Number of musicians:  26
- Most active musician: Tomasz Liebich     (29 tunes)
+ Number of tunes:      407
+ Compared to HVSC 3.3: 3.5% (HVSC contains 11660 tunes)
+ Unsorted tunes:       58
+ Number of musicians:  27
+ Most active musician: Tomasz Liebich     (30 tunes)
  Biggest SAP tune:     Exodus.sap         (38481 bytes)
  Smallest SAP tune:    Self_Test.sap      (159 bytes)
 
  Help!
  ~~~~~
  As you can see, there are lots of tunes in the 'Unsorted' directory. If
- you're 100%ly sure about origin of any of these tunes (Who did it, where it
- comes from, when was it composed), please let us know immediately so that we
- can complete the information about the tune in ASMA (or move it to the right
- directory). We would welcome if you sent us also the binary file (or an
- ATR/XFD disk image) with the original peace of software with that tune. Mail
- any such information to pg@pinknet.cz. Our aim is to completely annihilate
- the 'Unsorted' directory :-)
+ you're 100%ly sure about origin of any of these tunes (Who did it, where
+ does it come from, when was it composed), please let us know immediately
+ so that we can complete the information about the tune in ASMA (or move it
+ to the right directory). We would welcome if you sent us also the binary
+ file (or an ATR/XFD disk image) with the original peace of software with
+ that tune. Mail any such information to pg@pinknet.cz. Our aim is to
+ completely annihilate the 'Unsorted' directory :-)
 
 
  For contributors
@@ -76,14 +76,12 @@
  ~~~~~~~~~~~~~~~~~~~~~~
  Zdenek Eisenhammer (PG of Unreal) - maintainer of the archive, ripped about
                                      15% of the tunes
-
  Adam Bienias (SoTe of Slight) - ripped almost 75% of the tunes
-
- Piotr Fusik (Fox of Taquart) - ripped about 10% of the tunes (now he's my 
+ Piotr Fusik (Fox of Taquart) - ripped about 10% of the tunes (now he's my
                                 main contributor)
  Tamas Bene (??? of Hard) - ripped about 2% of the tunes :)
-
- Jindrich Kubec - I actually don't know how many tunes he ripped :-)
+ Jindrich Kubec - ripped some tunes as well :)
+ Radek Sterba - sent most of his tunes. Thanx!
 
 
  Contact
