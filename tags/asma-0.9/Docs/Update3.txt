@@ -1,0 +1,53 @@
+ASMA Update #3 (pre-release)
+
+These rips together with the original ASMA collection will make version 0.9
+of ASMA (out of version 0.8).
+
+Number of new tunes: 38
+
+Besides adding new tuns some credit fixes have been made.
+
+----------------------------------------------------------------------------
+Note: This is the pre-release update of ASMA, thus it will be not counted as
+      update when the first official ASMA archive will be released.
+----------------------------------------------------------------------------
+
+New tunes:
+Demos/Time_To_Enjoy.sap
+Games/Classic/Boulder_Dash.sap
+Games/Classic/Claim_Jumper.sap
+Games/Classic/Conan.sap
+Games/Classic/Loco.sap
+Games/Classic/Master_Of_Time.sap
+Games/Classic/Mule.sap
+Games/Classic/Nadral.sap
+Games/Various/Microx.sap
+Games/Various/Technoid.sap
+Classics/Daglish_Ben/Basil.sap
+Classics/Munns_Richard/Tube_Baddies.sap
+Classics/Whittaker_David/Elektra_Glide.sap
+Unsorted/CompyShop_Magazine_Intro_1.sap
+Unsorted/CompyShop_Magazine_Intro_2.sap
+Unsorted/CompyShop_Magazine_Intro_3.sap
+Unsorted/CompyShop_Magazine_Intro_4.sap
+Various/Czartynski_Marcin/Asskicker_Main_Part.sap
+Various/Czartynski_Marcin/Asskicker_Menu.sap
+Various/Czartynski_Marcin/Asskicker_Outro.sap
+Various/Duesterhoeft_Stephan/Hobbytronic_90_1.sap
+Various/Duesterhoeft_Stephan/Hobbytronic_90_2.sap
+Various/Duesterhoeft_Stephan/Hobbytronic_90_3.sap
+Various/Duesterhoeft_Stephan/Hobbytronic_90_4.sap
+Various/Duesterhoeft_Stephan/Hobbytronic_90_5.sap
+Various/Duesterhoeft_Stephan/Hobbytronic_90_6.sap
+Various/Liebich_Tomasz/Alien.sap
+Various/Liebich_Tomasz/Aurum.sap
+Various/Liebich_Tomasz/Dictum_Acerbum.sap
+Various/Liebich_Tomasz/Fucked_Vocabulary.sap
+Various/Liebich_Tomasz/Lowca.sap
+Various/Liebich_Tomasz/Sky_Computer_Network.sap
+Various/Liebich_Tomasz/Snowball_Ingame.sap
+Various/Liebich_Tomasz/Tusker.sap
+Various/Trokowicz_B/Miecze_Valdgira_Title.sap
+Various/Trokowicz_B/Miecze_Valdgira_Ingame.sap
+Various/Trokowicz_B/Miecze_Valdgira_II.sap
+Various/Zur-soft/The_Top_2.sap

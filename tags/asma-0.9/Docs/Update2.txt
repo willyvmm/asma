@@ -1,0 +1,53 @@
+ASMA Update #2 (pre-release)
+
+These rips together with the original ASMA collection will make version 0.8
+of ASMA (out of version 0.7).
+
+Number of new tunes: 35
+
+Besides adding new tuns some credit fixes have been made.
+
+----------------------------------------------------------------------------
+Note: This is the pre-release update of ASMA, thus it will be not counted as
+      update when the first official ASMA archive will be released.
+----------------------------------------------------------------------------
+
+New tunes:
+Classics/Whittaker_David/Trans_Muter.sap
+Demos/Commando.sap
+Demos/Movements.sap
+Games/Axilox.sap
+Games/Barahir.sap
+Games/Ninja.sap
+Games/SEX_Versi.sap
+Games/Spy_vs_Spy.sap
+Games/Spy_vs_Spy_3.sap
+Games/Taxicab_Hill.sap
+Games/Zeus.sap
+Unsorted/Self_Test.sap
+Unsorted/Spellbound_Partial_Version.sap
+Various/Bartman/Kapitan_Planeta.sap
+Various/Bienias_Adam/Music_1.sap
+Various/Czartynski_Marcin/Exodus.sap
+Various/Duesterhoeft_Stephan/Funky_Rock.sap
+Various/Duesterhoeft_Stephan/Glide.sap
+Various/Duesterhoeft_Stephan/Morbit.sap
+Various/Duesterhoeft_Stephan/Rythms.sap
+Various/Duesterhoeft_Stephan/Song.sap
+Various/Galinski_Adrian/Midnight.sap
+Various/Galinski_Adrian/Daxey.sap
+Various/Galinski_Adrian/Rockman_1.sap
+Various/Galinski_Adrian/Rockman_2.sap
+Various/Husak_Jakub/Tanks.sap
+Various/Husak_Jakub/Warsaw_Tetris.sap
+Various/Liebich_Tomasz/Armageddon.sap
+Various/Liebich_Tomasz/Dark_Abyss.sap
+Various/Liebich_Tomasz/Duksap_1.sap
+Various/Liebich_Tomasz/Duksap_2.sap
+Various/Liebich_Tomasz/Duksap_3.sap
+Various/Liebich_Tomasz/Landscape.sap
+Various/Liebich_Tomasz/Ship.sap
+Various/Martin_Aleksander/Extract.sap
+
+Fixes:
+Various/Pelc_Janusz/Lasermania.sap (has subtunes)
