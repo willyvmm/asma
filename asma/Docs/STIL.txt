@@ -1,9 +1,9 @@
 ##############################################################################
 #
-#  STIL v2.3 - SAP Tune Information List
+#  STIL v2.4 - SAP Tune Information List
 #  The fileformat is 100% HVSC STIL compatible - hopefully someone will
 #  finally support STIL database in their SAP player
-#  Total number of entries: 133
+#  Total number of entries: 152
 
 ### Orall Corneliuss #########################################################
 
@@ -136,6 +136,9 @@ COMMENT: Although the C64 version was composed by Rob Hubbard, Hubbard has
 COMMENT: Best known from as the title theme to the comedy TV series "The Benny
          Hill Show". 
 
+/Unsorted/Color.sap
+COMMENT: Forever 3 music compo entry.
+
 /Unsorted/CompyShop_Magazine_Intro_2.sap
   TITLE: It's a Sin [from Actually]
  ARTIST: Pet Shop Boys
@@ -157,6 +160,12 @@ COMMENT: Silly Venture 2k music compo entry.
 /Unsorted/Globetrotter.sap
   TITLE: Ticket To Ride
  ARTIST: The Beatles
+
+/Unsorted/Luzik.sap
+COMMENT: Last Party '98 music compo entry.
+
+/Unsorted/New_Generation.sap
+COMMENT: Last Party '98 music compo entry.
 
 /Unsorted/Picca.sap
 COMMENT: Lato Ludzikow 2000 music compo entry.
@@ -236,6 +245,14 @@ COMMENT: 3rd place at Shadows Party music compo.
   TITLE: Oxygene 4 [from Oxygene]
  ARTIST: Jean Michel Jarre
 
+### Jakub Gora (Cubes) #######################################################
+
+/Various/Gora_Jakub/Holiday.sap
+COMMENT: Scenery Copy Party '98 music compo entry.
+
+/Various/Gora_Jakub/Psica.sap
+COMMENT: Last Party '98 music compo entry.
+
 ### Jacek Grad (Tabu) ########################################################
 
 /Various/Grad_Jacek/Fatum.sap
@@ -243,6 +260,9 @@ COMMENT: 3rd place at Shadows Party music compo.
  ARTIST: Mark II <?>
 
 ### Hard Software ############################################################
+
+/Various/Hard_Software/Abbuc_36.sap
+COMMENT: Originally a C64 SID tune "Disco Zax" with POKEY routine added.
 
 /Various/Hard_Software/Cool_Emotion_Chessboard.sap
 COMMENT: Originally a C64 SID tune "Shape" with POKEY routine added.
@@ -353,6 +373,7 @@ COMMENT: 2nd place at Rush Hours '97 music compo.
  ARTIST: 2 Unlimited
 
 ### Pavol Laciak (pL79) ######################################################
+
 /Various/Laciak_Pavol/R-Type.sap
   TITLE: R-Type
  ARTIST: Chris Huelsbeck
@@ -402,6 +423,17 @@ COMMENT: Rush Hours '97 music compo entry.
   TITLE: Ob-La-Di, Ob-La-Da [from White Album]
  ARTIST: The Beatles
 
+### Krzysztof Matyasik (Mateoos) #############################################
+
+/Various/Matyasik_Krzysztof/Atak_serca.sap
+COMMENT: Last Party '98 music compo entry.
+
+/Various/Matyasik_Krzysztof/Padaczka.sap
+COMMENT: Last Party '98 music compo entry.
+
+/Various/Matyasik_Krzysztof/Rak_Mozgu.sap
+COMMENT: Last Party '98 music compo entry.
+
 ### Robert Mrozowski #########################################################
 
 /Various/Mrozowski_Robert/Going_to_California.sap
@@ -440,8 +472,26 @@ COMMENT: Rush Hours '97 music compo entry.
 
 ### Jaroslaw Padula (Solo) ###################################################
 
+/Various/Padula_Jaroslaw/Brodzik.sap
+COMMENT: Podkowa Lesna Copy Party music compo entry.
+
+/Various/Padula_Jaroslaw/Freedom.sap
+COMMENT: Last Party '98 music compo entry.
+
 /Various/Padula_Jaroslaw/Pmix.sap
 COMMENT: Last Party '99 music compo entry.
+
+/Various/Padula_Jaroslaw/Ps1.sap
+COMMENT: Last Party '98 music compo entry.
+
+/Various/Padula_Jaroslaw/Psycho.sap
+COMMENT: Scenery Copy Party music compo entry.
+
+/Various/Padula_Jaroslaw/Ptrance.sap
+COMMENT: Scenery Copy Party music compo entry.
+
+/Various/Padula_Jaroslaw/Tech4.sap
+COMMENT: Podkowa Lesna Copy Party music compo entry.
 
 /Various/Padula_Jaroslaw/Trance_Feat_House.sap
 COMMENT: Rush Hours '97 music compo entry.
@@ -472,11 +522,17 @@ COMMENT: Last Party '99 music compo entry.
 /Various/Skowiniak_Krystian/Old_Socks.sap
 COMMENT: Last Party '99 music compo entry.
 
+/Various/Skowiniak_Krystian/Pies_drapie_sie_po_jajach.sap
+COMMENT: Last Party 2001 music compo entry.
+
 /Various/Skowiniak_Krystian/THC10.sap
 COMMENT: Lato Ludzikow 2001 music compo entry.
 
 /Various/Skowiniak_Krystian/THC11.sap
 COMMENT: Lato Ludzikow 2001 music compo entry.
+
+/Various/Skowiniak_Krystian/THC_rulla.sap
+COMMENT: Last Party 2001 music compo entry.
 
 ### Stanislaw Skwiot (Stanley) ###############################################
 
@@ -502,6 +558,12 @@ COMMENT: Covers a popular Czech Christmas song.
   TITLE: Beverly Hills 90210 Theme [from the TV series]
  ARTIST: <?>
 
+/Various/Sterba_Radek/Len_raz.sap
+  TITLE: Len raz
+ ARTIST: Elan
+COMMENT: Covers a song by a popular Slovak music band.
+COMMENT: Forever 3 music compo entry.
+
 /Various/Sterba_Radek/Od_Tater_k_Dunaju.sap
   TITLE: Od Tater k Dunaju
  ARTIST: Elan
@@ -512,7 +574,13 @@ COMMENT: Covers a song by a popular Slovak music band.
  ARTIST: Chris Huelsbeck
 COMMENT: Covers only a part of it.
 
+/Various/Sterba_Radek/Two_Years_Ago.sap
+COMMENT: Forever 3 music compo entry.
+
 ### Piotr Swierszcz (Samurai) ################################################
+
+/Various/Swierszcz_Piotr/Ardeny_Demo.sap
+COMMENT: This song is a cooperation between Piotr Swierszcz and Marek Badkowski.
 
 /Various/Swierszcz_Piotr/Overmind_TLB_546_Dots.sap
   TITLE: <?> [from the Amiga MOD module]
@@ -526,6 +594,9 @@ COMMENT: Covers only a part of it.
 
 /Various/Sychowicz_Lukasz/Cabil.sap
 COMMENT: 1st place at Rush Hours '97 music compo.
+
+/Various/Sychowicz_Lukasz/Draka.sap
+COMMENT: Inspired by Classics/Adam_Gilmore/Draconus.sap
 
 /Various/Sychowicz_Lukasz/Hypnotize.sap
 COMMENT: 1st place at Intel Outside 4 music compo.
