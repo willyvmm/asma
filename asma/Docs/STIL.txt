@@ -1,6 +1,15 @@
-# STIL betaversion
-# Just an attempt how it would look like. The fileformat is 100% C-64 STIL
-# compatible
+# STIL v1.0 - SAP Tune Information List
+# The fileformat is 100% HVSC STIL compatible
+
+### Orall Corneliuss #########################################################
+
+/Classics/Cornelius_Orall/Sidewinder_2.sap
+  TITLE: Zybex
+ ARTIST: Adam Gilmore
+
+/Classics/Cornelius_Orall/Tiger_Attack.sap 
+  TITLE: Phantoms of the Asteroids
+ ARTIST: Rob Hubbard
 
 ### Rob Hubbard ##############################################################
 
@@ -51,16 +60,6 @@ COMMENT: "Warhawk was a c64 tune originally called Proteus." (RH)
   TITLE: The Great Giana Sisters
  ARTIST: Chris Huelsbeck
 
-/Demos/Joyride_End.sap
-  TITLE: Remark Intro
- ARTIST: Jeroen Tel
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
-/Demos/Joyride_Landscape.sap
-  TITLE: Enigma PHA theme [Covering Musiklinjen by Firefox - the Amiga MOD module]
- ARTIST: Alain Hertenstein (Iron Cat)
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
 /Demos/Magnetic_Fields.sap
   TITLE: Magnetic Fields, Part 2 [from Magnetic Fields]
  ARTIST: Jean Michel Jarre
@@ -85,11 +84,15 @@ COMMENT: Originally a C64 SID tune with POKEY routine added.
 
 /Games/Classic/Last_V8.sap
 COMMENT: Although the C64 version was composed by Rob Hubbard, Hubbard has 
-         confirmed that Atari version isn't his.
+         confirmed that the Atari version isn't his.
 
 /Games/Classic/Nadral.sap
   TITLE: The Entertainer
  ARTIST: Scott Joplin
+
+/Games/Classic/Ninja.sap
+COMMENT: Although the C64 version was composed by Rob Hubbard, Hubbard has 
+         confirmed that the Atari version isn't his.
 
 /Games/Classic/Shamus.sap
   TITLE: Funeral March of a Marionette
@@ -178,7 +181,7 @@ COMMENT: Lato Ludzikow 2000 music compo entry.
   TITLE: Turrican 2 - World 1, Tune #3
  ARTIST: Chris Huelsbeck
 
-### Adam Bienas ##############################################################
+### Adam Bienias #############################################################
 
 /Various/Bienias_Adam/Crazy.sap
   TITLE: Crazy
@@ -186,17 +189,11 @@ COMMENT: Lato Ludzikow 2000 music compo entry.
 
 /Various/Bienias_Adam/Bitter_Reality_Greetings_P.sap
   TITLE: megaforce02 [from the Amiga MOD module]
- ARTIST: Luxor of Megaforce
+ ARTIST: <?> (Luxor)
 
 /Various/Bienias_Adam/Ice_Machine.sap
   TITLE: Ice Machine
  ARTIST: Depeche Mode
-
-### Orall Corneliuss ##############################################################
-
-/Various/Cornelius_Orall/Tiger_Attack.sap 
-  Title: Phantoms of the Asteroids (from the C-64 game)
- ARTIST: Rob Hubbard
 
 ### Adrian Galinski ##########################################################
 
@@ -221,6 +218,50 @@ COMMENT: 3rd place at Shadows Party music compo.
 /Various/Grad_Jacek/Fatum.sap
   TITLE: unit5 [from the Amiga module]
  ARTIST: Mark II <?>
+
+### Hard Software ############################################################
+
+/Various/Hard_Software/Cool_Emotion_Chessboard.sap
+COMMENT: Originally a C64 SID tune "Shape" with POKEY routine added.
+
+/Various/Hard_Software/Cool_Emotion_End.sap
+COMMENT: Originally a C64 SID tune "Gammeldaws" with POKEY routine added.
+
+/Various/Hard_Software/Cool_Emotion_Ghostbusters.sap
+  TITLE: Ghostbusters [from the movie]
+ ARTIST: Ray Parker, Jr.
+COMMENT: Originally a C64 SID tune "Ghostbusters" with POKEY routine added.
+
+/Various/Hard_Software/Cool_Emotion_Heal_the_World.sap
+  TITLE: Heal the World (from Dangerous)
+ ARTIST: Michael Jackson
+COMMENT: Originally a C64 SID tune "Heal the World" with POKEY routine added.
+
+/Various/Hard_Software/Cool_Emotion_Scrolls.sap
+COMMENT: Originally a C64 SID tune "Frazze" with POKEY routine added.
+
+/Various/Hard_Software/Joyride_End.sap
+COMMENT: Originally a C64 SID tune "Remark Intro" with POKEY routine added.
+
+/Various/Hard_Software/Joyride_Landscape.sap
+  TITLE: Musiklinjen [from the Amiga MOD module]
+ ARTIST: <?> (Firefox) & <?> (Tip)
+COMMENT: Originally a C64 SID tune "Enigma/PHA theme" with POKEY routine added.
+
+/Various/Hard_Software/Joyride_Scrolls.sap
+COMMENT: Originally a C64 SID tune "Happy Hour" with POKEY routine added.
+
+/Various/Hard_Software/Joyride_Turn_Disk.sap
+COMMENT: Originally a C64 SID tune "Time Runner" with POKEY routine added.
+
+/Various/Hard_Software/Veronika_1.sap
+COMMENT: Originally a C64 SID tune "S-Express" with POKEY routine added.
+
+/Various/Hard_Software/Veronika_3.sap
+COMMENT: Originally a C64 SID tune "Ace II" with POKEY routine added.
+
+/Various/Hard_Software/Veronika_6.sap
+COMMENT: Originally a C64 SID tune "Turrican 2 - The Final Fight (song 2)" with POKEY routine added.
 
 ### Jakub Husak ##############################################################
 
@@ -371,11 +412,11 @@ COMMENT: Orneta music compo contribution.
 
 /Various/Sychowicz_Lukasz/Porazka.sap
 COMMENT: 1st place at Quast party '96. This song is a cooperation between 
-         Lukasz Sychowicz and Samurai (Piotr Swierszcz).
+         Lukasz Sychowicz and Piotr Swierszcz.
 
 /Various/Sychowicz_Lukasz/Porazka_2.sap
 COMMENT: 1st place at Quast party '97. This song is a cooperation between 
-         Lukasz Sychowicz and Samurai (Piotr Swierszcz).
+         Lukasz Sychowicz and Piotr Swierszcz.
 
 ### Michal Szpilowski ########################################################
 
