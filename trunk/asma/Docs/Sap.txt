@@ -15,8 +15,7 @@ A - Binary file header identification (always FF FF)
 B - Load addres (StartAddr, EndAddr in LO,HI order - $2000 to $2005)
 C - Data (that will be loaded from StartAddr)
 
-This example will load values 01,42,A3,04,D5 into memory from $2000 to
-$2005.
+This example will load values 01,42,A3,04,D5 into memory from $2000 to $2005.
 
 
 Player Description format (first part of .sap file)
@@ -134,5 +133,5 @@ copy /b music.txt+music.bin music.sap
 
 The file is done now!
 If you didn't find that song in ASMA, feel free to send it to pg@pinknet.cz
-with all needed information (see ASMA.TXT for detailed information). The song
-should be included in the nearest ASMA update.
+with all needed information (see ASMA.TXT for details). The song should be 
+included in the nearest ASMA update.
