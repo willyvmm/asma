@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 1.4
+                                  Version 1.5
 
                            Started on 4th of August 1999
-                        Last updated on 23th of January 2000
+                         Last updated on 9th of April 2000
 
-                        Total number of tunes: 674 (120 new)
+                        Total number of tunes: 755 (76 new)
 
 
  Introduction
@@ -32,15 +32,15 @@
 
  Statistics
  ~~~~~~~~~~
- Number of tunes:      674 (913 including subtunes)
- Compared to HVSC:     5.6% (HVSC v3.4 contains 12138 tunes)
- Unsorted tunes:       79
- Number of musicians:  43
- Most active musician: Tomasz Liebich      (31 tunes)
+ Number of tunes:      755 (1008 including subtunes)
+ Compared to HVSC:     6.0% (HVSC v3.5 contains 12554 tunes)
+ Unsorted tunes:       84
+ Number of musicians:  44
+ Most active musician: Grzegorz Kwiatek    (62 tunes)
  Biggest SAP tune:     Garfield_Part_2.sap (61550 bytes)
  Smallest SAP tune:    Self_Test.sap       (159 bytes)
  Files with subtunes:
-  2 tunes: 23x
+  2 tunes: 24x
   3 tunes: 15x
   4 tunes: 16x
   5 tunes: 10x
@@ -90,8 +90,8 @@
  ~~~~~~~~~~~~~~~~~~~~~~
  Zdenek Eisenhammer (PG of Unreal) - maintainer of the archive, ripped about
                                      10% of the tunes
- Adam Bienias (SoTe of Slight) - ripped over 60% of the tunes
- Piotr Fusik (Fox of Taquart) - ripped about 12% of the tunes (now he's my
+ Adam Bienias (SoTe of Slight) - ripped over 55% of the tunes
+ Piotr Fusik (Fox of Taquart) - ripped about 15% of the tunes (now he's my
                                 main contributor)
  Tamas Bene (<?> of Hard) - ripped a few tunes (when will you rip your SID
                             emulated tunes? ;-)
@@ -99,6 +99,7 @@
  Radek Sterba (RASTER) - sent most of his tunes. Thanx! If only every
                          musician did this...
  <?> (Dracon of Taquart) - ripped about 15% of the tunes
+ <?> (Pigula of Shpoon) -ripped many tunes in update 1.5
 
 
  Contact
