@@ -1,0 +1,5 @@
+Classics/Gilmore_Adam/Las_Vegas_Casino.sap - tune 0 doesn't exist (silence)
+Classics/Munns_Richard/Rebound.sap - tune doesn't play first note (drum)
+Various/Liebich_Tomasz/Deimos.sap - tune 0 doesn't exist (distorted sounds)
+Demos/Time_To_Enjoy.sap - Tune falls out of synch after some time
+Games/Classic/Mule.sap - Tune falls out of synch after about 35 secs
