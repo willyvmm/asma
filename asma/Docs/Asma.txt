@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 2.5
+                                  Version 2.6
 
                          Started on 4th of August 1999
-                     Last updated on 7th of November 2002
+                      Last updated on 9th of January 2003
 
-                     Total number of tunes: 1554 (74 new)
+                     Total number of tunes: 1647 (93 new)
 
 
  Introduction
@@ -32,14 +32,14 @@
 
  Statistics
  ~~~~~~~~~~
- Number of tunes:      1554 (2026 including subtunes)
- Compared to HVSC:     8.1% (HVSC v5.1 contains 19203 tunes)
- Disk space ocupied:   8825715 bytes (8697023 bytes excluding Docs folder)
- Average SAP filesize: 5597 bytes
+ Number of tunes:      1647 (2119 including subtunes)
+ Compared to HVSC:     8.1% (HVSC v5.2 contains 20325 tunes)
+ Disk space ocupied:   9563007 bytes (9426463 bytes excluding Docs folder)
+ Average SAP filesize: 5723 bytes
  Songs with subsongs:  161
- Unsorted tunes:       75
- Number of musicians:  86
- Most active musician: Lukasz Sychowicz    (92 tunes)
+ Unsorted tunes:       76
+ Number of musicians:  89
+ Most active musician: Lukasz Sychowicz    (89 tunes + 6 cooperations)
  Biggest SAP tune:     Garfield_Part_2.sap (61547 bytes)
  Smallest SAP tune:    Self_Test.sap       (150 bytes)
  Files with subtunes:
@@ -82,6 +82,7 @@
  (in ABC order)
  Tamas Bene (<?> of Hard)
  Adam Bienias (SoTe of Slight)
+ Marcin Dubicki (MacGyver)
  Zdenek Eisenhammer (PG)
  Piotr Fusik (Fox of Taquart)
  Michal Garbaciak (Dracon of Taquart)

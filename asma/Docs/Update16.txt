@@ -1,3 +1,14 @@
+ASMA Update #16
+Date: January X, 2003
+
+These rips together with the original ASMA collection will make version 2.6
+of the ASMA (out of version 2.5).
+
+Number of new tunes: 93
+Credits fixes: 8
+
+New tunes
+---------
 Demos/Carpe_Demo_3.sap
 Demos/Carpe_Demo_4.sap
 Demos/Carpe_Demo_5.sap
@@ -91,3 +102,14 @@ Various/Rentgen/Victoria_JHS_Hidden_3.sap
 Various/Rentgen/Victoria_JHS_Hidden_4.sap
 Various/Skowiniak_Krystian/Zielony_nap.sap
 Various/Sterba_Radek/Multris_Menu.sap
+
+Credits fixes (includes filename or location changes)
+-----------------------------------------------------
+Demos/Impossible_But_Real_End.sap : AUTHOR "Tero Kostermaa (Teque)"
+Unsorted/Aggressive.sap : AUTHOR "<?>"
+Unsorted/Scream.sap > /Various/Matoga_Adrian/
+Various/Kalinowski_Bartosz/Operation_Blood.sap > /Games/Various/ : AUTHOR "Pawel Kalinowski (PIRX)"
+Various/Kalinowski_Bartosz/Operation_Blood_Ingame.sap > /Games/Various/ : AUTHOR "Pawel Kalinowski (PIRX)"
+Various/Kazimierczak_Leszek/Megata_Zine_1_Main.sap > Under_The_Open.sap : DATE "1995"
+Various/Roszkowski_Marek/Transfer_II.sap : DATE "1997 <?>"
+Various/Swierszcz_Piotr/Energy_1_2.sap > Last_World.sap

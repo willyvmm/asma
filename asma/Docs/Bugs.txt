@@ -16,3 +16,4 @@ Various\Kwiatek_Grzegorz\Ultra_Intro.sap - tune plays twice as fast after repeat
 Various\Liebich_Tomasz\Deimos.sap - tune 0 doesn't exist (distorted sounds)
 Various\Majewski_Tomasz\Crocketts_Theme.sap - tune doesn't reinit well after repeating
 Various\Sterba_Radek\Len_Raz.sap - wrong bassline in MONO mode (the tune is mono)
+Various\Sterba_Radek\Multris_Menu.sap - rogue notes after tune end
