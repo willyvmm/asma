@@ -1,0 +1,88 @@
+
+        yy yyy yy          ,gp.      ,gS$$$Sp.  d$$.     ,$$b     ,gp.
+        $$ $$$ $$         :$$$$:    ,$$$$A$$$$. $$$b     d$$$    :$$$$:
+        $$ $$$ $$         $$$$$$    $$$'   `?$P $$$$.   ,$$$$    $$$$$$
+        $$ $$$ $$        :$$P?$$:   $$$         $$$$b   d$$$$   :$$P?$$:
+        $$ $$$ $$        d$$'`$$b   ?$$b.       $$$$$. ,$$$$$   d$$'`$$b
+        $$ $$$ $$        $$P  ?$$    `$$$$$o.   $$$?$b d$P$$$   $$P  ?$$
+       ,$7 $$$ ?$.      :$$'  `$$:     `?$$$$b  $$$`$$v$$'$$$  :$$'  `$$:
+       d$  $$$  $b      d$$$$$$$$b        `?$$b $$$ ?$$$P $$$  d$$$$$$$$b
+     ,d$'  $$$  `$b.    $$$$$$$$$$          $$$ $$$ `$$$' $$$  $$$$$$$$$$
+   y$$$'   $$$   `$$$y :$$P    ?$$: d$b.   ,$$P $$$  ?$P  $$$ :$$:    ?$$:
+   $$P'    $$$    `t$$ $$$'    `$$b `$$$$S$$$$' $$$  `S'  $$$ $$$'    `$$b
+   "~      """      ~" $$P      ?$$  `?$$$$$P'  $$$       $$$ $$P      ?$$
+                       ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
+
+                            Atari SAP Music Archive
+                                  Version 0.8
+
+                           Started on 4th of August 1999
+                        Last updated on 16th of September 1999
+
+                        Total number of tunes: 267 (30 new)
+
+
+ Introduction
+ ~~~~~~~~~~~~
+ This is the pre-release testing version of the first Atari XL/XE chip-music
+ collection. There is some kind of structure in the archive, anyway, it can
+ change till the full version. The whole collection outfit was inspired by
+ the HVSC collection (with some differences).
+
+
+ Statistics
+ ~~~~~~~~~~
+ Number of tunes:      266
+ Unsorted tunes:       40
+ Number of musicians:  22
+ Most active musician: Adrian Galinski      (24 tunes)
+ Biggest SAP tune:     Exodus.sap           (38481 bytes)
+ Smallest SAP tune:    Submission.sap       (498 bytes)
+
+
+ Help!
+ ~~~~~
+ As you can see, there are lots of tunes in the 'Unsorted' directory. If
+ you're 100%ly sure about origin of any of these tunes (Who did it, where it
+ comes from, when was it composed), please let us know immediately so that we
+ can complete the information about the tune in ASMA (or move it to the right
+ directory). We would welcome if you sent us also the binary file (or an
+ ATR/XFD disk image) with the original peace of software with that tune. Mail
+ any such information to pg@pinknet.cz. Our aim is to completely annihilate
+ the 'Unsorted' directory :-)
+
+
+ For contributors
+ ~~~~~~~~~~~~~~~~
+ If you want to send me some tunes, they must be already converted to SAP
+ format and should include all the information needed (author, name, date,
+ number of songs). If you're unsure about any information needed, you can
+ send me the music as well, maybe we can find the info together. If you don't
+ know how to create SAP files, send me the binary file with the INIT and PLAY
+ addresses and memory location where the tune has to be loaded. See SAP.TXT
+ for SAP format description. The filenames must not be longer than 26
+ characters (plus .sap) e.g.:
+
+ 12345678901234567890123456.123
+ Intel_Outside_Fractal_Part.sap - all right
+ Jocky_Wilsons_Darts_Challenge.sap - wrong!
+
+ Because of compatibility reasons only characters 'A..Z', 'a..z', and '0..9'
+ can be used in the filenames. All spaces must be replaced with underscore
+ ("_").
+
+
+ Creators
+ ~~~~~~~~
+ Zdenek Eisenhammer (PG of Unreal) - maintainer of the archive, ripped about
+                                     20% of the tunes
+
+ Adam Bienias (SoTe of Slight) - ripped about 80% of the tunes
+
+ <?> (Fox of Infinity) - ripped 2 tunes (not that much but enough to be 
+                         credited ;-)
+
+ Contact
+ ~~~~~~~
+ For any suggestions write to pg@pinknet.cz.
+ Homepage: not available yet (should be http:\\asma.xaudio.de)
