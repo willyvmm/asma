@@ -1,15 +1,28 @@
-Known Atari composers and handles                                 07 Aug 1999
+Known Atari composers and handles                                 10 Aug 1999
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This list contains only composers who have made at least 3 songs on Atari
 XL/XE. The number behind the name indicates number of songs contained in ASMA
 by the composer. The composers are sorted in ABC order according to their
 surnames (if known, otherwise by their handles).
 
-Galinski, Adrian - Daxey (5)
+Bartman (8)
+Bienias, Adam - SoTe (7)
+DJ V (3)
+Drozdowski, Marek - Marucha (3)
+Galinski, Adrian - Daxey (20)
 Gilmore, Adam (7)
+Gwozdziej, Mirek - Zur-soft 1/2 (4) *
 Hubbard, Rob (5)
+Husak, Jakub (17)
+Liebich, Tomasz (14)
+Majewski, Jerzy - Zur-soft 2/2 (4) *
 Makowski, Robert - Gutek (6)
 Munns, Richard (4)
-Pelc, Janusz (3)
-Swierszcz, Piotr - Samurai (5)
+Pelc, Janusz (5)
+Swierszcz, Piotr - Samurai (6)
+Szymczuk, Daniel (5)
 Whittaker, David (9)
+X-Ray (15)
+
+* These two guys were composing together, so the number behind their name 
+  means the number of songs they made together.
