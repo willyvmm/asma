@@ -1,7 +1,2 @@
 Classics\Gilmore_Adam\Las_Vegas_Casino.sap - tune 0 doesn't exist (silence)
-Classics\Hubbard_Rob\Extirpator.sap - strange sound at 01:12 and each time in
-                                      the same pattern - a bug of SAP player?
-Classics\Whittaker_David\180.sap - bass sound is not audible (a bug of SAP
-                                   player?)
-Classics\Whittaker_David\Feud.sap - bass sound is not audible (a bug of SAP
-                                    player?)
+Various\Liebich_Tomasz\Deimos.sap - tune 0 doesn't exist (distorted sounds)

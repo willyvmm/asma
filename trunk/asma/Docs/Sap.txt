@@ -21,7 +21,12 @@ comment lines. Right now only these commands are supported:
    INIT      - address of player part which will init player
    SONGS     - number of songs
    DEFSONG   - first song which will be played when .sap will be loaded
-
+   FASTPLAY  - number of lines between each call of playing routine (312 by
+               default, which is one screen - 1/50 of sec.). For example for
+               double-speed tune put here the value 156 (312/2). 99% of tunes
+               are single-speed which means that you don't have to define the
+               FASTPLAY variable for them.
+   
 commands PLAYER, MUSIC, INIT contain addresses in hexadecimal format:
 
 PLAYER A000
