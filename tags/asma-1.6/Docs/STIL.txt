@@ -1,0 +1,263 @@
+# STIL betaversion
+# Just an attempt how it would look like. The fileformat is 100% C-64 STIL
+# compatible
+
+### Richard Munns ############################################################
+
+/Classics/Munns_Richard/Black_Lamp_Ingame.sap
+  TITLE: Greensleeves
+ ARTIST: Unknown
+
+### Demos ####################################################################
+
+/Demos/Hobbytronic_89_2.sap
+  TITLE: Neunundneunzig (99) Luftballons
+ ARTIST: Nena
+
+/Demos/Hobbytronic_89_3.sap
+  TITLE: Crockett's Theme [from the TV series Miami Vice]
+ ARTIST: Jan Hammer
+
+/Demos/Hobbytronic_89_4.sap
+  TITLE: The Great Giana Sisters
+ ARTIST: Chris Huelsbeck
+
+/Demos/Joyride_End.sap
+  TITLE: Remark Intro
+ ARTIST: Jeroen Tel
+COMMENT: Originally a C64 SID tune with POKEY routine added
+
+/Demos/Joyride_Landscape.sap
+  TITLE: Enigma PHA theme [Covering Musiklinjen by Firefox - the Amiga MOD module]
+ AUTHOR: Alain Hertenstein (Iron Cat)
+
+/Demos/Magnetic_Fields.sap
+  TITLE: Magnetic Fields, Part 2 [from Magnetic Fields]
+ ARTIST: Jean Michel Jarre
+
+/Demos/World_of_Wonders_1.sap
+  TITLE: The Hootchy Kootchy Dance
+ ARTIST: Sol Bloom
+
+/Demos/World_of_Wonders_4.sap
+  TITLE: Goldrunner
+ ARTIST: Rob Hubbard
+
+### Games/Classic ############################################################
+
+/Games/Classic/Blue_Max.sap
+  TITLE: Rule Britannia
+ ARTIST: Thomas Arne & James Thompson
+
+/Games/Classic/Ghostbusters.sap
+  TITLE: Ghostbusters [from the movie]
+ ARTIST: Ray Parker, Jr.
+
+/Games/Classic/Nadral.sap
+  TITLE: The Entertainer
+ ARTIST: Scott Joplin
+
+/Games/Classic/Shamus.sap
+  TITLE: Funeral March of a Marionette
+ ARTIST: Charles Gounod
+
+/Games/Classic/Special_Delivery.sap
+  TITLE: Jingle Bells
+ ARTIST: James Pierpont
+
+/Games/Classic/Spy_Hunter.sap
+  TITLE: Theme from Peter Gunn [from the TV series]
+ ARTIST: Henry Mancini
+
+/Games/Classic/Zorro.sap
+  TITLE: Zorro [from the TV series] <?>
+ ARTIST: <?>
+
+### Games/Various ############################################################
+
+/Games/Various/Incydent.sap
+  TITLE: Sadeness
+ ARTIST: Enigma
+
+/Games/Various/Reverse.sap
+  TITLE: Dear Rob [from the Amiga MOD module]
+ ARTIST: Frederick Hahn (Fred)
+
+### Unsorted #################################################################
+
+/Unsorted/Avm.sap
+COMMENT: Last Party '99 contribution.
+
+/Unsorted/Benny_Hill_Show_theme.sap
+  TITLE: Yakety Sax [from Yakety Sax]
+ ARTIST: James Rich & Boots Randolph
+COMMENT: Best known from as the title theme to the comedy TV series "The Benny
+         Hill Show". 
+
+/Unsorted/CompyShop_Magazine_Intro_2.sap
+  TITLE: It's a Sin [from Actually]
+ ARTIST: Pet Shop Boys
+
+/Unsorted/CompyShop_Magazine_Intro_4.sap
+  TITLE: Enola Gay [from Organisation]
+ ARTIST: Orchestral Manoeuvres in the Dark (OMD)
+
+/Unsorted/Digiloo-Digiley.sap
+  TITLE: Digiloo-Digiley
+ ARTIST: <?>
+
+/Unsorted/Globetrotter.sap
+  TITLE: Ticket To Ride
+ ARTIST: The Beatles
+
+/Unsorted/Lark.sap
+COMMENT: Last Party '99 contribution.
+
+/Unsorted/Old_Socks.sap
+COMMENT: Last Party '99 contribution.
+
+/Unsorted/Qwerty.sap
+COMMENT: Last Party '99 contribution.
+
+/Unsorted/Shakemix.sap
+  TITLE: Shake
+ ARTIST: Marek Drozdowski (Marucha)
+COMMENT: This cover uses just slightly different sounds.
+
+/Unsorted/Spellbound_Partial_Version.sap
+  TITLE: Spellbound
+ ARTIST: Rob Hubbard
+
+/Unsorted/That_Demo_1.sap
+  TITLE: Oxygene 4 [from Oxygene]
+ ARTIST: Jean Michel Jarre
+
+/Unsorted/Turrican_2_Level_1_Traps.sap
+  TITLE: Turrican 2 - World 1, Tune #3
+ ARTIST: Chris Huelsbeck
+
+### Adam Bienas ##############################################################
+
+/Various/Bienias_Adam/Crazy.sap
+  TITLE: Crazy
+ ARTIST: Fine Young Cannibals
+
+/Various/Bienias_Adam/Bitter_Reality_Greetings_P.sap
+  TITLE: megaforce02 [from the Amiga MOD module]
+ ARTIST: Luxor of Megaforce
+
+### Adrian Galinski ##########################################################
+
+/Various/Galinski_Adrian/Abdicus.sap
+COMMENT: 1st place at Shadows Party music compo.
+
+/Various/Galinski_Adrian/Bells.sap
+COMMENT: 3rd place at Shadows Party music compo.
+
+Intel_Outside_The_Intro.sap
+  TITLE: Oxygene 4 [from Oxygene]
+ ARTIST: Jean Michel Jarre
+
+### Gnome Design #############################################################
+
+/Various/Gnome_Design/Abbuc_20_2.sap
+  TITLE: Commando, Tune #2
+ ARTIST: Rob Hubbard
+
+### Jakub Husak ##############################################################
+
+/Various/Husak_Jakub/Garfield.sap
+  TITLE: Crockett's Theme [from the TV series Miami Vice]
+ ARTIST: Jan Hammer
+
+### Konrad Kuczek ############################################################
+
+/Various/Kuczek_Konrad/Another_Day_in_Paradise.sap
+  TITLE: Another Day in Paradise
+ ARTIST: Phil Collins
+
+/Various/Kuczek_Konrad/Mama.sap
+  TITLE: Mama
+ ARTIST: Phil Collins
+
+### Grzegorz Kwiatek #########################################################
+
+/Various/Kwiatek_Grzegorz/Alive.sap
+COMMENT: Last Party '99 contribution.
+
+/Various/Kwiatek_Grzegorz/Cubeniculosis.sap
+COMMENT: Last Party '99 contribution.
+
+/Various/Kwiatek_Grzegorz/Desastre.sap
+COMMENT: 2nd place at Intel Outside 4 music compo.
+
+### Tomasz Liebich ##########################################################
+
+/Various/Liebich_Tomasz/Hi_Alf.sap
+  TITLE: Alf TV Series Theme
+ ARTIST: Tom Kramer & Alf Clausen
+
+### Michal Luberda ##########################################################
+
+/Various/Luberda_Michal/U235_Ingame.sap
+  TITLE: Last Ninja 2, Tune #2 - Central Park (in-game)
+ ARTIST: Matt Gray
+
+### Jaroslaw Padula ##########################################################
+
+/Various/Padula_Jaroslaw/Pmix.sap
+COMMENT: Last Party '99 contribution.
+
+### Janusz Pelc ##############################################################
+
+/Various/Pelc_Janusz/Enola.sap
+  TITLE: Enola Gay [from Organisation]
+ ARTIST: Orchestral Manoeuvres in the Dark (OMD)
+
+### Stanislaw Skwiot #########################################################
+
+/Various/Skwiot_Stanislaw/Fortuna.sap
+<#1)
+  TITLE: <?> [from the Amiga MOD module]
+
+/Various/Skwiot_Stanislaw/Roxette.sap
+  TITLE: Listen To Your heart [from Look Sharp]
+ ARTIST: Roxette
+
+### Radek Sterba #############################################################
+
+Flop_Magazin_30_Just_Now.sap
+  TITLE: Prave Ted
+ ARTIST: Janek Ledecky
+
+Flop_Magazin_31_Christmas.sap
+COMMENT: Covers a popular Czech Christmas song
+
+Flop_Magazin_35_BH90210.sap
+  TITLE: Beverly Hills 90210 Theme [from the TV series]
+ ARTIST: <?>
+
+Turrican_2_Experiment.sap
+  TITLE: Turrican 2 - World 1, Tune #1
+ ARTIST: Chris Huelsbeck
+COMMENT: Covers only a part of it
+
+### Piotr Swierszcz ##########################################################
+
+/Various/Swierszcz_Piotr/Popcorn.sap
+  TITLE: Popcorn
+ ARTIST: Hot Butter
+
+### Lukasz Sychowicz #########################################################
+
+/Various/Sychowicz_Lukasz/Hypnotize.sap
+COMMENT: 1st place at Intel Outside 4 music compo.
+
+/Various/Sychowicz_Lukasz/King_of_Agregat.sap
+COMMENT: Orneta music compo contribution.
+
+### Michal Szpilowski ########################################################
+
+/Various/Szpilowski_Michal/Snow_Ball.sap
+  TITLE: Snowblind [from the Amiga MOD module]
+ ARTIST: Bjorn Lynne (Dr.Awesome)
