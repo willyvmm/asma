@@ -1,0 +1,77 @@
+This file gives all the information needed for those who want to send songs
+to ASMA archive.
+
+File formats accepted
+~~~~~~~~~~~~~~~~~~~~~
+SAP - already created SAP file
+CMC - Chaos Music Composer
+CMR - Chaos Music Composer with alternative notetables
+DMC - Doublespeed Chaos Music Composer
+MPT - Music ProTracker
+MD1+D15 - Music ProTracker with one 15kHz digichannel
+MD1+D8 - Music ProTracker with one 8kHz digichannel
+MD2+D8 - Music ProTracker with two 8kHz digichannels
+TMC - Theta Music Composer
+TM8 - Theta Music Composer dual POKEY configuration (stereo)
+Benjy Soundmonitor
+
+Information needed (or welcome)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Author of the song
+- Name of song
+- Date of creation or copyright date
+- Number of subsongs/default subsong
+For SAP files this information should be already included in the header, for
+other fileformats write it into a separate textfile.
+
+STIL information
+~~~~~~~~~~~~~~~~
+This information is not essential but if you know anything of these, please 
+send it together with the song.
+- Name of covered song (plus album)
+- Name of the interpreter (singer, band) or composer
+If the song is a demoparty music compo contribution, send us the name of the
+party (including year) and the final standing of the song (only for songs
+that ended at 1st, 2nd or 3rd place).
+Again you can write all this information into a separate text file.
+Examples:
+
+Digital_Trash.sap
+  TITLE: Domino Dancing [from Introspective]
+ ARTIST: Pet Shop Boys
+
+Desastre.sap
+COMMENT: 2nd place at Intel Outside 4 music compo.
+
+SAP heder conventions
+~~~~~~~~~~~~~~~~~~~~~
+The filenames must not be longer than 26 characters (plus .sap) e.g.:
+
+ 12345678901234567890123456.123
+ Intel_Outside_Fractal_Part.sap - all right
+ Jocky_Wilsons_Darts_Compendium.sap - wrong!
+
+Because of compatibility reasons only characters 'A..Z', 'a..z', and '0..9'
+can be used in the filenames. All spaces must be replaced with underscore
+("_"). The dash ("-") is also allowed but from no reason we don't use it :-)
+
+All tags in SAP header must be UPPERCASE (e.g. AUTHOR, DATE). The field
+contents must be closed in quotation marks ("). There is one SPACE ( )
+between the tag and the quotation mark.
+Every line in the header must end with EOL ($0d $0a).
+For unknown information use this mark <?>.
+For more information about the SAP header see the file Sap.txt.
+Example:
+
+SAP
+AUTHOR "Marek Badkowski (Bac)"
+NAME "Deafman"
+DATE "<?>"
+TYPE B
+INIT 0500
+PLAYER F092
+
+If possible, send also the original file/game/demo that you ripped the
+song(s) from.
+
+Thanks for your contributions!
