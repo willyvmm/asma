@@ -7,7 +7,7 @@ Number of new tunes: 120
 Credits fixes: 18
 Filename and location changes: 7
 Better rips: 3
-Remove files: 1
+Removed files: 1
 
 New tunes
 ---------
