@@ -1,0 +1,17 @@
+# STIL betaversion
+# Just an attempt how it would look like. The fileformat is 100% C-64 STIL 
+# compatible
+
+### Galinski_Adrian ##########################################################
+
+/Various/Galinski_Adrian/Abdicus.sap
+COMMENT: 1st place at Shadows Party music compo.
+
+/Various/Galinski_Adrian/Bells.sap
+COMMENT: 3rd place at Shadows Party music compo.
+
+/Various/Sychowicz_Lukasz/Hypek.sap
+COMMENT: 1st place at Intel Outside 4 music compo.
+
+/Various/Sychowicz_Lukasz/X_Ray_2.sap
+COMMENT: Orneta music compo contribution.
