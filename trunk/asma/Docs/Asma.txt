@@ -1,4 +1,4 @@
-
+                                        ___
         yy yyy yy          ,gp.      ,gS$$$Sp.  d$$.     ,$$b     ,gp.
         $$ $$$ $$         :$$$$:    ,$$$$A$$$$. $$$b     d$$$    :$$$$:
         $$ $$$ $$         $$$$$$    $$$'   `?$P $$$$.   ,$$$$    $$$$$$
@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 0.8
+                                  Version 1.0
 
                            Started on 4th of August 1999
-                        Last updated on 5th of October 1999
+                        Last updated on 16th of October 1999
 
-                        Total number of tunes: 310 (38 new)
+                        Total number of tunes: 359 (50 new)
 
 
  Introduction
@@ -32,13 +32,13 @@
 
  Statistics
  ~~~~~~~~~~
- Number of tunes:      310
- Unsorted tunes:       41
- Number of musicians:  24
- Most active musician: Tomasz Liebich       (29 tunes)
- Biggest SAP tune:     Exodus.sap           (38481 bytes)
- Smallest SAP tune:    Self_Test.sap        (159 bytes)
-
+ Number of tunes:      359
+ Compared to HVSC 3.3: 3.1% (HVSC contains 11660 tunes)
+ Unsorted tunes:       55
+ Number of musicians:  26
+ Most active musician: Tomasz Liebich     (29 tunes)
+ Biggest SAP tune:     Exodus.sap         (38481 bytes)
+ Smallest SAP tune:    Self_Test.sap      (159 bytes)
 
  Help!
  ~~~~~
@@ -75,15 +75,18 @@
  Creator & Contributors
  ~~~~~~~~~~~~~~~~~~~~~~
  Zdenek Eisenhammer (PG of Unreal) - maintainer of the archive, ripped about
-                                     20% of the tunes
+                                     15% of the tunes
 
- Adam Bienias (SoTe of Slight) - ripped about 80% of the tunes
+ Adam Bienias (SoTe of Slight) - ripped almost 75% of the tunes
 
- Piotr Fusik (Fox of Infinity) - ripped a few tunes (not that much but enough 
-                                 to be credited ;-)
- Tamas Bene - also ripped a few tunes :)
+ Piotr Fusik (Fox of Taquart) - ripped about 10% of the tunes (now he's my 
+                                main contributor)
+ Tamas Bene (??? of Hard) - ripped about 2% of the tunes :)
+
+ Jindrich Kubec - I actually don't know how many tunes he ripped :-)
+
 
  Contact
  ~~~~~~~
  For any suggestions write to pg@pinknet.cz.
- Homepage: http://mp3.musichall.cz/Unreal/ASMA (temporary only)
+ Homepage: http://mp3.musichall.cz/Unreal/ASMA (temporary site)
