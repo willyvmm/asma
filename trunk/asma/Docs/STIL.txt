@@ -1,8 +1,9 @@
 ##############################################################################
 #
-#  STIL v2.1 - SAP Tune Information List
-#  The fileformat is 100% HVSC STIL compatible
-#  Total number of entries: 122
+#  STIL v2.2 - SAP Tune Information List
+#  The fileformat is 100% HVSC STIL compatible - hopefully someone will
+#  finally support STIL database in their SAP player
+#  Total number of entries: 130
 
 ### Orall Corneliuss #########################################################
 
@@ -80,6 +81,10 @@ COMMENT: "Warhawk was a c64 tune originally called Proteus." (RH)
  ARTIST: Rob Hubbard
 
 ### Games/Classic ############################################################
+
+/Games/Classic/Astro_Chase.sap
+  TITLE: 1812 Overture
+ ARTIST: Pyotr Ilyitch Tchaikovsky
 
 /Games/Classic/Blue_Max.sap
   TITLE: Rule Britannia
@@ -190,6 +195,16 @@ COMMENT: Lato Ludzikow 2001 music compo entry.
 /Various/Bienias_Adam/Ice_Machine.sap
   TITLE: Ice Machine
  ARTIST: Depeche Mode
+
+### Jacek Dojwa ##############################################################
+
+/Various/Trisz_Divinis.sap
+  TITLE: megaforce02 [from the Amiga MOD module]
+ ARTIST: <?> (Luxor)
+
+/Various/Trisz_Divinis_Ingame.sap
+  TITLE: <?> [from the Amiga MOD module]
+ ARTIST: <?>
 
 ### Adrian Galinski (Daxey) ##################################################
 
@@ -385,6 +400,10 @@ COMMENT: Rush Hours '97 music compo entry.
 
 ### Daniel Numan (Zbx Virus) #################################################
 
+/Various/Numan_Daniel/Pentagram_2_Menu.sap
+  TITLE: Aurora [from the Amiga MOD module]
+ ARTIST: <?>
+
 /Various/Numan_Daniel/Pentagram_4_Axel_F.sap
   TITLE: Axel F [from the movie Beverly Hills Cop]
  ARTIST: Harold Faltermeyer
@@ -477,6 +496,10 @@ COMMENT: Covers only a part of it.
 
 ### Piotr Swierszcz (Samurai) ################################################
 
+/Various/Swierszcz_Piotr/Overmind_TLB_546_Dots.sap
+  TITLE: <?> [from the Amiga MOD module]
+ ARTIST: <?>
+
 /Various/Swierszcz_Piotr/Popcorn.sap
   TITLE: Popcorn
  ARTIST: Hot Butter
@@ -490,7 +513,7 @@ COMMENT: 1st place at Rush Hours '97 music compo.
 COMMENT: 1st place at Intel Outside 4 music compo.
 
 /Various/Sychowicz_Lukasz/King_of_Agregat.sap
-COMMENT: Orneta music compo contribution.
+COMMENT: Orneta music compo entry.
 
 /Various/Sychowicz_Lukasz/Porazka.sap
 COMMENT: 1st place at Quast party '96. This song is a cooperation between 
@@ -501,6 +524,9 @@ COMMENT: 1st place at Quast party '97. This song is a cooperation between
          Lukasz Sychowicz and Piotr Swierszcz.
 
 ### Michal Szpilowski (Miker) ################################################
+
+/Various/Szpilowski_Michal/Melted_Personality.sap
+COMMENT: 3rd place at Rush Hours '97 music compo.
 
 /Various/Szpilowski_Michal/Rubicon.sap
   TITLE: Enemies <?> [from the Amiga MOD module]
