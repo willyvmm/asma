@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 1.6
+                                  Version 1.7
 
-                           Started on 4th of August 1999
-                         Last updated on 19th of May 2000
+                         Started on 4th of August 1999
+                      Last updated on 22th of August 2000
 
-                        Total number of tunes: 792 (44 new)
+                      Total number of tunes: 840 (51 new)
 
 
  Introduction
@@ -32,12 +32,12 @@
 
  Statistics
  ~~~~~~~~~~
- Number of tunes:      792 (1032 including subtunes)
- Compared to HVSC:     6.3% (HVSC v3.5 contains 12554 tunes)
- Unsorted tunes:       73
- Number of musicians:  49
- Most active musician: Grzegorz Kwiatek    (66 tunes)
- Biggest SAP tune:     Garfield_Part_2.sap (61550 bytes)
+ Number of tunes:      840 (1080 including subtunes)
+ Compared to HVSC:     6.4% (HVSC v3.6 contains 13028 tunes)
+ Unsorted tunes:       78
+ Number of musicians:  52
+ Most active musician: Grzegorz Kwiatek    (75 tunes)
+ Biggest SAP tune:     Garfield_Part_2.sap (61556 bytes)
  Smallest SAP tune:    Self_Test.sap       (159 bytes)
  Files with subtunes:
   2 tunes: 24x
@@ -64,7 +64,7 @@
  right directory). We would welcome if you sent us also the binary file (or 
  an ATR/XFD disk image) with the original peace of software with that tune. 
  Mail any such information to pg@pinknet.cz. Our aim is to completely 
-annihilate the 'Unsorted' directory :-)
+ annihilate the 'Unsorted' directory :-)
 
 
  For contributors
@@ -90,8 +90,8 @@ annihilate the 'Unsorted' directory :-)
  Creator & Contributors
  ~~~~~~~~~~~~~~~~~~~~~~
  Zdenek Eisenhammer (PG of Unreal) - maintainer of the archive, ripped about
-                                     10% of the tunes
- Adam Bienias (SoTe of Slight) - ripped over 55% of the tunes
+                                     12% of the tunes
+ Adam Bienias (SoTe of Slight) - ripped over 50% of the tunes
  Piotr Fusik (Fox of Taquart) - ripped about 15% of the tunes (now he's my
                                 main contributor). He's also author of a cool
                                 multiformat SAP converter.
@@ -100,12 +100,13 @@ annihilate the 'Unsorted' directory :-)
  Jindrich Kubec - ripped some tunes as well :)
  Radek Sterba (RASTER) - sent most of his tunes. Thanx! If only every
                          musician did this...
- <?> (Dracon of Taquart) - ripped about 15% of the tunes
- <?> (Pigula of Shpoon) - ripped many tunes in update 1.5
+ Michal Garbaciak (Dracon of Taquart) - ripped about 15% of the tunes
+ Marcin Prusisz (Pigula of Shpoon) - ripped many tunes in update 1.5
  Slawek Sledz (Slaves of Taquart) - many bugreports in ASMA 1.6 pre-release
 
 
  Contact
  ~~~~~~~
  For any suggestions write to pg@pinknet.cz.
- Homepage: http://mp3.musichall.cz/Unreal/ASMA (temporary site)
+ My ICQ: 66411804
+ Homepage: http://asma.dspaudio.com
