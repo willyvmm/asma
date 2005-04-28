@@ -4,8 +4,8 @@
         $$ $$$ $$         $$$$$$    $$$'   `?$P $$$$.   ,$$$$    $$$$$$
         $$ $$$ $$        :$$P?$$:   $$$         $$$$b   d$$$$   :$$P?$$:
         $$ $$$ $$        d$$'`$$b   ?$$b.       $$$$$. ,$$$$$   d$$'`$$b
-        $$ $$$ $$        $$P  ?$$    `$$$$$o.   $$$?$b d$P$$$   $$P  ?$$
-       ,$7 $$$ ?$.      :$$'  `$$:     `?$$$$b  $$$`$$v$$'$$$  :$$'  `$$:
+        $$ $$$ $$        $$P  ?$$    `$$$$$o.   $$$$$b d$$$$$   $$P  ?$$
+       ,$? $$$ ?$.      :$$'  `$$:     `?$$$$b  $$$`$$v$$'$$$  :$$'  `$$:
        d$  $$$  $b      d$$$$$$$$b        `?$$b $$$ ?$$$P $$$  d$$$$$$$$b
      ,d$'  $$$  `$b.    $$$$$$$$$$          $$$ $$$ `$$$' $$$  $$$$$$$$$$
    y$$$'   $$$   `$$$y :$$P    ?$$: d$b.   ,$$P $$$  ?$P  $$$ :$$:    ?$$:
@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 2.7
+                                  Version 2.9
 
                          Started on 4th of August 1999
-                       Last updated on 15th of July 2004
+                       Last updated on 28th of April 2005
 
-                      Total number of tunes: 1840 (70 new)
+                      Total number of tunes: 1900 (69 new)
 
 
  Introduction
@@ -32,32 +32,31 @@
 
  Statistics
  ~~~~~~~~~~
- Number of tunes:      1840 (2326 including subtunes)
- Compared to HVSC:     6.8% (HVSC v5.7 contains 27087 tunes)
- Disk space ocupied:   10811349 bytes (10661564 bytes excluding documents)
- Average SAP filesize: 5794 bytes
- Songs with subsongs:  164
- Unsorted tunes:       95
- Number of musicians:  95
- Most active musician: Lukasz Sychowicz    (119 tunes + 13 cooperations)
+ Number of tunes:      1900 (2425 including subtunes)
+ Compared to HVSC:     6,5 % (HVSC v5.9 contains 29055 tunes)
+ Disk space ocupied:   11087448 bytes (excluding documents)
+ Average SAP filesize: 5792 bytes
+ Songs with subsongs:  175
+ Unsorted tunes:       86
+ Number of musicians:  99
+ Most active musician: Lukasz Sychowicz    (121 songs + 13 cooperations)
  Biggest SAP tune:     Garfield_Part_2.sap (61547 bytes)
  Smallest SAP tune:    Self_Test.sap       (150 bytes)
  Files with subtunes:
-  2 tunes: 57x
-  3 tunes: 33x
-  4 tunes: 27x
-  5 tunes: 23x
-  6 tunes:  9x
+  2 tunes: 58x
+  3 tunes: 37x
+  4 tunes: 30x
+  5 tunes: 25x
+  6 tunes: 10x
   7 tunes:  4x
   8 tunes:  4x
-  9 tunes:  2x
+  9 tunes:  3x
  10 tunes:  2x
  11 tunes:  2x
  13 tunes:  1x
  14 tunes:  1x
  15 tunes:  1x
- Total: 486 subtunes
- 2 tunes have unexisting tune "0"
+ Total: 525 subtunes
 
 
  Help!
@@ -68,7 +67,7 @@
  we can complete the information about the tune in ASMA (and move it to the 
  appropriate directory). We would welcome if you sent us also the binary file 
  (or an ATR/XFD disk image) with the original piece of software with that 
- tune. Mail any such information to pg@dspaudio.com. Our aim is to completely 
+ tune. Mail any such information to pg@pinknet.cz. Our aim is to completely 
  annihilate the unrecognized tunes.
 
 
@@ -93,7 +92,8 @@
  Marcin Prusisz (Pigula of Shpoon)
  Martin Simecek
  Slawek Sledz (Slaves of Taquart)
- Radek Sterba (RASTER)
+ Radek Sterba (Raster)
+ Michal Szpilowski (Miker)
  ..and people at the HVSC mailing list at http://groups.yahoo.com/group/hvsc/
 
 
@@ -101,6 +101,6 @@
  ~~~~~~~
  E-mail:        pg@pinknet.cz
  ICQ:           66411804
- Homepage:      http://asma.atari.org (redirects to http://asma.dspaudio.com)
+ Homepage:      http://asma.atari.org
  Czech mirror:  http://asma.musichall.cz (Czech language)
  Polish mirror: http://atariarea.histeria.pl/asma
