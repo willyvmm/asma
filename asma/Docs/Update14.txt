@@ -1,136 +1,174 @@
 ASMA Update #14
-Date: July 13, 2002
 
-These rips together with the original ASMA collection will make version 2.4
-of the ASMA (out of version 2.3).
+These rips together with the original ASMA collection will make version 1.4
+of the ASMA (out of version 1.3).
 
-Number of new tunes: 94
-Credits fixes: 16
+Number of new tunes: 120
 Better rips: 3
-Removed tunes: 1
+Credits fixes: 18
+Filename and location changes: 7
+Removed files: 1
 
 New tunes
 ---------
-Demos/Andermajnd.sap
-Demos/Another_Speedtro.sap
-Demos/Juzek.sap
-Demos/Techno_Collection_4.Sap
-Unsorted/Abbuc_19.sap
-Unsorted/Color.sap
-Unsorted/Luzik.sap
-Unsorted/New_Generation.sap
-Unsorted/Tragedy_Zine_2.Sap
-Various/CIerkonski_Michal/Kowboj.sap
-Various/Dojwa_Jacek/Pang.sap
-Various/Gora_Jakub/Psica.sap
-Various/Kalinowski_Bartosz/Infinity.sap
-Various/Matyasik_Krzysztof/Atak_serca.sap
-Various/Matyasik_Krzysztof/Baleronik.sap
-Various/Matyasik_Krzysztof/Goloneczka.sap
-Various/Matyasik_Krzysztof/Karkoweczka.sap
-Various/Matyasik_Krzysztof/Kaszaneczka.sap
-Various/Matyasik_Krzysztof/Koninka.sap
-Various/Matyasik_Krzysztof/Padaczka.sap
-Various/Matyasik_Krzysztof/Poledwiczka.sap
-Various/Matyasik_Krzysztof/Rak_mozgu.sap
-Various/Matyasik_Krzysztof/Schabik.sap
-Various/Matyasik_Krzysztof/Watrobeczka.sap
-Various/Matyasik_Krzysztof/Wieprzowinka.sap
-Various/Matyasik_Krzysztof/Wolowinka_Sampled.sap
-Various/Numan_Daniel/Wodzia.sap
-Various/Radzikowski_Ireneusz/Around_the_Planet.sap
-Various/Hard_Software/Abbuc_36.sap
-Various/Padula_Jaroslaw/Alternative_Psychodelic_Trance.sap
-Various/Padula_Jaroslaw/Brodzik.sap
-Various/Padula_Jaroslaw/Freedom.sap
-Various/Padula_Jaroslaw/Hip_Demo_Intro.sap
-Various/Padula_Jaroslaw/Hip_Demo_Main_2.sap
-Various/Padula_Jaroslaw/Ps1.sap
-Various/Padula_Jaroslaw/Psycho.sap
-Various/Padula_Jaroslaw/Tech4.sap
-Various/Padula_Jaroslaw/Techno_Collection_1.Sap
-Various/Padula_Jaroslaw/Techno_Collection_2.Sap
-Various/Padula_Jaroslaw/Techno_Collection_3.Sap
-Various/Padula_Jaroslaw/Trial.sap
-Various/Padula_Jaroslaw/Z.sap
-Various/Sasik_Marcel/Moner_1.sap
-Various/Sasik_Marcel/Moner_2.sap
-Various/Sasik_Marcel/Moner_3.sap
-Various/Skowiniak_Krystian/Pies_drapie_sie_po_jajach.sap
-Various/Skowiniak_Krystian/THC_Rulla.sap
-Various/Sterba_Radek/Len_Raz.sap
-Various/Sterba_Radek/Less_Than_222.sap
-Various/Sterba_Radek/SelfDemo.sap
-Various/Sterba_Radek/Two_Years_Ago.sap
-Various/Swiecicki_Krzysztof/T_E_C_H.sap
-Various/Swierszcz_Piotr/Ardeny_Demo.sap
-Various/Sychowicz_Lukasz/Ala_ma_kota.sap
-Various/Sychowicz_Lukasz/Explosive_Phlegm.sap
-Various/Sychowicz_Lukasz/Offsummer.sap
-Various/Sychowicz_Lukasz/Plump_Robber.sap
-Various/Sychowicz_Lukasz/Rage_against_16-bit.sap
-Various/Sychowicz_Lukasz/Rake_in_Church.sap
-Various/Sychowicz_Lukasz/Szpecyfik_Kolekszyn_Intro.sap
-Various/Sychowicz_Lukasz/Unlimited_Zdechla_Ryba.sap
-Various/Szpilowski_Michal/Manga_Rules_2.sap
-Various/Szpilowski_Michal/R0lo.sap
-Various/Unknown_1.sap
-Various/Szpilowski_Michal/Wiosna_Ludzikuf_End.sap
-Various/Szpilowski_Michal/Wiosna_Ludzikuf_Main.sap
-Various/Vybostok_Marian/Implosion.sap
-Various/Vybostok_Marian/Robot_Assault_Demo.sap
-Various/Vybostok_Marian/Street_Fighter_II_Demo_1.sap
-Various/Vybostok_Marian/Street_Fighter_II_Demo_2.sap
-Various/Vybostok_Marian/Street_Fighter_II_Demo_3.sap
-Various/Vybostok_Marian/Street_Fighter_II_Demo_4.sap
-Various/Vybostok_Marian/Wanted_Intro_1.sap
-Various/Vybostok_Marian/Wanted_Intro_2.sap
-Various/Vybostok_Marian/Wanted_Part_1.sap
-Various/Vybostok_Marian/Wanted_Part_2.sap
-Various/Vybostok_Marian/Wanted_Part_3_1.sap
-Various/Vybostok_Marian/Wanted_Part_3_2.sap
-Various/Vybostok_Marian/Wanted_Part_3_3.sap
-Various/Vybostok_Marian/Wanted_Part_3_4.sap
-Various/Vybostok_Marian/Wanted_Part_4_Help.sap
-Various/Vybostok_Marian/Wanted_Part_4_Mix.sap
-Various/Vybostok_Marian/Wanted_Part_4_Moon_Patrol.sap
-Various/Vybostok_Marian/Wanted_Part_4_Percuss.sap
-Various/Vybostok_Marian/Wanted_Part_4_Polizei.sap
-Various/Vybostok_Marian/Wanted_Part_4_Summer.sap
-Various/Vybostok_Marian/Wanted_Part_4_Terror_II.sap
-Various/Vybostok_Marian/Wanted_Part_4_Zeus_Mix.sap
-Various/Vybostok_Marian/Wanted_Part_5.sap
-Various/Vybostok_Marian/Wanted_Part_6.sap
-Various/Vybostok_Marian/Wanted_Part_7.sap
-Various/Vybostok_Marian/Wanted_Part_8.sap
-Various/Vybostok_Marian/Shakings.sap
-Various/Wasilewski_Dariusz/Marzec_95.sap
-
-Credits fixes (includes filename or location changes)
------------------------------------------------------
-Demos/Ray_of_Hope_Bars.sap > Various/Swiecicki_Krzysztof/
-Demos/Ray_of_Hope_Shade_Bobs.sap > Various/Swiecicki_Krzysztof/
-Unsorted/sEXTOn_Is_Come.sap : AUTHOR "Krzysztof Balkowski (sEXTOn)"
-Various/Unsorted/Suprajs.sap : AUTHOR "Marek Oglodek (Koala)"
-Various/Golewski_Filip/Memento_Mori.sap : AUTHOR "Filip Golewski (Zoltar X)"
-Various/Golewski_Filip/Street_Walker.sap : AUTHOR "Filip Golewski (Zoltar X)"
-Various/Gora_Jakub/Well_Game.sap > Holiday.sap
-Various/Sterba_Radek/Small_Stir.sap : AUTHOR "Radek Sterba (RASTER)"
-Various/Swierszcz_Piotr/Reverse_2.sap : NAME "Reverse - 2"
-Various/Sychowicz_Lukasz/Barymag_2_1.sap : NAME "Pancerne trampki" DATE "1996"
-Various/Sychowicz_Lukasz/Barymag_2_2.sap : NAME "Revenge of Bozon" DATE "1996"
-Various/Sychowicz_Lukasz/Barymag_2_6.sap : NAME "Squiffy Squid" DATE "1996"
-Various/Sychowicz_Lukasz/Barymag_2_7.sap : NAME "Tense Tenon" DATE "1996"
-Various/Sychowicz_Lukasz/Debilizator_1_Music_4.sap : NAME "Terrible Toast Union" DATE "1996"
-Various/Sychowicz_Lukasz/Energy_1_4.sap : NAME "Fate of Pig" DATE "1996"
-Various/Sychowicz_Lukasz/Gravestone.sap : DATE "1996"
+Classics/Munns_Richard/Crumbles_Crisis.sap
+Classics/Munns_Richard/Space_Lobsters.sap
+Demos/Vengeance_End.sap
+Games/Classic/Gunfight.sap
+Games/Classic/Mr_Do.sap
+Games/Classic/Olimpicon.sap
+Games/Classic/Whistler_Brothers.sap
+Games/Classic/Droga_Wojovnika_Preview.sap
+Games/Classic/Monstrum.sap
+Games/Classic/Numblines.sap
+Games/Classic/Speed_Hawk.sap
+Games/Classic/Tiger_Attack.sap
+Games/Classic/Wladca.sap
+Unsorted/Avm.sap
+Unsorted/Delicate.sap
+Unsorted/Disk_Copy.sap
+Unsorted/Dragon.sap
+Unsorted/Dreamer.sap
+Unsorted/Dreams.sap
+Unsorted/Happy_97.sap
+Unsorted/Happy_New_Year.sap
+Unsorted/Inny_Swiat.sap
+Unsorted/Lark.sap
+Unsorted/Magic_Dimension.sap
+Unsorted/Miksik.sap
+Unsorted/Old_Socks.sap
+Unsorted/Pmix.sap
+Unsorted/Przepraszam.sap
+Unsorted/Pytaj.sap
+Unsorted/Qwerty.sap
+Various/Bienias_Adam/Abbuc_Intro.sap
+Various/Bienias_Adam/Crazy.sap
+Various/Bienias_Adam/Digital_Bonanza.sap
+Various/Bienias_Adam/Hitsquad.sap
+Various/Bienias_Adam/Ice_Machine.sap
+Various/Bienias_Adam/Jack_Dance.sap
+Various/Bienias_Adam/Kebab_Magazine.sap
+Various/Bienias_Adam/LFF_Intro.sap
+Various/Bienias_Adam/Rzog_Joins_XE_Team_1.sap
+Various/Bienias_Adam/Rzog_Joins_XE_Team_2.sap
+Various/Bienias_Adam/Solid.sap
+Various/Bienias_Adam/Vroom_Intro.sap
+Various/Czartynski_Marcin/Paczka_TNQ_3.sap
+Various/Drozdowski_Marek/Sweet_Illusion_APC_Part.sap
+Various/Galinski_Adrian/Micro_Discount.sap
+Various/Grad_Jacek/Drutt.sap
+Various/Grad_Jacek/Fatum.sap
+Various/Grad_Jacek/Fatum_Ingame.sap
+Various/Grad_Jacek/Fatum_Intro.sap
+Various/Grad_Jacek/Grom.sap
+Various/Grad_Jacek/Muff_1.sap
+Various/Grad_Jacek/Muff_2.sap
+Various/Grad_Jacek/Muff_3.sap
+Various/Husak_Jakub/Barbarian.sap
+Various/Husak_Jakub/Inside.sap
+Various/Kalinowski_Bartosz/Bartman.sap
+Various/Kalinowski_Bartosz/Move.sap
+Various/Kuczek_Konrad/Anna_Maria.sap
+Various/Kuczek_Konrad/Another_Day_in_Paradise.sap
+Various/Kuczek_Konrad/Mama.sap
+Various/Kwiatek_Grzegorz/Alive.sap
+Various/Kwiatek_Grzegorz/Cubeniculosis.sap
+Various/Kwiatek_Grzegorz/Desastre.sap
+Various/Kwiatek_Grzegorz/Far_Away.sap
+Various/Kwiatek_Grzegorz/Soul_Breakin.sap
+Various/Kwiatek_Grzegorz/Ultra_End.sap
+Various/Kwiatek_Grzegorz/Ultra_Intro.sap
+Various/Kwiatek_Grzegorz/Ultra_Main.sap
+Various/Luberda_Michal/Kernaw.sap
+Various/Pet/Convention.sap
+Various/Pet/Orient.sap
+Various/Pet/The_Troubles.sap
+Various/Podedworny_Wojtek/Elza.sap
+Various/Podedworny_Wojtek/Fast.sap
+Various/Podedworny_Wojtek/Psycho.sap
+Various/Podedworny_Wojtek/Tech.sap
+Various/Podedworny_Wojtek/Tech_Ingame.sap
+Various/Podedworny_Wojtek/Wizard.sap
+Various/Pucimski_Rafal/Vasco_X_Faketro.sap
+Various/Radecki_Michal/Entrance_of_Dragon_Intro_1.sap
+Various/Radecki_Michal/Entrance_of_Dragon_Intro_2.sap
+Various/Radecki_Michal/Entrance_of_Dragon_Speech.sap
+Various/Radecki_Michal/Neuroid.sap
+Various/Radecki_Michal/Neuroid_Ingame.sap
+Various/Skwiot_Stanislaw/Fortuna.sap
+Various/Skwiot_Stanislaw/Jaskiniowiec.sap
+Various/Skwiot_Stanislaw/Music_from_Poland_1.sap
+Various/Skwiot_Stanislaw/Music_from_Poland_2.sap
+Various/Skwiot_Stanislaw/Music_from_Poland_3.sap
+Various/Skwiot_Stanislaw/Music_from_Poland_4.sap
+Various/Skwiot_Stanislaw/Music_from_Poland_5.sap
+Various/Skwiot_Stanislaw/Music_from_Poland_II_p_1_2.sap
+Various/Skwiot_Stanislaw/Music_from_Poland_II_p_3_4.sap
+Various/Skwiot_Stanislaw/Roxette.sap
+Various/Skwiot_Stanislaw/Stanley.sap
+Various/Swierszcz_Piotr/Scream.sap
+Various/Sychowicz_Lukasz/Cabil.sap
+Various/Sychowicz_Lukasz/Hypnotic.sap
+Various/Sychowicz_Lukasz/Nitro.sap
+Various/Sychowicz_Lukasz/Out_of_Bag.sap
+Various/Sychowicz_Lukasz/Overload.sap
+Various/Sychowicz_Lukasz/Overmind_Final.sap
+Various/Sychowicz_Lukasz/Overmind_TLB.sap
+Various/Sychowicz_Lukasz/Porazka.sap
+Various/Sychowicz_Lukasz/Taquart_Demo_Loader.sap
+Various/Sychowicz_Lukasz/Time.sap
+Various/Sychowicz_Lukasz/Trep.sap
+Various/Sychowicz_Lukasz/Typewriter.sap
+Various/Sychowicz_Lukasz/X_Ray_2.sap
+Various/Top_Odin/Galahad.sap
+Various/Top_Odin/Galahad_Ingame.sap
+Various/Top_Odin/Indiana_Jones.sap
+Various/Top_Odin/Indiana_Jones_Ingame.sap
+Various/Top_Odin/Renegade.sap
+Various/Top_Odin/Riot.sap
+Various/Top_Odin/Terminator_Ingame.sap
+Various/Top_Odin/Terminator_Intro.sap
+Various/Top_Odin/Terminator_The_End.sap
+Various/Top_Odin/Terminator_Title.sap
+Various/Vogt_Dariusz/DJ_V_1.sap
+Various/Vogt_Dariusz/DJ_V_2.sap
+Various/Vogt_Dariusz/DJ_V_3.sap
+Various/Wasilewski_Dariusz/Back_of_a_King.sap
+Various/Wasilewski_Dariusz/Daras.sap
+Various/Wasilewski_Dariusz/Daras_2.sap
+Various/Wasilewski_Dariusz/Demo.sap
+Various/Wasilewski_Dariusz/Guitar_Solo.sap
+Various/Wasilewski_Dariusz/Iiichhaa.sap
+Various/Wasilewski_Dariusz/Laguna.sap
+Various/Wasilewski_Dariusz/Micro.sap
+Various/Wasilewski_Dariusz/Middle_Ages.sap
+Various/Wasilewski_Dariusz/No_Limits.sap
+Various/Wasilewski_Dariusz/RSI_1.sap
+Various/Wasilewski_Dariusz/Ship.sap
 
 Better rips
 -----------
-Various/Dojwa_Jacek/Pang.sap (includes subtunes)
-Various/Krawczyk_Adam/Tawerna.sap (more subtunes)
-Various/Podedworny_Wojtek/Pandemonium.sap (includes subtunes)
+Classics/Brooke_Jason/Feud.sap
+Games/Classic/Ball_Blazer.sap
+Various/Sychowicz_Lukasz/Barymag_2_8.sap
+
+Credits fixes
+-------------
+Various/Skwiot_Stanislaw/Magia_Krysztalu.sap
+Various/Sychowicz_Lukasz/Porazka_2.sap
+
+Filename and location changes (location may change also because of credits fix)
+-----------------------------
+Demos/Hobbytronic_90_Vector_Ball.sap > Demos/Hobbytronic_91_Vector_Ball.sap 
+Demos/Hobbytronic_90_Vector_Part.sap > Demos/Hobbytronic_91_Vector_Part.sap 
+Demos/Title_Song.sap > Various/Duesterhoeft_Stephan/Hobbytronic_90_Title_Song.sap
+Demos/Tekkno.sap > Various/Drozdowski_Marek/Out_of_Time_Tekkno_Part.sap
+Demos/Twarze_i_Cienie.sap > Various/Grad_Jacek/Twarze_i_Cienie.sap
+Games/Various/Streets.sap > Various/Szymczuk_Daniel/
+Games/Various/Streets_Ingame.sap > Various/Szymczuk_Daniel/
+Unsorted/Benny.sap > Unsorted/Benny_Hill_Show_theme.sap
+Unsorted/Extra.sap > Various/Grad_Jacek/Extra.sap
 
 Removed files
 -------------
-Various/Sychowicz_Lukasz/Ketchup.sap (all subtunes contained in Graba.sap)
+Unsorted/Introd.sap
