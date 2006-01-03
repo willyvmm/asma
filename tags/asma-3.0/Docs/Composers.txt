@@ -1,0 +1,110 @@
+Known Atari composers and handles                                 Jan 03 2006
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This list contains only composers who have at least 3 songs in ASMA
+collection. The composers are sorted in ABC order according to their surnames
+(if known, otherwise by their handles). There are 104 composers in this list.
+
+Badkowski, Marek - Bac
+Benoth, Sukkor - KS
+Bienias, Adam - SoTe
+Bloszko, Marek - Markus
+Brooke, Jason C.
+Bruenninski, Uwe - Hu-Soft
+Bryla, Krzysztof - Woppie, Foster
+Ce-Pumpkin
+Cierkonski, Michal - Morgoth
+<?> - Claas Clever
+Cornelius, Orall
+Czartynski, Marcin - Cedyn
+<?> - Czlowiek W Atomizerze
+Dariusz Duma - Dhor
+Dojwa, Jacek
+Drozdowski, Marek - Marucha
+Duesterhoeft, Stephan - Benjy
+Eisenhammer, Zdenek - PG, PseudoGrafx
+Ezcan, Kemal - KE-SOFT
+Galinski, Adrian - Daxey
+Gilmore, Adam
+Gmurek, Konrad - KeyG
+Golewski Filip, - Zoltar X
+Gora, Jakub - Cubes
+Grabowski, Pawel
+Grad, Jacek - Tabu
+Grzyb, Janusz
+Gwozdziej, Mirek - Zur-soft 1/2
+<?> - Hard Software
+Hay, Adam - Sack
+Holda, Leszek
+Hubbard, Rob
+Hudak, Matej - Elan
+Huntington, Glenys
+Husak, Jakub
+Iwaszko, Krystian - Pinokio
+Jastrzemski, Marcin - Fatman
+Johnson, Steve
+Kalinowski, Bartosz - Bartman
+Karwacki, Jakub - Yezus
+Karwoth, Torsten
+Kazimierczak, Leszek - Mr MB
+Kociuba, Dariusz - Sherlock
+Krasuski, Jaroslaw - Jaras
+Krawczyk, Adam
+Kucharski, Konrad - Kuchara
+Kucisz, Tomasz - VLX
+Kuczek, Konrad
+Kulinski, Grzegorz - QLX
+Kwiatek, Grzegorz - Greg
+Lajciak, Pavol - pL79, Flame
+Lepkowski, Michal - Josh
+Liebich, Tomasz
+Lis, Piotr - Lisu
+Loos, Uwe
+Luberda, Michal
+Luszcz, Tomasz
+Majewski, Jerzy - Zur-soft 2/2
+Majewski, Tomasz - Mayonez
+Makara, Grzegorz
+Makowski, Robert - Gutek
+Martin, Aleksander - Alex
+Matoga, Adrian - Epi
+Matyasik, Krzysztof - Mateoos
+Mikolajczak, Pawel
+Mrozowski, Robert
+Munns, Richard
+Nabialek, Dawid - Dave
+Numan, Daniel - Zbx Virus
+Oscadal, Filip - Fred Brooker
+Padula, Jaroslaw - Solo
+Pelc, Janusz
+Pesout, Marek - Poison
+Podedworny, Wojtek - Ferro
+Przybyszewski, Krzysztof - BLB
+Pucinski, Rafal - Dex
+Radecki, Michal - Tehno
+Radzikowski, Ireneusz - Jager
+<?> - Rentgen
+Roemer, Markus - R.I.K
+Roszkowski, Marek - Marcys
+<?> - Ramzes
+Sasik, Marek
+Sedlak, Jiri
+Sikorski, Pawel - Sikor
+Skwiot, Stanislaw - Stanley
+Sledz, Slawek - Slaves
+Sterba, Radek - Raster
+Swierszcz, Piotr - Samurai, Tatqoo
+Sychowicz, Lukasz - X-Ray
+Szmatola, Krzysztof - Thor
+Szpilowski, Michal - Miker
+Szymczuk, Daniel - Lorien
+<?> - Top Odin
+Tegethoff, Sven - Gnome Design
+Trokowicz, B.
+Vavra, Karel
+Vogt, Dariusz - DJ V
+Vybostok, Marian - Goldmaster
+Wasiel, Bartek - BeWu
+Wasilewski, Dariusz - Trener
+Whittaker, David
+Witkiewicz, Dariusz - Flash
+Witkowski, Przemyslaw
