@@ -7,7 +7,7 @@ of the ASMA (out of version 1.7).
 Number of new tunes: 61
 Better rips: 6
 Credits fixes: 11
-Filename and location changes: 13
+Filename and location changes: 12
 Removed tunes: 2
 
 New tunes
@@ -26,9 +26,7 @@ Games/Various/Vioris.sap
 Games/Various/Vioris_Ingame.sap
 Unsorted/Debilizator_1_Music_2.sap
 Unsorted/Debilizator_1_Pytadlo_o_In.sap
-Unsorted/Riders_From_The_Stars.sap
 Unsorted/Silent_But_Violent_Main.sap
-Unsorted/The_Truth_Is_Out_There.sap
 Various/Bienias_Adam/Train_Sampled_version.sap
 Various/Czartynski_Marcin/Top_Secret.sap
 Various/Dojwa_Jacek/Hydraulik_Ingame.sap
@@ -45,6 +43,8 @@ Various/Majewski_Tomasz/BQL_Puzzle.sap
 Various/Majewski_Tomasz/BQL_Puzzle_Ingame.sap
 Various/Majewski_Tomasz/BQL_Puzzle_Ingame_2.sap
 Various/Majewski_Tomasz/BQL_Puzzle_The_End.sap
+Various/Majewski_Tomasz/Riders_From_The_Stars.sap
+Various/Majewski_Tomasz/The_Truth_Is_Out_There.sap
 Various/Martin_Aleksander/Bobsland.sap
 Various/Martin_Aleksander/Nexus.sap
 Various/Martin_Aleksander/Nexus_Ingame_1.sap
@@ -66,7 +66,7 @@ Various/Numan_Daniel/Pentagram_3_Music_2.sap
 Various/Numan_Daniel/Pentagram_3_Music_3.sap
 Various/Numan_Daniel/Pentagram_3_Music_4.sap
 Various/Padula_Jaroslaw/Apocalipse_Time_Info.sap
-Various/Podedworny_Jacek/Pandemonium.sap
+Various/Podedworny_Wojtek/Pandemonium.sap
 Various/Szpilowski_Michal/Banzai.sap
 Various/Sychowicz_Lukasz/ABC.sap
 Various/Sychowicz_Lukasz/ABC_Ingame.sap
@@ -100,18 +100,17 @@ Various/Vogt_Dariusz/DJ_V_3.sap : DATE "1996"
 Filename and location changes (these may change also because of credits fix)
 -----------------------------
 Demos/Vengeance_End.sap > Various/Lepkowski_Michal/
-Unsorted/CompyShop_Magazine_Intro_1.sap > CompyShop_Magazin_07_88.sap
-Unsorted/CompyShop_Magazine_Intro_2.sap > CompyShop_Magazin_09_88.sap
-Unsorted/CompyShop_Magazine_Intro_3.sap > CompyShop_Magazin_10_88.sap
-Unsorted/CompyShop_Magazine_Intro_4.sap > CompyShop_Magazin_Inside_B.sap
+Games/Classic/Whistler_Brothers.sap > Whistlers_Brothers.sap
 Games/Various/Incydent.sap > Various/Makowski_Robert/Incydent_Ingame.sap
 Games/Various/Micro_Man.sap > Various/Dojwa_Jacek/
 Games/Various/Micro_Man_Ingame.sap > Various/Dojwa_Jacek/
 Games/Various/Najemnik.sap > Various/Luszcz_Tomasz/
 Games/Various/Wladca.sap > Various/Luszcz_Tomasz/
-Unsorted/Riders_From_The_Stars.sap > Various/Majewski_Tomasz/
+Unsorted/CompyShop_Magazine_Intro_1.sap > CompyShop_Magazin_07_88.sap
+Unsorted/CompyShop_Magazine_Intro_2.sap > CompyShop_Magazin_09_88.sap
+Unsorted/CompyShop_Magazine_Intro_3.sap > CompyShop_Magazin_10_88.sap
+Unsorted/CompyShop_Magazine_Intro_4.sap > CompyShop_Magazin_Inside_B.sap
 Unsorted/Silent_But_Violent_Intro.sap > Various/Lepkowski_Michal/
-Unsorted/The_Truth_Is_Out_There.sap > Various/Majewski_Tomasz/
 
 Removed files
 -------------

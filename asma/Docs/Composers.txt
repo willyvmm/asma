@@ -1,8 +1,8 @@
-Known Atari composers and handles                                 Apr 27 2005
+Known Atari composers and handles                                 Jan 03 2006
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This list contains only composers who have at least 3 songs in ASMA
 collection. The composers are sorted in ABC order according to their surnames
-(if known, otherwise by their handles). There are 99 composers in this list.
+(if known, otherwise by their handles). There are 104 composers in this list.
 
 Badkowski, Marek - Bac
 Benoth, Sukkor - KS
@@ -13,8 +13,10 @@ Bruenninski, Uwe - Hu-Soft
 Bryla, Krzysztof - Woppie, Foster
 Ce-Pumpkin
 Cierkonski, Michal - Morgoth
+<?> - Claas Clever
 Cornelius, Orall
 Czartynski, Marcin - Cedyn
+<?> - Czlowiek W Atomizerze
 Dariusz Duma - Dhor
 Dojwa, Jacek
 Drozdowski, Marek - Marucha
@@ -26,6 +28,7 @@ Gilmore, Adam
 Gmurek, Konrad - KeyG
 Golewski Filip, - Zoltar X
 Gora, Jakub - Cubes
+Grabowski, Pawel
 Grad, Jacek - Tabu
 Grzyb, Janusz
 Gwozdziej, Mirek - Zur-soft 1/2
@@ -34,8 +37,10 @@ Hay, Adam - Sack
 Holda, Leszek
 Hubbard, Rob
 Hudak, Matej - Elan
+Huntington, Glenys
 Husak, Jakub
-Jastrzebski, Dominik - Fatman
+Iwaszko, Krystian - Pinokio
+Jastrzemski, Marcin - Fatman
 Johnson, Steve
 Kalinowski, Bartosz - Bartman
 Karwacki, Jakub - Yezus
@@ -74,23 +79,22 @@ Pelc, Janusz
 Pesout, Marek - Poison
 Podedworny, Wojtek - Ferro
 Przybyszewski, Krzysztof - BLB
-Pucimski, Rafal - Dex
+Pucinski, Rafal - Dex
 Radecki, Michal - Tehno
 Radzikowski, Ireneusz - Jager
 <?> - Rentgen
+Roemer, Markus - R.I.K
 Roszkowski, Marek - Marcys
 <?> - Ramzes
 Sasik, Marek
 Sedlak, Jiri
 Sikorski, Pawel - Sikor
-Skowiniak, Krystian - Pinokio
 Skwiot, Stanislaw - Stanley
 Sledz, Slawek - Slaves
 Sterba, Radek - Raster
-Swiecicki, Krzysztof - Swiety
 Swierszcz, Piotr - Samurai, Tatqoo
 Sychowicz, Lukasz - X-Ray
-Szmatola, Krysztof
+Szmatola, Krzysztof - Thor
 Szpilowski, Michal - Miker
 Szymczuk, Daniel - Lorien
 <?> - Top Odin
@@ -103,3 +107,4 @@ Wasiel, Bartek - BeWu
 Wasilewski, Dariusz - Trener
 Whittaker, David
 Witkiewicz, Dariusz - Flash
+Witkowski, Przemyslaw

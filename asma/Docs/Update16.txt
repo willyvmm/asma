@@ -6,8 +6,8 @@ of the ASMA (out of version 1.5).
 Number of new tunes: 44
 Better rips: 11
 Credits fixes: 72
-Filename and location changes: 13
-Removed tunes: 5
+Filename and location changes: 15
+Removed tunes: 4
 
 New tunes
 ---------
@@ -15,14 +15,12 @@ Demos/Banklan_1.sap
 Demos/Banklan_2.sap
 Demos/Joyride_End.sap
 Demos/Joyride_Landscape.sap
-Games/Various/Deathland.sap
 Games/Various/Dynakillers.sap
 Games/Various/Incydent.sap
 Games/Various/Kult.sap
 Games/Various/Turbican.sap
 Unsorted/Historia.sap
 Unsorted/Picasso.sap
-Unsorted/Silent_But_Violent_Intro.sap
 Various/Bienias_Adam/Unknown_2.sap
 Various/Czartynski_Marcin/Saper_Konstruktor.sap
 Various/Drozdowski_Marek/Lemmings_Prevision.sap
@@ -60,17 +58,17 @@ Various/Szpilowski_Michal/Vagabond.sap
 
 Better rips
 -----------
-Games/Classic/Loco.sap (tune now loops)
-Unsorted/Qwerty.sap (totally messed-up tune :-)
-Various/Kwiatek_Grzegorz/Failure_Dream.sap (now plays in stereo; also renamed from "97th_Last_Party_Invitro_1.sap")
+Games/Classic/Loco.sap (song now loops)
+Unsorted/Qwerty.sap (totally messed-up song :-)
+Various/Kwiatek_Grzegorz/Failure_Dream.sap (now plays in stereo)
 Various/Kwiatek_Grzegorz/Soul_Breakin.sap (shorter binary)
 Various/Kwiatek_Grzegorz/Ultra_End.sap (now plays with doublespeed sounds)
 Various/Kwiatek_Grzegorz/Ultra_Intro.sap (now plays in stereo)
 Various/Kwiatek_Grzegorz/Voice_of_Silence.sap (shorter binary)
-Various/Swierszcz_Piotr/Intel_Outside_4_Invitro_In.sap (repeating sound at the end removed, also renamed from "Intel_Outside_4_Intro.sap")
-Various/Szpilowski_Michal/Extract_Collection.sap (wrong tune start)
-Various/Szpilowski_Michal/Extract_End.sap (wrong tune start)
-Various/Szpilowski_Michal/Extract_Intro.sap (wrong tune start)
+Various/Swierszcz_Piotr/Intel_Outside_4_Invitro_In.sap (repeating sound at the end removed)
+Various/Szpilowski_Michal/Extract_Collection.sap (wrong song start)
+Various/Szpilowski_Michal/Extract_End.sap (wrong song start)
+Various/Szpilowski_Michal/Extract_Intro.sap (wrong song start)
 
 Credits fixes
 -------------
@@ -88,7 +86,7 @@ Unsorted/Barymag_1_7.sap > Various/Szpilowski_Michal/Barymag_1_7.sap
 Unsorted/Barymag_1_8.sap > Various/Drozdowski_Marek/Barymag_1_8.sap
 Unsorted/Dreams.sap > Various/Kwiatek_Grzegorz/
 Unsorted/Hcl5.sap > Various/Kalinowski_Bartosz/
-Unsorted/Silver_But_Violent_Intro.sap : AUTHOR "<?> (Josh)" NAME "Silent but Violent"
+Unsorted/Silver_But_Violent_Intro.sap > Silent_But_Violent_Intro.sap : AUTHOR "<?> (Josh)" NAME "Silent but Violent"
 Unsorted/Zepi.sap > Various/Kalinowski_Bartosz/
 Various/Bienias_Adam/Music_1.sap > Unknown.sap
 Various/Drozdowski_Marek/Lemmings_2.sap > Lemmings_Prevision_Intro.sap
@@ -158,15 +156,16 @@ Games/Classic/Tiger_Attack.sap > Various/Cornelius_Orall/
 Games/Classic/Wladca.sap > Games/Various/
 Games/Various/Adax.sap > Various/Szmatola_Krzysztof/
 Games/Various/Adax_Ingame.sap > Various/Szmatola_Krzysztof/
-Unsorted/Deathlan.sap > Games/
+Unsorted/Deathlan.sap > Games/Various/Deathland.sap
 Unsorted/Magnetic_Fields.sap > Demos/
 Unsorted/Special_Forces.sap > Various/Galinski_Adrian/
 Various/Dhor/ > Various/Duma_Dariusz/ (All songs in this directory have credits fixed)
+Various/Kwiatek_Grzegorz/97th_Last_Party_Invitro_1.sap > Failure_Dream.sap
+Various/Swierszcz_Piotr/Intel_Outside_4_Intro.sap > Intel_Outside_4_Invitro_In.sap
 
 Removed files
 -------------
 Games/Classic/WhistlerBrothers.sap (not removed by mistake)
-Unsorted/Pmix.sap (not removed by mistake)
-Unsorted/Przepraszam.sap (not removed by mistake)
 Various/Drozdowski_Marek/Barymag_1_2.sap (same as Sweet_Illusion_APC_Part.sap)
+Various/Kalinowski_Bartosz/Bartman.sap
 Various/Kwiatek_Grzegorz/Energy_1_Intro.sap (same as Expression_1.sap)

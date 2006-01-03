@@ -1,30 +1,33 @@
-Currently we are searching for these rips (mostly we have the binaries):
+Currently we are searching for these rips (mostly we can provide the
+binaries):
 
 Ben Daglish
 Rampage
 
 Kemal Ezcan
-(any tunes)
+(any songs)
 
 Rob Hubbard <?>
 Action Biker
 
+Orall Cornelius
+Super Soccer
+
 Fred Brooker
-Replugged, Microx ingame tunes
+Replugged, Microx ingame songs
 
 Hard Software
-Blip, Cool Emotion (digitunes)
+Blip, Cool Emotion (digisongs)
 
 Classic games
 Air Strike 2, Alf, Alternate Reality: The City, Alternate Reality: The
-Dungeon, Archon 2 Adept, Astrodroid, Ataroid, Aztec Challenge 1983, Ball
-Blaster, Bristles, Creep, Donkey Kong Junior, Donkey, Kong, Frogger 1,
-Frogger 2, Ghostbusters (incl. speech), Gremlins, Gyruss, Hardball, Henri,
-Henry's House, Hover Bovver, Jump!, Jungle Hunt, Keystone Kapers, Mr. Do's
-Castles, Pengon, Pharaoh's Curse, Pole Position, Pooyan, Preppie!,
-Preppie! 2, Q*bert, Rampage, Screaming Wings, Seawolf 2, Shadow World, Spy's
-Demise, Starquake, Tarzan, Unicum...
+Dungeon, Archon 2 Adept, Astrodroid, Ataroid, Aztec Challenge 1983, Bristles,
+Creep, Donkey Kong, Donkey Kong Junior, Frogger 1, Frogger 2, Ghostbusters
+(incl. speech), Gremlins, Gyruss, Hardball, Henri, Henry's House,
+Hover Bovver, Jump!, Jungle Hunt, Keystone Kapers, Mr. Do's Castles, Pengon,
+Pharaoh's Curse, Pole Position, Pooyan, Preppie!, Preppie! 2, Q*bert,
+Rampage, Screaming Wings, Seawolf 2, Shadow World, Spy's Demise, Starquake,
+Tarzan, Unicum...
 
 New wave games
-Alienbusters, Atomia, Grunwald, Krucjata, Megablast (digitunes), Mental
-Age, etc.
+Alienbusters, Atomix+, Krucjata, Megablast (digisongs), etc.

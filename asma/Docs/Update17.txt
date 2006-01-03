@@ -4,11 +4,11 @@ Date: August 22, 2000
 These rips together with the original ASMA collection will make version 1.7
 of the ASMA (out of version 1.6).
 
-Number of new tunes: 51
-Better rips: 2
-Credits fixes: 7
-Filename and location changes: 11
-Removed tunes: 3
+Number of new tunes: 50
+Better rips: 3
+Credits fixes: 8
+Filename and location changes: 13
+Removed tunes: 2
 
 New tunes
 ---------
@@ -60,10 +60,8 @@ Various/Sterba_Radek/Volleyball.sap
 Various/Sterba_Radek/Volleyball_Tune_2.sap
 Various/Sterba_Radek/Yamahademo_Song_A.sap
 Various/Sterba_Radek/Yamahademo_Song_Q.sap
-Various/Sychowicz_Lukasz/Gravestone.sap
 Various/Szpilowski_Michal/Sej-mik.sap
 Various/Szpilowski_Michal/Sleepy_Passage.sap
-Various/Top_Odin/SOS_Saturn_Intro.sap
 
 Better rips
 -----------
@@ -81,7 +79,6 @@ Various/Szpilowski_Michal/Barymag_1_7.sap : DATE "1994"
 Various/Vogt_Dariusz/Ballada_O_Januszku.sap : DATE "1997"
 Various/Vogt_Dariusz/Maluchem_Na_Party.sap : DATE "1997"
 Various/Vogt_Dariusz/Najebany_Mikolajza.sap : DATE "1997"
-Various/Sychowicz_Lukasz/X_Ray_1.sap : NAME "Gravestone"
 
 Filename and location changes (these may change also because of credits fix)
 -----------------------------
@@ -90,15 +87,16 @@ Demos/Alpha.sap > Various/Vybostok_Marian/
 Games/Various/Dynakillers.sap > Various/Vybostok_Marian/
 Games/Various/Dynakillers_Demo.sap > Various/Vybostok_Marian/
 Games/Various/Numblines.sap > Various/Kucisz_Tomasz/
+Games/Various/SOS_Saturn.sap > Various/Top_Odin/SOS_Saturn_Intro.sap
 Various/Szpilowski_Michal/The_Misty_Day.sap > Misty_Day.sap
 Various/Swierszcz_Piotr/The_Pain.sap > Pain.sap
 Various/Kwiatek_Grzegorz/The_Power.sap > Power.sap
 Various/Pet/The_Troubles.sap > Troubles.sap
+Various/Sychowicz_Lukasz/X_Ray_1.sap > Gravestone.sap : NAME "Gravestone"
 Unsorted/Disk_Copy.sap > Various/Kucisz_Tomasz/
 Unsorted/Lark.sap > Various/Karwacki_Jakub/
 
 Removed files
 -------------
-Various/Kalinowski_Bartosz/Caveman.sap (same as Various/Swierszcz_Piotr/Total_Daze.sap)
 Various/Kwiatek_Grzegorz/Angel.sap (same as Angel_of_Death.sap)
 Unsorted/Qwerty.sap (same as Various/Karwacki_Jakub/Lark.sap)

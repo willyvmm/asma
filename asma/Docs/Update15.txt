@@ -3,7 +3,7 @@ ASMA Update #15
 These rips together with the original ASMA collection will make version 1.5
 of the ASMA (out of version 1.4).
 
-Number of new tunes: 77
+Number of new tunes: 78
 Filename and location changes: 4
 Removed tunes: 1
 
@@ -87,12 +87,6 @@ Various/Padula_Jaroslaw/Trans.sap
 Various/Padula_Jaroslaw/Xc9012.sap
 Various/Pelc_Janusz/Captain_Gather.sap
 Various/Szpilowski_Michal/Barymag_1_1.sap
-
-Better rips
------------
-
-Credits fixes
--------------
 
 Filename and location changes (location may change also because of credits fix)
 -----------------------------

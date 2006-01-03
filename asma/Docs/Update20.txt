@@ -4,10 +4,10 @@ Date: August 4, 2001
 These rips together with the original ASMA collection will make version 2.0
 of the ASMA (out of version 1.9).
 
-Number of new tunes: 70
+Number of new tunes: 71
 Better rips: 5
-Credits fixes: 25
-Filename and location changes: 27
+Credits fixes: 20
+Filename and location changes: 25
 
 New tunes
 ---------
@@ -37,7 +37,6 @@ Games/Classic/Strip_Poker.sap
 Games/Classic/Tapper.sap
 Games/Various/Megablast.sap
 Unsorted/Abbuc_39.sap
-Unsorted/Back_to_Life.sap
 Unsorted/Forest.sap
 Unsorted/Lamaliza.sap
 Unsorted/Short.sap
@@ -74,6 +73,7 @@ Various/Cierkonski_Michal/Coitus_Interruptus.sap
 Various/Cierkonski_Michal/Polyphonic_Pollution.sap
 Various/Cierkonski_Michal/Wit_Beer_Forever.sap
 Various/Oscadal_Filip/Lemmings_Intro_2.sap
+Various/Radzikowski_Ireneusz/Back_to_Life.sap
 Various/Radzikowski_Ireneusz/Comeback.sap
 Various/Sychowicz_Lukasz/Overmind_3.sap
 Various/Sychowicz_Lukasz/Overmind_8.sap
@@ -104,17 +104,11 @@ Classics/Hubbard_Rob/International_Karate.sap : DATE "1986"
 Classics/Munns_Richard/Plastron.sap : NAME "Plastron" DATE "1990"
 Classics/Whittaker_David/Amaurote.sap : DATE "1987"
 Classics/Whittaker_David/Panther.sap : DATE "1987"
-Demos/Strange_Mountains.sap : AUTHOR "Jiri Bernasek (Bewesoft)"
+Demos/Strange_Mountains_II.sap : AUTHOR "Jiri Bernasek (Bewesoft)"
 Games/Classic/Axis_Slotmachine.sap : AUTHOR "Christoph Schulte-Vennbur"
-Games/Classic/Bomb_Fusion.sap : AUTHOR "<?> (Riff)" DATE "1989"
-Games/Classic/Milk_Race.sap : AUTHOR "Tiny Williams" DATE "1987"
 Games/Classic/Spy_vs_Spy_3.sap : AUTHOR "Nick Scarim" DATE "1986"
 Games/Classic/Zorro.sap : DATE "1985"
 Games/Various/Puzmania.sap : AUTHOR "Ireneusz Radzikowski (Jager)"
-Various/Hard_Software/Joyride_End.sap : AUTHOR "Jeroen Tel / <?> (Hard Software)
-Various/Hard_Software/Joyride_Landscape.sap : AUTHOR "Alain Hertenstein (Iron Cat) / <?> (Hard Software)"
-Various/Hard_Software/Joyride_Scrolls.sap : AUTHOR "Thomas E. Petersen (Laxity) / <?> (Hard Software)"
-Various/Hard_Software/Joyride_Turn_Disk.sap : AUTHOR "Markus Schneider / <?> (Hard Software)"
 Various/Liebich_Tomasz/Technus.sap : AUTHOR "Tomasz Liebich" DATE "1993"
 Various/Oscadal_Filip/Lemmings_Intro.sap : DATE "1993"
 Various/Sychowicz_Lukasz/Overmind_TLB.sap : NAME "Ovedmind (TLB)"
@@ -123,21 +117,20 @@ Various/Wasilewski_Dariusz/Technoid.sap : DATE "1995"
 Filename and location changes (these may change also because of credits fix)
 -----------------------------
 Classics/Daglish_Ben/Basil.sap > Games/Classic/
-Classics/Whittaker_David/Milk_Race.sap > Games/Classic/
+Classics/Whittaker_David/Milk_Race.sap > Games/Classic/ : AUTHOR "Tiny Williams" DATE "1987"
 Demos/Annael.sap > Various/Flash/
-Demos/Joyride_End.sap > Various/Hard_Software/
+Demos/Joyride_End.sap > Various/Hard_Software/ : AUTHOR "Jeroen Tel / <?> (Hard Software)"
 Demos/Joyride_Info.sap > Various/Hard_Software/
 Demos/Joyride_Juggler.sap > Various/Hard_Software/
-Demos/Joyride_Landscape.sap > Various/Hard_Software/
+Demos/Joyride_Landscape.sap > Various/Hard_Software/ : AUTHOR "Alain Hertenstein (Iron Cat) / <?> (Hard Software)"
 Demos/Joyride_Plasma.sap > Various/Hard_Software/
-Demos/Joyride_Scrolls.sap > Various/Hard_Software/
+Demos/Joyride_Scrolls.sap > Various/Hard_Software/ : AUTHOR "Thomas E. Petersen (Laxity) / <?> (Hard Software)"
 Demos/Joyride_Tunnel.sap > Various/Hard_Software/
-Demos/Joyride_Turn_Disk.sap > Various/Hard_Software/
+Demos/Joyride_Turn_Disk.sap > Various/Hard_Software/ : AUTHOR "Markus Schneider / <?> (Hard Software)"
 Demos/Joyride_Twirl.sap > Various/Hard_Software/
-Games/Various/Bomb_Fusion.sap > Games/Classic/
+Games/Various/Bomb_Fusion.sap > Games/Classic/ : AUTHOR "<?> (Riff)" DATE "1989"
 Games/Various/Microx.sap > Various/Oscadal_Filip/
 Games/Various/Puzmania.sap > Various/Radzikowski_Ireneusz/
-Unsorted/Back_to_Life.sap > Various/Radzikowski_Ireneusz/
 Various/Badkowski_Marek/Energy_1_1.sap > Deafman.sap
 Various/Cornelius_Orall/Ruff_And_Reddy.sap > Classics/Cornelius_Orall/
 Various/Cornelius_Orall/Speed_Hawk.sap > Classics/Cornelius_Orall/
