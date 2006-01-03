@@ -123,7 +123,7 @@ Various/Vavra_Karel_and_Sedlak_Jiri/Technotrax_Info.sap
 
 Better rips
 -----------
-Various/Loos_Uwe/Das_Omen_Intro.sap (tune didn't play with newer versions of SAP library)
+Various/Loos_Uwe/Das_Omen_Intro.sap (song didn't play with newer versions of SAP library)
 
 Credits fixes (includes filename or location changes)
 -----------------------------------------------------

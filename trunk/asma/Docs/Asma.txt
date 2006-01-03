@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 2.9
+                                  Version 3.0
 
                          Started on 4th of August 1999
-                       Last updated on 28th of April 2005
+                      Last updated on 3rd of January 2006
 
-                      Total number of tunes: 1900 (69 new)
+                     Total number of songs: 2006 (128 new)
 
 
  Introduction
@@ -32,43 +32,44 @@
 
  Statistics
  ~~~~~~~~~~
- Number of tunes:      1900 (2425 including subtunes)
- Compared to HVSC:     6,5 % (HVSC v5.9 contains 29055 tunes)
- Disk space ocupied:   11087448 bytes (excluding documents)
- Average SAP filesize: 5792 bytes
- Songs with subsongs:  175
- Unsorted tunes:       86
- Number of musicians:  99
- Most active musician: Lukasz Sychowicz    (121 songs + 13 cooperations)
- Biggest SAP tune:     Garfield_Part_2.sap (61547 bytes)
- Smallest SAP tune:    Self_Test.sap       (150 bytes)
- Files with subtunes:
-  2 tunes: 58x
-  3 tunes: 37x
-  4 tunes: 30x
-  5 tunes: 25x
-  6 tunes: 10x
-  7 tunes:  4x
-  8 tunes:  4x
-  9 tunes:  3x
- 10 tunes:  2x
- 11 tunes:  2x
- 13 tunes:  1x
- 14 tunes:  1x
- 15 tunes:  1x
- Total: 525 subtunes
+ Number of songs:      2006 (2580 including subsongs)
+ Compared to HVSC:     6,4 % (HVSC r44 contains 31330 songs)
+ Disk space ocupied:   11830849 bytes (excluding documents)
+ Average SAP filesize: 5898 bytes
+ Songs with subsongs:  198
+ Songs in stereo:      171
+ Unsorted songs:       72
+ Number of musicians:  104
+ Most active musician: Lukasz Sychowicz    (117 songs + 17 cooperations)
+ Biggest SAP file:     Garfield_Part_2.sap (61543 bytes)
+ Smallest SAP file:    Self_Test.sap       (150 bytes)
+ Files with subsongs:
+  2 songs: 64x
+  3 songs: 43x
+  4 songs: 33x
+  5 songs: 28x
+  6 songs: 12x
+  7 songs:  4x
+  8 songs:  4x
+  9 songs:  3x
+ 10 songs:  2x
+ 11 songs:  2x
+ 13 songs:  1x
+ 14 songs:  1x
+ 15 songs:  1x
+ Total: 574 subsongs
 
 
  Help!
  ~~~~~
- As you can see, there are lots of tunes in the 'Unsorted' directory. If
- you're 100% sure about origin of any of these tunes (Who did it, where does 
+ As you can see, there are lots of songs in the 'Unsorted' directory. If
+ you're 100% sure about origin of any of these songs (Who did it, where does 
  it come from, when was it composed), please let us know immediately so that 
- we can complete the information about the tune in ASMA (and move it to the 
+ we can complete the information about the song in ASMA (and move it to the 
  appropriate directory). We would welcome if you sent us also the binary file 
  (or an ATR/XFD disk image) with the original piece of software with that 
- tune. Mail any such information to pg@pinknet.cz. Our aim is to completely 
- annihilate the unrecognized tunes.
+ song. Mail any such information to pg@pinknet.cz. Our aim is to completely 
+ annihilate the unrecognized songs.
 
 
  For contributors
@@ -102,5 +103,4 @@
  E-mail:        pg@pinknet.cz
  ICQ:           66411804
  Homepage:      http://asma.atari.org
- Czech mirror:  http://asma.musichall.cz (Czech language)
  Polish mirror: http://atariarea.histeria.pl/asma

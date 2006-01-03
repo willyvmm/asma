@@ -4,20 +4,19 @@ Date: August 31, 2001
 These rips together with the original ASMA collection will make version 2.1
 of the ASMA (out of version 2.0).
 
-Number of new tunes: 131
-Better rips: 3
+Number of new tunes: 132
+Better rips: 2
 Credits fixes: 34
-Removed files: 5
+Removed files: 6
 
 New tunes
 ---------
 Demos/Digital_Trash.sap
 Demos/Running_Cow.sap
 Demos/Time_To_Enjoy_2.sap
-Demos/Ray_of_Hope_Display_List.sap
 Games/Classic/Dan_Strikes_Back.sap
-Games/Classic/Spaceball.sap
 Unsorted/Takie_Cos.sap
+Various/Bryla_Krzysztof/Ray_of_Hope_Display_List.sap
 Various/Bryla_Krzysztof/Ray_of_Hope_End.sap
 Various/Cierkonski_Michal/Ergo_Bibamus_Endpart.sap
 Various/Cierkonski_Michal/Ergo_Bibamus_Trackmo.sap
@@ -148,7 +147,6 @@ Various/Szpilowski_Michal/Stallion.sap
 Better rips
 -----------
 Classics/Gilmore_Adam/Arcade_Fruit_Machine_Simul.sap (wrong init address in previous update)
-Various/Czartynski_Marcin/Outer_1.sap (better rip of Outer_Part_1.sap, includes subtunes)
 Various/Liebich_Tomasz/Smus.sap (includes subtunes)
 
 Credits fixes (includes filename or location changes)
@@ -160,18 +158,19 @@ Demos/Ray_of_Hope_1.sap > Ray_of_Hope_Intro.sap : AUTHOR "<?> (Jaro)" NAME "Ray 
 Demos/Ray_of_Hope_2.sap > Ray_of_Hope_Shade_Bobs.sap : AUTHOR "Krzysztof Swiecicki (Swiety)" NAME "Ray of Hope - Shade Bobs"
 Demos/Ray_of_Hope_3.sap > Ray_of_Hope_Plasma.sap : AUTHOR "Lukasz Pazera (Pazur)" NAME "Ray of Hope - Plasma"
 Demos/Ray_of_Hope_4.sap > Ray_of_Hope_Bars.sap : AUTHOR "Krzysztof Swiecicki (Swiety)" NAME "Ray of Hope - Bars"
-Demos/Ray_of_Hope_Display_List.sap > Various/Bryla_Krzysztof/
 Games/Classic/Master_of_the_Lamps.sap : DATE "1985"
 Games/Classic/Quasimodo.sap : DATE "1984"
 Games/Classic/Shamus.sap > Shamus_Case_II.sap
-Games/Classic/Space_Ball.sap : NAME "Spaceball"
+Games/Classic/Space_Ball.sap > Spaceball.sap : NAME "Spaceball"
 Games/Classic/Submission.sap : DATE "1985"
 Games/Various/Neron_Ingame.sap > Various/Makara_Grzegorz/ : NAME "Neron - Ingame"
 Unsorted/Avm.sap > Various/Skowiniak_Krystian/
 Unsorted/Old_Socks.sap > Various/Skowiniak_Krystian/
 Unsorted/Piczka.sap > Various/Kucharski_Konrad/
 Unsorted/Silent_But_Violent_Main.sap > Various/Lepkowski_Michal/Angry_Virus.sap
-Various/Flash/ > Various/Witkiewicz_Dariusz/
+Various/Czartynski_Marcin/Outer_Part_I.sap > Outer_1.sap (better rip of Outer_Part_1.sap, includes subtunes)
+Various/Flash/Grass_Slideshow_End.sap > Various/Witkiewicz_Dariusz/
+Various/Flash/Grass_Slideshow_Main.sap > Various/Witkiewicz_Dariusz/
 Various/Golewski_Filip/Echo.sap > Echo_Sampled.sap
 Various/Hard_Software/Cool_Emotion_Heal_the_World.sap > Cool_Emotion_Heal_the_Worl.sap
 Various/Hard_Software/Veronika_2.sap : AUTHOR "Antti Hannula / <?> (Hard Software)"
@@ -192,5 +191,6 @@ Removed files
 Unsorted/Chip.sap (same as Various/Duesterhoeft_Stephan/Chiptune.sap)
 Various/Czartynski_Marcin/Barymag_1_3.sap (same as Outer.sap, subtune 4)
 Various/Czartynski_Marcin/Barymag_1_6.sap (same as Outer.sap, subtune 3)
+Various/Flash/Annael.sap (same as Various/Witkiewicz_Dariusz/Annael.sap)
 Various/Krawczyk_Adam/Euro_Demo_1.sap (same as Magic_Dimension_1.sap)
 Various/Numan_Daniel/Ascii_Art.sap (same as Pentagram_3_Info.sap, subtune 1)

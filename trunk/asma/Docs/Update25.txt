@@ -92,12 +92,12 @@ Various/Sychowicz_Lukasz/King_of_Agregat.sap (now plays in stereo)
 Credits fixes (includes filename or location changes)
 -----------------------------------------------------
 Games/Classic/Montezuma's_Revenge.sap > Montezumas_Revenge.sap
-Unsorted/Aggressive.sap > NAME "Marcin Dubicki (MacGyver)"
+Unsorted/Aggressive.sap : AUTHOR "Marcin Dubicki (MacGyver)"
 Unsorted/Digiloo-Digiley.sap > Digiloo_Digiley.sap
 Various/Czartynski_Marcin/Trans-X.sap > Trans_X.sap
 Various/Duesterhoeft_Stephan/A-Team_Theme.sap > A_TEAM_Theme.sap
 Various/Husak_Jakub/Wsrod_Gwiazd.Nadziei.sap > Wsrod_Gwiazd_Nadziei.sap : NAME "Wsrod Gwiazd Nadziei"
-Various/Kuczek_Konrad/A_Whiter_Shade_of_the_Snow.sap : NAME "A Whiter Shade of the Snow"
+Various/Kuczek_Ireneusz/A_Whiter_Shade_of_the_Snow.sap : NAME "A Whiter Shade of the Snow"
 Various/Lajciak_Pavol/R-Type.sap > R_Type.sap
 Various/Martin_Aleksander/Timeless_Announcement_First_Part.sap > Timeless_Announcement_1st.sap
 Various/Martin_Aleksander/Timeless_Announcement_Track_Scroll.sap > Timeless_Announcement_Trac.sap
@@ -106,6 +106,3 @@ Various/Padula_Jaroslaw/Alternative_Psychodelic_Trance.sap > Alternative_Psychod
 Various/Sychowicz_Lukasz/Porazka.sap : NAME "Porazka"
 Various/Sychowicz_Lukasz/Rage_against_16-bit.sap > Rage_against_16_bit.sap
 Various/Szpilowski_Michal/Sej-mik.sap > Sej_mik.sap
-
-Removed files
--------------

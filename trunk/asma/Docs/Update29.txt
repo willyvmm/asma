@@ -5,8 +5,8 @@ These rips together with the original ASMA collection will make version 2.9
 of the ASMA (out of version 2.8).
 
 Number of new tunes: 69
-Better rips: 9
-Credits fixes: 22
+Better rips: 7
+Credits fixes: 24
 Removed files: 9
 
 New tunes
@@ -90,8 +90,6 @@ Various/Liebich_Tomasz/Deimos.sap (correct subsong handling)
 Various/Hay_Adam/Smells_Like_Teen_Spirit.sap (latter version)
 Various/Numan_Daniel/Spirit_Vision_4.sap (includes subsongs)
 Various/Sterba_Radek/Len_raz.sap (wrong bassline corrected)
-Various/Sterba_Radek/Magnetit_Ingame.sap > Magnetit.sap (contains all 4 game subsongs)
-Various/Sterba_Radek/Multris_Menu.sap > Multris.sap (contains all 3 game subsongs)
 
 Credits fixes (includes filename or location changes)
 -----------------------------------------------------
@@ -114,18 +112,20 @@ Various/Grayscale/Sychowicz_Lukasz/Porazka_3.sap > Porazka_3_KamiBa.sap : NAME "
 Various/Makowski_Robert/Joshgoa.sap > Various/Lepkowski_Michal/
 Various/Roszkowski_Marek/Cyborg_1.sap > Various/Szpilowski_Michal/ : DATE "<?>"
 Various/Roszkowski_Marek/Cyborg_2.sap > Various/Szpilowski_Michal/ : DATE "<?>"
+Various/Sterba_Radek/Magnetit_Ingame.sap > Magnetit.sap (contains all 4 game subsongs)
+Various/Sterba_Radek/Multris_Menu.sap > Multris.sap (contains all 3 game subsongs)
 Various/Szpilowski_Michal/Czad.sap > Unsorted/
 Various/Szpilowski_Michal/Miker_4.sap > Some_Song_Remixed.sap
 Various/Szpilowski_Michal/Too_Hard_3.sap > Various/Ce_Pumpkin/
 
-Removed
--------
+Removed files
+-------------
 Unsorted/Bitter.sap (a corrupted version of Various/Szpilowski_Michal/Party_info.sap)
 Unsorted/Night_Mare.sap (same as Various/Majewski_Tomasz/The_Truth_Is_Out_There.sap)
 Various/Grayscale/Sychowicz_Lukasz/Trep_1.sap (this subsong is included in the new rip of Trep.sap)
 Various/Grayscale/Sychowicz_Lukasz/Trep_2.sap (this subsong is included in the new rip of Trep.sap)
 Various/Grayscale/Sychowicz_Lukasz/Trep_3.sap (this subsong is included in the new rip of Trep.sap)
 Various/Grayscale/Sychowicz_Lukasz/Trep_4.sap (this subsong is included in the new rip of Trep.sap)
+Various/Roszkowski_Marek/Liga_Polska.sap (same as Various/Szpilowski_Michal/Liga_Polska.sap)
 Various/Swierszcz_Piotr/Ardeny_Demo.sap (same as Various/Badkowski_Marek/Vacares.sap)
 Various/Szpilowski_Michal/Barymag_1_1.sap (same as Various/Galinski_Adrian/Contribution.sap)
-Various/Roszkowski_Marek/Liga_Polska (same as Various/Szpilowski_Michal/Liga_Polska.sap)

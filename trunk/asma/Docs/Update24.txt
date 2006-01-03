@@ -23,12 +23,6 @@ Unsorted/Tragedy_Zine_2.sap
 Various/Cierkonski_Michal/Kowboj.sap
 Various/Dojwa_Jacek/Pang.sap
 Various/Gora_Jakub/Psica.sap
-Various/Grayscale/Sychowicz_Lukasz/Fate_of_Pig.sap
-Various/Grayscale/Sychowicz_Lukasz/Pancerne_trampki.sap
-Various/Grayscale/Sychowicz_Lukasz/Revenge_of_Bozon.sap
-Various/Grayscale/Sychowicz_Lukasz/Squiffy_Squid.sap
-Various/Grayscale/Sychowicz_Lukasz/Tense_Tenon.sap
-Various/Grayscale/Sychowicz_Lukasz/Terrible_Toast_Union.sap
 Various/Kalinowski_Bartosz/Infinity.sap
 Various/Matyasik_Krzysztof/Atak_serca.sap
 Various/Matyasik_Krzysztof/Baleronik.sap
@@ -123,18 +117,18 @@ Credits fixes (includes filename or location changes)
 Demos/Ray_of_Hope_Bars.sap > Various/Swiecicki_Krzysztof/
 Demos/Ray_of_Hope_Shade_Bobs.sap > Various/Swiecicki_Krzysztof/
 Unsorted/sEXTOn_Is_Come.sap : AUTHOR "Krzysztof Balkowski (sEXTOn)"
-Various/Unsorted/Suprajs.sap : AUTHOR "Marek Oglodek (Koala)"
+Unsorted/Suprajs.sap : AUTHOR "Marek Oglodek (Koala)"
 Various/Golewski_Filip/Memento_Mori.sap : AUTHOR "Filip Golewski (Zoltar X)"
 Various/Golewski_Filip/Street_Walker.sap : AUTHOR "Filip Golewski (Zoltar X)"
 Various/Gora_Jakub/Well_Game.sap > Holiday.sap
 Various/Sterba_Radek/Small_Stir.sap : AUTHOR "Radek Sterba (RASTER)"
 Various/Swierszcz_Piotr/Reverse_2.sap : NAME "Reverse - 2"
-Various/Sychowicz_Lukasz/Barymag_2_1.sap : NAME "Pancerne trampki" DATE "1996"
-Various/Sychowicz_Lukasz/Barymag_2_2.sap : NAME "Revenge of Bozon" DATE "1996"
-Various/Sychowicz_Lukasz/Barymag_2_6.sap : NAME "Squiffy Squid" DATE "1996"
-Various/Sychowicz_Lukasz/Barymag_2_7.sap : NAME "Tense Tenon" DATE "1996"
-Various/Sychowicz_Lukasz/Debilizator_1_Music_4.sap : NAME "Terrible Toast Union" DATE "1996"
-Various/Sychowicz_Lukasz/Energy_1_4.sap : NAME "Fate of Pig" DATE "1996"
+Various/Sychowicz_Lukasz/Barymag_2_1.sap > Various/Grayscale/Sychowicz_Lukasz/Pancerne_trampki.sap : NAME "Pancerne trampki" DATE "1996"
+Various/Sychowicz_Lukasz/Barymag_2_2.sap > Various/Grayscale/Sychowicz_Lukasz/Revenge_of_Bozon.sap : NAME "Revenge of Bozon" DATE "1996"
+Various/Sychowicz_Lukasz/Barymag_2_6.sap > Various/Grayscale/Sychowicz_Lukasz/Squiffy_Squid.sap : NAME "Squiffy Squid" DATE "1996"
+Various/Sychowicz_Lukasz/Barymag_2_7.sap > Various/Grayscale/Sychowicz_Lukasz/Tense_Tenon.sap : NAME "Tense Tenon" DATE "1996"
+Various/Sychowicz_Lukasz/Debilizator_1_Music_4.sap > Various/Grayscale/Sychowicz_Lukasz/Terrible_Toast_Union.sap : NAME "Terrible Toast Union" DATE "1996"
+Various/Sychowicz_Lukasz/Energy_1_4.sap > Various/Grayscale/Sychowicz_Lukasz/Fate_of_Pig.sap : NAME "Fate of Pig" DATE "1996"
 Various/Sychowicz_Lukasz/Gravestone.sap : DATE "1996"
 
 Removed files

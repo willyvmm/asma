@@ -4,10 +4,9 @@ Date: September 25, 2001
 These rips together with the original ASMA collection will make version 2.2
 of the ASMA (out of version 2.1).
 
-Number of new tunes: 97
+Number of new tunes: 96
 Better rips: 6
 Credits fixes: 30
-Removed files: 1
 
 New tunes
 ---------
@@ -56,7 +55,7 @@ Various/Gora_Jakub/Rape_Rulz.sap
 Various/Gora_Jakub/Rape_Rulz_Intro.sap
 Various/Gora_Jakub/Well.sap
 Various/Gora_Jakub/Well_Game.sap
-Various/Husak_Jakub/Rycerz_Ingame.sap
+Various/Husak_Jakub/Rycerz.sap
 Various/Jastrzebski_Dominik/China.sap
 Various/Karwacki_Jakub/Scene_Register_5_Menu.sap
 Various/Kociuba_Dariusz/Odezwa_3_Lobo.sap
@@ -90,7 +89,6 @@ Various/Ramzes/Demos_End.sap
 Various/Ramzes/Demos_End_II.sap
 Various/Ramzes/Music_Compo_93.sap
 Various/Ramzes/Party_5.sap
-Various/Swierszcz_Piotr/Caveman.sap
 Various/Sychowicz_Lukasz/Orto_Puzzle.sap
 Various/Szmatola_Krzysztof/Uczen_Czarnoksieznika.sap
 Various/Szmatola_Krzysztof/Uczen_Czarnoksieznika_End.sap
@@ -115,7 +113,7 @@ Games/Classic/Mario_Bros.sap (played completely wrong)
 Games/Various/Bombay (includes subtunes)
 Games/Various/SEX_Versi.sap (includes subtunes)
 Various/Holda_Leszek/Wladcy_Ciemnosci_Ingame.sap (includes subtunes)
-Various/Pucimski_Rafal/Odezwa_4_0.sap (played too slow)
+Various/Pucimski_Rafal/Odezwa_IV.sap (played too slow)
 Various/Wasilewski_Dariusz/Ship.sap (includes subtunes)
 
 Credits fixes (includes filename or location changes)
@@ -142,15 +140,11 @@ Unsorted/Forest.sap > Various/Jastrzebski_Dominik/
 Unsorted/Electrician.sap > Games/Classic/
 Unsorted/Happy_97.sap > Various/Przybyszewski_Krzysztof/
 Unsorted/Happy_New_Year.sap > Various/Przybyszewski_Krzysztof/
-Various/Husak_Jakub/Rycerz_Ingame.sap > Rycerz.sap
 Various/Liebich_Tomasz/Lowca.sap : DATE "1993"
 Various/Luberda_Michal/Kernaw_3.sap > Kernaw_Ingame.sap
 Various/Luszcz_Tomasz/Najemnik_2_Powrot.sap > Najemnik_Powrot.sap
 Various/Pucimski_Rafal/Odezwa_4_0.sap > Odezwa_IV.sap
+Various/Swierszcz_Piotr/Total_Daze.sap > Caveman.sap
 Various/Top_Odin/Galahad.sap > Gallahad_Intro.sap
 Various/Top_Odin/Galahad_2.sap > Gallahad_Credits.sap
 Various/Top_Odin/Galahad_Ingame.sap > Gallahad_Ingame.sap
-
-Removed files
--------------
-Various/Swierszcz_Piotr/Total_Daze.sap (same as Caveman.sap)

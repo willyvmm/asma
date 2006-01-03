@@ -20,11 +20,11 @@ NAME "" - Song title. No restrictions, except for it shouldn't contain
           quotation marks. Use apostrophes instead.
           Example:
           NAME "Jocky Wilson's Darts Challenge"
-DATE "" - Copyright year or yrar of creation. If exact date is known, it can
+DATE "" - Copyright year or year of creation. If exact date is known, it can
           also be included in DD/MM/YYYY format.
           Examples:
           DATE "1986"
-          DATE "1993-94"
+          DATE "1993-1994"
           DATE "28/08/1997"
           DATE "12/2001" 
 
@@ -36,26 +36,26 @@ MUSIC     - address with music data (for C type)
 INIT      - address of player part which will init player (for all types
             except C)
 SONGS     - number of songs. If SONGS tag not defined, the default value is
-            0.
-DEFSONG   - first song which will be played when .sap will be loaded (i.e.
-            the main game theme). This value is counted from zero (if there
-            are 5 songs in the file and the last is the default, the value
-            will be DEFSONG 4). The default is 0 if DEFSONG not defined.
+            1.
+DEFSONG   - first song which will be played when .sap is loaded (i.e. the
+            main game theme). This value is counted from zero (if there are 5
+            songs in the file and the last is the default, the value will be
+            DEFSONG 4). The default is 0 if DEFSONG not defined.
 FASTPLAY  - number of lines between each call of playing routine (312 by
             default, which is one screen - 1/50 of sec.). For example for
-            double-speed tune put here the value 156 (312/2). 99% of tunes
+            double-speed song put here the value 156 (312/2). 99% of songs
             are single-speed which means that you don't have to define the
             FASTPLAY variable for them. Works for player TYPE "B".
             Another values recommended: 104 (triple speed), 78 (quadruple
             speed)
-STEREO - tune uses dual POKEY configuration.
+STEREO - song uses dual POKEY configuration.
 
 commands PLAYER, MUSIC, INIT contain addresses in hexadecimal format. Both
 lower- and uppercase characters are allowed for the number.
 
 PLAYER A000
-PLAYER 1234
-MUSIC  f42e
+MUSIC 1234
+INIT f42e
 
 commands SONGS, DEFSONG contain decimal numbers:
 

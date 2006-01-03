@@ -6,7 +6,7 @@ of the ASMA (out of version 1.2).
 Number of new tunes: 63
 Better rips: 1
 Credits fixes: 26
-Filename and location changes: 7
+Filename and location changes: 8
 Removed files: 1
 
 New tunes
