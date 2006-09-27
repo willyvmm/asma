@@ -1,8 +1,8 @@
 ##############################################################################
 #
-#  STIL v3.0 - SAP Tune Information List
+#  STIL v3.1 - SAP Tune Information List
 #  Maintained by Zdenek Eisenhammer (PG)
-#  Total number of entries: 214
+#  Total number of entries: 220
 #
 
 ### Orall Corneliuss #########################################################
@@ -227,6 +227,12 @@ COMMENT: Orneta '96 music compo entry.
  ARTIST: Marek Drozdowski (Marucha)
 COMMENT: This cover uses just slightly different sounds.
 
+### Stephan Duesterhoeft #####################################################
+
+/Various/Duesterhoeft_Stephan/Glide.sap
+  TITLE: Peppered Pizza
+ ARTIST: Reyn Ouwehand
+
 ### Zdenek Eisenhammer (PG) ##################################################
 
 /Various/Eisenhammer_Zdenek/Deus_Ex_Machina.sap
@@ -237,7 +243,7 @@ COMMENT: This cover uses just slightly different sounds.
   TITLE: Spellbound
  ARTIST: Rob Hubbard
 
-/Various/Eisenhammer_Zdenek//Turrican_2_Level_1_Traps.sap
+/Various/Eisenhammer_Zdenek/Turrican_2_Level_1_Traps.sap
   TITLE: Turrican 2 - World 1, Tune #3
  ARTIST: Chris Huelsbeck
 
@@ -311,7 +317,7 @@ COMMENT: This song is a cooperation between Grzegorz Kwiatek and Lukasz
 COMMENT: It is very likely that all tunes made by Hard Software are directly
          transfered from the Commodore 64.
 
-/Various/Hard_Software/Abbuc_36.sap
+/Various/Hard_Software/ABBUC_36.sap
   TITLE: Disco Zax
  ARTIST: Thomas Mogensen (DRAX)
 COMMENT: Originally a C64 SID tune with POKEY routine added.
@@ -447,11 +453,26 @@ COMMENT: Originally a C64 SID tune with POKEY routine added.
   TITLE: Commando, Tune #1
  ARTIST: Rob Hubbard
 
-Various/Hay_Adam/Monty_on_the_Run_Game_Over.sap
+/Various/Hay_Adam/Monty_on_the_Run_Game_Over.sap
   TITLE: Monty on the Run, Tune #3
  ARTIST: Rob Hubbard
 
-Various/Hay_Adam/Smells_Like_Teen_Spirit.sap
+/Various/Hay_Adam/Reaxion_End.sap
+  TITLE: Reaxion, subsong 3
+ ARTIST: Sean Connoly (Odie)
+COMMENT: The Atari version was made by Adam, with tweaks made by Sean.
+
+/Various/Hay_Adam/Reaxion_Ingame.sap
+  TITLE: Reaxion. subsong 1
+ ARTIST: Sean Connoly (Odie)
+COMMENT: The Atari version was made by Adam, with tweaks made by Sean.
+
+/Various/Hay_Adam/Reaxion_Title.sap
+  TITLE: Reaxion, subsong 2
+ ARTIST: Sean Connoly (Odie)
+COMMENT: The Atari version was made by Adam, with tweaks made by Sean.
+
+/Various/Hay_Adam/Smells_Like_Teen_Spirit.sap
   TITLE: Smells Like Teen Spirit [from Nevermind]
  ARTIST: Nirvana
 
@@ -650,7 +671,7 @@ COMMENT: Last Party '98 music compo entry.
 
 ### Dawid Nabialek (Dave) ####################################################
 
-/Various/Nabialek_Dawid/Benny_Hill_Show_theme.sap
+/Various/Nabialek_Dawid/Benny_Hill_Show_Theme.sap
   TITLE: Yakety Sax [from Yakety Sax]
  ARTIST: James Rich & Boots Randolph
 COMMENT: Best known from as the title theme to the comedy TV series "The Benny
@@ -756,7 +777,7 @@ COMMENT: Lato Ludzikow 2001 music compo entry.
 /Various/Iwaszko_Krystian/THC11.sap
 COMMENT: Lato Ludzikow 2001 music compo entry.
 
-/Various/Iwaszko_Krystian/THC_rulla.sap
+/Various/Iwaszko_Krystian/THC_Rulla.sap
 COMMENT: Last Party 2001 music compo entry.
 
 ### Stanislaw Skwiot (Stanley) ###############################################
@@ -904,7 +925,7 @@ COMMENT: Silly Venture 2k music compo entry.
 /Various/Tegethoff_Sven/
 COMMENT: Tegethoff's own comments are denoted by (ST).
 
-/Various/Tegethoff_Sven/Abbuc_20_1.sap 
+/Various/Tegethoff_Sven/ABBUC_20_1.sap 
 COMMENT: "Entry in the annual Abbuc demo competition (can't remember the year)
          held at the 'Hobbytronic' Computer Fair in Dortmund, Germany. The song
          is an adaption of a popular tune from the Commodore C64. It's such a 
@@ -912,7 +933,7 @@ COMMENT: "Entry in the annual Abbuc demo competition (can't remember the year)
          two voices while loading from floppy. The demo (not this particular
          tune) won first price. Uses custom player routines." (ST)
 
-/Various/Tegethoff_Sven/Abbuc_21_1.sap
+/Various/Tegethoff_Sven/ABBUC_21_1.sap
   TITLE: Commando, Tune #2
  ARTIST: Rob Hubbard
 COMMENT: "The second loader music from the same demo. This is an equally crappy
@@ -920,22 +941,22 @@ COMMENT: "The second loader music from the same demo. This is an equally crappy
          demo (not this particular tune) won first price. Uses custom player
          routines." (ST)
 
-/Various/Tegethoff_Sven/Abbuc_21_2.sap
-COMMENT: "Another entry in the annual Abbuc demo competition (can't remember
+/Various/Tegethoff_Sven/ABBUC_21_2.sap
+COMMENT: "Another entry in the annual ABBUC demo competition (can't remember
          the year) held at the 'Hobbytronic' Computer Fair in Dortmund,
          Germany. The demo (not this particular tune) won first price. Written
          using 'The Black Magic Composer'.
 
-/Various/Tegethoff_Sven/Abbuc_21_3.sap
-COMMENT: "Another entry in the annual Abbuc demo competition (can't remember
+/Various/Tegethoff_Sven/ABBUC_21_3.sap
+COMMENT: "Another entry in the annual ABBUC demo competition (can't remember
          the year) held at the 'Hobbytronic' Computer Fair in Dortmund,
          Germany. Written using 'The Black Magic Composer' with Digi-Drums.
          Drums were blatantly ripped from various Chris Huelsbeck modules :)" 
          (ST)
 
 /Various/Tegethoff_Sven/The_Top_2_2.sap
-COMMENT: "This song was part of the same Abbuc Demo like Abbuc_20_1.sap and 
-         Abbuc_21_2.sap. The complete demo (not this particular tune) won first
+COMMENT: "This song was part of the same ABBUC Demo like ABBUC_20_1.sap and 
+         ABBUC_21_2.sap. The complete demo (not this particular tune) won first
          price. The tune was ripped and re-used by some czech demo crew in a 
          demo called 'the top'. But I forgive them, because they gave me the
          proper credits :)  Makes heavy uses of the  very few modulations the
@@ -945,7 +966,7 @@ COMMENT: "This song was part of the same Abbuc Demo like Abbuc_20_1.sap and
          Sven is wrong here, The Top demos were produced in Poland.
 
 /Various/Tegethoff_Sven/Hobbytronic_90_2.sap
-COMMENT: "Entry in the annual Abbuc demo competition 1990 held at the
+COMMENT: "Entry in the annual ABBUC demo competition 1990 held at the
          'Hobbytronic' Computer Fair in Dortmund, Germany. Written using 'The
          Black Magic Composer' with Digi-Drums. Drums were blatantly ripped
          from various Chris Huelsbeck modules :)" (ST)

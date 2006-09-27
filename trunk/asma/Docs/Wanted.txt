@@ -2,7 +2,7 @@ Currently we are searching for these rips (mostly we can provide the
 binaries):
 
 Ben Daglish
-Rampage
+Rampage, Footballer of the Year
 
 Kemal Ezcan
 (any songs)
@@ -10,24 +10,22 @@ Kemal Ezcan
 Rob Hubbard <?>
 Action Biker
 
-Orall Cornelius
-Super Soccer
-
 Fred Brooker
 Replugged, Microx ingame songs
+
+Tomasz Liebich
+Master Head, Perestroyka (stereo player, anyone?)
 
 Hard Software
 Blip, Cool Emotion (digisongs)
 
 Classic games
-Air Strike 2, Alf, Alternate Reality: The City, Alternate Reality: The
+Alf, Alternate Reality: The City (missing songs), Alternate Reality: The
 Dungeon, Archon 2 Adept, Astrodroid, Ataroid, Aztec Challenge 1983, Bristles,
-Creep, Donkey Kong, Donkey Kong Junior, Frogger 1, Frogger 2, Ghostbusters
-(incl. speech), Gremlins, Gyruss, Hardball, Henri, Henry's House,
-Hover Bovver, Jump!, Jungle Hunt, Keystone Kapers, Mr. Do's Castles, Pengon,
-Pharaoh's Curse, Pole Position, Pooyan, Preppie!, Preppie! 2, Q*bert,
-Rampage, Screaming Wings, Seawolf 2, Shadow World, Spy's Demise, Starquake,
-Tarzan, Unicum...
+Creep, Donkey Kong, Donkey Kong Junior, Ghostbusters (incl. speech), Gremlins,
+Gyruss, Hardball, Henri, Henry's House, Hover Bovver, Jump!, Mr. Do's Castles, 
+Pengon, Pharaoh's Curse, Pole Position, Pooyan, Preppie!, Preppie! 2, Q*bert,
+Seawolf 2, Shadow World, Spy's Demise, Unicum...
 
 New wave games
 Alienbusters, Atomix+, Krucjata, Megablast (digisongs), etc.
