@@ -1,0 +1,14 @@
+Classics/Gilmore_Adam/Arcade_Fruit_Machine_Simul.sap - subsongs missing
+Classics/Munns_Richard/Rebound.sap - song doesn't play first note (drum)
+Games/Classic/Ghostbusters.sap - sample at the beginning is missing
+Games/Classic/Moon_Patrol.sap - song probably doesn't play with original settings
+Games/Classic/Mule.sap - song falls out of synch after about 0:35 (ripped from a buggy release)
+Various/Claas_Clever/World_of_Wonders_Fantasy.sap - strange noise after song end
+Various/Eisenhammer_Zdenek/Deus_Ex_Machina.sap - strange noise after song end
+Various/Hard_Software/ABBUC_36.sap - rogue note at the beginning
+Various/Hard_Software/Cool_Emotion_Heal_the_Worl.sap - rogue note at the beginning
+Various/Hard_Software/Veronika_5.sap - rogue note at the beginning
+Various/Husak_Jakub/Bank_Bang_Ingame.sap - strange note at the end of subsong #1
+Various/Grayscale/Kwiatek_Grzegorz/Far_Away.sap - strange sounds at 0:48
+Various/Grayscale/Kwiatek_Grzegorz/Ultra_Intro.sap - song plays twice as fast after repeating
+Various/Majewski_Tomasz/Crocketts_Theme.sap - song doesn't reinit well after repeating
