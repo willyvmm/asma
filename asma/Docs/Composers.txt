@@ -1,10 +1,11 @@
-Known Atari composers and handles                                 Jan 03 2006
+Known Atari composers and handles                                 Sep 22 2006
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This list contains only composers who have at least 3 songs in ASMA
 collection. The composers are sorted in ABC order according to their surnames
-(if known, otherwise by their handles). There are 104 composers in this list.
+(if known, otherwise by their handles). There are 110 composers in this list.
 
 Badkowski, Marek - Bac
+Banaszkiewicz, Michal - Hugo
 Benoth, Sukkor - KS
 Bienias, Adam - SoTe
 Bloszko, Marek - Markus
@@ -24,8 +25,10 @@ Duesterhoeft, Stephan - Benjy
 Eisenhammer, Zdenek - PG, PseudoGrafx
 Ezcan, Kemal - KE-SOFT
 Galinski, Adrian - Daxey
+Gilbertson, Gary
 Gilmore, Adam
 Gmurek, Konrad - KeyG
+Goff, Mark - captainmarmalad
 Golewski Filip, - Zoltar X
 Gora, Jakub - Cubes
 Grabowski, Pawel
@@ -61,6 +64,7 @@ Lis, Piotr - Lisu
 Loos, Uwe
 Luberda, Michal
 Luszcz, Tomasz
+Majchrzak, Marcin - Soldier, Maj0r
 Majewski, Jerzy - Zur-soft 2/2
 Majewski, Tomasz - Mayonez
 Makara, Grzegorz
@@ -80,7 +84,7 @@ Pesout, Marek - Poison
 Podedworny, Wojtek - Ferro
 Przybyszewski, Krzysztof - BLB
 Pucinski, Rafal - Dex
-Radecki, Michal - Tehno
+Radecki, Michal - stRing, Tehno
 Radzikowski, Ireneusz - Jager
 <?> - Rentgen
 Roemer, Markus - R.I.K
@@ -92,8 +96,9 @@ Sikorski, Pawel - Sikor
 Skwiot, Stanislaw - Stanley
 Sledz, Slawek - Slaves
 Sterba, Radek - Raster
-Swierszcz, Piotr - Samurai, Tatqoo
+Swierszcz, Piotr - Tatqoo, Samurai
 Sychowicz, Lukasz - X-Ray
+Szczesniak, Konrad
 Szmatola, Krzysztof - Thor
 Szpilowski, Michal - Miker
 Szymczuk, Daniel - Lorien
@@ -106,5 +111,6 @@ Vybostok, Marian - Goldmaster
 Wasiel, Bartek - BeWu
 Wasilewski, Dariusz - Trener
 Whittaker, David
+Wisniewski, Mateusz - Born
 Witkiewicz, Dariusz - Flash
 Witkowski, Przemyslaw

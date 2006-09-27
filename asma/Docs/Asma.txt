@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 3.0
+                                  Version 3.1
 
                          Started on 4th of August 1999
-                      Last updated on 3rd of January 2006
+                    Last updated on 27th of September 2006
 
-                     Total number of songs: 2006 (128 new)
+                    Total number of songs: 2192 (188 new)
 
 
  Introduction
@@ -32,44 +32,45 @@
 
  Statistics
  ~~~~~~~~~~
- Number of songs:      2006 (2580 including subsongs)
- Compared to HVSC:     6,4 % (HVSC r44 contains 31330 songs)
- Disk space ocupied:   11830849 bytes (excluding documents)
- Average SAP filesize: 5898 bytes
- Songs with subsongs:  198
- Songs in stereo:      171
- Unsorted songs:       72
- Number of musicians:  104
- Most active musician: Lukasz Sychowicz    (117 songs + 17 cooperations)
+ Number of songs:      2192 (2832 including subsongs)
+ Compared to HVSC:     6.9 % (HVSC r45 contains 32000 songs)
+ Disk space ocupied:   12959198 bytes (excluding documents)
+ Average SAP filesize: 5912 bytes
+ Songs with subsongs:  215
+ Songs in stereo:      186
+ Unsorted songs:       86
+ Number of musicians:  110
+ Most active musician: Lukasz Sychowicz    (120 songs + 17 cooperations)
  Biggest SAP file:     Garfield_Part_2.sap (61543 bytes)
  Smallest SAP file:    Self_Test.sap       (150 bytes)
  Files with subsongs:
-  2 songs: 64x
-  3 songs: 43x
-  4 songs: 33x
-  5 songs: 28x
+  2 songs: 68x
+  3 songs: 47x
+  4 songs: 35x
+  5 songs: 31x
   6 songs: 12x
-  7 songs:  4x
+  7 songs:  5x
   8 songs:  4x
   9 songs:  3x
- 10 songs:  2x
- 11 songs:  2x
+ 10 songs:  3x
+ 11 songs:  3x
+ 12 songs:  1x
  13 songs:  1x
  14 songs:  1x
  15 songs:  1x
- Total: 574 subsongs
+ Total: 640 subsongs
 
 
  Help!
  ~~~~~
  As you can see, there are lots of songs in the 'Unsorted' directory. If
- you're 100% sure about origin of any of these songs (Who did it, where does 
- it come from, when was it composed), please let us know immediately so that 
- we can complete the information about the song in ASMA (and move it to the 
- appropriate directory). We would welcome if you sent us also the binary file 
- (or an ATR/XFD disk image) with the original piece of software with that 
- song. Mail any such information to pg@pinknet.cz. Our aim is to completely 
- annihilate the unrecognized songs.
+ you can provide us with any missing information about any song (who did it, 
+ where does it come from, when was it composed), please let us know
+ immediately so that we can complete the information about the song in ASMA
+ (and move it to the appropriate directory). We would welcome if you sent us
+ also the binary file (or an ATR/XFD disk image) with the original piece of
+ software with that song. Mail any such information to pg@pinknet.cz. Our aim
+ is to completely annihilate the unrecognized songs.
 
 
  For contributors
@@ -86,6 +87,7 @@
  Zdenek Eisenhammer (PG)
  Piotr Fusik (Fox of Taquart)
  Michal Garbaciak (Dracon of Taquart)
+ Achim Haertel
  Jaymz Julian (alih)
  Jindrich Kubec
  Marek Pavlik (MaPa)
@@ -95,6 +97,7 @@
  Slawek Sledz (Slaves of Taquart)
  Radek Sterba (Raster)
  Michal Szpilowski (Miker)
+ Maciej Wojciechowski (Stryker)
  ..and people at the HVSC mailing list at http://groups.yahoo.com/group/hvsc/
 
 
