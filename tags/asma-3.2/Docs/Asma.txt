@@ -1,0 +1,117 @@
+                                        ___
+        yy yyy yy          ,gp.      ,gS$$$Sp.  d$$.     ,$$b     ,gp.
+        $$ $$$ $$         :$$$$:    ,$$$$A$$$$. $$$b     d$$$    :$$$$:
+        $$ $$$ $$         $$$$$$    $$$'   `?$P $$$$.   ,$$$$    $$$$$$
+        $$ $$$ $$        :$$P?$$:   $$$         $$$$b   d$$$$   :$$P?$$:
+        $$ $$$ $$        d$$'`$$b   ?$$b.       $$$$$. ,$$$$$   d$$'`$$b
+        $$ $$$ $$        $$P  ?$$    `$$$$$o.   $$$$$b d$$$$$   $$P  ?$$
+       ,$? $$$ ?$.      :$$'  `$$:     `?$$$$b  $$$`$$v$$'$$$  :$$'  `$$:
+       d$  $$$  $b      d$$$$$$$$b        `?$$b $$$ ?$$$P $$$  d$$$$$$$$b
+     ,d$'  $$$  `$b.    $$$$$$$$$$          $$$ $$$ `$$$' $$$  $$$$$$$$$$
+   y$$$'   $$$   `$$$y :$$P    ?$$: d$b.   ,$$P $$$  ?$P  $$$ :$$:    ?$$:
+   $$P'    $$$    `t$$ $$$'    `$$b `$$$$S$$$$' $$$  `S'  $$$ $$$'    `$$b
+   "~      """      ~" $$P      ?$$  `?$$$$$P'  $$$       $$$ $$P      ?$$
+                       ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
+
+                            Atari SAP Music Archive
+                                  Version 3.2
+
+                         Started on 4th of August 1999
+                      Last updated on 22nd of August 2007
+
+                     Total number of songs: 2540 (360 new)
+
+
+ Introduction
+ ~~~~~~~~~~~~
+ Welcome to the biggest collection of the POKEY-based Atari XL/XE music.
+ The outfit of the whole collection was inspired by the HVSC collection (with 
+ some differences). I hope you'll like this collection. To get in touch with 
+ me, see the "Contact" section of this document.
+
+
+ Statistics
+ ~~~~~~~~~~
+ Number of songs:      2540 (3262 including subsongs)
+ Compared to HVSC:     7.4 % (HVSC r47 contains 34127 songs)
+ Disk space ocupied:   14625783 bytes (excluding documents and playlist)
+ Average SAP filesize: 5758 bytes
+ Songs with subsongs:  246
+ Songs in stereo:      244
+ Unsorted songs:       95
+ Number of musicians:  124
+ Most active musician: Lukasz Sychowicz    (122 songs + 17 cooperations)
+ Biggest SAP file:     Garfield_Part_2.sap (61543 bytes)
+ Smallest SAP file:    Self_Test.sap       (172 bytes)
+ Files with subsongs:
+  2 songs: 80x
+  3 songs: 52x
+  4 songs: 41x
+  5 songs: 35x
+  6 songs: 13x
+  7 songs:  6x
+  8 songs:  5x
+  9 songs:  4x
+ 10 songs:  3x
+ 11 songs:  3x
+ 12 songs:  1x
+ 13 songs:  1x
+ 14 songs:  1x
+ 15 songs:  1x
+ Total: 722 subsongs
+
+
+ Help!
+ ~~~~~
+ As you can see, there are lots of songs in the 'Unsorted' directory. If
+ you can provide us with any missing information about any song (who did it, 
+ where does it come from, when was it composed), please let us know
+ immediately so that we can complete the information about the song in ASMA
+ (and move it to the appropriate directory). We would welcome if you sent us
+ also the binary file (or an ATR/XFD disk image) with the original piece of
+ software with that song. Mail any such information to pg@pinknet.cz. Our aim
+ is to completely annihilate the unrecognized songs.
+
+
+ For contributors
+ ~~~~~~~~~~~~~~~~
+ Check the file Contribute.txt for more info.
+
+
+ Contributors
+ ~~~~~~~~~~~~
+ (in ABC order)
+ Tamas Bene (<?> of Hard)
+ Adam Bienias (SoTe of Slight)
+ Marcin Dubicki (MacGyver)
+ Zdenek Eisenhammer (PG)
+ Piotr Fusik (Fox of Taquart)
+ Michal Garbaciak (Dracon of Taquart)
+ Achim Haertel
+ Jaymz Julian (alih)
+ Jindrich Kubec
+ Marek Pavlik (MaPa)
+ Stephan Pollock (Mr. Bacardi)
+ Marcin Prusisz (Pigula of Shpoon)
+ Mariusz Rozwadowski (Ramos)
+ Martin Simecek
+ Slawek Sledz (Slaves of Taquart)
+ Radek Sterba (Raster)
+ Michal Szpilowski (Miker)
+ Marcin Wojciechowski (Stryker)
+
+ ..and people at the HVSC mailing list at http://groups.yahoo.com/group/hvsc/
+ 
+ The following valuable sites were used for completing tune info:
+ http://atari.fandal.cz
+ http://freenet-homepage.de/mrbacardi/
+ http://www.atarimania.com
+
+
+ Contact
+ ~~~~~~~
+ E-mail:        pg@pinknet.cz
+ ICQ:           66411804
+ Homepage:      http://asma.atari.org
+ Czech mirror:  http://www.milar.name/asma
+ Polish mirror: http://atariarea.krap.pl/asma

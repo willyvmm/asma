@@ -1,0 +1,1910 @@
+##############################################################################
+#
+#  STIL v3.2 - SAP Tune Information List
+#  Maintained by Zdenek Eisenhammer (PG), Mariusz Rozwadowski (Ramos)
+#  Total number of entries: 417
+#
+##############################################################################
+#
+# ABOUT THIS VERSION OF THE STIL:
+#
+# - Lots of fixes and general consistency cleanup thanks in particular to
+#   Ramos.
+# - STIL info by Miker & Ramos.
+#
+##############################################################################
+
+### /Classics/Brooke_Jason/ ##################################################
+
+/Classics/Brooke_Jason/180.sap
+(#1)
+  TITLE: 180, Tune #2 [from the C64 game]
+ ARTIST: David Whittaker
+(#2)
+  TITLE: 180, Tune #1 [from the C64 game]
+ ARTIST: David Whittaker
+
+### /Classics/Cornelius_Orall/ ###############################################
+
+/Classics/Cornelius_Orall/Ruff_And_Reddy.sap
+  TITLE: Ruff & Reddy, Tune #1 [from the C64 game]
+ ARTIST: Ben Hayes
+
+/Classics/Cornelius_Orall/Sidewinder_2.sap
+  TITLE: Zybex, Tune #4
+ ARTIST: Adam Gilmore
+
+/Classics/Cornelius_Orall/Tiger_Attack.sap
+  TITLE: Phantoms of the Asteroids
+ ARTIST: Rob Hubbard
+
+### /Classics/Ezcan_Kemal/ ###################################################
+
+/Classics/Ezcan_Kemal/Digiloo_Digiley.sap
+  TITLE: Digiloo-Digiley
+ ARTIST: <?>
+
+/Classics/Ezcan_Kemal/Globetrotter.sap
+  TITLE: Ticket To Ride
+ ARTIST: The Beatles
+
+/Classics/Ezcan_Kemal/Its_a_Sin.sap
+  TITLE: It's a Sin [from Actually]
+ ARTIST: Pet Shop Boys
+
+### /Classics/Hubbard_Rob/ ###################################################
+
+/Classics/Hubbard_Rob/
+COMMENT: All of these tunes have been confirmed by Rob Hubbard to be his. 
+         Hubbard's own comments are denoted by (RH).
+
+/Classics/Hubbard_Rob/Extirpator.sap
+COMMENT: "Extirpator is unknown to me, but the tune is Sanxion, which is 
+          probably my favorite tune I ever wrote on the c64." (RH)
+
+/Classics/Hubbard_Rob/Jet_Set_Willy.sap
+COMMENT: "Jet Set Willy 2 was unique to the Atari and is very much in the Jarre 
+         style." (RH)
+
+/Classics/Hubbard_Rob/International_Karate.sap
+COMMENT: "I.K. was the first tune I ever did on the Atari, which was also quite 
+         a challenge because of the 8bit pitch registers." (RH)
+
+/Classics/Hubbard_Rob/Warhawk.sap
+COMMENT: "Warhawk was a c64 tune originally called Proteus." (RH)
+
+### /Classics/Munns_Richard/ #################################################
+
+/Classics/Munns_Richard/Black_Lamp_Ingame.sap
+  TITLE: Greensleeves
+ ARTIST: Unknown
+
+### /Classics/Whittaker_David ################################################
+
+/Classics/Whittaker_David/Living_Daylights.sap
+(#2)
+  TITLE: James Bond Theme [from the James Bond series of movies]
+ ARTIST: Monty Norman
+
+/Classics/Whittaker_David/Panther.sap
+COMMENT: This music is also present in the game Buckaneer by Mastertronic.
+         Whittaker used the same music in an Amiga game called SideWinder as
+         loader tune. Also used in the game "Linewars", most probably without
+         Whittaker's permission, because the programmers of that game credited
+         this tune to themselves.
+
+### /Demos ###################################################################
+
+/Demos/Andermajnd.sap
+  TITLE: Lambada
+ ARTIST: Kaoma
+
+/Demos/Digital_Trash.sap
+  TITLE: Domino Dancing [from Introspective]
+ ARTIST: Pet Shop Boys
+
+/Demos/Hobbytronic_89_2.sap
+  TITLE: Neunundneunzig (99) Luftballons
+ ARTIST: Nena
+
+/Demos/Hobbytronic_89_3.sap
+  TITLE: Crockett's Theme [from the TV series Miami Vice]
+ ARTIST: Jan Hammer
+
+/Demos/Hobbytronic_89_4.sap
+  TITLE: The Great Giana Sisters, Tune #5 [from the C64 game]
+ ARTIST: Chris Huelsbeck
+
+/Demos/Magnetic_Fields.sap
+  TITLE: Magnetic Fields, Part 2 [from Magnetic Fields]
+ ARTIST: Jean Michel Jarre
+
+/Demos/The_Top_2_Digi_Part.sap
+COMMENT: This song is converted from a C64 production made by Censor Design.
+
+### /Games/Classic ###########################################################
+
+/Games/Classic/Action_Biker.sap
+  TITLE: Action Biker, Tune #1 [from the C64 game]
+ ARTIST: Rob Hubbard
+
+/Games/Classic/Astro_Chase.sap
+  TITLE: The Festival Overture: The Year 1812, Op. 49
+ ARTIST: Pyotr Ilyitch Tchaikovsky
+
+/Games/Classic/Blue_Max.sap
+  TITLE: Rule Britannia
+ ARTIST: Thomas Arne & James Thompson
+
+/Games/Classic/Bruce_Lee.sap
+  TITLE: Bruce Lee, Tune #1 [from the C64 game]
+ ARTIST: John A. Fitzpatrick
+
+/Games/Classic/Flip_and_Flop.sap
+  TITLE: Entry of the Gladiators
+ ARTIST: Julius Fucik
+
+/Games/Classic/Hazard_Run.sap
+  TITLE: Dixie Land
+ ARTIST: Daniel Emmett
+
+/Games/Classic/Frogger.sap
+(#5)
+  TITLE: Yankee Doodle
+ ARTIST: Traditional, Dr. Richard Schuckburgh (lyrics)
+
+/Games/Classic/Ghostbusters.sap
+  TITLE: Ghostbusters [from the movie]
+ ARTIST: Ray Parker, Jr.
+
+/Games/Classic/Gyruss.sap
+COMMENT: Apart from covering classical music, this also covers the arcade
+         version, which is based on an arrangement by the rock-classical-jazz-
+         fusion group Sky, released on their album "Sky 2".
+(#1)
+  TITLE: Toccata [from Toccata and Fugue in D Minor (BWV 565)]
+ ARTIST: Johann Sebastian Bach
+(#2)
+  TITLE: Toccata [from Toccata and Fugue in D Minor (BWV 565)]
+ ARTIST: Johann Sebastian Bach
+(#7)
+  TITLE: Toccata [from Toccata and Fugue in D Minor (BWV 565)]
+ ARTIST: Johann Sebastian Bach
+
+/Games/Classic/James_Bond.sap
+  TITLE: James Bond Theme [from the James Bond series of movies]
+ ARTIST: Monty Norman
+
+/Games/Classic/Last_V8.sap
+  TITLE: The Last V8, Tune #1 [from the C64 game]
+ ARTIST: Rob Hubbard
+COMMENT: Although the C64 version was composed by Rob Hubbard, Hubbard has 
+         confirmed that the Atari version isn't his.
+
+/Games/Classic/Mario_Bros.sap
+(#5)
+ TITLE: Eine Kleine Nachtmusik
+ ARTIST: Wolfgang Amadeus Mozart
+
+/Games/Classic/Master_of_the_Lamps.sap
+COMMENT: Russel Lieblich sadly passed away in 2005, at the age of 51.
+
+/Games/Classic/Moon_Patrol.sap
+(#1)
+COMMENT: Covers the arcade version.
+
+/Games/Classic/Nadral.sap
+  TITLE: The Entertainer
+ ARTIST: Scott Joplin
+
+/Games/Classic/Ninja.sap
+COMMENT: Although the C64 version was composed by Rob Hubbard, Hubbard has 
+         confirmed that the Atari version isn't his.
+
+/Games/Classic/Pac_Man.sap
+  TITLE: PuckMan [from the arcade game]
+ ARTIST: Toshio Kai
+COMMENT: "PuckMan" is known outside Japan as "Pac-Man".
+
+/Games/Classic/Ballblaster.sap
+COMMENT: "One reviewer, an eminent jazz player, said it sounded like
+         John Coltrane did it. I think that's my best compliment so far."
+         (comment by Peter Langston)
+
+/Games/Classic/Ballblazer.sap
+(#4)
+  TITLE: Ballblaster
+ ARTIST: Peter Langston
+(#5)
+  TITLE: Ballblaster
+ ARTIST: Peter Langston
+
+/Games/Classic/Shamus.sap
+  TITLE: Funeral March of a Marionette
+ ARTIST: Charles Gounod
+
+/Games/Classic/Shamus_Case_II.sap
+  TITLE: Funeral March of a Marionette
+ ARTIST: Charles Gounod
+
+/Games/Classic/Special_Delivery.sap
+  TITLE: Jingle Bells
+ ARTIST: James Pierpont
+
+/Games/Classic/Spy_Hunter.sap
+  TITLE: Peter Gunn [from the TV series]
+ ARTIST: Henry Mancini
+COMMENT: This piece is a cover of the arcade version.
+
+/Games/Classic/Star_Raiders_II.sap
+  TITLE: G.I. Joe, Tune #4 [from the C64 game]
+ ARTIST: Bob Vieira
+
+/Games/Classic/Stealth.sap
+(#2)
+  TITLE: Allegro No. 1 [from Keyboard Concerto No. 1 in D minor (BWV 1052)]
+ ARTIST: Johann Sebastian Bach
+
+/Games/Classic/Tapper.sap
+(#5)
+  TITLE: Oh Susanna
+ ARTIST: Stephen C. Foster
+
+/Games/Classic/William_Tell.sap
+  TITLE: Wilhelm Tell Overture
+ ARTIST: Gioacchino Antonio Rossini
+
+/Games/Classic/Zeppelin.sap
+COMMENT: The notes in voice 2 at the beginning of the tune spell out "SOS" in
+         Morse code (...---...).
+
+/Games/Classic/Zorro.sap
+  TITLE: Zorro [from the TV series] <?>
+ ARTIST: <?>
+
+### /Games/Various ###########################################################
+
+/Games/Various/Deneb.sap
+(#1)
+  TITLE: Dom w dolinie mgiel [from E=mc2]
+ ARTIST: Marek Bilinski
+
+/Games/Various/Digi_Duck.sap
+(#2)
+  TITLE: Il Ballo del Qua Qua
+ ARTIST: Romina Power
+
+/Games/Various/Dziedzictwo_Gigantow.sap
+  TITLE: Syn Boga Wiatru
+ ARTIST: Krzysztof Szmatola (Thor)
+COMMENT: Heavily based on this song: /Various/Szmatola_Krzysztof/Syn_Boga_Wiatru.sap
+
+/Games/Various/Emil_Hilf.sap
+  TITLE: Popcorn [from Music To Moog By]
+ ARTIST: Gershon Kingsley
+
+/Games/Various/Hans_Kloss.sap
+  TITLE: Stawka wieksza niz zycie [from the TV series] (0:57)
+ ARTIST: Jerzy Matuszkiewicz
+
+/Games/Various/King_Of_Killers.sap
+  TITLE: Axel F [from the movie Beverly Hills Cop] (0:30)
+ ARTIST: Harold Faltermeyer
+COMMENT: This is not cover.
+
+/Games/Various/Perly_Szeherezady.sap
+(#3)
+  TITLE: Noisy Pillars, Tune #3 [from the C64 game]
+ ARTIST: Jeroen Tel
+
+### /Unsorted ################################################################
+
+/Unsorted/Bach_Mix.sap
+  TITLE: Rondo alla turca [from Piano Sonata No. 11 A major KV 331] (0:07)
+ ARTIST: Wolfgang Amadeus Mozart
+
+/Unsorted/CompyShop_Magazin_Inside_B.sap
+  TITLE: Enola Gay [from Organisation]
+ ARTIST: Orchestral Manoeuvres in the Dark (OMD)
+
+/Unsorted/Das_Teufel.sap
+  TITLE: Das Boot [from the movie]
+ ARTIST: Klaus Doldinger
+
+/Unsorted/Deadline.sap
+COMMENT: 5th place at Grayscale Music Competition II.
+
+/Unsorted/Desease.sap
+COMMENT: Forever 2e3 music compo entry.
+
+/Unsorted/Dupa.sap
+COMMENT: 2nd place at Sillyventure 2000 music compo.
+
+/Unsorted/Epileptic_Duck.sap
+COMMENT: 2nd place at Winter Chip II (Best Pokey) music compo.
+
+/Unsorted/Funky_Atari.sap
+COMMENT: 5th place at Winter Chip II (Best Pokey) music compo.
+
+/Unsorted/Giana_Sisters_Remix.sap
+  TITLE: The Great Giana Sisters [from the C64 game]
+ ARTIST: Chris Huelsbeck
+
+/Unsorted/Huhi.sap
+COMMENT: 6th place at Winter Chip II (Best Pokey) music compo.
+
+/Unsorted/Janosik.sap
+  TITLE: Janosik [from the TV series] (0:46)
+ ARTIST: Jerzy Matuszkiewicz
+
+/Unsorted/KevSoft.sap
+  TITLE: Living on Video [from Living on Video]
+ ARTIST: Trans-X
+
+/Unsorted/Los_Osos_hablan_en_Marte.sap
+COMMENT: 3rd place at Winter Chip II (Best Pokey) music compo.
+
+/Unsorted/Lunatic.sap
+  TITLE: Lunatic
+ ARTIST: Gazebo [from Gazebo]
+COMMENT: Present also in "Fortress Underground" game, no author credited.
+
+/Unsorted/Luzik.sap
+COMMENT: Last Party 1998 music compo entry. Cover of /Various/Kalinowski_Batosz/Zepi.sap
+
+/Unsorted/New_Generation.sap
+COMMENT: Last Party 1998 music compo entry.
+
+/Unsorted/Picca.sap
+COMMENT: Lato Ludzikow 2000 music compo entry.
+
+/Unsorted/Pizza_Margerita_Suxx.sap
+COMMENT: Lato Ludzikow 2000 music compo entry.
+
+/Unsorted/Pytaj.sap
+  TITLE: Nie pytaj o Polske
+ ARTIST: Obywatel G.C.
+
+/Unsorted/Reksio_2001.sap
+  TITLE: Title Theme [from the cartoon series Reksio]
+ ARTIST: Zenon Kowalowski
+
+/Unsorted/Sap_Trap.sap
+COMMENT: 4th place at Winter Chip II (Best Pokey) music compo.
+
+/Unsorted/Self_Test.sap
+  TITLE: Promenade - Il vecchio Castello [from Pictures at an Exhibition]
+ ARTIST: Modest Petrovich Musorgskij
+COMMENT: Atari XL/XE official audio-visual test tune.
+
+/Unsorted/Suprajs.sap
+COMMENT: Lato Ludzikow 2000 music compo entry.
+
+/Unsorted/Takie_Cos.sap
+COMMENT: Lato Ludzikow 2001 music compo entry.
+
+/Unsorted/Town_of_Ui.sap
+COMMENT: 1st place at Winter Chip II (Best Pokey) music compo.
+
+/Unsorted/Uplywa.sap
+  TITLE: Uplywa szybko zycie
+ ARTIST: <?>, Polish Traditional.
+
+/Unsorted/Wiosna.sap
+  TITLE: An die Freude [from Symphony No. 9 Op. 125 "Choral Symphony"] (0:12)
+ ARTIST: Ludwig van Beethoven
+  TITLE: W murowanej piwnicy (0:57)
+ ARTIST: Polish folk traditional
+
+/Unsorted/Zybex_Stereo.sap
+  TITLE: Zybex, Tune #4
+ ARTIST: Adam Gilmore
+
+### /Various/Badkowski_Marek  ################################################
+
+/Various/Badkowski_Marek/Jade.sap
+COMMENT: QuaST Party 1996 music compo entry.
+
+### /Various/Benoth_Sukkor  ##################################################
+
+/Various/Benoth_Sukkor/Ble_ble_ble.sap
+COMMENT: 10th place at Grayscale Music Competition II.
+
+/Various/Benoth_Sukkor/Mroczny.sap
+COMMENT: 9th place at Grayscale Music Competition II.
+
+### /Various/Bienias_Adam  ###################################################
+
+/Various/Bienias_Adam/Bitter_Reality_Greetings_P.sap
+  TITLE: megaforce02 [from the Amiga MOD module]
+ ARTIST: Heiko (Luxor)
+
+/Various/Bienias_Adam/Bitter_Reality_Rzog_Plazma.sap
+  TITLE: Impact <?> [from the Amiga MOD module]
+ ARTIST: <?>
+
+/Various/Bienias_Adam/Crazy.sap
+  TITLE: Crazy
+ ARTIST: Fine Young Cannibals
+
+/Various/Bienias_Adam/Haddaway.sap
+  TITLE: What Is Love
+ ARTIST: Haddaway
+
+/Various/Bienias_Adam/Ice_Machine.sap
+  TITLE: Ice Machine
+ ARTIST: Depeche Mode
+
+/Various/Bienias_Adam/Invitro_Orneta_95.sap
+(#4)
+COMMENT: Same as /Various/Bienias_Adam/Train.sap
+
+/Various/Bienias_Adam/Moonlight_Shadow.sap
+  TITLE: Moonlight Shadow [from Crises]
+ ARTIST: Mike Oldfield & Simon Philips
+
+/Various/Bienias_Adam/Tank.sap
+COMMENT: Same as /Various/Bienias_Adam/Digital_Bonanza.sap with digitized drums.
+
+/Various/Bienias_Adam/Rzog_Joins_XE_Team_2.sap
+  TITLE: ALF Theme [from the TV series] (00:07)
+ ARTIST: Tom Kramer & Alf Clausen
+
+### /Various/Bloszko_Marek  ##################################################
+
+/Various/Bloszko_Marek/Factory_Demo.sap
+  TITLE: Fahret Hin (0:00:-0:10)
+ ARTIST: Büsching, von der Hagen
+COMMENT: Commonly known as "Haenschen Klein" (german children's song) or
+         "Wlazl Kotek" in Poland.
+
+### /Various/Bruenninski_Uwe  ################################################
+
+/Various/Bruenninski_Uwe/Synthy.sap
+  TITLE: Oxygene 4 [from Oxygene]
+ ARTIST: Jean Michel Jarre
+
+/Various/Bruenninski_Uwe/Beatles.sap
+  TITLE: Get Back [from Let It Be]
+ ARTIST: The Beatles
+
+### /Various/Ce_Pumpkin  #####################################################
+
+/Various/Ce_Pumpkin/Mindthumper.sap
+COMMENT: 8th place at Grayscale Music Competition II.
+
+/Various/Ce_Pumpkin/Rulez_2.sap
+COMMENT: Last Party 2002 music compo entry.
+
+/Various/Ce_Pumpkin/Skis.sap
+COMMENT: Lato Ludzikow 2002 music compo entry.
+
+/Various/Ce_Pumpkin/W_hole.sap
+  TITLE: Popcorn [from Music To Moog By] (0:12), also cover of original
+         ZX Spectrum version of "Whole" Soundtrack.
+ ARTIST: Gershon Kingsley
+
+### /Various/Checa_Funcke_Marco_Antonio  #####################################
+
+/Various/Checa_Funcke_Marco_Antonio/Kling_Gloeckchen.sap
+  TITLE: Kling, Gloeckchen, klingelingeling!
+ ARTIST: Benedikt Widmann
+COMMENT: Covers a popular German Christmas song.
+
+/Various/Checa_Funcke_Marco_Antonio/Noche_de_paz.sap
+  TITLE: Stille Nacht! Heilige Nacht!
+ ARTIST: Joseph Mohr (lyrics), Franz Xaver Grüber (music)
+COMMENT: Covers an international popular Christmas song ("Noche de paz" in
+         Spanish, "Stille Nacht" in German, "Silent night" in English,
+         "Cicha noc" in Polish etc.).
+
+/Various/Checa_Funcke_Marco_Antonio/Oh_du_froehliche.sap
+  TITLE: Oh, du froehliche, oh, du selige!
+ ARTIST: Johann Gottfried Herder
+COMMENT: Covers a popular German Christmas song.
+
+/Various/Checa_Funcke_Marco_Antonio/O_Tannenbaum.sap
+  TITLE: O Tannenbaum!
+ ARTIST: Traditional, A. Zarnack & Ernst Anschuetz (lyrics)
+COMMENT: Covers a popular German Christmas song.
+
+### /Various/Cierkonski_Michal  ##############################################
+
+/Various/Cierkonski_Michal/Yo.sap
+COMMENT: QuaST Party 1996 music compo entry.
+
+### /Various/Claas_Clever ####################################################
+
+/Various/Claas_Clever/World_of_Wonders_Against_C.sap
+  TITLE: The Hootchy Kootchy Dance
+ ARTIST: Sol Bloom
+
+/Various/Claas_Clever/World_of_Wonders_Amiga_Meg.sap
+  TITLE: Heart [from Actually] (0:00-0:19)
+ ARTIST: Pet Shop Boys
+
+/Various/Claas_Clever/World_of_Wonders_Goldrunne.sap
+  TITLE: Human Race, Tune #4 [from the C64 game]
+ ARTIST: Rob Hubbard
+COMMENT: Also used in "GoldRunner" on the Atari ST.
+
+### /Various/Czartynski_Marcin ###############################################
+
+/Various/Czartynski_Marcin/Hlejnia.sap
+COMMENT: QuaST Party 1996 music compo entry.
+
+/Various/Czartynski_Marcin/Heretic_Crew_Limited_Dem_2.sap
+  TITLE: Living on Video [from Living on Video]
+ ARTIST: Trans-X
+
+/Various/Czartynski_Marcin/Heretic_Crew_Limited_Dem_3.sap
+  TITLE: Dom w dolinie mgiel [from E=mc2]
+ ARTIST: Marek Bilinski
+
+/Various/Czartynski_Marcin/Outer_1.sap
+(#1)
+  TITLE: Living on Video [from Living on Video]
+ ARTIST: Trans-X
+
+/Various/Czartynski_Marcin/Polizei.sap
+  TITLE: Eins Zwei Polizei
+ ARTIST: Mo-Do
+
+/Various/Czartynski_Marcin/Trans_X.sap
+  TITLE: Living on Video [from Living on Video]
+ ARTIST: Trans-X
+
+### /Various/Dojwa_Jacek #####################################################
+
+/Various/Dojwa_Jacek/Jumping_Jack.sap
+(#3)
+  TITLE: Moonlight Shadow [from Crises]
+ ARTIST: Mike Oldfield & Simon Philips
+
+/Various/Dojwa_Jacek/Micro_Man.sap
+(#5)
+  TITLE: Living on Video [from Living on Video]
+ ARTIST: Trans-X
+
+/Various/Dojwa_Jacek/Pang.sap
+(#2)
+  TITLE: Heart [from Actually] (0:00-0:15)
+ ARTIST: Pet Shop Boys
+
+/Various/Dojwa_Jacek/Trisz_Divinis.sap
+  TITLE: megaforce02 [from the Amiga MOD module]
+ ARTIST: Heiko (Luxor)
+
+/Various/Dojwa_Jacek/Trisz_Divinis_Ingame.sap
+  TITLE: bootup [from the Amiga game Lotus II]
+ ARTIST: Barry Leitch
+
+### /Various/Drozdowski_Marek ################################################
+
+/Various/Drozdowski_Marek/Shakemix.sap
+  TITLE: Shake
+ ARTIST: Marek Drozdowski (Marucha)
+COMMENT: This cover uses just slightly different sounds.
+
+### /Various/Dudek_Krzysztof #################################################
+
+/Various/Dudek_Krzysztof/Dziadek.sap
+  TITLE: Polka Dziadek
+ ARTIST: <?>
+
+### /Various/Duesterhoeft_Stephan ############################################
+
+/Various/Duesterhoeft_Stephan/A_TEAM_Theme.sap
+  TITLE: The A-Team [from the TV series]
+ ARTIST: Pete Carpenter & Mike Post
+
+/Various/Duesterhoeft_Stephan/Glide.sap
+  TITLE: Peppered Pizza [from the C64 SID]
+ ARTIST: Reyn Ouwehand
+
+### /Various/Duma_Dariusz ####################################################
+ 
+/Various/Duma_Dariusz/Nonsense_Song.sap
+COMMENT: 5th place at Forevera Reneg8 music compo.
+
+### /Various/Eisenhammer_Zdenek ##############################################
+
+/Various/Eisenhammer_Zdenek/
+COMMENT: PG is short for PseudoGrafx.
+
+/Various/Eisenhammer_Zdenek/Deus_Ex_Machina.sap
+  TITLE: Hard Track [from the C64 SID]
+ ARTIST: Soren Lund (Jeff)
+
+/Various/Eisenhammer_Zdenek/Krakout.sap
+  TITLE: Krakout, Tune #1 [from the C64 game]
+ ARTIST: Ben Daglish
+
+/Various/Eisenhammer_Zdenek/Lotus_Turbo_Challenge_3.sap
+  TITLE: fin [from the Amiga game Lotus III: The Ultimate Challenge]
+ ARTIST: Patrick Phelan
+
+/Various/Eisenhammer_Zdenek/Spellbound_Partial_Version.sap
+  TITLE: Spellbound, Tune #1 [from the C64 game]
+ ARTIST: Rob Hubbard
+
+/Various/Eisenhammer_Zdenek/Turrican_2_Level_1_Traps.sap
+  TITLE: Turrican 2 - World 1, Tune #3
+ ARTIST: Chris Huelsbeck
+
+/Various/Eisenhammer_Zdenek/Visitors.sap
+  TITLE: Navstevnici [from the TV series]
+ ARTIST: Karel Svoboda
+COMMENT: Covers a version made by Lars Hutzelmann (The Blue Ninja) on the C64.
+
+### /Various/Esquivel_Sal ####################################################
+
+/Various/Esquivel_Sal/Axel_F.sap
+  TITLE: Axel F [from the movie Beverly Hills Cop]
+ ARTIST: Harold Faltermeyer
+
+/Various/Esquivel_Sal/Cybernoid_II.sap
+  TITLE: Cybernoid II, Tune #1 [from the C64 game]
+ ARTIST: Jeroen Tel
+
+/Various/Esquivel_Sal/M_U_L_E.sap
+  TITLE: M.U.L.E., Tune #1
+ ARTIST: Roy Glover
+
+/Various/Esquivel_Sal/M_U_L_E_Remix.sap
+  TITLE: M.U.L.E., Tune #1
+ ARTIST: Roy Glover
+
+/Various/Esquivel_Sal/Popcorn_Hot_Butter.sap
+  TITLE: Popcorn [from Music To Moog By]
+ ARTIST: Gershon Kingsley
+COMMENT: Covering the version arranged by Hot Butter.
+
+### /Various/Galinski_Adrian #################################################
+
+/Various/Galinski_Adrian/
+COMMENT: Sadly, Adrian Galinski (Daxey) passed away in 1994, at the age of 20.
+
+/Various/Galinski_Adrian/Abdicus.sap
+COMMENT: 1st place at Shadows Party music compo.
+
+/Various/Galinski_Adrian/Bells.sap
+COMMENT: 3rd place at Shadows Party music compo.
+
+/Various/Galinski_Adrian/Intel_Outside_Intro.sap
+  TITLE: Oxygene 4 [from Oxygene]
+ ARTIST: Jean Michel Jarre
+
+### /Various/Gora_Jakub ######################################################
+
+/Various/Gora_Jakub/Holiday.sap
+COMMENT: Scenery Copy Party 1998 music compo entry.
+
+/Various/Gora_Jakub/I_Love_Somebody.sap
+COMMENT: Last Party 2002 music compo entry.
+
+/Various/Gora_Jakub/Kankan.sap
+  TITLE: Can Can [from the Orpheus in the Underworld]
+ ARTIST: Jacques Offenbach
+
+/Various/Gora_Jakub/Psica.sap
+COMMENT: Last Party 1998 music compo entry.
+
+/Various/Gora_Jakub/Return.sap
+COMMENT: Lato Ludzikow 2002 mucis compo entry.
+
+### /Various/Grad_Jacek ######################################################
+
+/Various/Grad_Jacek/Fatum.sap
+(#2)
+  TITLE: unit5 [from the Amiga module]
+ ARTIST: Alexander S. Kunz (Neurodancer) 
+
+### /Various/Grayscale  ######################################################
+
+/Various/Grayscale/DrillDance.sap
+COMMENT: Last Party 2002 music compo entry.
+
+/Various/Grayscale/Gray_Set_Willy.sap
+  TITLE: Ucieczka z tropiku [from Ucieczka do tropiku] (0:55)
+ ARTIST: Marek Bilinski
+
+/Various/Grayscale/Irish_Wood.sap
+COMMENT: 1st place at Forever 5 music compo.
+
+/Various/Grayscale/Windy_Mind.sap
+COMMENT: 2nd place at Forever 5 music compo.
+
+### /Various/Grayscale/Kwiatek_Grzegorz ######################################
+
+/Various/Grayscale/Kwiatek_Grzegorz/Alive.sap
+COMMENT: Last Party 1999 music compo entry.
+
+/Various/Grayscale/Kwiatek_Grzegorz/Cubeniculosis.sap
+COMMENT: Last Party 1999 music compo entry.
+
+/Various/Grayscale/Kwiatek_Grzegorz/Desastre.sap
+COMMENT: 2nd place at Intel Outside 4 music compo.
+
+/Various/Grayscale/Kwiatek_Grzegorz/Failure_Dream.sap
+COMMENT: 2nd place at Rush Hours 1997 music compo.
+
+/Various/Grayscale/Kwiatek_Grzegorz/Maja.sap
+  TITLE: Die Biene Maja [from the cartoon series]
+ ARTIST: Karel Svoboda
+
+/Various/Grayscale/Kwiatek_Grzegorz/No_Limit.sap
+  TITLE: No Limit [from No Limits]
+ ARTIST: 2 Unlimited
+COMMENT: Not a 100% cover, but very heavily inspired.
+
+/Various/Grayscale/Kwiatek_Grzegorz/Still_Alive.sap
+COMMENT: 3rd place at Forever 4 music compo.
+
+### /Various/Grayscale/Sychowicz_Lukasz ######################################
+
+/Various/Grayscale/Sychowicz_Lukasz/Ala_ma_kota.sap
+  TITLE: Title Theme [from the cartoon series Reksio] (0:56-1:12)
+ ARTIST: Zenon Kowalowski
+  TITLE: End [from the cartoon series Bolek i Lolek] (1:17-1:29)
+ ARTIST: Tadeusz Kocyba
+  TITLE: Title Theme [from a cartoon series Koziolek Matolek] (1:44-01:55)
+ ARTIST: Adam Markiewicz
+COMMENT: Inspired by musics from polish cartoon series.
+
+/Various/Grayscale/Sychowicz_Lukasz/Accident.sap
+COMMENT: 2nd place at Forever 4 music compo.
+
+/Various/Grayscale/Sychowicz_Lukasz/Cabil.sap
+COMMENT: 1st place at Rush Hours 1997 music compo.
+
+/Various/Grayscale/Sychowicz_Lukasz/Draka.sap
+COMMENT: Inspired by /Classics/Adam_Gilmore/Draconus.sap
+
+/Various/Grayscale/Sychowicz_Lukasz/Glikol.sap
+COMMENT: 3rd place at Lato Ludzikow 2002 music compo.
+
+/Various/Grayscale/Sychowicz_Lukasz/Hypnotic.sap
+COMMENT: 1st place at Intel Outside 4 music compo.
+
+/Various/Grayscale/Sychowicz_Lukasz/King_of_Agregat.sap
+COMMENT: QuaST Party 1996 music compo entry.
+
+/Various/Grayscale/Sychowicz_Lukasz/Komar.sap
+COMMENT: 2nd place at Lato Ludzikow 2002 music compo.
+
+/Various/Grayscale/Sychowicz_Lukasz/Ninjax.sap
+COMMENT: 5th place at Forever Reneg8 realtime compo.
+
+/Various/Grayscale/Sychowicz_Lukasz/Overmind_11.sap
+COMMENT: This song only uses 2 channels (used while loading) - try to recognize
+         that.
+
+/Various/Grayscale/Sychowicz_Lukasz/Porazka.sap
+COMMENT: 1st place at QuaST party 1996 music compo. This song is a cooperation 
+         between Lukasz Sychowicz and Piotr Swierszcz.
+
+/Various/Grayscale/Sychowicz_Lukasz/Porazka_2.sap
+COMMENT: 1st place at QuaST party 1997 music compo. This song is a cooperation
+         between Lukasz Sychowicz and Piotr Swierszcz.
+
+/Various/Grayscale/Sychowicz_Lukasz/Porazka_3_KamiBa.sap
+COMMENT: 1st place at Lato Ludzikow 2002 music compo. This song is a
+         cooperation between Lukasz Sychowicz and Piotr Swierszcz.
+
+/Various/Grayscale/Sychowicz_Lukasz/Shake_Your_Ass.sap
+COMMENT: 1st place at Forever Reneg8 music compo.
+		 
+/Various/Grayscale/Sychowicz_Lukasz/Swift_Ray.sap
+COMMENT: 3rd place at Forever 5 music compo.
+
+/Various/Grayscale/Sychowicz_Lukasz/Synthy_Gambol.sap
+COMMENT: 1st place at QuaST party 2004 music compo.
+
+### /Various/Grayscale/Wasiel_Bartek #########################################
+
+/Various/Grayscale/Wasiel_Bartek/Rastan.sap
+  TITLE: Agressive World [from the arcade game Rastan Saga]
+ ARTIST: Masahiko Takaki
+COMMENT: Cover the version by Martin Galway from game C64 Rastan, Tune #2.
+
+/Various/Grayscale/Wasiel_Bartek/Zybex.sap
+  TITLE: Zybex, Tune #4
+ ARTIST: Adam Gilmore
+
+### /Various/Hard_Software ###################################################
+
+/Various/Hard_Software/
+COMMENT: It is very likely that all tunes made by Hard Software are directly
+         transfered from the Commodore 64.
+
+/Various/Hard_Software/ABBUC_36.sap
+  TITLE: Disco Zax [from the C64 SID]
+ ARTIST: Thomas Mogensen (DRAX)
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Various/Hard_Software/Cool_Emotion_Chessboard.sap
+  TITLE: Shape [from the C64 SID]
+ ARTIST: Johannes Bjerregaard
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Various/Hard_Software/Cool_Emotion_End.sap
+  TITLE: Gammeldaws [from the C64 SID]
+ ARTIST: Soren Lund (Jeff)
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Various/Hard_Software/Cool_Emotion_First_Part.sap
+  TITLE: <?> [from the C64 SID]
+ ARTIST: <?>
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Various/Hard_Software/Cool_Emotion_Ghostbusters.sap
+  TITLE: Ghostbusters [from the movie]
+ ARTIST: Ray Parker, Jr.
+COMMENT: A cover of the tune from C64 SID Ghostbusters by Roger Duijckaerts
+         (ReD). Originally a C64 SID tune with POKEY routine added.
+
+/Various/Hard_Software/Cool_Emotion_Heal_the_Worl.sap
+  TITLE: Heal The World [from Dangerous]
+ ARTIST: Michael Jackson
+COMMENT: A cover of the tune from C64 SID Heal the World by Alain Hertenstein
+         (Iron Cat). Originally a C64 SID tune with POKEY routine added.
+
+/Various/Hard_Software/Cool_Emotion_Plasma.sap
+  TITLE: <?> [from the C64 SID]
+ ARTIST: <?>
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Various/Hard_Software/Cool_Emotion_Scrolls.sap
+  TITLE: Frazze [from the C64 SID]
+ ARTIST: Antti Hannula (Flex)
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Various/Hard_Software/Joyride_End.sap
+  TITLE: Remark Intro [from the C64 SID]
+ ARTIST: Jeroen Tel
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Various/Hard_Software/Joyride_Info.sap
+  TITLE: <?> [from the C64 SID]
+ ARTIST: <?>
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Various/Hard_Software/Joyride_Juggler.sap
+  TITLE: <?> [from the C64 SID]
+ ARTIST: <?>
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Various/Hard_Software/Joyride_Landscape.sap
+  TITLE: Musiklinjen [from the Amiga MOD module]
+ ARTIST: Jimmy Fredriksson (Firefox) & Robert Österbergh (ex.Robert Ling) 
+         (Tip)
+COMMENT: A cover of the tune from C64 SID Enigma/PHA Theme by Alain
+         Hertenstein (Iron Cat). Originally a C64 SID tune with POKEY routine
+         added.
+
+/Various/Hard_Software/Joyride_Plasma.sap
+  TITLE: <?> [from the C64 SID]
+ ARTIST: <?>
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Various/Hard_Software/Joyride_Scrolls.sap
+  TITLE: Happy Hour [from the C64 SID]
+ ARTIST: Thomas E. Petersen (Laxity)
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Various/Hard_Software/Joyride_Tunnel.sap
+  TITLE: <?> [from the C64 SID]
+ ARTIST: <?>
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Various/Hard_Software/Joyride_Turn_Disk.sap
+  TITLE: Time Runner [from the C64 SID]
+ ARTIST: Markus Schneider
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Various/Hard_Software/Joyride_Twirl.sap
+  TITLE: <?> [from the C64 SID]
+ ARTIST: <?>
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Various/Hard_Software/Veronika_1.sap
+  TITLE: Theme From S-Express [from Original Soundtrack]
+ ARTIST: Mark Moore
+COMMENT: A cover of the tune from C64 SID S-Express by Jeroen Tel.
+         Originally a C64 SID tune with POKEY routine added.
+
+/Various/Hard_Software/Veronika_2.sap
+  TITLE: Wonderland [from the C64 SID]
+ ARTIST: Antti Hannula (Flex)
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Various/Hard_Software/Veronika_3.sap
+  TITLE: Ace II [from the C64 game]
+ ARTIST: Rob Hubbard
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Various/Hard_Software/Veronika_4.sap
+  TITLE: <?> [from the C64 SID]
+ ARTIST: <?>
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Various/Hard_Software/Veronika_5.sap
+  TITLE: Hollywood Poker Pro, Tune #1 [from the C64 game]
+ ARTIST: Chris Huelsbeck
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Various/Hard_Software/Veronika_6.sap
+  TITLE: Turrican 2 - The Final Fight (song 2) [from the C64 game]
+ ARTIST: Markus Siebold
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Various/Hard_Software/Veronika_Intro.sap
+  TITLE: <?> [from the C64 SID]
+ ARTIST: <?>
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+### /Various/Hay_Adam ########################################################
+
+/Various/Hay_Adam/A642.sap
+  TITLE: A642 [from the Amiga MOD module]
+ ARTIST: Matthew Simmonds (4-mat)
+
+/Various/Hay_Adam/Alloyrun.sap
+  TITLE: Alloyrun, Tune #1 [from the C64 game]
+ ARTIST: Jeroen Tel
+
+/Various/Hay_Adam/Commando.sap
+  TITLE: Commando, Tune #1 [from the C64 game]
+ ARTIST: Rob Hubbard
+
+/Various/Hay_Adam/Discozax.sap
+  TITLE: Disco Zax [from the C64 SID]
+ ARTIST: Thomas Mogensen (DRAX)
+
+/Various/Hay_Adam/Monty_on_the_Run_Game_Over.sap
+  TITLE: Monty on the Run, Tune #3 [from the C64 game]
+ ARTIST: Rob Hubbard
+
+/Various/Hay_Adam/Parallax_Mix.sap
+  TITLE: Parallax, Tune #1 [from the C64 game]
+ ARTIST: Martin Galway
+
+/Various/Hay_Adam/Plastic_Pop.sap
+  TITLE: Plastic Pop [from the C64 SID]
+ ARTIST: Tomas Danko
+
+/Various/Hay_Adam/Reaxion_End.sap
+  TITLE: Reaxion, Tune #3 [from the C64 SID]
+ ARTIST: Sean Connoly (Odie)
+COMMENT: The Atari version was made by Adam, with tweaks made by Sean.
+
+/Various/Hay_Adam/Reaxion_Ingame.sap
+  TITLE: Reaxion, Tune #1 [from the C64 SID]
+ ARTIST: Sean Connoly (Odie)
+COMMENT: The Atari version was made by Adam, with tweaks made by Sean.
+
+/Various/Hay_Adam/Reaxion_Title.sap
+  TITLE: Reaxion, Tune #2 [from the C64 SID]
+ ARTIST: Sean Connoly (Odie)
+COMMENT: The Atari version was made by Adam, with tweaks made by Sean.
+
+/Various/Hay_Adam/Smells_Like_Teen_Spirit.sap
+  TITLE: Smells Like Teen Spirit [from Nevermind]
+ ARTIST: Nirvana
+
+### /Various/Hudak_Matej #####################################################
+
+/Various/Hudak_Matej/Color.sap
+COMMENT: Forever 3 music compo entry.
+
+/Various/Hudak_Matej/ElanLL02.sap
+COMMENT: Lato Ludzikow 2002 music compo entry.
+
+### /Various/Husak_Jakub #####################################################
+
+/Various/Husak_Jakub/Do_You_Want_to_Dance_With.sap
+  TITLE: Do You Want to Dance with Me?
+ ARTIST: Alphaville
+COMMENT: Made using The Software Synthesizer "Softsynth".
+
+/Various/Husak_Jakub/Garfield.sap
+  TITLE: Crockett's Theme [from the TV series Miami Vice]
+ ARTIST: Jan Hammer
+
+/Various/Husak_Jakub/Garfield_Part_2.sap
+  TITLE: Musik Non Stop
+ ARTIST: Kraftwerk
+
+/Various/Husak_Jakub/Kim_Wilde.sap
+  TITLE: <?>
+ ARTIST: Kim Wilde
+COMMENT: Made using The Software Synthesizer "Softsynth".
+
+/Various/Husak_Jakub/Schlecht_Korrekt.sap
+  TITLE: Das Modell [from The Man Machine]
+ ARTIST: Kraftwerk
+COMMENT: Made using The Software Synthesizer "Softsynth".
+
+### /Various/Iwaszko_Krystian ##############################################
+
+/Various/Iwaszko_Krystian/Avm.sap
+COMMENT: Last Party 1999 music compo entry.
+
+/Various/Iwaszko_Krystian/Mechanic.sap
+COMMENT: 7th place at Grayscale Music Competition II.
+
+/Various/Iwaszko_Krystian/Old_Socks.sap
+COMMENT: Last Party 1999 music compo entry.
+
+/Various/Iwaszko_Krystian/Osadnicy_2.sap
+COMMENT: Lato Ludzikow 2002 music compo entry.
+
+/Various/Iwaszko_Krystian/Pies_drapie_sie_po_jajach.sap
+COMMENT: Last Party 2001 music compo entry.
+
+/Various/Iwaszko_Krystian/THC10.sap
+COMMENT: Lato Ludzikow 2001 music compo entry.
+
+/Various/Iwaszko_Krystian/THC11.sap
+COMMENT: Lato Ludzikow 2001 music compo entry.
+
+/Various/Iwaszko_Krystian/THC_Kokot.sap
+COMMENT: 4th place at Forever Reneg8 music compo.
+
+/Various/Iwaszko_Krystian/THC_Rulla.sap
+COMMENT: Last Party 2001 music compo entry.
+
+### /Various/Johnson_Steve ###################################################
+
+/Various/Johnson_Steve/Red_Barchetta.sap
+  TITLE: Red Barchetta
+ ARTIST: Moving Pictures
+
+/Various/Johnson_Steve/Broons_Bane.sap
+  TITLE: Broon's Bane
+ ARTIST: Exit Stage Left
+
+/Various/Johnson_Steve/Enemy_Within.sap
+  TITLE: Enemy Within
+ ARTIST: Grace Under Pressure
+
+/Various/Johnson_Steve/Red_Sector_A.sap
+  TITLE: Red Sector A
+ ARTIST: Grace Under Pressure
+
+### /Various/Kalinowski_Bartosz ##############################################
+
+/Various/Kalinowski_Bartosz/
+COMMENT: Sadly, Bartosz Kalinowski (Bartman) passed away in 1997.
+
+/Various/Kalinowski_Bartosz/Self_Test_2.sap
+  TITLE: Promenade - Il vecchio Castello [from Pictures at an Exhibition] (00:00-00:15)
+ ARTIST: Modest Petrovich Musorgskij
+COMMENT: Atari XL/XE official audio-visual test tune.
+
+### /Various/Karwacki_Jakub ##################################################
+
+/Various/Karwacki_Jakub/Lark.sap
+COMMENT: Last Party 1999 music compo entry.
+
+/Various/Karwacki_Jakub/Geotion.sap
+COMMENT: Lato Ludzikow 2000 music compo entry.
+
+/Various/Karwacki_Jakub/Prelude.sap
+COMMENT: Last Party 2002 music compo entry.
+
+/Various/Karwacki_Jakub/Shell.sap
+COMMENT: Lato Ludzikow 2000 music compo entry.
+
+/Various/Karwacki_Jakub/Somemuz.sap
+COMMENT: Lato Ludzikow 2001 music compo entry.
+
+/Various/Karwacki_Jakub/Uht03.sap
+COMMENT: Lato Ludzikow 2002 mucic compo entry.
+
+/Various/Karwacki_Jakub/Uht05.sap
+COMMENT: Lato Ludzikow 2002 mucic compo entry.
+
+### /Various/Karwoth_Torsten #################################################
+
+/Various/Karwoth_Torsten/Axel_F.sap
+  TITLE: Axel F [from the movie Beverly Hills Cop]
+ ARTIST: Harold Faltermeyer 
+
+/Various/Karwoth_Torsten/Bitter_Reality_Dragon_Bobs.sap
+  TITLE: Stationary Ark
+ ARTIST: John Mills-Cockell <?>
+
+### /Various/Kazimierczak_Leszek #############################################
+
+/Various/Kazimierczak_Leszek/Bad_Girl.sap
+COMMENT: Silesian Atari Open 1995 music compo entry.
+
+### Adam Krawczyk (Monti) ####################################################
+
+/Various/Krawczyk_Adam/That_Demo.sap
+(#2)
+  TITLE: Oxygene 4 [from Oxygene]
+ ARTIST: Jean Michel Jarre
+
+### /Various/Kociuba_Dariusz #################################################
+
+/Various/Kociuba_Dariusz/Odezwa_3_Lobo.sap
+  TITLE: Das Boot [from the movie]
+ ARTIST: Klaus Doldinger
+
+### J/Various/Krasuski_Jaroslaw ##############################################
+
+/Various/Krasuski_Jaroslaw/Bad.sap
+  TITLE: Bad [from Bad]
+ ARTIST: Michael Jackson
+
+/Various/Krasuski_Jaroslaw/Big_in_Japan.sap
+  TITLE: Big in Japan [from Forever Young]
+ ARTIST: Alphaville
+
+ /Various/Krasuski_Jaroslaw/Disco_2.sap
+  TITLE: Eins Zwei Polizei
+ ARTIST: Mo-Do
+ 
+/Various/Krasuski_Jaroslaw/Ein_Zwei_Polizei.sap
+  TITLE: Eins Zwei Polizei
+ ARTIST: Mo-Do
+
+/Various/Krasuski_Jaroslaw/Only_You.sap
+  TITLE: Only You
+ ARTIST: Savage
+
+/Various/Krasuski_Jaroslaw/Sunny.sap
+  TITLE: Sunny
+ ARTIST: Boney M
+
+/Various/Krasuski_Jaroslaw/Video_Poker.sap
+  TITLE: The Entertainer
+ ARTIST: Scott Joplin
+
+### /Various/Kucisz_Tomasz ###################################################
+
+/Various/Kucisz_Tomasz/Complications.sap
+  TITLE: Complications [from the Amiga MOD module]
+ ARTIST: Tomas Danko
+
+/Various/Kucisz_Tomasz/Scene_Register_4_0_Intro.sap
+  TITLE: Main Title [from all the Star Wars movies]
+ ARTIST: John Williams
+
+### /Various/Kuczek_Ireneusz #################################################
+
+/Various/Kuczek_Ireneusz/Anna_Maria.sap
+  TITLE: Anna Maria [from Czerwone Gitary 3]
+ ARTIST: Czerwone Gitary
+
+/Various/Kuczek_Ireneusz/Another_Day_in_Paradise.sap
+  TITLE: Another Day in Paradise [from But Seriously]
+ ARTIST: Phil Collins
+
+/Various/Kuczek_Ireneusz/Back_in_USSR.sap
+  TITLE: Back In The U.S.S.R. [from The Beatles]
+ ARTIST: The Beatles
+
+/Various/Kuczek_Ireneusz/Cant_Help_Myself.sap
+  TITLE: Can't Help Falling in Love [from Blue Hawaii]
+ ARTIST: Elvis Presley
+COMMENT: This tune covers the UB40 cover.
+
+/Various/Kuczek_Ireneusz/Come_Together.sap
+  TITLE: Come Together [from Abbey Road]
+ ARTIST: The Beatles
+
+/Various/Kuczek_Ireneusz/Dlonie.sap
+  TITLE: Na raz na dwa
+ ARTIST: Majka Jezowska
+
+/Various/Kuczek_Ireneusz/Eleanor.sap
+  TITLE: Eleanor Rigby [from Revolver]
+ ARTIST: The Beatles
+
+/Various/Kuczek_Ireneusz/Emmanuel.sap
+  TITLE: Emmanuelle Theme [from the movie]
+ ARTIST: Pierre Bachelet
+
+/Various/Kuczek_Ireneusz/Go_West.sap
+  TITLE: Go West
+ ARTIST: The Village People
+COMMENT: This tune covers the Pet Shop Boys cover.
+
+/Various/Kuczek_Ireneusz/Hotel_California.sap
+  TITLE: Hotel California [from Hotel California]
+ ARTIST: The Eagles
+
+/Various/Kuczek_Ireneusz/Magnetic_Fields.sap
+  TITLE: Magnetic Fields, Part 2 [from Magnetic Fields]
+ ARTIST: Jean Michel Jarre
+
+/Various/Kuczek_Ireneusz/Mama.sap
+  TITLE: Mama
+ ARTIST: Phil Collins
+
+/Various/Kuczek_Ireneusz/Mydelko_Fa.sap
+  TITLE: Mydelko Fa (Cycolina) [from Mydelko Fa]
+ ARTIST: Marek Kondrat & Marlena Drozdowska
+
+/Various/Kuczek_Ireneusz/Never_Ending_Story.sap
+  TITLE: NeverEnding Story [from the movie The NeverEnding Story]
+ ARTIST: Giorgio Moroder, performed by Limahl
+
+/Various/Kuczek_Ireneusz/Nie_Placz_Ewka.sap
+  TITLE: Nie placz Ewka [from Perfect]
+ ARTIST: Perfect
+
+/Various/Kuczek_Ireneusz/Oh_Carol.sap
+  TITLE: Oh Carol
+ ARTIST: Neil Sedaka
+
+/Various/Kuczek_Ireneusz/Oprocz_blekitnego_nieba.sap
+  TITLE: Oprocz
+ ARTIST: Marek Jackowski
+
+### /Various/Kulinski_Grzegorz ###############################################
+
+/Various/Kulinski_Grzegorz/2Ferie94.sap
+COMMENT: Last Party 2002 music compo entry.
+
+/Various/Kulinski_Grzegorz/Psy_hoza.sap
+COMMENT: Last Party 2002 music compo entry.
+
+/Various/Kulinski_Grzegorz/Yeah.sap
+COMMENT: Last Party 2002 music compo entry.
+
+### /Various/Lajciak_Pavol ###################################################
+
+/Various/Lajciak_Pavol/R_Type.sap
+  TITLE: R-Type [from the C64 game]
+ ARTIST: Chris Huelsbeck
+
+### /Various/Lepkowski_Michal ################################################
+
+/Various/Lepkowski_Michal/Joshgoa.sap
+COMMENT: Rush Hours 1997 music compo entry.
+
+### /Various/Liebich_Tomasz ##################################################
+
+/Various/Liebich_Tomasz/Alien.sap
+  TITLE: Secret Land [from Into a Secret Land]
+ ARTIST: Sandra Cretu
+
+/Various/Liebich_Tomasz/Hi_Alf.sap
+  TITLE: Alf Theme [from the TV series]
+ ARTIST: Tom Kramer & Alf Clausen
+
+/Various/Liebich_Tomasz/Ucieczka.sap
+  TITLE: Ucieczka z tropiku [from Ucieczka do tropiku]
+ ARTIST: Marek Bilinski
+COMMENT: The title translates from Polish as "Escape from the tropic zone".
+         Marek Bilinski was some kind of a Polish J.M.Jarre, and had a string
+         of instrumental hits back in the 80's.
+		 
+### /Various/Lis_Piotr #######################################################
+
+/Various/Lis_Piotr/Piczung_Do_Kurczaka_Na_Zac.sap
+COMMENT: 3rd place at Forever Reneg8 music compo.
+
+### /Various/Loos_Uwe ########################################################
+
+/Various/Loos_Uwe/Das_Omen.sap
+  TITLE: Das Omen - Teil 1 [from Omen - The Story]
+ ARTIST: Mysterious Arts
+
+### /Various/Luberda_Michal ##################################################
+
+/Various/Luberda_Michal/U235_Ingame.sap
+  TITLE: Last Ninja 2 (Central Park Loader) [from the C64 game]
+ ARTIST: Matt Gray
+
+### /Various/Majewski_Tomasz #################################################
+
+/Various/Majewski_Tomasz/Autobiografia.sap
+  TITLE: Autobiografia [from Live]
+ ARTIST: Perfect
+
+/Various/Majewski_Tomasz/Crocketts_Theme.sap
+  TITLE: Crockett's Theme [from the TV series Miami Vice]
+ ARTIST: Jan Hammer
+
+/Various/Majewski_Tomasz/Das_Model.sap
+  TITLE: The Model [from The Man Machine]
+ ARTIST: Kraftwerk
+
+/Various/Majewski_Tomasz/Magic_Fly.sap
+  TITLE: Magic Fly
+ ARTIST: Didier Marouani (Ecama), Performed by Space
+
+/Various/Majewski_Tomasz/Mega_Player_151_Hidden_Mus.sap
+  TITLE: MacGyver Theme [from the TV series]
+ ARTIST: Randy Edelman
+
+/Various/Majewski_Tomasz/Reksio_Theme.sap
+  TITLE: Title Theme [from the cartoon series Reksio]
+ ARTIST: Zenon Kowalowski
+
+### /Various/Makara_Grzegorz #################################################
+
+/Various/Makara_Grzegorz/Neron_Ingame.sap
+  TITLE: The Hootchy Kootchy Dance
+ ARTIST: Sol Bloom
+
+/Various/Makara_Grzegorz/Neron_Winner.sap
+  TITLE: The Model [from The Man Machine]
+ ARTIST: Kraftwerk
+
+### /Various/Makowski_Robert #################################################
+
+/Various/Makowski_Robert/Alfaboot_1.sap
+  TITLE: Visitors [from Masterpieces]
+ ARTIST: Koto
+
+/Various/Makowski_Robert/Alfaboot_Ingame.sap
+  TITLE: Das Boot [from the movie]
+ ARTIST: Klaus Doldinger
+
+/Various/Makowski_Robert/Incydent_Ingame.sap
+  TITLE: Sadeness [from 1990 A.D.]
+ ARTIST: Enigma
+
+/Various/Makowski_Robert/Ladypank.sap
+  TITLE: Tancz glupia, tancz [from Mala wojna - akustycznie]
+ ARTIST: Jan Borysewicz (music), Andrzej Mogielnicki (lyrics) ,Performed by
+         Lady Pank.
+
+### /Various/Martin_Aleksander ###############################################
+
+/Various/Martin_Aleksander/Temptation.sap
+  TITLE: Ob-La-Di, Ob-La-Da [from The Beatles]
+ ARTIST: The Beatles
+
+### /Various/Matoga_Adrian ###################################################
+
+/Various/Matoga_Adrian/Scream.sap
+COMMENT: Lato Ludzikow 2002 music compo entry.
+
+### /Various/Matyasik_Krzysztof ##############################################
+
+/Various/Matyasik_Krzysztof/Atak_serca.sap
+COMMENT: Last Party 1998 music compo entry.
+
+/Various/Matyasik_Krzysztof/Padaczka.sap
+COMMENT: Last Party 1998 music compo entry.
+
+/Various/Matyasik_Krzysztof/Rak_mozgu.sap
+COMMENT: Last Party 1998 music compo entry.
+
+/Various/Matyasik_Krzysztof/Self_Test.sap
+  TITLE: Promenade - Il vecchio Castello [from Pictures at an Exhibition]
+ ARTIST: Modest Petrovich Musorgskij
+COMMENT: Atari XL/XE official audio-visual test tune.
+
+/Various/Matoga_Adrian/Straight_Edge.sap
+COMMENT: 1st place at Grayscale Music Competition II.
+
+### /Various/Mrozowski_Robert ################################################
+
+/Various/Mrozowski_Robert/Going_to_California.sap
+  TITLE: Going to California
+ ARTIST: Led Zeppelin
+
+/Various/Mrozowski_Robert/Rock_And_Roll.sap
+  TITLE: Rock And Roll
+ ARTIST: Led Zeppelin
+
+/Various/Mrozowski_Robert/Stairway_to_Heaven.sap
+  TITLE: Stairway To Heaven [from Led Zeppelin IV: Four Symbols]
+ ARTIST: Led Zeppelin
+
+### /Various/Nabialek_Dawid ##################################################
+
+/Various/Nabialek_Dawid/Benny_Hill_Show_Theme.sap
+  TITLE: Yakety Sax [from Yakety Sax]
+ ARTIST: James Rich & Boots Randolph
+COMMENT: Best known from as the title theme to the comedy TV series "The Benny
+         Hill Show". 
+
+### /Various/Niestegge_Stefan ################################################
+
+/Various/Niestegge_Stefan/Aggressive.sap
+COMMENT: From an unknown Atari ST demo.
+
+### /Various/Numan_Daniel ####################################################
+
+/Various/Numan_Daniel/Pentagram_2_Menu.sap
+  TITLE: Hymn to Aurora [from the Amiga MOD module]
+ ARTIST: Horace Wimp
+
+/Various/Numan_Daniel/Pentagram_4_Axel_F.sap
+  TITLE: Axel F [from the movie Beverly Hills Cop]
+ ARTIST: Harold Faltermeyer
+
+/Various/Numan_Daniel/Pentagram_4_Croceth.sap
+  TITLE: Crockett's Theme [from the TV series Miami Vice]
+ ARTIST: Jan Hammer
+
+/Various/Numan_Daniel/Pentagram_4_Echoing.sap
+  TITLE: Echoing [from the Amiga MOD module]
+ ARTIST: Christof Muehlan (Banana)
+
+/Various/Numan_Daniel/Pentagram_4_Moonlight.sap
+  TITLE: Moonlight Shadow [from Crises]
+ ARTIST: Mike Oldfield & Simon Philips
+
+### /Various/Oscadal_Filip ###################################################
+
+/Various/Oscadal_Filip/Tetris.sap
+  TITLE: The Entertainer
+ ARTIST: Scott Joplin
+
+/Various/Oscadal_Filip/Vaxeen_Photographic.sap
+  TITLE: Photographic [from Speak & Spell]
+ ARTIST: Depeche Mode
+
+/Various/Oscadal_Filip/Vaxeen_Star_Pawns.sap
+  TITLE: Star Paws, Tune #1 [from the C64 game]
+ ARTIST: Rob Hubbard
+
+### /Various/Padula_Jaroslaw #################################################
+
+/Various/Padula_Jaroslaw/Brodzik.sap
+COMMENT: Scenery Copy Party music compo entry.
+
+/Various/Padula_Jaroslaw/Freedom.sap
+COMMENT: Last Party 1998 music compo entry.
+
+/Various/Padula_Jaroslaw/Pmix.sap
+COMMENT: Last Party 1999 music compo entry.
+
+/Various/Padula_Jaroslaw/Ps1.sap
+COMMENT: Last Party 1998 music compo entry.
+
+/Various/Padula_Jaroslaw/Psycho.sap
+COMMENT: Scenery Copy Party music compo entry.
+
+/Various/Padula_Jaroslaw/Ptrance.sap
+COMMENT: Scenery Copy Party music compo entry.
+
+/Various/Padula_Jaroslaw/Tech4.sap
+COMMENT: Scenery Copy Party music compo entry.
+
+/Various/Padula_Jaroslaw/Trance_Feat_House.sap
+COMMENT: Rush Hours 1997 music compo entry.
+
+### /Various/Pasiecznik_Michal ###############################################
+
+/Various/Pasiecznik_Michal/Damned_Remix.sap
+  TITLE: Damned
+ ARTIST: Michal Pasiecznik (Pasiu)
+COMMENT: Remix version /Various/Pasiecznik_Michal/Damned.sap
+
+/Various/Pasiecznik_Michal/Hot_Tuna.sap
+  TITLE: Hot Tuna [from the Amiga MOD module]
+ ARTIST: <?>
+COMMENT: This tune comes from the cracktro of Amiga version of "Mortal
+         Kombat 2". Originally module exists as The Player 6.0a pattern-packed
+         file.
+
+/Various/Pasiecznik_Michal/Lost_Scrotum.sap
+  TITLE: Lost Scrotum [from the Amiga MOD module]
+ ARTIST: <?> (Paso/Dynamix)
+
+### /Various/Pelc_Janusz #####################################################
+
+/Various/Pelc_Janusz/Blue_Monday.sap
+  TITLE: Blue Monday
+ ARTIST: New Order
+
+/Various/Pelc_Janusz/Enola.sap
+  TITLE: Enola Gay [from Organisation]
+ ARTIST: Orchestral Manoeuvres in the Dark (OMD)
+
+/Various/Pelc_Janusz/Try.sap
+COMMENT: One of the demo songs that came with Chaos Music Composer.
+
+### /Various/Pesout_Marek ####################################################
+
+/Various/Pesout_Marek/Alphaville.sap
+  TITLE: Big in Japan [from Forever Young]
+ ARTIST: Alphaville
+
+/Various/Pesout_Marek/Blade.sap
+  TITLE: Blade Runner (End Titles) [from the movie]
+ ARTIST: Vangelis
+
+### /Various/Pucinski_Rafal ##################################################
+
+/Various/Pucinski_Rafal/Kick.sap
+COMMENT: Silesian Atari Open 1995 music compo entry.
+
+/Various/Pucinski_Rafal/Magic.sap
+COMMENT: Silesian Atari Open 1995 music compo entry.
+
+/Various/Pucinski_Rafal/Rama.sap
+COMMENT: QuaST Party 1996 music compo entry.
+
+### /Various/Radecki_Michal ##################################################
+
+/Various/Radecki_Michal/Entrance_of_Dragon_Intro_2.sap
+  TITLE: Imperial March [from the movie Star Wars]
+ ARTIST: John Williams
+
+### /Various/Radzikowski_Ireneusz ############################################
+
+/Various/Radzikowski_Ireneusz/Another_Day_in_Paradise.sap
+  TITLE: Another Day in Paradise [from But Seriously]
+ ARTIST: Phil Collins
+
+/Various/Radzikowski_Ireneusz/Draconus_Remix.sap
+  TITLE: Draconus, Tune #7
+ ARTIST: Adam Gilmore
+
+### /Various/Roemer_Markus ###################################################
+
+/Various/Roemer_Markus/The_way_you_are.sap
+COMMENT: 6th place at Grayscale Music Competition II.
+
+### /Various/Sikorski_Pawel ##################################################
+
+/Various/Sikorski_Pawel/Bzz.sap
+COMMENT: 11th place at Grayscale Music Competition II.
+
+### /Various/Skwiot_Stanislaw ################################################
+
+/Various/Skwiot_Stanislaw/Fortuna.sap
+(#1)
+  TITLE: <?> [from the Amiga MOD module]
+ ARTIST: <?>
+
+/Various/Skwiot_Stanislaw/Roxette.sap
+  TITLE: Listen To Your heart [from Look Sharp]
+ ARTIST: Roxette
+
+### /Various/Sledz_Slawek ####################################################
+
+/Various/Sledz_Slawek/Bukkake.sap
+COMMENT: 4th place at Grayscale Music Competition II.
+
+/Various/Sledz_Slawek/DM.sap
+  TITLE: I Want You Now [from Music for the Masses]
+ ARTIST: Depeche Mode
+
+### /Various/Szmatola_Krzysztof ##############################################
+
+/Various/Szmatola_Krzysztof/Syn_Boga_Wiatru.sap
+  TITLE: Visitors [from Masterpieces]
+ ARTIST: Koto
+
+### /Various/Sterba_Radek ####################################################
+
+/Various/Sterba_Radek/Cubico.sap
+(#1)
+  TITLE: Cutesy [from the Amiga MOD module]
+ ARTIST: Mark Knight
+
+/Various/Sterba_Radek/Delta.sap
+  TITLE: Delta, Tune # 12 [from the C64 game]
+ ARTIST: Rob Hubbard
+
+/Various/Sterba_Radek/Flop_Magazin_30_Just_Now.sap
+  TITLE: Prave Ted
+ ARTIST: Janek Ledecky
+COMMENT: Covers a song by a popular Czech singer.
+
+/Various/Sterba_Radek/Gear_Up.sap
+COMMENT: 2nd place at Forevera Reneg8 music compo.
+
+/Various/Sterba_Radek/Flop_Magazin_31_Christmas.sap
+COMMENT: Covers a popular Czech Christmas song.
+
+/Various/Sterba_Radek/Flop_Magazin_35_BH90210.sap
+  TITLE: Beverly Hills 90210 Theme [from the TV series]
+ ARTIST: John E. Davis
+
+/Various/Sterba_Radek/Hymn_to_Aurora.sap
+  TITLE: Hymn to Aurora [from the Amiga MOD module]
+ ARTIST: Horace Wimp
+
+/Various/Sterba_Radek/It_Doesnt_Matter.sap
+COMMENT: 2nd place at Forever 6 music compo.
+
+/Various/Sterba_Radek/Len_raz.sap
+  TITLE: Len raz
+ ARTIST: Elan
+COMMENT: Covers a song by a popular Slovak music band.
+COMMENT: Forever 3 music compo entry.
+
+/Various/Sterba_Radek/Less_Than_222.sap
+COMMENT: 1st place at Forever 2 music compo.
+
+/Various/Sterba_Radek/Od_Tater_k_Dunaju.sap
+  TITLE: Od Tater k Dunaju
+ ARTIST: Elan
+COMMENT: Covers a song by a popular Slovak music band.
+
+/Various/Sterba_Radek/Paul_the_Penguin.sap
+  TITLE: Paul the Penguin [from the Amiga MOD module]
+ AUTHOR: Radix
+
+/Various/Sterba_Radek/Small_Stir.sap
+COMMENT: 1st place at Forever 1 music compo.
+
+/Various/Sterba_Radek/Turrican_2_Experiment.sap
+  TITLE: Turrican 2 - World 1, Tune #1
+ ARTIST: Chris Huelsbeck
+COMMENT: Covers only a part of it.
+
+/Various/Sterba_Radek/Two_Years_Ago.sap
+COMMENT: 1st place at Forever 3 music compo.
+
+### /Various/Swierszcz_Piotr #################################################
+
+/Various/Swierszcz_Piotr/Last_World.sap
+COMMENT: QuaST party 1995 music compo entry.
+
+/Various/Swierszcz_Piotr/Oldskul_filink_z_newer_daj.sap
+COMMENT: 2nd place at Grayscale Music Competition II.
+
+/Various/Swierszcz_Piotr/Overmind_TLB_546_Dots.sap
+  TITLE: Bootup [from the Amiga game Lotus II]
+ ARTIST: Barry Leitch
+
+/Various/Swierszcz_Piotr/Popcorn.sap
+  TITLE: Popcorn [from Music To Moog By]
+ ARTIST: Gershon Kingsley
+COMMENT: Covering the version arranged by Hot Butter.
+
+/Various/Swierszcz_Piotr/Reverse_2.sap
+  TITLE: Dear Rob [from the Amiga MOD module]
+ ARTIST: Frederick Hahn (Fred)
+
+/Various/Swierszcz_Piotr/Roxette.sap
+  TITLE: <?>
+ ARTIST: Roxette
+
+/Various/Swierszcz_Piotr/White_Lamp.sap
+  TITLE: Greensleeves
+ ARTIST: Unknown
+COMMENT: Covers a version made by Richard Munns
+
+### /Various/Szpilowski_Michal ###############################################
+
+/Various/Szpilowski_Michal/Asleep.sap
+ COMMENT: Composed using Chaos Music Composer 4 times/VBL.
+
+/Various/Szpilowski_Michal/Baracco.sap
+COMMENT: Composed using Chaos Music Composer 4 times/VBL.
+
+/Various/Szpilowski_Michal/Brainstorm.sap
+COMMENT: QuaST party 1995 music compo entry.
+
+/Various/Szpilowski_Michal/Brzdonc.sap
+COMMENT: 1st place at QuaST party 1998 music compo.
+
+/Various/Szpilowski_Michal/Disturbance.sap
+COMMENT: 6th place at Forevera Reneg8 music compo.
+
+/Various/Szpilowski_Michal/K_O_T_O.sap
+  TITLE: Visitors [from Masterpieces]
+ ARTIST: Koto
+
+/Various/Szpilowski_Michal/Kombi_Nietykalni.sap
+  TITLE: Nietykalni - Skamieniale Zlo [from Tabu]
+ ARTIST: Kombi
+
+/Various/Szpilowski_Michal/Last_Ninja_2_Central_Park.sap
+  TITLE: Last Ninja 2 (Central Park Loader) [from the C64 game]
+ ARTIST: Matt Gray
+
+/Various/Szpilowski_Michal/Melted_Personality.sap
+COMMENT: 3rd place at Rush Hours 1997 music compo.
+
+/Various/Szpilowski_Michal/Nexus_Ingame_3.sap
+  TITLE: Lost Patrol Theme [from the Amiga game]
+ ARTIST: Chris Glaister
+
+/Various/Szpilowski_Michal/RSI_1.sap
+  TITLE: Telephone <?> [from the Amiga MOD module]
+ ARTIST: <?>
+
+/Various/Szpilowski_Michal/Rubicon.sap
+  TITLE: Enemies <?> [from the Amiga MOD module]
+ ARTIST: <?>
+
+/Various/Szpilowski_Michal/Sej_mik.sap
+COMMENT: 1st place at Sillyventure 2000 music compo.
+
+/Various/Szpilowski_Michal/Settlers.sap
+  TITLE: Siedler II [from the Amiga game Settlers]
+ ARTIST: Markus Kludzuweit
+COMMENT: Cover of part of the original game soundtrack
+         ("some" patterns have been heavily altered).
+
+/Various/Szpilowski_Michal/Sleepy_Passage.sap
+COMMENT: 3rd place at Sillyventure 2000 music compo.
+
+/Various/Szpilowski_Michal/Snow_Ball.sap
+  TITLE: Snowblind [from the Amiga MOD module]
+ ARTIST: Bjorn Lynne (Dr.Awesome)
+
+/Various/Szpilowski_Michal/Song_12.sap
+COMMENT: Composed using Chaos Music Composer 4 times/VBL.
+
+/Various/Szpilowski_Michal/Weird_Trip.sap
+COMMENT: 3nd place at Grayscale Music Competition II.
+
+/Various/Szpilowski_Michal/Wings_of_Death_Level_Music.sap
+  TITLE: Wings of Death - Level #1 [from the ST/Amiga game Wings of Death]
+ ARTIST: Jochen Hippel (Mad Max)
+COMMENT: Fast MIDI conversion
+
+/Various/Szpilowski_Michal/Wings_of_Death_Level_2.sap
+  TITLE: Wings of Death - Level #2 [from the ST/Amiga game Wings of Death]
+ ARTIST: Jochen Hippel (Mad Max)
+COMMENT: MIDI conversion
+
+/Various/Szpilowski_Michal/Wiosna_Ludzikuf_End.sap
+  TITLE: Title Theme [from the cartoon series Reksio]
+ ARTIST: Zenon Kowalowski
+
+/Various/Szpilowski_Michal/X_Mass.sap
+  TITLE: Hej, w dzien narodzenia
+ ARTIST: <?> 
+COMMENT: Polish Christmas carol.
+
+/Various/Szpilowski_Michal/Yie_Ar_Kung_Fu.sap
+  TITLE: <?> [from the c64 game Yie Ar Kung Fu]
+ ARTIST: Martin Galway
+COMMENT: MIDI Conversions, except GAME OVER and LEVEL START tunes 
+         (thse were written by ear). Default tune is not used in the latest version
+         of the game.
+
+/Various/Szpilowski_Michal/Yie_Ar_Kung_Fu_Title.sap
+  TITLE: <?> [from the c64 game Yie Ar Kung Fu]
+ ARTIST: Martin Galway
+COMMENT: This is a cover of Magnetic Fields IV by Jean Michel Jarre, done closely
+         to original c64 version.
+
+### /Various/Takacs_Gabriel ##################################################
+
+/Various/Takacs_Gabriel/Draconus.sap
+  TITLE: Draconus, Tune #7 (0:00-0:51)
+ ARTIST: Adam Gilmore
+
+### /Various/Tegethoff_Sven ##################################################
+
+/Various/Tegethoff_Sven/
+COMMENT: Tegethoff's own comments are denoted by (ST).
+
+/Various/Tegethoff_Sven/ABBUC_20_1.sap
+COMMENT: "Entry in the annual Abbuc demo competition (can't remember the year)
+         held at the 'Hobbytronic' Computer Fair in Dortmund, Germany. The song
+         is an adaption of a popular tune from the Commodore C64. It's such a 
+         crappy rendition because this is a LOADER music, and you can only use
+         two voices while loading from floppy. The demo (not this particular
+         tune) won first price. Uses custom player routines." (ST)
+
+/Various/Tegethoff_Sven/ABBUC_21_1.sap
+  TITLE: Commando, Tune #2 [from the C64 game]
+ ARTIST: Rob Hubbard
+COMMENT: "The second loader music from the same demo. This is an equally crappy
+         rendition of the High Score theme from the C64 game 'Commando'. The
+         demo (not this particular tune) won first price. Uses custom player
+         routines." (ST)
+
+/Various/Tegethoff_Sven/ABBUC_21_2.sap
+COMMENT: "Another entry in the annual ABBUC demo competition (can't remember
+         the year) held at the 'Hobbytronic' Computer Fair in Dortmund,
+         Germany. The demo (not this particular tune) won first price. Written
+         using 'The Black Magic Composer'.
+
+/Various/Tegethoff_Sven/ABBUC_21_3.sap
+COMMENT: "Another entry in the annual ABBUC demo competition (can't remember
+         the year) held at the 'Hobbytronic' Computer Fair in Dortmund,
+         Germany. Written using 'The Black Magic Composer' with Digi-Drums.
+         Drums were blatantly ripped from various Chris Huelsbeck modules :)" 
+         (ST)
+
+/Various/Tegethoff_Sven/The_Top_2_2.sap
+COMMENT: "This song was part of the same ABBUC Demo like ABBUC_20_1.sap and 
+         ABBUC_21_2.sap. The complete demo (not this particular tune) won first
+         price. The tune was ripped and re-used by some czech demo crew in a 
+         demo called 'the top'. But I forgive them, because they gave me the
+         proper credits :)  Makes heavy uses of the  very few modulations the
+         atari sound chip allowed for. Written using 'The Black Magic Composer' 
+         with Digi-Drums. Drums were blatantly ripped from various Chris
+         Huelsbeck modules :)" (ST)
+         Sven is wrong here, The Top demos were produced in Poland.
+
+/Various/Tegethoff_Sven/Hobbytronic_90_2.sap
+COMMENT: "Entry in the annual ABBUC demo competition 1990 held at the
+         'Hobbytronic' Computer Fair in Dortmund, Germany. Written using 'The
+         Black Magic Composer' with Digi-Drums. Drums were blatantly ripped
+         from various Chris Huelsbeck modules :)" (ST)
+
+### /Various/Top_Odin ########################################################
+
+/Various/Top_Odin/Flinstones.sap
+  TITLE: The Flintstones [from the TV series]
+ ARTIST: Hoyt Curtin (music), William Hanna & Joseph Barbera (lyrics) 
+
+/Various/Top_Odin/Indiana_Jones.sap
+  TITLE: Theme from The Raiders of the Lost Ark [from the movie]
+ ARTIST: John Williams
+
+### /Various/Trokowicz_B #####################################################
+
+/Various/Trokowicz_B/Miecze_Valdgira_II.sap
+(#2)
+  TITLE: Echoing [from the Amiga MOD module]
+ ARTIST: Christof Mühlan (Banana)
+(#3)
+  TITLE: Saltarello
+ ARTIST: Dead Can Dance [from A Passage In Time]
+
+### /Various/Vavra_Karel_and_Sedlak_Jiri #####################################
+
+/Various/Vavra_Karel_and_Sedlak_Jiri/All_That_She_Wants.sap
+  TITLE: All That She Wants [from Happy Nation]
+ ARTIST: Ace of Base
+
+/Various/Vavra_Karel_and_Sedlak_Jiri/Mr_Vain.sap
+  TITLE: Mr. Vain [from Serenity]
+ ARTIST: Culture Beat
+
+### /Various/Vybostok_Marian #################################################
+
+/Various/Vybostok_Marian/Bristly_Hedgehog_Unlimited.sap
+  TITLE: No Limit [from No Limits]
+ ARTIST: 2 Unlimited
+
+/Various/Vybostok_Marian/Street_Fighter_II_Demo_4.sap
+  TITLE: Katjusha
+ ARTIST: Matvei Blanter & M. Isakovski
+
+/Various/Vybostok_Marian/Wanted_Part_2.sap
+(#2)
+  TITLE: No Limit [from No Limits]
+ ARTIST: 2 Unlimited
+
+/Various/Vybostok_Marian/Wanted_Part_4_Polizei.sap
+  TITLE: Eins Zwei Polizei
+ ARTIST: Mo-Do
+
+/Various/Vybostok_Marian/Wanted_Part_4_Summer.sap
+  TITLE: Summer Nights [from the musical Grease]
+ ARTIST: J. Jacobs
+COMMENT: Performed by John Travolta/Olivia Newton John & cast.
+         Not a 100% cover, but very heavily inspired.
+
+### /Various/Wasilewski_Dariusz ##############################################
+
+/Various/Wasilewski_Dariusz/Koto.sap
+  TITLE: I Like Chopin
+ ARTIST: Gazebo [from Gazebo]
+COMMENT: Covers parts of above title. Erroneously named.
+
+/Various/Wasilewski_Dariusz/No_Limits.sap
+  TITLE: No Limit [from No Limits]
+ ARTIST: 2 Unlimited
+
+### /Various/Wisniewski_Mateusz ##############################################
+
+/Various/Wisniewski_Mateusz/Last_V8.sap
+  TITLE: The Last V8, Tune #1 [from the C64 game]
+ ARTIST: Rob Hubbard
+
+### /Various/Zur-soft ########################################################
+
+/Various/Zur-soft/Tactic.sap
+COMMENT: A good set of Amiga tune conversions: "Techno Florid", 
+         "Happy Sprite", "Lotus Turbo Challenge 2" etc.
+
+/Various/Zur-soft/The_Top_3_Part_9.sap
+  TITLE: WCOPPER4 <?> [from the Amiga MOD module]
+ ARTIST: <?>
