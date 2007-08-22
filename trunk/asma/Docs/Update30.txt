@@ -5,7 +5,7 @@ These rips together with the original ASMA collection will make version 3.0
 of the ASMA (out of version 2.9).
 
 Number of new tunes: 128
-Credits fixes: 222
+Credits fixes: 221
 Better rips: 6
 Removed files: 22
 
@@ -229,7 +229,6 @@ Various/Czartynski_Marcin/Heretic_Crew_Limited_Dem_1.sap : AUTHOR "Marcin Czarty
 Various/Czartynski_Marcin/Heretic_Crew_Limited_Dem_2.sap : AUTHOR "Marcin Czartynski (Cedyn)"
 Various/Czartynski_Marcin/Hlejnia.sap : AUTHOR "Marcin Czartynski (Cedyn)"
 Various/Czartynski_Marcin/Paczka_TNQ_3.sap : AUTHOR "Marcin Czartynski (Cedyn)"
-Various/Czartynski_Marcin/Rave_01.sap : AUTHOR "Marcin Czartynski (Cedyn)"
 Various/Drozdowski_Marek/Help_Globus_Greetings.sap : AUTHOR "Marek Drozdowski (Marucha)"
 Various/Drozdowski_Marek/Sweet_Illusion_APC_Part.sap : AUTHOR "Marek Drozdowski (Marucha)"
 Various/Duesterhoeft_Stephan/Abbuc_8.sap : AUTHOR "Stephan Duesterhoeft (Benjy)"

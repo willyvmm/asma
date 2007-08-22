@@ -2,7 +2,7 @@ Classics/Gilmore_Adam/Arcade_Fruit_Machine_Simul.sap - subsongs missing
 Classics/Munns_Richard/Rebound.sap - song doesn't play first note (drum)
 Games/Classic/Ghostbusters.sap - sample at the beginning is missing
 Games/Classic/Moon_Patrol.sap - song probably doesn't play with original settings
-Games/Classic/Mule.sap - song falls out of synch after about 0:35 (ripped from a buggy release)
+Games/Classic/M_U_L_E.sap - song falls out of synch after about 0:35 (ripped from a buggy release)
 Various/Claas_Clever/World_of_Wonders_Fantasy.sap - strange noise after song end
 Various/Eisenhammer_Zdenek/Deus_Ex_Machina.sap - strange noise after song end
 Various/Hard_Software/ABBUC_36.sap - rogue note at the beginning
