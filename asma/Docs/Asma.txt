@@ -14,17 +14,17 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 3.1
+                                  Version 3.2
 
                          Started on 4th of August 1999
-                    Last updated on 27th of September 2006
+                      Last updated on 22nd of August 2007
 
-                    Total number of songs: 2192 (188 new)
+                     Total number of songs: 2540 (360 new)
 
 
  Introduction
  ~~~~~~~~~~~~
- This is the release version of the first Atari XL/XE chip-music collection.
+ Welcome to the biggest collection of the POKEY-based Atari XL/XE music.
  The outfit of the whole collection was inspired by the HVSC collection (with 
  some differences). I hope you'll like this collection. To get in touch with 
  me, see the "Contact" section of this document.
@@ -32,33 +32,33 @@
 
  Statistics
  ~~~~~~~~~~
- Number of songs:      2192 (2832 including subsongs)
- Compared to HVSC:     6.9 % (HVSC r45 contains 32000 songs)
- Disk space ocupied:   12959198 bytes (excluding documents)
- Average SAP filesize: 5912 bytes
- Songs with subsongs:  215
- Songs in stereo:      186
- Unsorted songs:       86
- Number of musicians:  110
- Most active musician: Lukasz Sychowicz    (120 songs + 17 cooperations)
+ Number of songs:      2540 (3262 including subsongs)
+ Compared to HVSC:     7.4 % (HVSC r47 contains 34127 songs)
+ Disk space ocupied:   14625783 bytes (excluding documents and playlist)
+ Average SAP filesize: 5758 bytes
+ Songs with subsongs:  246
+ Songs in stereo:      244
+ Unsorted songs:       95
+ Number of musicians:  124
+ Most active musician: Lukasz Sychowicz    (122 songs + 17 cooperations)
  Biggest SAP file:     Garfield_Part_2.sap (61543 bytes)
- Smallest SAP file:    Self_Test.sap       (150 bytes)
+ Smallest SAP file:    Self_Test.sap       (172 bytes)
  Files with subsongs:
-  2 songs: 68x
-  3 songs: 47x
-  4 songs: 35x
-  5 songs: 31x
-  6 songs: 12x
-  7 songs:  5x
-  8 songs:  4x
-  9 songs:  3x
+  2 songs: 80x
+  3 songs: 52x
+  4 songs: 41x
+  5 songs: 35x
+  6 songs: 13x
+  7 songs:  6x
+  8 songs:  5x
+  9 songs:  4x
  10 songs:  3x
  11 songs:  3x
  12 songs:  1x
  13 songs:  1x
  14 songs:  1x
  15 songs:  1x
- Total: 640 subsongs
+ Total: 722 subsongs
 
 
  Help!
@@ -93,12 +93,19 @@
  Marek Pavlik (MaPa)
  Stephan Pollock (Mr. Bacardi)
  Marcin Prusisz (Pigula of Shpoon)
+ Mariusz Rozwadowski (Ramos)
  Martin Simecek
  Slawek Sledz (Slaves of Taquart)
  Radek Sterba (Raster)
  Michal Szpilowski (Miker)
- Maciej Wojciechowski (Stryker)
+ Marcin Wojciechowski (Stryker)
+
  ..and people at the HVSC mailing list at http://groups.yahoo.com/group/hvsc/
+ 
+ The following valuable sites were used for completing tune info:
+ http://atari.fandal.cz
+ http://freenet-homepage.de/mrbacardi/
+ http://www.atarimania.com
 
 
  Contact
@@ -106,4 +113,5 @@
  E-mail:        pg@pinknet.cz
  ICQ:           66411804
  Homepage:      http://asma.atari.org
- Polish mirror: http://atariarea.histeria.pl/asma
+ Czech mirror:  http://www.milar.name/asma
+ Polish mirror: http://atariarea.krap.pl/asma

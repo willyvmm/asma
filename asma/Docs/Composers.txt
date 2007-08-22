@@ -1,8 +1,8 @@
-Known Atari composers and handles                                 Sep 22 2006
+Known Atari composers and handles                                 Aug 21 2007
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This list contains only composers who have at least 3 songs in ASMA
 collection. The composers are sorted in ABC order according to their surnames
-(if known, otherwise by their handles). There are 110 composers in this list.
+(if known, otherwise by their handles). There are 124 composers in this list.
 
 Badkowski, Marek - Bac
 Banaszkiewicz, Michal - Hugo
@@ -13,16 +13,20 @@ Brooke, Jason C.
 Bruenninski, Uwe - Hu-Soft
 Bryla, Krzysztof - Woppie, Foster
 Ce-Pumpkin
+Checa Funcke, Marco Antonio
 Cierkonski, Michal - Morgoth
 <?> - Claas Clever
 Cornelius, Orall
 Czartynski, Marcin - Cedyn
 <?> - Czlowiek W Atomizerze
+Daglish, Ben
 Dariusz Duma - Dhor
 Dojwa, Jacek
 Drozdowski, Marek - Marucha
+Dudek, Krzysztof - Xxl
 Duesterhoeft, Stephan - Benjy
 Eisenhammer, Zdenek - PG, PseudoGrafx
+Esquivel, Sal
 Ezcan, Kemal - KE-SOFT
 Galinski, Adrian - Daxey
 Gilbertson, Gary
@@ -72,26 +76,34 @@ Makowski, Robert - Gutek
 Martin, Aleksander - Alex
 Matoga, Adrian - Epi
 Matyasik, Krzysztof - Mateoos
+Michalski, Krzysztof - KAMMSoft
 Mikolajczak, Pawel
 Mrozowski, Robert
 Munns, Richard
 Nabialek, Dawid - Dave
+Niestegge, Stefan - Beetle
 Numan, Daniel - Zbx Virus
 Oscadal, Filip - Fred Brooker
 Padula, Jaroslaw - Solo
+<?> - Panopticum
+Pasiecznik, Michal - Pasiu
 Pelc, Janusz
 Pesout, Marek - Poison
 Podedworny, Wojtek - Ferro
-Przybyszewski, Krzysztof - BLB
+Przybyszewski, Krzysztof - Bloody Butcher
 Pucinski, Rafal - Dex
 Radecki, Michal - stRing, Tehno
 Radzikowski, Ireneusz - Jager
 <?> - Rentgen
 Roemer, Markus - R.I.K
+Rosolek, Maciej - Sound Vixen
 Roszkowski, Marek - Marcys
 <?> - Ramzes
 Sasik, Marek
+Scarim, Nicholas
 Sedlak, Jiri
+Selinger, Bartek
+Selinger, Pawel
 Sikorski, Pawel - Sikor
 Skwiot, Stanislaw - Stanley
 Sledz, Slawek - Slaves
@@ -99,13 +111,15 @@ Sterba, Radek - Raster
 Swierszcz, Piotr - Tatqoo, Samurai
 Sychowicz, Lukasz - X-Ray
 Szczesniak, Konrad
+Szczygiel, Andrzej
 Szmatola, Krzysztof - Thor
 Szpilowski, Michal - Miker
 Szymczuk, Daniel - Lorien
-<?> - Top Odin
+Takacs, Gabriel - GMX
 Tegethoff, Sven - Gnome Design
 Trokowicz, B.
 Vavra, Karel
+Vila, Jaime - JIMPACK
 Vogt, Dariusz - DJ V
 Vybostok, Marian - Goldmaster
 Wasiel, Bartek - BeWu
