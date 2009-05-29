@@ -1,17 +1,19 @@
-Known Atari composers and handles                                 Aug 21 2007
+Known Atari composers and handles                                 May 29 2009
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This list contains only composers who have at least 3 songs in ASMA
 collection. The composers are sorted in ABC order according to their surnames
-(if known, otherwise by their handles). There are 124 composers in this list.
+(if known, otherwise by their handles). There are 133 composers in this list.
 
+<?> - B00daW
+Armijo, Richard J. - Kulor
 Badkowski, Marek - Bac
 Banaszkiewicz, Michal - Hugo
-Benoth, Sukkor - KS
 Bienias, Adam - SoTe
 Bloszko, Marek - Markus
 Brooke, Jason C.
 Bruenninski, Uwe - Hu-Soft
 Bryla, Krzysztof - Woppie, Foster
+Brzezicki, Michal - Caruso
 Ce-Pumpkin
 Checa Funcke, Marco Antonio
 Cierkonski, Michal - Morgoth
@@ -28,6 +30,7 @@ Duesterhoeft, Stephan - Benjy
 Eisenhammer, Zdenek - PG, PseudoGrafx
 Esquivel, Sal
 Ezcan, Kemal - KE-SOFT
+Feske, Nils - 505
 Galinski, Adrian - Daxey
 Gilbertson, Gary
 Gilmore, Adam
@@ -53,6 +56,7 @@ Kalinowski, Bartosz - Bartman
 Karwacki, Jakub - Yezus
 Karwoth, Torsten
 Kazimierczak, Leszek - Mr MB
+Kidaj, Andrzej - Andy
 Kociuba, Dariusz - Sherlock
 Krasuski, Jaroslaw - Jaras
 Krawczyk, Adam
@@ -60,6 +64,7 @@ Kucharski, Konrad - Kuchara
 Kucisz, Tomasz - VLX
 Kuczek, Konrad
 Kulinski, Grzegorz - QLX
+Armijo, Richard J. - Kulor
 Kwiatek, Grzegorz - Greg
 Lajciak, Pavol - pL79, Flame
 Lepkowski, Michal - Josh
@@ -81,6 +86,7 @@ Mikolajczak, Pawel
 Mrozowski, Robert
 Munns, Richard
 Nabialek, Dawid - Dave
+Nedved, Vojtech - Nooly
 Niestegge, Stefan - Beetle
 Numan, Daniel - Zbx Virus
 Oscadal, Filip - Fred Brooker
@@ -107,7 +113,10 @@ Selinger, Pawel
 Sikorski, Pawel - Sikor
 Skwiot, Stanislaw - Stanley
 Sledz, Slawek - Slaves
+Stanik, Krzysztof - Sukkor Benoth
 Sterba, Radek - Raster
+<?> - Strobe
+Strzelec, Pawel
 Swierszcz, Piotr - Tatqoo, Samurai
 Sychowicz, Lukasz - X-Ray
 Szczesniak, Konrad
@@ -117,7 +126,8 @@ Szpilowski, Michal - Miker
 Szymczuk, Daniel - Lorien
 Takacs, Gabriel - GMX
 Tegethoff, Sven - Gnome Design
-Trokowicz, B.
+Trokowicz, Bartolomiej
+<?> - ui
 Vavra, Karel
 Vila, Jaime - JIMPACK
 Vogt, Dariusz - DJ V

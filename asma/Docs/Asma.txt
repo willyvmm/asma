@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 3.2
+                                  Version 3.3
 
                          Started on 4th of August 1999
-                      Last updated on 22nd of August 2007
+                       Last updated on 29th of May 2009
 
-                     Total number of songs: 2540 (360 new)
+                     Total number of songs: 2843 (308 new)
 
 
  Introduction
@@ -32,33 +32,34 @@
 
  Statistics
  ~~~~~~~~~~
- Number of songs:      2540 (3262 including subsongs)
- Compared to HVSC:     7.4 % (HVSC r47 contains 34127 songs)
- Disk space ocupied:   14625783 bytes (excluding documents and playlist)
- Average SAP filesize: 5758 bytes
- Songs with subsongs:  246
- Songs in stereo:      244
- Unsorted songs:       95
- Number of musicians:  124
- Most active musician: Lukasz Sychowicz    (122 songs + 17 cooperations)
- Biggest SAP file:     Garfield_Part_2.sap (61543 bytes)
+ Number of songs:      2843 (3656 including subsongs)
+ Compared to HVSC:     7.9 % (HVSC r50 contains 36000 songs)
+ Disk space ocupied:   16191162 bytes (excluding documents and playlist)
+ Average SAP filesize: 5695 bytes
+ Total playtime:       4 days 22 hours 10 minutes 54.5 seconds
+ Songs with subsongs:  284
+ Songs in stereo:      297
+ Songs with no author: 165
+ Number of musicians:  133
+ Most active musician: Lukasz Sychowicz    (138 songs + 17 cooperations)
+ Biggest SAP file:     Garfield_Part_2.sap (61558 bytes)
  Smallest SAP file:    Self_Test.sap       (172 bytes)
  Files with subsongs:
-  2 songs: 80x
-  3 songs: 52x
-  4 songs: 41x
-  5 songs: 35x
-  6 songs: 13x
-  7 songs:  6x
-  8 songs:  5x
-  9 songs:  4x
- 10 songs:  3x
- 11 songs:  3x
- 12 songs:  1x
- 13 songs:  1x
- 14 songs:  1x
- 15 songs:  1x
- Total: 722 subsongs
+  2 subsongs: 96 files
+  3 subsongs: 63 files
+  4 subsongs: 46 files
+  5 subsongs: 37 files
+  6 subsongs: 15 files
+  7 subsongs:  6 files
+  8 subsongs:  5 files
+  9 subsongs:  4 files
+ 10 subsongs:  4 files
+ 11 subsongs:  3 files
+ 12 subsongs:  2 files
+ 13 subsongs:  1 file
+ 14 subsongs:  1 file
+ 15 subsongs:  1 file
+ Total: 813 extra subsongs
 
 
  Help!
@@ -90,9 +91,12 @@
  Achim Haertel
  Jaymz Julian (alih)
  Jindrich Kubec
+ <?> (Marok)
+ Wojciech Pasiecznik (Voy)
  Marek Pavlik (MaPa)
  Stephan Pollock (Mr. Bacardi)
  Marcin Prusisz (Pigula of Shpoon)
+ Marek Sasnal (MarOk)
  Mariusz Rozwadowski (Ramos)
  Martin Simecek
  Slawek Sledz (Slaves of Taquart)
@@ -110,8 +114,9 @@
 
  Contact
  ~~~~~~~
- E-mail:        pg@pinknet.cz
- ICQ:           66411804
- Homepage:      http://asma.atari.org
- Czech mirror:  http://www.milar.name/asma
- Polish mirror: http://atariarea.krap.pl/asma
+ E-mail:                pg@pinknet.cz
+ ICQ:                   66411804
+ Homepage:              http://asma.atari.org
+ Czech mirror:          http://www.milar.name/asma
+ Polish mirror:         http://atariarea.krap.pl/asma
+ Exotica search engine: http://www.exotica.org.uk/wiki/Special:ASMA

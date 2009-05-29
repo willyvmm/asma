@@ -85,7 +85,8 @@ TYPE C - player from CMC (Chaos Music Composer). In this case, also these
          don't have to add this code to the CMC player.
 
 TYPE B - any player. In this case, also these commands must appear: PLAYER,
-         INIT. Additionaly you can define SONGS and DEFSONG. Player will be initialized as follows:
+         INIT. Additionaly you can define SONGS and DEFSONG. Player will be
+         initialized as follows:
 
          lda #DEFSONG
          jsr INIT
@@ -119,10 +120,11 @@ TYPE R - Registers. In this type, binary part is not an Atari binary file.
          This part contains values that will be directly written to Pokey
          registers ($D200-$D208) in 1/50s intervals (or intervals defined
          with FASTPLAY tag).
-TIME xx:xx - Song duration. This is actually already supported by SAP WinAMP
-             plug-in. It's still unclear how will subsongs be handled with
-             TIME tag. Possibly it will also support tenths or hundredths of
-             second (xx:xx.x or xx:xx.xx).
+TIME mm:ss.ttt [LOOP]- Song duration in minutes, seconds and thousandths. In 
+                       files with subsongs the TIME tag may occur more times
+                       (eg. 3 times if there are 3 subsongs total). The
+                       optional LOOP string can be added if the song loops in
+                       an endless loop.
 
 Example of the header:
 SAP
@@ -130,11 +132,12 @@ AUTHOR "Jakub Husak"
 NAME "Inside"
 DATE "1990"
 SONGS 3
-DEFSONG 0
 TYPE B
 INIT 0F80
 PLAYER 247F
-
+TIME 06:37.62
+TIME 02:34.02 LOOP
+TIME 00:15.40 LOOP
 
 Second part - binary data
 ~~~~~~~~~~~~~~~~~~~~~~~~~
