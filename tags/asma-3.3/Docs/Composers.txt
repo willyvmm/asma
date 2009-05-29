@@ -1,0 +1,140 @@
+Known Atari composers and handles                                 May 29 2009
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This list contains only composers who have at least 3 songs in ASMA
+collection. The composers are sorted in ABC order according to their surnames
+(if known, otherwise by their handles). There are 133 composers in this list.
+
+<?> - B00daW
+Armijo, Richard J. - Kulor
+Badkowski, Marek - Bac
+Banaszkiewicz, Michal - Hugo
+Bienias, Adam - SoTe
+Bloszko, Marek - Markus
+Brooke, Jason C.
+Bruenninski, Uwe - Hu-Soft
+Bryla, Krzysztof - Woppie, Foster
+Brzezicki, Michal - Caruso
+Ce-Pumpkin
+Checa Funcke, Marco Antonio
+Cierkonski, Michal - Morgoth
+<?> - Claas Clever
+Cornelius, Orall
+Czartynski, Marcin - Cedyn
+<?> - Czlowiek W Atomizerze
+Daglish, Ben
+Dariusz Duma - Dhor
+Dojwa, Jacek
+Drozdowski, Marek - Marucha
+Dudek, Krzysztof - Xxl
+Duesterhoeft, Stephan - Benjy
+Eisenhammer, Zdenek - PG, PseudoGrafx
+Esquivel, Sal
+Ezcan, Kemal - KE-SOFT
+Feske, Nils - 505
+Galinski, Adrian - Daxey
+Gilbertson, Gary
+Gilmore, Adam
+Gmurek, Konrad - KeyG
+Goff, Mark - captainmarmalad
+Golewski Filip, - Zoltar X
+Gora, Jakub - Cubes
+Grabowski, Pawel
+Grad, Jacek - Tabu
+Grzyb, Janusz
+Gwozdziej, Mirek - Zur-soft 1/2
+<?> - Hard Software
+Hay, Adam - Sack
+Holda, Leszek
+Hubbard, Rob
+Hudak, Matej - Elan
+Huntington, Glenys
+Husak, Jakub
+Iwaszko, Krystian - Pinokio
+Jastrzemski, Marcin - Fatman
+Johnson, Steve
+Kalinowski, Bartosz - Bartman
+Karwacki, Jakub - Yezus
+Karwoth, Torsten
+Kazimierczak, Leszek - Mr MB
+Kidaj, Andrzej - Andy
+Kociuba, Dariusz - Sherlock
+Krasuski, Jaroslaw - Jaras
+Krawczyk, Adam
+Kucharski, Konrad - Kuchara
+Kucisz, Tomasz - VLX
+Kuczek, Konrad
+Kulinski, Grzegorz - QLX
+Armijo, Richard J. - Kulor
+Kwiatek, Grzegorz - Greg
+Lajciak, Pavol - pL79, Flame
+Lepkowski, Michal - Josh
+Liebich, Tomasz
+Lis, Piotr - Lisu
+Loos, Uwe
+Luberda, Michal
+Luszcz, Tomasz
+Majchrzak, Marcin - Soldier, Maj0r
+Majewski, Jerzy - Zur-soft 2/2
+Majewski, Tomasz - Mayonez
+Makara, Grzegorz
+Makowski, Robert - Gutek
+Martin, Aleksander - Alex
+Matoga, Adrian - Epi
+Matyasik, Krzysztof - Mateoos
+Michalski, Krzysztof - KAMMSoft
+Mikolajczak, Pawel
+Mrozowski, Robert
+Munns, Richard
+Nabialek, Dawid - Dave
+Nedved, Vojtech - Nooly
+Niestegge, Stefan - Beetle
+Numan, Daniel - Zbx Virus
+Oscadal, Filip - Fred Brooker
+Padula, Jaroslaw - Solo
+<?> - Panopticum
+Pasiecznik, Michal - Pasiu
+Pelc, Janusz
+Pesout, Marek - Poison
+Podedworny, Wojtek - Ferro
+Przybyszewski, Krzysztof - Bloody Butcher
+Pucinski, Rafal - Dex
+Radecki, Michal - stRing, Tehno
+Radzikowski, Ireneusz - Jager
+<?> - Rentgen
+Roemer, Markus - R.I.K
+Rosolek, Maciej - Sound Vixen
+Roszkowski, Marek - Marcys
+<?> - Ramzes
+Sasik, Marek
+Scarim, Nicholas
+Sedlak, Jiri
+Selinger, Bartek
+Selinger, Pawel
+Sikorski, Pawel - Sikor
+Skwiot, Stanislaw - Stanley
+Sledz, Slawek - Slaves
+Stanik, Krzysztof - Sukkor Benoth
+Sterba, Radek - Raster
+<?> - Strobe
+Strzelec, Pawel
+Swierszcz, Piotr - Tatqoo, Samurai
+Sychowicz, Lukasz - X-Ray
+Szczesniak, Konrad
+Szczygiel, Andrzej
+Szmatola, Krzysztof - Thor
+Szpilowski, Michal - Miker
+Szymczuk, Daniel - Lorien
+Takacs, Gabriel - GMX
+Tegethoff, Sven - Gnome Design
+Trokowicz, Bartolomiej
+<?> - ui
+Vavra, Karel
+Vila, Jaime - JIMPACK
+Vogt, Dariusz - DJ V
+Vybostok, Marian - Goldmaster
+Wasiel, Bartek - BeWu
+Wasilewski, Dariusz - Trener
+Whittaker, David
+Wisniewski, Mateusz - Born
+Witkiewicz, Dariusz - Flash
+Witkowski, Przemyslaw
