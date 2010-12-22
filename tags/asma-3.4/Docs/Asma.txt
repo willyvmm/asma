@@ -1,0 +1,121 @@
+                                        ___
+        yy yyy yy          ,gp.      ,gS$$$Sp.  d$$.     ,$$b     ,gp.
+        $$ $$$ $$         :$$$$:    ,$$$$A$$$$. $$$b     d$$$    :$$$$:
+        $$ $$$ $$         $$$$$$    $$$'   `?$P $$$$.   ,$$$$    $$$$$$
+        $$ $$$ $$        :$$P?$$:   $$$         $$$$b   d$$$$   :$$P?$$:
+        $$ $$$ $$        d$$'`$$b   ?$$b.       $$$$$. ,$$$$$   d$$'`$$b
+        $$ $$$ $$        $$P  ?$$    `$$$$$o.   $$$$$b d$$$$$   $$P  ?$$
+       ,$? $$$ ?$.      :$$'  `$$:     `?$$$$b  $$$`$$v$$'$$$  :$$'  `$$:
+       d$  $$$  $b      d$$$$$$$$b        `?$$b $$$ ?$$$P $$$  d$$$$$$$$b
+     ,d$'  $$$  `$b.    $$$$$$$$$$          $$$ $$$ `$$$' $$$  $$$$$$$$$$
+   y$$$'   $$$   `$$$y :$$P    ?$$: d$b.   ,$$P $$$  ?$P  $$$ :$$:    ?$$:
+   $$P'    $$$    `t$$ $$$'    `$$b `$$$$S$$$$' $$$  `S'  $$$ $$$'    `$$b
+   "~      """      ~" $$P      ?$$  `?$$$$$P'  $$$       $$$ $$P      ?$$
+                       ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
+
+                            Atari SAP Music Archive
+                                  Version 3.4
+
+                           Started on August 4, 1999
+                       Last updated on December 22, 2010
+
+                    Total number of songs: 3862 (1024 new)
+
+
+ Introduction
+ ~~~~~~~~~~~~
+ Welcome to the biggest collection of the POKEY-based Atari XL/XE music.
+ The outfit of the whole collection was inspired by the HVSC collection (with 
+ some differences). I hope you'll like this collection. To get in touch with 
+ me, see the "Contact" section of this document.
+
+
+ Statistics
+ ~~~~~~~~~~
+ Number of songs:      3862 (4807 including subsongs)
+ Compared to HVSC:     10.0 % (HVSC r53 contains 38714 songs)
+ Disk space ocupied:   22425544 bytes (excluding documents and playlist)
+ Average SAP filesize: 5807 bytes
+ Total playtime:       6 days 15 hours 26 minutes 33.75 seconds
+ Songs with subsongs:  340
+ Songs in stereo:      363
+ Songs with no author: 410
+ Number of musicians:  167
+ Most active musician: Lukasz Sychowicz    (166 songs + 18 cooperations)
+ Largest SAP file:     Garfield_Part_2.sap (61559 bytes)
+ Smallest SAP file:    Self_Test.sap       (172 bytes)
+ Files with subsongs:
+  2 subsongs: 121 files
+  3 subsongs:  76 files
+  4 subsongs:  54 files
+  5 subsongs:  40 files
+  6 subsongs:  20 files
+  7 subsongs:   6 files
+  8 subsongs:   6 files
+  9 subsongs:   4 files
+ 10 subsongs:   4 files
+ 11 subsongs:   3 files
+ 12 subsongs:   2 files
+ 13 subsongs:   1 file
+ 14 subsongs:   2 files
+ 15 subsongs:   1 file
+ Total: 945 extra subsongs
+
+
+ Help!
+ ~~~~~
+ As you can see, there are lots of songs in the 'Unsorted' directory. If
+ you can provide us with any missing information about any song (who did it, 
+ where does it come from, when was it composed), please let us know
+ immediately so that we can complete the information about the song in ASMA
+ (and move it to the appropriate directory). We would welcome if you sent us
+ also the binary file (or an ATR/XFD disk image) with the original piece of
+ software with that song. Mail any such information to pg@pinknet.cz. Our aim
+ is to completely annihilate the unrecognized songs.
+
+
+ For contributors
+ ~~~~~~~~~~~~~~~~
+ Check the file Contribute.txt for more info.
+
+
+ Contributors
+ ~~~~~~~~~~~~
+ Tamas Bene (<?> of Hard)
+ Adam Bienias (SoTe of Slight)
+ Marcin Dubicki (MacGyver)
+ Zdenek Eisenhammer (PG)
+ Piotr Fusik (Fox of Taquart)
+ Michal Garbaciak (Dracon of Taquart)
+ Achim Haertel
+ Jaymz Julian (alih)
+ Jindrich Kubec
+ Wojciech Pasiecznik (Voy)
+ Marek Pavlik (MaPa)
+ Stephan Pollock (Mr. Bacardi)
+ Marcin Prusisz (Pigula of Shpoon)
+ Mariusz Rozwadowski (Ramos)
+ Michal Radecki (stRing)
+ Marek Sasnal (MarOk)
+ Martin Simecek
+ Slawek Sledz (Slaves of Taquart)
+ Radek Sterba (Raster)
+ Michal Szpilowski (Miker)
+ Marcin Wojciechowski (Stryker)
+
+ ..and people at the HVSC mailing list at http://groups.yahoo.com/group/hvsc/
+ 
+ The following valuable sites were used for completing tune info:
+ http://atari.fandal.cz
+ http://freenet-homepage.de/mrbacardi/
+ http://www.atarimania.com
+
+
+ Contact
+ ~~~~~~~
+ E-mail:                pg@pinknet.cz
+ ICQ:                   66411804
+ Homepage:              http://asma.atari.org
+ Czech mirror:          http://www.milar.name/asma
+ Polish mirror:         http://atariarea.krap.pl/asma
+ Exotica search engine: http://www.exotica.org.uk/wiki/Special:ASMA
