@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 3.3
+                                  Version 3.4
 
-                         Started on 4th of August 1999
-                       Last updated on 29th of May 2009
+                           Started on August 4, 1999
+                       Last updated on December 22, 2010
 
-                     Total number of songs: 2843 (308 new)
+                    Total number of songs: 3862 (1024 new)
 
 
  Introduction
@@ -32,34 +32,34 @@
 
  Statistics
  ~~~~~~~~~~
- Number of songs:      2843 (3656 including subsongs)
- Compared to HVSC:     7.9 % (HVSC r50 contains 36000 songs)
- Disk space ocupied:   16191162 bytes (excluding documents and playlist)
- Average SAP filesize: 5695 bytes
- Total playtime:       4 days 22 hours 10 minutes 54.5 seconds
- Songs with subsongs:  284
- Songs in stereo:      297
- Songs with no author: 165
- Number of musicians:  133
- Most active musician: Lukasz Sychowicz    (138 songs + 17 cooperations)
- Biggest SAP file:     Garfield_Part_2.sap (61558 bytes)
+ Number of songs:      3862 (4807 including subsongs)
+ Compared to HVSC:     10.0 % (HVSC r53 contains 38714 songs)
+ Disk space ocupied:   22425544 bytes (excluding documents and playlist)
+ Average SAP filesize: 5807 bytes
+ Total playtime:       6 days 15 hours 26 minutes 33.75 seconds
+ Songs with subsongs:  340
+ Songs in stereo:      363
+ Songs with no author: 410
+ Number of musicians:  167
+ Most active musician: Lukasz Sychowicz    (166 songs + 18 cooperations)
+ Largest SAP file:     Garfield_Part_2.sap (61559 bytes)
  Smallest SAP file:    Self_Test.sap       (172 bytes)
  Files with subsongs:
-  2 subsongs: 96 files
-  3 subsongs: 63 files
-  4 subsongs: 46 files
-  5 subsongs: 37 files
-  6 subsongs: 15 files
-  7 subsongs:  6 files
-  8 subsongs:  5 files
-  9 subsongs:  4 files
- 10 subsongs:  4 files
- 11 subsongs:  3 files
- 12 subsongs:  2 files
- 13 subsongs:  1 file
- 14 subsongs:  1 file
- 15 subsongs:  1 file
- Total: 813 extra subsongs
+  2 subsongs: 121 files
+  3 subsongs:  76 files
+  4 subsongs:  54 files
+  5 subsongs:  40 files
+  6 subsongs:  20 files
+  7 subsongs:   6 files
+  8 subsongs:   6 files
+  9 subsongs:   4 files
+ 10 subsongs:   4 files
+ 11 subsongs:   3 files
+ 12 subsongs:   2 files
+ 13 subsongs:   1 file
+ 14 subsongs:   2 files
+ 15 subsongs:   1 file
+ Total: 945 extra subsongs
 
 
  Help!
@@ -81,7 +81,6 @@
 
  Contributors
  ~~~~~~~~~~~~
- (in ABC order)
  Tamas Bene (<?> of Hard)
  Adam Bienias (SoTe of Slight)
  Marcin Dubicki (MacGyver)
@@ -91,13 +90,13 @@
  Achim Haertel
  Jaymz Julian (alih)
  Jindrich Kubec
- <?> (Marok)
  Wojciech Pasiecznik (Voy)
  Marek Pavlik (MaPa)
  Stephan Pollock (Mr. Bacardi)
  Marcin Prusisz (Pigula of Shpoon)
- Marek Sasnal (MarOk)
  Mariusz Rozwadowski (Ramos)
+ Michal Radecki (stRing)
+ Marek Sasnal (MarOk)
  Martin Simecek
  Slawek Sledz (Slaves of Taquart)
  Radek Sterba (Raster)

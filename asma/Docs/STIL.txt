@@ -1,14 +1,14 @@
 ##############################################################################
 #
-#  STIL v3.3 - SAP Tune Information List
+#  STIL v3.4 - SAP Tune Information List
 #  Maintained by Zdenek Eisenhammer (PG), Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 448
+#  Total number of entries: 449
 #
 ##############################################################################
 #
 # ABOUT THIS VERSION OF THE STIL:
 #
-# - Massive reorganization due to change in the structure of ASMA archive.
+# - Minor updates only
 #
 ##############################################################################
 
@@ -16,6 +16,11 @@
 
 /Composers/Badkowski_Marek/Jade.sap
 COMMENT: QuaST Party 1996 music compo entry.
+
+### /Composers/Balkowski_Krzysztof ###########################################
+
+/Composers/Balkowski_Krzysztof/New_Generation.sap
+COMMENT: Last Party 1998 music compo entry.
 
 ### /Composers/Bienias_Adam ##################################################
 
@@ -30,6 +35,10 @@ COMMENT: QuaST Party 1996 music compo entry.
 /Composers/Bienias_Adam/Crazy.sap
   TITLE: Crazy
  ARTIST: Fine Young Cannibals
+
+/Composers/Bienias_Adam/Digital_Trash.sap
+  TITLE: Domino Dancing [from Introspective]
+ ARTIST: Pet Shop Boys
 
 /Composers/Bienias_Adam/Haddaway.sap
   TITLE: What Is Love
@@ -156,6 +165,11 @@ COMMENT: Also used in "GoldRunner" on the Atari ST.
 /Composers/Cornelius_Orall/Tiger_Attack.sap
   TITLE: Phantoms of the Asteroids
  ARTIST: Rob Hubbard
+
+### /Composers/Cybruch_Ryszard ###############################################
+
+/Composers/Cybruch_Ryszard/Sej_mik.sap
+COMMENT: 1st place at Sillyventure 2000 music compo.
 
 ### /Composers/Czartynski_Marcin #############################################
 
@@ -316,6 +330,138 @@ COMMENT: Covering the version arranged by Hot Butter.
   TITLE: It's a Sin [from Actually]
  ARTIST: Pet Shop Boys
 
+### /Composers/Farkas_Felker #################################################
+
+/Composers/Farkas_Felker/
+COMMENT: It is very likely that all tunes made by Hard Software are directly
+         transfered from the Commodore 64.
+
+/Composers/Farkas_Felker/ABBUC_36.sap
+  TITLE: Disco Zax [from the C64 SID]
+ ARTIST: Thomas Mogensen (DRAX)
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Cool_Emotion_Chessboard.sap
+  TITLE: Shape [from the C64 SID]
+ ARTIST: Johannes Bjerregaard
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Cool_Emotion_End.sap
+  TITLE: Gammeldaws [from the C64 SID]
+ ARTIST: Soren Lund (Jeff)
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Cool_Emotion_First_Part.sap
+  TITLE: <?> [from the C64 SID]
+ ARTIST: <?>
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Cool_Emotion_Ghostbusters.sap
+  TITLE: Ghostbusters [from the movie]
+ ARTIST: Ray Parker, Jr.
+COMMENT: A cover of the tune from C64 SID Ghostbusters by Roger Duijckaerts
+         (ReD). Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Cool_Emotion_Heal_the_Worl.sap
+  TITLE: Heal The World [from Dangerous]
+ ARTIST: Michael Jackson
+COMMENT: A cover of the tune from C64 SID Heal the World by Alain Hertenstein
+         (Iron Cat). Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Cool_Emotion_Plasma.sap
+  TITLE: <?> [from the C64 SID]
+ ARTIST: <?>
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Cool_Emotion_Scrolls.sap
+  TITLE: Frazze [from the C64 SID]
+ ARTIST: Antti Hannula (Flex)
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Joyride_End.sap
+  TITLE: Remark Intro [from the C64 SID]
+ ARTIST: Jeroen Tel
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Joyride_Info.sap
+  TITLE: <?> [from the C64 SID]
+ ARTIST: <?>
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Joyride_Juggler.sap
+  TITLE: <?> [from the C64 SID]
+ ARTIST: <?>
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Joyride_Landscape.sap
+  TITLE: Musiklinjen [from the Amiga MOD module]
+ ARTIST: Jimmy Fredriksson (Firefox) & Robert Österbergh (ex.Robert Ling) 
+         (Tip)
+COMMENT: A cover of the tune from C64 SID Enigma/PHA Theme by Alain
+         Hertenstein (Iron Cat). Originally a C64 SID tune with POKEY routine
+         added.
+
+/Composers/Farkas_Felker/Joyride_Plasma.sap
+  TITLE: <?> [from the C64 SID]
+ ARTIST: <?>
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Joyride_Scrolls.sap
+  TITLE: Happy Hour [from the C64 SID]
+ ARTIST: Thomas E. Petersen (Laxity)
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Joyride_Tunnel.sap
+  TITLE: <?> [from the C64 SID]
+ ARTIST: <?>
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Joyride_Turn_Disk.sap
+  TITLE: Time Runner [from the C64 SID]
+ ARTIST: Markus Schneider
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Joyride_Twirl.sap
+  TITLE: <?> [from the C64 SID]
+ ARTIST: <?>
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Veronika_1.sap
+  TITLE: Theme From S-Express [from Original Soundtrack]
+ ARTIST: Mark Moore
+COMMENT: A cover of the tune from C64 SID S-Express by Jeroen Tel.
+         Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Veronika_2.sap
+  TITLE: Wonderland [from the C64 SID]
+ ARTIST: Antti Hannula (Flex)
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Veronika_3.sap
+  TITLE: Ace II [from the C64 game]
+ ARTIST: Rob Hubbard
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Veronika_4.sap
+  TITLE: <?> [from the C64 SID]
+ ARTIST: <?>
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Veronika_5.sap
+  TITLE: Hollywood Poker Pro, Tune #1 [from the C64 game]
+ ARTIST: Chris Huelsbeck
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Veronika_6.sap
+  TITLE: Turrican 2 - The Final Fight (song 2) [from the C64 game]
+ ARTIST: Markus Siebold
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Veronika_Intro.sap
+  TITLE: <?> [from the C64 SID]
+ ARTIST: <?>
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
 ### /Composers/Feske_Nils/ ###################################################
 
 /Composers/Feske_Nils/Dupa.sap
@@ -472,138 +618,6 @@ COMMENT: Cover the version by Martin Galway from game C64 Rastan, Tune #2.
 /Composers/Grayscale/Wasiel_Bartek/Zybex.sap
   TITLE: Zybex, Tune #4
  ARTIST: Adam Gilmore
-
-### /Composers/Hard_Software #################################################
-
-/Composers/Hard_Software/
-COMMENT: It is very likely that all tunes made by Hard Software are directly
-         transfered from the Commodore 64.
-
-/Composers/Hard_Software/ABBUC_36.sap
-  TITLE: Disco Zax [from the C64 SID]
- ARTIST: Thomas Mogensen (DRAX)
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
-/Composers/Hard_Software/Cool_Emotion_Chessboard.sap
-  TITLE: Shape [from the C64 SID]
- ARTIST: Johannes Bjerregaard
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
-/Composers/Hard_Software/Cool_Emotion_End.sap
-  TITLE: Gammeldaws [from the C64 SID]
- ARTIST: Soren Lund (Jeff)
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
-/Composers/Hard_Software/Cool_Emotion_First_Part.sap
-  TITLE: <?> [from the C64 SID]
- ARTIST: <?>
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
-/Composers/Hard_Software/Cool_Emotion_Ghostbusters.sap
-  TITLE: Ghostbusters [from the movie]
- ARTIST: Ray Parker, Jr.
-COMMENT: A cover of the tune from C64 SID Ghostbusters by Roger Duijckaerts
-         (ReD). Originally a C64 SID tune with POKEY routine added.
-
-/Composers/Hard_Software/Cool_Emotion_Heal_the_Worl.sap
-  TITLE: Heal The World [from Dangerous]
- ARTIST: Michael Jackson
-COMMENT: A cover of the tune from C64 SID Heal the World by Alain Hertenstein
-         (Iron Cat). Originally a C64 SID tune with POKEY routine added.
-
-/Composers/Hard_Software/Cool_Emotion_Plasma.sap
-  TITLE: <?> [from the C64 SID]
- ARTIST: <?>
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
-/Composers/Hard_Software/Cool_Emotion_Scrolls.sap
-  TITLE: Frazze [from the C64 SID]
- ARTIST: Antti Hannula (Flex)
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
-/Composers/Hard_Software/Joyride_End.sap
-  TITLE: Remark Intro [from the C64 SID]
- ARTIST: Jeroen Tel
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
-/Composers/Hard_Software/Joyride_Info.sap
-  TITLE: <?> [from the C64 SID]
- ARTIST: <?>
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
-/Composers/Hard_Software/Joyride_Juggler.sap
-  TITLE: <?> [from the C64 SID]
- ARTIST: <?>
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
-/Composers/Hard_Software/Joyride_Landscape.sap
-  TITLE: Musiklinjen [from the Amiga MOD module]
- ARTIST: Jimmy Fredriksson (Firefox) & Robert Österbergh (ex.Robert Ling) 
-         (Tip)
-COMMENT: A cover of the tune from C64 SID Enigma/PHA Theme by Alain
-         Hertenstein (Iron Cat). Originally a C64 SID tune with POKEY routine
-         added.
-
-/Composers/Hard_Software/Joyride_Plasma.sap
-  TITLE: <?> [from the C64 SID]
- ARTIST: <?>
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
-/Composers/Hard_Software/Joyride_Scrolls.sap
-  TITLE: Happy Hour [from the C64 SID]
- ARTIST: Thomas E. Petersen (Laxity)
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
-/Composers/Hard_Software/Joyride_Tunnel.sap
-  TITLE: <?> [from the C64 SID]
- ARTIST: <?>
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
-/Composers/Hard_Software/Joyride_Turn_Disk.sap
-  TITLE: Time Runner [from the C64 SID]
- ARTIST: Markus Schneider
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
-/Composers/Hard_Software/Joyride_Twirl.sap
-  TITLE: <?> [from the C64 SID]
- ARTIST: <?>
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
-/Composers/Hard_Software/Veronika_1.sap
-  TITLE: Theme From S-Express [from Original Soundtrack]
- ARTIST: Mark Moore
-COMMENT: A cover of the tune from C64 SID S-Express by Jeroen Tel.
-         Originally a C64 SID tune with POKEY routine added.
-
-/Composers/Hard_Software/Veronika_2.sap
-  TITLE: Wonderland [from the C64 SID]
- ARTIST: Antti Hannula (Flex)
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
-/Composers/Hard_Software/Veronika_3.sap
-  TITLE: Ace II [from the C64 game]
- ARTIST: Rob Hubbard
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
-/Composers/Hard_Software/Veronika_4.sap
-  TITLE: <?> [from the C64 SID]
- ARTIST: <?>
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
-/Composers/Hard_Software/Veronika_5.sap
-  TITLE: Hollywood Poker Pro, Tune #1 [from the C64 game]
- ARTIST: Chris Huelsbeck
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
-/Composers/Hard_Software/Veronika_6.sap
-  TITLE: Turrican 2 - The Final Fight (song 2) [from the C64 game]
- ARTIST: Markus Siebold
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
-/Composers/Hard_Software/Veronika_Intro.sap
-  TITLE: <?> [from the C64 SID]
- ARTIST: <?>
-COMMENT: Originally a C64 SID tune with POKEY routine added.
 
 ### /Composers/Hay_Adam ######################################################
 
@@ -774,6 +788,9 @@ COMMENT: Last Party 1999 music compo entry.
 /Composers/Karwacki_Jakub/Geotion.sap
 COMMENT: Lato Ludzikow 2000 music compo entry.
 
+/Composers/Karwacki_Jakub/Picca.sap
+COMMENT: Lato Ludzikow 2000 music compo entry.
+
 /Composers/Karwacki_Jakub/Prelude.sap
 COMMENT: Last Party 2002 music compo entry.
 
@@ -827,7 +844,7 @@ COMMENT: Silesian Atari Open 1995 music compo entry.
   TITLE: Big in Japan [from Forever Young]
  ARTIST: Alphaville
 
- /Composers/Krasuski_Jaroslaw/Disco_2.sap
+/Composers/Krasuski_Jaroslaw/Disco_2.sap
   TITLE: Eins Zwei Polizei
  ARTIST: Mo-Do
  
@@ -1048,6 +1065,12 @@ COMMENT: Last Party 2002 music compo entry.
 /Composers/Lepkowski_Michal/Joshgoa.sap
 COMMENT: Rush Hours 1997 music compo entry.
 
+### /Composers/Lewandowski_Marcin ############################################
+
+/Composers/Lewandowski_Marcin/Zybex_Stereo.sap
+  TITLE: Zybex, Tune #4
+ ARTIST: Adam Gilmore
+
 ### /Composers/Liebich_Tomasz ################################################
 
 /Composers/Liebich_Tomasz/Alien.sap
@@ -1136,16 +1159,17 @@ COMMENT: 3rd place at Forever Reneg8 music compo.
   TITLE: Sadeness [from 1990 A.D.]
  ARTIST: Enigma
 
-/Composers/Makowski_Robert/Ladypank.sap
+/Composers/Makowski_Robert/Lady_Pank.sap
   TITLE: Tancz glupia, tancz [from Mala wojna - akustycznie]
- ARTIST: Jan Borysewicz (music), Andrzej Mogielnicki (lyrics) ,Performed by
+ ARTIST: Jan Borysewicz (music), Andrzej Mogielnicki (lyrics), performed by
          Lady Pank.
 
 ### /Composers/Martin_Aleksander #############################################
 
-/Composers/Martin_Aleksander/Temptation.sap
-  TITLE: Ob-La-Di, Ob-La-Da [from The Beatles]
- ARTIST: The Beatles
+/Composers/Martin_Aleksander/More.sap
+  TITLE: Unreal II [from the Second Reality demo
+ ARTIST: Jonne Valtonen (Purple Motion)
+COMMENT: Not a remake but strongly inspired by it.
 
 ### /Composers/Matoga_Adrian #################################################
 
@@ -1214,17 +1238,25 @@ COMMENT: From an unknown Atari ST demo.
   TITLE: Axel F [from the movie Beverly Hills Cop]
  ARTIST: Harold Faltermeyer
 
-/Composers/Numan_Daniel/Pentagram_4_Croceth.sap
+### /Composers/Szurgot_Robert ################################################
+
+/Composers/Szurgot_Robert/Pentagram_4_Croceth.sap
   TITLE: Crockett's Theme [from the TV series Miami Vice]
  ARTIST: Jan Hammer
 
-/Composers/Numan_Daniel/Pentagram_4_Echoing.sap
+/Composers/Szurgot_Robert/Pentagram_4_Echoing.sap
   TITLE: Echoing [from the Amiga MOD module]
  ARTIST: Christof Muehlan (Banana)
 
-/Composers/Numan_Daniel/Pentagram_4_Moonlight.sap
+/Composers/Szurgot_Robert/Pentagram_4_Moonlight.sap
   TITLE: Moonlight Shadow [from Crises]
  ARTIST: Mike Oldfield & Simon Philips
+
+### /Composers/Oglodek_Marek #################################################
+
+/Composers/Oglodek_Marek/Suprajs.sap
+COMMENT: Lato Ludzikow 2000 music compo entry.
+
 
 ### /Composers/Oscadal_Filip #################################################
 
@@ -1445,6 +1477,10 @@ COMMENT: 1st place at Winter Chip II (Best Pokey) music compo.
                  
 ### /Composers/Swierszcz_Piotr ###############################################
 
+/Composers/Swierszcz_Piotr/Lambada.sap
+  TITLE: Lambada
+ ARTIST: Kaoma
+
 /Composers/Swierszcz_Piotr/Last_World.sap
 COMMENT: QuaST party 1995 music compo entry.
 
@@ -1522,9 +1558,6 @@ COMMENT: 3rd place at Rush Hours 1997 music compo.
 /Composers/Szpilowski_Michal/Rubicon.sap
   TITLE: Enemies <?> [from the Amiga MOD module]
  ARTIST: <?>
-
-/Composers/Szpilowski_Michal/Sej_mik.sap
-COMMENT: 1st place at Sillyventure 2000 music compo.
 
 /Composers/Szpilowski_Michal/Settlers.sap
   TITLE: Siedler II [from the Amiga game Settlers]
@@ -1644,9 +1677,9 @@ COMMENT: "Entry in the annual ABBUC demo competition 1990 held at the
   TITLE: Theme from The Raiders of the Lost Ark [from the movie]
  ARTIST: John Williams
 
-### /Composers/Trokowicz_Bartolomiej #########################################
+### /Composers/Trokowicz_Bartlomiej ##########################################
 
-/Composers/Trokowicz_Bartolomiej/Miecze_Valdgira_II.sap
+/Composers/Trokowicz_Bartlomiej/Miecze_Valdgira_II.sap
 (#2)
   TITLE: Echoing [from the Amiga MOD module]
  ARTIST: Christof Mühlan (Banana)
@@ -1692,6 +1725,10 @@ COMMENT: 3rd place at Winter Chip II (Best Pokey) music compo.
 /Composers/Vybostok_Marian/Bristly_Hedgehog_Unlimited.sap
   TITLE: No Limit [from No Limits]
  ARTIST: 2 Unlimited
+
+/Composers/Vybostok_Marian/Do_It.sap
+  TITLE: Do It [from I Feel Good]
+ ARTIST: Maduar
 
 /Composers/Vybostok_Marian/Street_Fighter_II_Demo_4.sap
   TITLE: Katjusha
@@ -1928,10 +1965,6 @@ COMMENT: The notes in voice 2 at the beginning of the tune spell out "SOS" in
 
 ### /Misc ####################################################################
 
-/Misc/Andermajnd.sap
-  TITLE: Lambada
- ARTIST: Kaoma
-
 /Misc/Das_Teufel.sap
   TITLE: Das Boot [from the movie]
  ARTIST: Klaus Doldinger
@@ -1951,6 +1984,10 @@ COMMENT: 5th place at Winter Chip II (Best Pokey) music compo.
 /Misc/Huhi.sap
 COMMENT: 6th place at Winter Chip II (Best Pokey) music compo.
     
+/Misc/Janosik.sap
+  TITLE: Janosik [from the TV series] (0:46)
+ ARTIST: Jerzy Matuszkiewicz
+
 /Misc/KevSoft.sap
   TITLE: Living on Video [from Living on Video]
  ARTIST: Trans-X
@@ -1958,12 +1995,6 @@ COMMENT: 6th place at Winter Chip II (Best Pokey) music compo.
 /Misc/Luzik.sap
 COMMENT: Last Party 1998 music compo entry. Cover of
          /Composers/Kalinowski_Bartosz/Zepi.sap
-
-/Misc/New_Generation.sap
-COMMENT: Last Party 1998 music compo entry.
-
-/Misc/Picca.sap
-COMMENT: Lato Ludzikow 2000 music compo entry.
 
 /Misc/Pizza_Margerita_Suxx.sap
 COMMENT: Lato Ludzikow 2000 music compo entry.
@@ -1984,15 +2015,11 @@ COMMENT: 4th place at Winter Chip II (Best Pokey) music compo.
  ARTIST: Modest Petrovich Musorgskij
 COMMENT: Atari XL/XE official audio-visual test tune.
 
-/Misc/Suprajs.sap
-COMMENT: Lato Ludzikow 2000 music compo entry.
-
 /Misc/Takie_Cos.sap
 COMMENT: Lato Ludzikow 2001 music compo entry.
 
-/Misc/Zybex_Stereo.sap
-  TITLE: Zybex, Tune #4
- ARTIST: Adam Gilmore
+/Misc/The_Top_2_Digi_Part.sap
+COMMENT: This song is converted from a C64 production made by Censor Design.
 
 ### /Unknown #################################################################
 
@@ -2004,17 +2031,9 @@ COMMENT: Lato Ludzikow 2001 music compo entry.
   TITLE: Enola Gay [from Organisation]
  ARTIST: Orchestral Manoeuvres in the Dark (OMD)
 
-/Unknown/Digital_Trash.sap
-  TITLE: Domino Dancing [from Introspective]
- ARTIST: Pet Shop Boys
-
 /Unknown/Giana_Sisters_Remix.sap
   TITLE: The Great Giana Sisters [from the C64 game]
  ARTIST: Chris Huelsbeck
-
-/Unknown/Janosik.sap
-  TITLE: Janosik [from the TV series] (0:46)
- ARTIST: Jerzy Matuszkiewicz
 
 /Unknown/Lunatic.sap
   TITLE: Lunatic
@@ -2024,9 +2043,6 @@ COMMENT: Present also in "Fortress Underground" game, no author credited.
 /Unknown/Magnetic_Fields.sap
   TITLE: Magnetic Fields, Part 2 [from Magnetic Fields]
  ARTIST: Jean Michel Jarre
-
-/Unknown/The_Top_2_Digi_Part.sap
-COMMENT: This song is converted from a C64 production made by Censor Design.
 
 /Unknown/Uplywa.sap
   TITLE: Uplywa szybko zycie
