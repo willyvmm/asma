@@ -11,18 +11,25 @@ for SAP format description.
 
 File formats accepted
 ~~~~~~~~~~~~~~~~~~~~~
-SAP - already created SAP file
-CMC - Chaos Music Composer
-CMR - Chaos Music Composer with alternative notetables (Rzog's)
-DMC - Doublespeed Chaos Music Composer
-MPT - Music ProTracker
-MD1+D15 - Music ProTracker with one 15kHz digichannel
-MD1+D8 - Music ProTracker with one 8kHz digichannel
-MD2+D8 - Music ProTracker with two 8kHz digichannels
-TMC - Theta Music Composer
-TM8 - Theta Music Composer dual POKEY configuration (stereo)
+SAP - (Slight Atari Player) - The format designed for playing 8-bit Atari 
+      music on modern computers. All other formats can be converted to SAP.
+CMC - (Chaos Music Composer) - Atari music editor from early 1990s.
+CM3 - (CMC "3/4") - CMC with modified pattern length.
+CMR - (CMC "Rzog") - CMC with modified bass sounds.
+CMS - (Stereo Double CMC) - Stereo CMC.
+DMC - (DoublePlay CMC) - CMC with 6502 routine executed at double rate of the
+      original CMC.
+DLT - (Delta Music Composer) - Atari music editor from 1990s.
+MPT - (Music ProTracker) - Atari music editor from 1990s.
+MPD - (MPT DoublePlay) - MPT with 6502 routine executed at double rate of the
+      original MPT.
+RMT - (Raster Music Tracker) - Modern Atari music editor running on Windows.
+TMC - (Theta Music Composer) - Atari music editor from late 1990s.
+TM8 - Theta Music Composer dual POKEY configuration (stereo).
+TM2 - (Theta Music Composer 2.x) - Modern Atari music editor.
 Benjy Soundmonitor
-AMS
+AMP - (Antic Music Player)
+AMS - (Antic Music Sound) 
 
 Information needed (or welcome)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
