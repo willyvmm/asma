@@ -13,6 +13,10 @@ File formats accepted
 ~~~~~~~~~~~~~~~~~~~~~
 SAP - (Slight Atari Player) - The format designed for playing 8-bit Atari 
       music on modern computers. All other formats can be converted to SAP.
+      See Sap.txt for more information regarding the SAP file format.
+AMP - (Antic Music Player)
+AMS - (Antic Music Sound) 
+Benjy Soundmonitor
 CMC - (Chaos Music Composer) - Atari music editor from early 1990s.
 CM3 - (CMC "3/4") - CMC with modified pattern length.
 CMR - (CMC "Rzog") - CMC with modified bass sounds.
@@ -20,16 +24,17 @@ CMS - (Stereo Double CMC) - Stereo CMC.
 DMC - (DoublePlay CMC) - CMC with 6502 routine executed at double rate of the
       original CMC.
 DLT - (Delta Music Composer) - Atari music editor from 1990s.
+FC  - (Future Composer) - Atari music editor from 1990s.
 MPT - (Music ProTracker) - Atari music editor from 1990s.
 MPD - (MPT DoublePlay) - MPT with 6502 routine executed at double rate of the
       original MPT.
 RMT - (Raster Music Tracker) - Modern Atari music editor running on Windows.
 TMC - (Theta Music Composer) - Atari music editor from late 1990s.
-TM8 - Theta Music Composer dual POKEY configuration (stereo).
 TM2 - (Theta Music Composer 2.x) - Modern Atari music editor.
-Benjy Soundmonitor
-AMP - (Antic Music Player)
-AMS - (Antic Music Sound) 
+TM8 - Theta Music Composer dual POKEY configuration (stereo).
+
+If possible, send also the original file/game/demo that you ripped the
+song(s) from.
 
 Information needed (or welcome)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -59,35 +64,4 @@ Digital_Trash.sap
 Desastre.sap
 COMMENT: 2nd place at Intel Outside 4 music compo.
 
-SAP header conventions
-~~~~~~~~~~~~~~~~~~~~~~
-The filenames must not be longer than 26 characters (plus .sap) e.g.:
-
- 12345678901234567890123456.123
- Intel_Outside_Fractal_Part.sap - all right
- Jocky_Wilsons_Darts_Compendium.sap - wrong!
-
-Because of compatibility reasons only characters 'A..Z', 'a..z', and '0..9'
-can be used in the filenames. All spaces must be replaced with underscore
-("_"). The dash ("-") is also allowed but from no reason we don't use it :-)
-
-All tags in SAP header must be UPPERCASE (e.g. AUTHOR, DATE). The field
-contents must be closed in quotation marks ("). There is one SPACE ( )
-between the tag and the quotation mark.
-Every line in the header must end with EOL ($0d $0a).
-For unknown information use this mark <?>.
-For more information about the SAP header see the file Sap.txt.
-Example:
-
-SAP
-AUTHOR "Marek Badkowski (Bac)"
-NAME "Deafman"
-DATE "<?>"
-TYPE B
-INIT 0500
-PLAYER F092
-
-If possible, send also the original file/game/demo that you ripped the
-song(s) from.
-
-Thanks for your contributions!
+Thank you for your contributions!

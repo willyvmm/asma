@@ -1,23 +1,27 @@
+Composers/Bienias_Adam/Happy_Train_to_Kingdom_of.sap - invalid BRK instruction
 Composers/Claas_Clever/World_of_Wonders_Fantasy.sap - strange noise after song end
+Composers/Czartynski_Marcin/Fractals.sap - invalid BRK instruction
+Composers/Czartynski_Marcin/Hope.sap - invalid BRK instruction
+Composers/Czartynski_Marcin/Moscow.sap - invalid BRK instruction
+Composers/Czartynski_Marcin/Rave_2.sap - invalid BRK instruction
+Composers/Czartynski_Marcin/Trackmo.sap - invalid BRK instruction
 Composers/Eisenhammer_Zdenek/Deus_Ex_Machina.sap - strange noise after song end
 Composers/Farkas_Felker/ABBUC_36.sap - rogue note at the beginning
 Composers/Farkas_Felker/Cool_Emotion_Heal_the_Worl.sap - rogue note at the beginning
 Composers/Farkas_Felker/Veronika_5.sap - rogue note at the beginning
 Composers/Gilmore_Adam/Arcade_Fruit_Machine_Simul.sap - subsongs missing
-Composers/Husak_Jakub/Bank_Bang_Ingame.sap - strange note at the end of subsong #1
-Composers/Husak_Jakub/Schlecht_Korrekt.sap - missing few notes at the beginning
+Composers/Golewski_Filip/Delta.sap - invalid BRK instruction
+Composers/Golewski_Filip/King.sap - invalid BRK instruction
+Composers/Golewski_Filip/Star.sap - invalid BRK instruction
+Composers/Grayscale/Kwiatek_Grzegorz/Desastre.sap - invalid BRK instruction
 Composers/Grayscale/Kwiatek_Grzegorz/Far_Away.sap - strange sounds at 0:48
 Composers/Grayscale/Kwiatek_Grzegorz/Ultra.sap - song plays twice as fast after repeating
+Composers/Husak_Jakub/Bank_Bang_Ingame.sap - strange note at the end of subsong #1
+Composers/Husak_Jakub/Schlecht_Korrekt.sap - missing few notes at the beginning
 Composers/Liebich_Tomasz/Master_Head_Winner.sap - song doesn't play the first note (drum)
-Composers/Liebich_Tomasz/Master_Head.sap - uses illegal instruction (likely to be a bad rip)
-Composers/Liebich_Tomasz/Nemesis_1.sap - uses illegal instruction (likely to be a bad rip)
 Composers/Majewski_Tomasz/Crocketts_Theme.sap - song doesn't reinit well after repeating
-Composers/Oscadal_Filip/Brutal_Recall_Ingame.sap - uses illegal instruction (likely to be a bad rip)
-Games/Alley_Cat.sap - uses illegal instruction (likely to be a bad rip)
-Games/Blue_Max.sap - the bass line starts playing wrong at 0:24
-Games/Frogger.sap - uses illegal instructions (likely to be a bad rip)
-Games/Ghostbusters.sap - sample at the beginning is missing
-Games/Loaded_Brain.sap - uses illegal instruction (likely to be a bad rip)
-Games/Moon_Patrol.sap - song probably doesn't play with original settings
-Games/M_U_L_E.sap - song falls out of synch after about 0:35 (ripped from a buggy release)
-Unknown/Duke_3D.sap - uses illegal instruction (likely to be a bad rip)
+Composers/Skrzypek_Tomasz/Spirit_Vision_1.sap - invalid BRK instruction
+Composers/Oscadal_Filip/Brutal_Recall_Demo_Bonus.sap - invalid BRK instruction
+Composers/Quack_Ralf_Thomas/Together_Forever.sap - garbage code from $75F7
+Games/Schreckenstein.sap - invalid BRK instruction
+Misc/Immortal.sap - invalid BRK instruction

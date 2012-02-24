@@ -1,131 +1,45 @@
-SAP file divides into two parts. First part (in text format) describes
-player/music type and contains credits for the song. Second part (in binary
-format) contains player and music data formed into Atari Binary File format.
+SAP File Format
+Piotr Fusik, Zdenek Eisenhammer
 
+This is the specification of the SAP (Slight Atari Player) file format. SAP files contain chip music of the 8-bit Atari computers.
 
-First part - text info
-~~~~~~~~~~~~~~~~~~~~~~
-For identification of the format, it always starts with "SAP" string.
-After that the credits follow. However, this is not fixed order, just a
-recommendation. Each line should end with EOL string (0D 0A).
+History
+-------
+The SAP format was created in the 1990s by Adam Bienias and was intended to be a single format for playback of any 8-bit Atari music on a PC. Adam Bienias has also created the first player for Windows and later published its source code so that other players were created.
 
-Credits tags:
-AUTHOR "" - Name of composer. For ASMA purposes, the name should consist of 
-            real name and nickname (scene handle) in parentheses. No scene
-            group allowed. If song was composed by more authors, use "&".
-            Examples: 
-            AUTHOR "Dariusz Duma (Dhor)"
-            AUTHOR "Lukasz Sychowicz (X-Ray) & Piotr Swierszcz (Samurai)"
-NAME "" - Song title. No restrictions, except for it shouldn't contain
-          quotation marks. Use apostrophes instead.
-          Example:
-          NAME "Jocky Wilson's Darts Challenge"
-DATE "" - Copyright year or year of creation. If exact date is known, it can
-          also be included in DD/MM/YYYY format.
-          Examples:
-          DATE "1986"
-          DATE "1993-1994"
-          DATE "28/08/1997"
-          DATE "12/2001" 
+At the time of writing there are four independent players of the SAP format:
+    Slight Atari Player (SAP) by Adam Bienias
+    Another Slight Atari Player (ASAP) by Piotr Fusik
+    Game_Music_Emu (GME) by Shay Green
+    sapemu by Adrian Matoga
 
-After that the player info follows:
-TYPE      - player type (see below)
-PLAYER    - address of player part which will be executed in 1/50 sec
-            intervals (or as defined with FASTPLAY)
-MUSIC     - address with music data (for C type)
-INIT      - address of player part which will init player (for all types
-            except C)
-SONGS     - number of songs. If SONGS tag not defined, the default value is
-            1.
-DEFSONG   - first song which will be played when .sap is loaded (i.e. the
-            main game theme). This value is counted from zero (if there are 5
-            songs in the file and the last is the default, the value will be
-            DEFSONG 4). The default is 0 if DEFSONG not defined.
-FASTPLAY  - number of lines between each call of playing routine (312 by
-            default, which is one screen - 1/50 of sec.). For example for
-            double-speed song put here the value 156 (312/2). 99% of songs
-            are single-speed which means that you don't have to define the
-            FASTPLAY variable for them. Works for player TYPE "B".
-            Another values recommended: 104 (triple speed), 78 (quadruple
-            speed)
-STEREO - song uses dual POKEY configuration.
+There are many players for different platforms based on either SAP, ASAP or GME. sapemu runs on an Atari XL/XE computer with 128 KB RAM.
 
-commands PLAYER, MUSIC, INIT contain addresses in hexadecimal format. Both
-lower- and uppercase characters are allowed for the number.
+Concept
+-------
+The SAP format contains the original data and code used to playback the Atari music. SAP players actually run the program contained in the SAP file on an emulated or real (sapemu) 6502 processor. The program controls the POKEY chip, which generates the sound.
+The same method is used on other platforms, for example the SID format for the C64 music.
+Important advantages of SAP over, let’s say, MP3 are that SAP files are very small (about 5 KB on average) and play more accurately as new players improve their emulation. The downside is that SAP files are generally hard to create. Creating SAP files from Atari software is called ripping and requires some knowledge of the 6502 assembly language. On the other hand, Atari music in popular formats such as CMC or RMT can be easily converted to SAP (and back) using ASAP.
+One SAP file may contain multiple independent tunes - these are called "subsongs". For example, a game containing many songs may be ripped into one SAP file. Over 90% SAP files contain just one song. Unfortunately many audio players do not support the concept of multiple subsongs per file.
 
-PLAYER A000
-MUSIC 1234
-INIT f42e
+File Naming Conventions
+-----------------------
+The rules introduced in this chapter are not obligatory, however, they are used in the Atari SAP Music Archive.
+The filenames must not be longer than 26 characters (plus ".sap" extension).
+For compatibility reasons only uppercase and lowercase characters ('A..Z', 'a..z'), numbers ('0..9') and underscore ('_') can be used in the filenames.
 
-commands SONGS, DEFSONG contain decimal numbers:
+File Contents
+-------------
+SAP file always consists of two parts: plain-text header, followed by binary data. It is possible to create a SAP file by concatenating a text file with a binary file, for example:
+On DOS/Windows:
+     copy /b music.txt+music.bin music.sap
 
-SONGS 10
-DEFSONG 9
+On Unix/Linux:
+     cat music.txt music.bin >music.sap
 
-command TYPE contains single character which describes player type. The
-following player types are supported:
-
-TYPE C - player from CMC (Chaos Music Composer). In this case, also these
-         commands must appear: PLAYER, MUSIC. Additionaly you can define
-         SONGS and DEFSONG. Player will be initialized as follows:
-
-         lda #$70
-         ldx #<MUSIC
-         ldy #>MUSIC
-         jsr PLAYER+3
-         lda #$00
-         ldx #DEFSONG
-         jsr PLAYER+3
-
-         in 1/50 intervals will be executed:
-
-         jsr PLAYER+6
-
-         This is just internal structure already contained in SAP player, you
-         don't have to add this code to the CMC player.
-
-TYPE B - any player. In this case, also these commands must appear: PLAYER,
-         INIT. Additionaly you can define SONGS and DEFSONG. Player will be
-         initialized as follows:
-
-         lda #DEFSONG
-         jsr INIT
-
-         in 1/50 intervals will be executed:
-
-         jsr PLAYER
-
-TYPE S - SoftSynth. Like type "C", this type is temporary, and is used only
-         for special type of songs, that were composed using program
-         SoftSynth.
-TYPE D - Digital. In SAP file with this type, there must be also defined 
-         commands "INIT" and "PLAYER". "PLAYER" (like in type B) sets 
-         address of procedure that will be called in 1/50s intervals and 
-         (like in type B) must end with RTS opcode. INIT this time is a bit
-         different. It sets address of procedure that will be called (with 
-         number of song in register A) to initialize program, but it can't
-         end with RTS. It should start playing digis in endless loop. In SAP
-         player two ANTIC registers $D40A and $D40B are emulated. They help
-         playing samples. D40B register increases its contents each two
-         screen lines. D40A holds CPU till the end of actually drawn line.
-         SAP emulates Atari in PAL with disabled screen. It means that we
-         have 312 lines per screen, each taking 105 CPU cycles and 9 cycles
-         of memory refresh (114 cycles per line).
-
-One more type is recognized by SAP player - TYPE M. Right now it's exactly
-the same as TYPE B but this differentiation is for future SAP releases.
-
-Planned features:
-TYPE R - Registers. In this type, binary part is not an Atari binary file.
-         This part contains values that will be directly written to Pokey
-         registers ($D200-$D208) in 1/50s intervals (or intervals defined
-         with FASTPLAY tag).
-TIME mm:ss.ttt [LOOP]- Song duration in minutes, seconds and thousandths. In 
-                       files with subsongs the TIME tag may occur more times
-                       (eg. 3 times if there are 3 subsongs total). The
-                       optional LOOP string can be added if the song loops in
-                       an endless loop.
-
+Part One - Text Header
+----------------------
+This part consists of tags, one tag per line. Lines must be terminated by a CR/LF (0x0d, 0x0a) pair (required by ASAP, other SAP players may be more forgiving). A line consists of an uppercase tag name and an optional argument which may be a string, a decimal integer, a hexadecimal integer or a single letter. The argument should be separated from tag name with a single space. Extra whitespace is not allowed.
 Example of the header:
 SAP
 AUTHOR "Jakub Husak"
@@ -139,36 +53,136 @@ TIME 06:37.62
 TIME 02:34.02 LOOP
 TIME 00:15.40 LOOP
 
-Second part - binary data
-~~~~~~~~~~~~~~~~~~~~~~~~~
-This part contains player and music data represented in Atari binary file
-format. This format has two bytes header FF,FF. The following two bytes tell
-the loader where to load data, and next two bytes tell where the data end.
-Init data block ($02E2,$02E3) is not supported.
+The first line must consist of the word "SAP" immediately followed by CR/LF, for format identification.
+It is recommended, but not required, that tags are specified in the order described here. Note that format identification in GStreamer requires the AUTHOR tag be placed right after the "SAP" line.
+The arguments to AUTHOR, NAME and DATE must be wrapped in doublequotes. Allowed characters are those identical in ASCII and ATASCII (ATari ASCII), which are: characters with ASCII codes from space to underscore plus all lowercase letters plus the pipe (|). There are no backquote, tilde nor curly brackets in ATASCII. It is recommended to avoid doublequotes inside the arguments, as not all SAP players handle them. The arguments should be limited to 120 characters (plus the outer quotes).
+It is strongly recommended that all SAP files contain the AUTHOR, NAME and DATE tags. Use "<?>" for unknown values.
 
-A little example:
+AUTHOR
+    Name of the composer. The name should consist of a real name and optionally nickname (scene handle, no scene group) in parentheses. If song has been composed by many authors, separate them with " & ". Examples:
 
-FF FF 00 20 04 20 01 42 A3 04 D5
-\___/ \_________/ \____________/
-  A        B            C
+    AUTHOR "Dariusz Duma (Dhor)"
+    AUTHOR "Lukasz Sychowicz (X-Ray) & Piotr Swierszcz (Samurai)"
+    AUTHOR "<?> (Trzcinowy Zakapior)"
+    AUTHOR "Bill Williams <?>"
 
-A - Binary file header identification (always FF FF)
-B - Load addres (StartAddr, EndAddr in LO,HI order - $2000 to $2004)
-C - Data (that will be loaded from StartAddr)
+    The last two examples are respecively: known nickname with unknown real name and an uncertain author.
 
-This example will load values 01,42,A3,04,D5 into memory from $2000 to $2004.
+NAME
+    Song title. Examples:
 
+    NAME "Jocky Wilson's Darts Challenge"
+    NAME "<?>"
 
-How to create .SAP file
-~~~~~~~~~~~~~~~~~~~~~~~
-First of all we need to rip music from a game or a demo and save it in Atari
-binary file. Next we can create a text file with description (as described
-above), then we can make .sap file by linking these two files. We can do that
-using DOS command "copy", e.g.:
+DATE
+    Copyright year or year of creation. If exact date is known, it can be included in the DD/MM/YYYY format. Examples:
 
-copy /b music.txt+music.bin music.sap
+    DATE "1986"
+    DATE "1993-1994"
+    DATE "28/08/1997"
+    DATE "12/2001"
 
-The file is made now!
-If you didn't find that song in ASMA, feel free to send it to pg@dspaudio.com
-with all needed information (see ASMA.TXT for details). The song should be
-then included in the nearest ASMA update.
+SONG
+    Number of subsongs in the file. If there is just one song in the file, it is recommended to omit this tag. ASAP currently limits the number of songs to 32. The biggest known number of songs in a SAP file is 20.
+
+DEFSONG
+    Zero-based index of the song that should be played when the file is opened. Defaults to zero.
+
+STEREO
+    Specifies that the file uses dual POKEY configuration. Takes no argument.
+
+NTSC
+    Specifies that the file should be played on an NTSC machine instead of the default PAL. Takes no argument. This tag is only supported on ASAP 2.1.1 and above.
+
+TYPE
+    Player type. The argument should be one uppercase letter: B, C, D or S. See below for an explanation.
+
+FASTPLAY
+    Number of scanlines between calls of the player routine. A scanline is defined to be 114 clock cycles. FASTPLAY defaults to one frame: 312 scanlines for PAL (about 50 Hz), 262 for NTSC (about 60 Hz). Most songs don’t include this tag. Common values are 156 (twice per frame), 104 (three times per frame) and 78 (four times per frame). ASAP 3.0.0 and above supports FASTPLAY up to 32767. Other SAP players may limit the value to 312.
+
+INIT
+    Hexadecimal address of a 6502 routine that initializes the player. Required for player types B, D and S. Invalid for type C. The address should be specified as four uppercase hexadecimal digits, although players usually forgive lowercase and less digits.
+
+MUSIC
+    Hexadecimal address of the music data. Required for type C. Invalid for other types.
+
+PLAYER
+    Hexadecimal address of the player routine.
+
+COVOX
+    Specifies that the file uses the COVOX hardware expansion at the specified hexadecimal address. COVOX offers better quality of digitalized sounds than the POKEY, in stereo. Currently only ASAP supports this and the only possible address is D600.
+
+TIME
+    Song duration in minutes, seconds and milliseconds. In files with subsongs the TIME tag may occur many times (for example 3 times if there are 3 subsongs). The optional LOOP modifier specifies that the song starts looping endlessly at the specified moment. The exact format of the argument is:
+
+    - one or two digits specifying minutes
+    - colon
+    - two digits specifying seconds
+    - optionally: decimal point (dot) followed by one to three digits (fraction of a second)
+    - optionally: one space followed by four uppercase letters "LOOP"
+
+Part Two - Binary Data
+----------------------
+This part contains the player routine and music data in the format of Atari executables. This format has a two-byte header 0xFF, 0xFF. The following two bytes are the starting memory address (little endian), the next two bytes are the ending address. Then data bytes follow. Usually there are multiple blocks (the 0xFF/0xFF header is only required for the first block).
+The difference from Atari executables is that INIT (0x2e2) and RUN (0x2e0) blocks are not supported.
+
+Example:
+
+FF FF    - executable header (always 0xFF, 0xFF)
+00 06    - start address of the first block (0x0600)
+01 06    - end address of the first block (0x0601)
+AB CD    - first block data - loaded to 0x0600-0x0601
+25 20    - start address of the second block (0x2025)
+27 20    - end address of the second block (0x2027)
+01 42 A3 - second block data - loaded to 0x2025-0x2027
+
+Some players allow files that end in the middle of start/end address or block data, but this practice is strongly discouraged.
+
+Execution Model
+---------------
+The program from the SAP file is run inside an emulated machine that resembles a limited Atari computer with the 6502 processor, POKEY chip (at least the audio part) and 64 KB RAM. Some players include emulation of parts of the ANTIC and GTIA chips, as well as the COVOX expansion. Since SAP files may be played on a real Atari, they should be prepared for the possibility that all the original hardware is present (for example PIA doing the bankswitching).
+
+Memory map:
+    0000-CFFF - RAM.
+    D000-D0FF - GTIA chip mirrored 8 times. ASAP maps just the PAL register at D014 for NTSC/PAL detection and the CONSOL register at D01F for 1-bit sounds, the rest is RAM.
+    D100-D1FF - reserved for parallel devices connected to the Atari, do not use.
+    D200-D2FF - POKEY chip mirrored 16 times or two POKEY chips (stereo) mirrored 8 times. At least the AUDF1-4, AUDC1-4 and AUDCTL registers must be implemented in a SAP player. Emulation of timer interrupts via IRQEN and IRQST is strongly recommended. SAP by Adam Bienias emulates only timer 1 interrupts.
+    D300-D3FF - reserved for the PIA chip, do not use.
+    D400-D4FF - ANTIC chip mirrored 16 times. SAP files may rely on WSYNC (D40A) and VCOUNT (D40B) registers. ASAP also implements NMIST/NMIRES (D40F), but not NMIEN (D40E). The playback routine should be driven by the PLAYER/FASTPLAY mechanism instead of directly programming ANTIC interrupts.
+    D500-D5FF - reserved for cartridge, do not use.
+    D600-D6FF - COVOX chip if enabled via the COVOX tag (ASAP only). The COVOX consists of four unsigned 8-bit DACs: 0 and 3 for the left channel, 1 and 2 for the right channel.
+    D700-D7FF - reserved for expansions, do not use.
+    D800-FFFF - RAM. FFFE/FFFF is 6502’s interrupt vector for POKEY timer interrupts.
+
+Timing: The main clock is 1773447 Hz (PAL) or 1789772.5 Hz (NTSC). There are 114 cycles per scanline, including 9 cycles memory refresh not available for the 6502 - same as in the Atari with ANTIC DMA disabled completely. WSYNC and VCOUNT registers may be used for delays. Note that some SAP players reset VCOUNT at the FASTPLAY rate instead of every frame.
+
+Player Types
+------------
+The value of the TYPE tag determines how the player routine gets called by the SAP player:
+
+TYPE B
+    The player is initialized by loading the zero-based subsong number into the accumulator and calling the routine specified in the INIT tag. The routine must return with an RTS. Then, every FASTPLAY scanlines (312 being the default) the PLAYER routine is called. It must return with an RTS as well.
+
+TYPE C
+    This type is for convenience of handling CMC (Chaos Music Composer) music. The player is initialized using the values of MUSIC, PLAYER and DEFSONG as follows:
+
+        lda #$70
+        ldx #<MUSIC
+        ldy #>MUSIC
+        jsr PLAYER+3
+        lda #$00
+        ldx #DEFSONG
+        jsr PLAYER+3
+
+    Then, in FASTPLAY intervals, PLAYER+6 is called. When switching subsongs, the above procedure is repeated with the subsong number instead of DEFSONG.
+
+TYPE D
+    This is similar to TYPE B, but used for digitalized music. The difference is that the INIT routine must not return. It should play the digitalized music. It can use WSYNC and VCOUNT registers and/or POKEY timer interrupts for timing. The POKEY interrupts can be programmed via IRQEN/IRQST/AUDF1-4/AUDCTL registers, the FFFE/FFFF interrupt vector and the I 6502 flag. All 6502 registers (including flags) are saved when calling the PLAYER routine and restored when it returns to the running INIT routine. In ASAP 2.1.0 and above the PLAYER tag is optional for TYPE D.
+
+TYPE S
+    This is a convenience type for SoftSynth music. The PLAYER tag is not used here, yet some SAP players require it. Instead of the PLAYER routine, at FASTPLAY intervals the memory location 0x45 is decreased and if reaches zero, the memory location 0xb07b is increased. The default FASTPLAY for this type is 78.
+
+TYPE R
+    The data part is a raw dump of the POKEY registers (D200-D208) in FASTPLAY intervals, instead of an Atari executable. No mainstream SAP player supports this type at the time of writing.
+
+Game_Music_Emu supports only types B and C.
