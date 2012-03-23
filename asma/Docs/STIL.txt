@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 819
+#  Total number of entries: 853
 #
 ##############################################################################
 #
@@ -91,6 +91,10 @@ COMMENT: Last Party 1998 music compo entry.
   TITLE: Crazy
  ARTIST: Fine Young Cannibals
 
+/Composers/Bienias_Adam/Digital_Bonanza.sap
+  TITLE: tanktitle [from the Amiga SoundTracker module]
+ ARTIST: Karsten Obarski
+
 /Composers/Bienias_Adam/Digital_Trash.sap
   TITLE: Domino Dancing [from Introspective]
  ARTIST: Pet Shop Boys
@@ -110,6 +114,18 @@ COMMENT: Same as /Composers/Bienias_Adam/Happy_Train_to_Kingdom_of.sap with digi
 (#4)
 COMMENT: Same as /Composers/Bienias_Adam/Train.sap
 
+/Composers/Bienias_Adam/Jack_Dance.sap
+  TITLE: jackdance [from the Amiga MOD module]
+ ARTIST: Karsten Obarski
+
+/Composers/Bienias_Adam/Kebab_Magazine.sap
+  TITLE: Brass Tune [from the Amiga SoundTracker module]
+ ARTIST: Hans Arild Runde (Gladiator)
+
+/Composers/Bienias_Adam/LFF_Intro.sap
+  TITLE: lff [from the Amiga MOD module]
+ ARTIST: Matthew Simmonds (4-Mat)
+
 /Composers/Bienias_Adam/Little_6.sap
   TITLE: Moonlight Shadow [from Crises]
  ARTIST: Mike Oldfield & Simon Philips
@@ -118,7 +134,13 @@ COMMENT: Same as /Composers/Bienias_Adam/Train.sap
   TITLE: Moonlight Shadow [from Crises]
  ARTIST: Mike Oldfield & Simon Philips
 
+/Composers/Bienias_Adam/Saturday_Demo.sap
+  TITLE: Filthy Dreams [from the Amiga MOD module]
+ ARTIST: Stian Tjelle (Eagle)
+
 /Composers/Bienias_Adam/Tank.sap
+  TITLE: tanktitle [from the Amiga SoundTracker module]
+ ARTIST: Karsten Obarski
 COMMENT: Same as /Composers/Bienias_Adam/Digital_Bonanza.sap with digitized drums.
 
 /Composers/Bienias_Adam/Rzog_Joins_XE_Team_2.sap
@@ -305,6 +327,12 @@ COMMENT: QuaST Party 1996 music compo entry.
   TITLE: Living on Video [from Living on Video]
  ARTIST: Trans-X
 
+### /Composers/Czlowiek_W_Atomizerze #########################################
+
+/Composers/Czlowiek_W_Atomizerze/The_One.sap 
+  TITLE: Dragostea Din Tei
+ ARTIST: O-Zone
+
 ### /Composers/Daglish_Ben ###################################################
 
 /Composers/Daglish_Ben/Gauntlet.sap
@@ -464,6 +492,10 @@ COMMENT: Covers a version made by Jogeir Liljedahl on the Amiga.
   TITLE: fin [from the Amiga game Lotus III: The Ultimate Challenge]
  ARTIST: Patrick Phelan
 
+/Composers/Eisenhammer_Zdenek/Mind_Blast_Ingame.sap
+  TITLE: Stardust Memories [from the Amiga MOD module]
+ ARTIST: Volker Tripp (Jester)
+
 /Composers/Eisenhammer_Zdenek/Spellbound_Partial_Version.sap
   TITLE: Spellbound, Tune #1 [from the C64 game]
  ARTIST: Rob Hubbard
@@ -507,6 +539,10 @@ COMMENT: Same as /Composers/Esquivel_Sal/Blaster_Master_Level_1.sap,
   TITLE: Every Breath You Take [from Synchronicity]
  ARTIST: The Police
 
+/Composers/Esquivel_Sal/Fletch_Investigates.sap
+  TITLE: Fletch Theme [from the movie Fletch]
+ ARTIST: Harold Faltermeyer
+
 /Composers/Esquivel_Sal/M_U_L_E.sap
   TITLE: M.U.L.E., Tune #1
  ARTIST: Roy Glover
@@ -539,6 +575,18 @@ COMMENT: Same as /Composers/Esquivel_Sal/OutRun_Splash_Wave.sap,
   TITLE: Popcorn [from Music To Moog By]
  ARTIST: Gershon Kingsley
 COMMENT: Covering the version arranged by Hot Butter.
+
+/Composers/Esquivel_Sal/Stardust_Memories.sap
+  TITLE: Stardust Memories [from the Amiga MOD module]
+ ARTIST: Volker Tripp (Jester)
+
+/Composers/Esquivel_Sal/Trans_Atlantic.sap
+  TITLE: Trans Atlantic [from the Amiga MOD module]
+ ARTIST: Gustaf Grefberg (Lizardking)
+
+/Composers/Esquivel_Sal/Unreal_Superhero_3_Stereo.sap
+  TITLE: Unreal Superhero 3 [from the XM module]
+ ARTIST: Christophe Résigné (Rez) & Raphaël Quercy (Kenet)
 
 ### /Composers/Ezcan_Kemal ###################################################
 
@@ -837,6 +885,10 @@ COMMENT: Inspired by /Composers/Adam_Gilmore/Draconus.sap
 /Composers/Grayscale/Sychowicz_Lukasz/Glikol.sap
 COMMENT: 3rd place at Lato Ludzikow 2002 music compo.
 
+/Composers/Grayscale/Sychowicz_Lukasz/Glina.sap
+  TITLE: Axel F [from the movie Beverly Hills Cop]
+ ARTIST: Harold Faltermeyer
+
 /Composers/Grayscale/Sychowicz_Lukasz/Hypnotic.sap
 COMMENT: 1st place at Intel Outside 4 music compo.
 
@@ -845,6 +897,10 @@ COMMENT: QuaST Party 1996 music compo entry.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Komar.sap
 COMMENT: 2nd place at Lato Ludzikow 2002 music compo.
+
+/Composers/Grayscale/Sychowicz_Lukasz/Mahna_Malysz.sap
+  TITLE: Mah Na Mah Na [from the movie Svezia, Inferno e Paradiso]
+ ARTIST: Piero Umiliani
 
 /Composers/Grayscale/Sychowicz_Lukasz/Ninjax.sap
 COMMENT: 5th place at Forever Reneg8 realtime compo.
@@ -995,7 +1051,7 @@ COMMENT: Made using The Software Synthesizer "Softsynth".
  ARTIST: Kraftwerk
 
 /Composers/Husak_Jakub/Kim_Wilde.sap
-  TITLE: <?>
+  TITLE: Cambodia [from Select]
  ARTIST: Kim Wilde
 COMMENT: Made using The Software Synthesizer "Softsynth".
 
@@ -1303,6 +1359,10 @@ COMMENT: Covering from the C64 version game by Ben Daglish that appeared in the 
   TITLE: Plastic Pop [from the C64 SID]
  ARTIST: Tomas Danko
 
+/Composers/Krix_Mario/Stardust_Memories.sap
+  TITLE: Stardust Memories [from the Amiga MOD module]
+ ARTIST: Volker Tripp (Jester)
+
 ### /Composers/Kucisz_Tomasz #################################################
 
 /Composers/Kucisz_Tomasz/Complications.sap
@@ -1537,6 +1597,10 @@ COMMENT: Rush Hours 1997 music compo entry.
   TITLE: Alf Theme [from the TV series]
  ARTIST: Tom Kramer & Alf Clausen
 
+/Composers/Liebich_Tomasz/Sky_Computer_Network.sap
+  TITLE: Fourth Rendez-vous [from Rendez-vous]
+ ARTIST: Jean Michel Jarre
+
 /Composers/Liebich_Tomasz/Ucieczka.sap
   TITLE: Ucieczka z tropiku [from Ucieczka do tropiku]
  ARTIST: Marek Bilinski
@@ -1570,6 +1634,10 @@ COMMENT: 3rd place at Forever Reneg8 music compo.
 /Composers/Majewski_Tomasz/Autobiografia.sap
   TITLE: Autobiografia [from Live]
  ARTIST: Perfect
+
+/Composers/Majewski_Tomasz/Chndream.sap
+  TITLE: Chinese Dream [from the Amiga MOD module]
+ ARTIST: Jimmy Fredriksson (Firefox) & Robert Ling (Tip)
 
 /Composers/Majewski_Tomasz/Crocketts_Theme.sap
   TITLE: Crockett's Theme [from the TV series Miami Vice]
@@ -1849,6 +1917,23 @@ COMMENT: Same as /Composers/Pesout_Marek/Alphaville.sap,
   TITLE: The Last Rumba
  ARTIST: Jean Michel Jarre
 
+### /Composers/Poorten_Ivo ###################################################
+
+/Composers/Poorten_Ivo/Hi_Guys.sap
+  TITLE: Symphony No. 40, First Movement
+ ARTIST: Wolfgang Amadeus Mozart
+
+/Composers/Poorten_Ivo/Stichting_Pokey_Expo_Demo.sap
+(#1)
+  TITLE: Eye of the Tiger [from the movie Rocky III]
+ ARTIST: Survivor
+(#2)
+  TITLE: The First Time [from the 1988 single]
+ ARTIST: Robin Beck
+(#8)
+  TITLE: The Final Countdown [from The Final Countdown]
+ ARTIST: Europe
+
 ### /Composers/Przybyszewski_Krzysztof #######################################
 
 /Composers/Przybyszewski_Krzysztof/
@@ -2073,6 +2158,10 @@ COMMENT: Performed by John Travolta & Olivia Newton John.
   TITLE: Imperial March [from the movie Star Wars]
  ARTIST: John Williams
 
+/Composers/Radecki_Michal/Taniec_w_Zaczarowanym_Gaju.sap
+  TITLE: Taniec W Zaczarowanym Gaju [from Ogrod Krola Switu]
+ ARTIST: Marek Bilinski
+
 ### /Composers/Rapalski_Konrad ###############################################
 
 /Composers/Rapalski_Konrad/Alf.sap
@@ -2147,8 +2236,8 @@ COMMENT: 11th place at Grayscale Music Competition II.
 
 /Composers/Skwiot_Stanislaw/Fortuna.sap
 (#1)
-  TITLE: <?> [from the Amiga MOD module]
- ARTIST: <?>
+  TITLE: Blue Stars [from the Amiga MOD module]
+ ARTIST: Geir Rune Ladehaug (Time Traveller) & Oddgeir Hvidsten (Vortex)
 
 /Composers/Skwiot_Stanislaw/Magia_Krysztalu.sap
 (#3)
@@ -2214,6 +2303,10 @@ COMMENT: 9th place at Grayscale Music Competition II.
   TITLE: Delta, Tune # 12 [from the C64 game]
  ARTIST: Rob Hubbard
 
+/Composers/Sterba_Radek/Enigma_part_2.sap
+  TITLE: Musiklinjen [from the Amiga MOD module]
+ ARTIST: Jimmy Fredriksson (Firefox) & Robert Osterbergh (Tip)
+
 /Composers/Sterba_Radek/Flop_magazin_30_Just_Now.sap
   TITLE: Prave Ted
  ARTIST: Janek Ledecky
@@ -2254,6 +2347,14 @@ COMMENT: Covers a song by a popular Slovak music band.
   TITLE: Paul the Penguin [from the Amiga MOD module]
  ARTIST: Radix
 
+/Composers/Sterba_Radek/Satellite_One.sap
+(#1)
+  TITLE: Satellite One [from the ScreamTracker S3M module]
+ ARTIST: Jonne Valtonen (Purple Motion)
+(#2)
+  TITLE: Satellite One [from the ScreamTracker S3M module]
+ ARTIST: Jonne Valtonen (Purple Motion)
+
 /Composers/Sterba_Radek/Small_Stir.sap
 COMMENT: 1st place at Forever 1 music compo.
 
@@ -2272,9 +2373,17 @@ COMMENT: 1st place at Winter Chip II (Best Pokey) music compo.
 
 ### /Composers/Swierszcz_Piotr ###############################################
 
+/Composers/Swierszcz_Piotr/Anarchy_Menu_3.sap
+  TITLE: Anarchymenu3 [from the Amiga MOD module]
+ ARTIST: Matt Simmonds (4-Mat)
+
 /Composers/Swierszcz_Piotr/Flimbos_Quest_4.sap
   TITLE: Flimbo's Quest, Tune #1 [from the C64 game]
  ARTIST: Reyn Ouwehand
+
+/Composers/Swierszcz_Piotr/Jimmy.sap
+  TITLE: Jimmy Dean
+ ARTIST: Troll
 
 /Composers/Swierszcz_Piotr/Lambada.sap
   TITLE: Lambada
@@ -2286,6 +2395,10 @@ COMMENT: Silesian Atari Open party 1995 music compo entry.
 /Composers/Swierszcz_Piotr/Missile_Action.sap
   TITLE: Give Me Your Heart Tonight [from Give Me Your Heart Tonight]
  ARTIST: Shakin Stevens
+
+/Composers/Swierszcz_Piotr/Monday_Song.sap
+  TITLE: Monday [from the Amiga MOD module]
+ ARTIST: Edvin Fladen (Random Voice)
 
 /Composers/Swierszcz_Piotr/Ninja_Starts_School.sap
   TITLE: Ninja starts school [from the PC XM module]
@@ -2394,6 +2507,10 @@ COMMENT: 1st place at QuaST party 1998 music compo.
 /Composers/Szpilowski_Michal/Disturbance.sap
 COMMENT: 6th place at Forever Reneg8 music compo.
 
+/Composers/Szpilowski_Michal/Dom_w_Dolinie_Mgiel.sap
+  TITLE: Dom w dolinie mgiel [from E=mc2]
+ ARTIST: Marek Bilinski
+
 /Composers/Szpilowski_Michal/Enchanted_Land.sap
   TITLE: Ingame [from the Atari ST/Amiga game Enchanted Lands]
  ARTIST: Jochen Hippel
@@ -2401,6 +2518,11 @@ COMMENT: Covers the MIDI conversion by Borgar Thorsteinsson (Oedipus).
 
 /Composers/Szpilowski_Michal/Endtheme.sap
   TITLE: End Theme [from the Amiga Soundtracker module]
+ ARTIST: Karsten Obarski
+
+/Composers/Szpilowski_Michal/Isora.sap
+(#2)
+  TITLE: crystalhammer [from the Amiga MOD module]
  ARTIST: Karsten Obarski
 
 /Composers/Szpilowski_Michal/Jetboy.sap
@@ -2724,9 +2846,21 @@ COMMENT: This music is also present in the game Buckaneer by Mastertronic.
 COMMENT: A good set of Amiga tune conversions: "Techno Florid",
          "Happy Sprite", "Lotus Turbo Challenge 2" etc.
 
+/Composers/Zur_soft/The_Top_3_End_Scroll.sap
+  TITLE: endtheme [from the Amiga SoundTracker module]
+ ARTIST: Karsten Obarski
+
+/Composers/Zur_soft/The_Top_3_Part_3.sap
+  TITLE: jackdance [from the Amiga MOD module]
+ ARTIST: Karsten Obarski
+
 /Composers/Zur_soft/The_Top_3_Part_9.sap
-  TITLE: WCOPPER4 <?> [from the Amiga MOD module]
- ARTIST: <?>
+  TITLE: Pat Strikes Back [from the Amiga MOD module]
+ ARTIST: Patrick Pose (Pat)
+
+/Composers/Zur_soft/The_Top_3_Part_10.sap
+  TITLE: crystalhammer [from the Amiga MOD module]
+ ARTIST: Karsten Obarski
 
 ### /Games ###################################################################
 
@@ -2913,6 +3047,10 @@ COMMENT: "PuckMan" is known outside Japan as "Pac-Man".
   TITLE: One Horse Open Sleigh
  ARTIST: James Lord Pierpont
 COMMENT: Popular under name "Jingle Bells".
+
+/Games/Spelunker.sap
+  TITLE: Promenade I (Pictures of an Exhibition)
+ ARTIST: Modest Musorgski
 
 /Games/Spy_Hunter.sap
   TITLE: Peter Gunn [from the TV series]
@@ -3341,6 +3479,10 @@ COMMENT: Best known from as the title theme to the comedy TV series
 /Unknown/AMS/Come_Back_And_Stay.sap
   TITLE: Come Back And Stay
  ARTIST: Paul Young
+
+/Unknown/AMS/Entry_of_the_Gladiators.sap
+  TITLE: Entry of the Gladiators
+ ARTIST: Julius Fucik
 
 /Unknown/AMS/House_of_Rising_Sun.sap
   TITLE: House of the Rising Sun
