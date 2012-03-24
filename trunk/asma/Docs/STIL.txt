@@ -586,7 +586,7 @@ COMMENT: Covering the version arranged by Hot Butter.
 
 /Composers/Esquivel_Sal/Unreal_Superhero_3_Stereo.sap
   TITLE: Unreal Superhero 3 [from the XM module]
- ARTIST: Christophe Résigné (Rez) & Raphaël Quercy (Kenet)
+ ARTIST: Christophe Resigne (Rez) & Raphael Quercy (Kenet)
 
 ### /Composers/Ezcan_Kemal ###################################################
 
