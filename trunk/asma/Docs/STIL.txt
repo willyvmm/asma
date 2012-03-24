@@ -329,7 +329,7 @@ COMMENT: QuaST Party 1996 music compo entry.
 
 ### /Composers/Czlowiek_W_Atomizerze #########################################
 
-/Composers/Czlowiek_W_Atomizerze/The_One.sap 
+/Composers/Czlowiek_W_Atomizerze/The_One.sap
   TITLE: Dragostea Din Tei
  ARTIST: O-Zone
 
