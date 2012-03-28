@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 853
+#  Total number of entries: 867
 #
 ##############################################################################
 #
@@ -18,6 +18,10 @@
 COMMENT: 5th place at Winter Chip II (Best Pokey) music compo.
 
 ### /Composers/Armijo_Richard_J ##############################################
+
+/Composers/Armijo_Richard_J/Congrabalation.sap
+COMMENT: Same as /Composers/Armijo_Richard_J/Congrabalation_Mono.sap,
+         but with second  POKEY support (stereo version).
 
 /Composers/Armijo_Richard_J/Pokey_Axel_Foley.sap
   TITLE: Axel F [from the movie Beverly Hills Cop]
@@ -99,6 +103,9 @@ COMMENT: Last Party 1998 music compo entry.
   TITLE: Domino Dancing [from Introspective]
  ARTIST: Pet Shop Boys
 
+/Composers/Bienias_Adam/Dimension_X.sap
+COMMENT: Music starts at 0:04.
+
 /Composers/Bienias_Adam/Haddaway.sap
   TITLE: What Is Love
  ARTIST: Haddaway
@@ -115,7 +122,7 @@ COMMENT: Same as /Composers/Bienias_Adam/Happy_Train_to_Kingdom_of.sap with digi
 COMMENT: Same as /Composers/Bienias_Adam/Train.sap
 
 /Composers/Bienias_Adam/Jack_Dance.sap
-  TITLE: jackdance [from the Amiga MOD module]
+  TITLE: Jack Dance [from the Amiga MOD module]
  ARTIST: Karsten Obarski
 
 /Composers/Bienias_Adam/Kebab_Magazine.sap
@@ -198,7 +205,7 @@ COMMENT: Commonly known as "Haenschen Klein" (german children's song) or
 /Composers/Bryla_Krzysztof/Ray_of_Hope_Intro.sap
   TITLE: Pirate Tune [from the C64 SID]
  ARTIST: Kay Tichelmann (Ragman)
-COMMENT: Inspired by this tune.
+COMMENT: Inspired by this music.
 
 ### /Composers/Ce_Pumpkin ####################################################
 
@@ -239,6 +246,19 @@ COMMENT: Covers a popular German Christmas song.
   TITLE: O Tannenbaum!
  ARTIST: Traditional, A.Zarnack & Ernst Anschuetz (lyrics)
 COMMENT: Covers a popular German Christmas song.
+
+### /Composers/Chichakly_R_M #################################################
+
+/Composers/Chichakly_R_M/Brandenburg_34.sap
+COMMENT: Music starts at 0:07.
+
+/Composers/Chichakly_R_M/Brandenburg_5.sap
+COMMENT: Music starts at 0:06.
+
+/Composers/Chichakly_R_M/Nachtmusik.sap
+  TITLE: Eine Kleine Nachtmusik
+ ARTIST: Wolfgang Amadeus Mozart
+COMMENT: Music starts at 0:03.
 
 ### /Composers/Cierkonski_Michal #############################################
 
@@ -344,6 +364,7 @@ COMMENT: QuaST Party 1996 music compo entry.
 /Composers/Diepenhorst_Marius/Alfred_J_Kwak.sap
   TITLE: Ik ben vandaag zo vrolijk [from the cartoon series Alfred Jodocus Kwak]
  ARTIST: Herman Van Veen
+COMMENT: Music starts at 0:03.
 
 /Composers/Diepenhorst_Marius/Bubble_Bobble.sap
   TITLE: <?> [from the arcade game Bubble Bobble]
@@ -461,7 +482,7 @@ COMMENT: The intro part is cut off from this cover.
  ARTIST: Jogeir Liljedahl
 
 /Composers/Eisenhammer_Zdenek/Flop_magazin_53.sap
-  TITLE: The Alibi
+  TITLE: The Alibi [from the C64 SID]
  ARTIST: Thomas E. Petersen (Laxity)
 
 /Composers/Eisenhammer_Zdenek/Flop_magazin_54.sap
@@ -469,7 +490,8 @@ COMMENT: The intro part is cut off from this cover.
  ARTIST: Jogeir Liljedahl
 
 /Composers/Eisenhammer_Zdenek/Happy_Bars.sap
-  TITLE: 2010 [from the Amiga MOD module by an unknown author]
+  TITLE: 2010 [from the Amiga MOD module]
+ ARTIST: <?>
 
 /Composers/Eisenhammer_Zdenek/Happy_Birthday_Fandal.sap
   TITLE: Happy Birthday
@@ -519,6 +541,14 @@ COMMENT: Same as /Composers/Esquivel_Sal/ActRaiser_Level_1_1.sap,
   TITLE: Axel F [from the movie Beverly Hills Cop]
  ARTIST: Harold Faltermeyer
 
+/Composers/Esquivel_Sal/Baby_Elephant_Walk.sap
+  TITLE: Baby Elephant Walk [from the movie Hatari!]
+ ARTIST: Henry Mancini
+
+/Composers/Esquivel_Sal/Battle_Squadron.sap
+  TITLE: Intro [from the Amiga game Battle Squadron]
+ ARTIST: Ron Klaren
+
 /Composers/Esquivel_Sal/Battle_Squadron_Stereo.sap
 COMMENT: Same as /Composers/Esquivel_Sal/Battle_Squadron.sap,
          but with second  POKEY support (stereo version).
@@ -526,6 +556,10 @@ COMMENT: Same as /Composers/Esquivel_Sal/Battle_Squadron.sap,
 /Composers/Esquivel_Sal/Blaster_Master_Level_1_Ste.sap
 COMMENT: Same as /Composers/Esquivel_Sal/Blaster_Master_Level_1.sap,
          but with second  POKEY support (stereo version).
+
+/Composers/Esquivel_Sal/Bubble_Bobble.sap
+  TITLE: <?> [from the arcade game Bubble Bobble]
+ ARTIST: Tadashi Kimijima
 
 /Composers/Esquivel_Sal/Crocketts_Theme.sap
   TITLE: Crockett's Theme [from the TV series Miami Vice]
@@ -1560,6 +1594,16 @@ COMMENT: Last Party 2002 music compo entry.
   TITLE: R-Type [from the C64 game]
  ARTIST: Chris Huelsbeck
 
+### /Composers/Langston_Peter ################################################
+
+/Games/Ballblazer.sap
+(#4)
+  TITLE: Ballblaster
+ ARTIST: Peter Langston
+(#5)
+  TITLE: Ballblaster
+ ARTIST: Peter Langston
+
 ### /Composers/Lehky_Jaroslav ################################################
 
 /Composers/Lehky_Jaroslav/Ballad.sap
@@ -2566,6 +2610,11 @@ COMMENT: 3rd place at Rush Hours 1997 music compo.
   TITLE: Game Over [from the Amiga game Nitro]
  ARTIST: Tony Williams
 
+/Composers/Szpilowski_Michal/Music_Memory.sap
+(#1)
+  TITLE: Czterdziesci lat minelo [from the TV series 40-latek]
+ ARTIST: Jan Stanis³awski (lyrics), Jerzy Matuszkiewicz (music), performed by Andrzej Rosiewicz
+
 /Composers/Szpilowski_Michal/Nexus_Ingame_3.sap
   TITLE: Lost Patrol Theme [from the Amiga game]
  ARTIST: Chris Glaister
@@ -2851,7 +2900,7 @@ COMMENT: A good set of Amiga tune conversions: "Techno Florid",
  ARTIST: Karsten Obarski
 
 /Composers/Zur_soft/The_Top_3_Part_3.sap
-  TITLE: jackdance [from the Amiga MOD module]
+  TITLE: Jack Dance [from the Amiga MOD module]
  ARTIST: Karsten Obarski
 
 /Composers/Zur_soft/The_Top_3_Part_9.sap
@@ -2877,13 +2926,9 @@ COMMENT: "One reviewer, an eminent jazz player, said it sounded like
          John Coltrane did it.I think that's my best compliment so far."
          (comment by Peter Langston)
 
-/Games/Ballblazer.sap
-(#4)
-  TITLE: Ballblaster
- ARTIST: Peter Langston
-(#5)
-  TITLE: Ballblaster
- ARTIST: Peter Langston
+/Games/Banana.sap
+  TITLE: Tico-tico no fubá
+ ARTIST: Orquestra Colbaz
 
 /Games/Battle_Ships.sap
   TITLE: Battle Ships, Tune #1 [from the C64 game]
@@ -3083,6 +3128,10 @@ COMMENT: This piece is a cover of the arcade version.
   TITLE: La Cucaracha
  ARTIST: Traditional
 
+/Games/Web_Master.sap
+  TITLE: Koziolek Matolek [from a cartoon series]
+ ARTIST: Adam Markiewicz
+
 /Games/William_Tell.sap
   TITLE: Wilhelm Tell Overture
  ARTIST: Gioacchino Antonio Rossini
@@ -3225,9 +3274,27 @@ COMMENT: This song is converted from a C64 production made by Censor Design.
   TITLE: Fable [from Dreamland]
  ARTIST: Robert Miles
 
+/Unknown/God_Save_The_Queen_1.sap
+  TITLE: God Save the King/Queen (The National Anthem of the U.K.)
+ ARTIST: Traditional
+COMMENT: This anthem is traditional and possibly one of the most known national
+         anthems in the world. Each verse was written at a different time,
+         ranging from the 1740s to the present day.
+
+/Unknown/God_Save_The_Queen_2.sap
+  TITLE: God Save the King/Queen (The National Anthem of the U.K.)
+ ARTIST: Traditional
+COMMENT: This anthem is traditional and possibly one of the most known national
+         anthems in the world. Each verse was written at a different time,
+         ranging from the 1740s to the present day.
+
 /Unknown/Hawkeye.sap
   TITLE: Hawkeye, Tune #6 [from the C64 game]
  ARTIST: Jeroen Tel
+
+/Unknown/High_Society_Girl.sap
+  TITLE: High Society Girl
+ ARTIST: Laid Back
 
 /Unknown/House_of_Rising_Sun.sap
   TITLE: House of the Rising Sun
