@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 867
+#  Total number of entries: 873
 #
 ##############################################################################
 #
@@ -349,7 +349,7 @@ COMMENT: QuaST Party 1996 music compo entry.
 
 ### /Composers/Czlowiek_W_Atomizerze #########################################
 
-/Composers/Czlowiek_W_Atomizerze/The_One.sap
+/Composers/Czlowiek_W_Atomizerze/The_One.sap 
   TITLE: Dragostea Din Tei
  ARTIST: O-Zone
 
@@ -2888,6 +2888,32 @@ COMMENT: This music is also present in the game Buckaneer by Mastertronic.
 /Composers/Wisniewski_Mateusz/Last_V8.sap
   TITLE: The Last V8, Tune #1 [from the C64 game]
  ARTIST: Rob Hubbard
+
+### /Composers/XLent ######################################################### 
+
+/Composers/XLent/Chuck_Rock.sap
+  TITLE: chuckrock [from the Amiga game Chuck Rock]
+ ARTIST: Matt Simmonds (4-Mat)
+
+/Composers/XLent/Deflektor.sap
+  TITLE: Deflektor [from the C64 game]
+ ARTIST: Ben Daglish
+
+/Composers/XLent/Jazzy_Nork.sap
+  TITLE: Jazzy Nork [from the Amiga MOD module]
+ ARTIST: Robert Ling (Tip) & Martin Wall (Mantronix)
+
+/Composers/XLent/Plastic_Pop.sap
+  TITLE: Plastic Pop [from the C64 SID]
+ ARTIST: Tomas Danko
+
+/Composers/XLent/Prehistorik1.sap
+  TITLE: Prehistorik1 [from the Amiga game Prehistorik]
+ ARTIST: Christophe Fevre
+
+/Composers/XLent/Rewind_the_Mind.sap
+  TITLE: Rewind the Mind [from the Amiga MOD module]
+ ARTIST: Thomas Lenhardt (ADT) & Ernoe Zalka (Ern0)
 
 ### /Composers/Zur_soft ######################################################
 
