@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 873
+#  Total number of entries: 878
 #
 ##############################################################################
 #
@@ -2914,6 +2914,28 @@ COMMENT: This music is also present in the game Buckaneer by Mastertronic.
 /Composers/XLent/Rewind_the_Mind.sap
   TITLE: Rewind the Mind [from the Amiga MOD module]
  ARTIST: Thomas Lenhardt (ADT) & Ernoe Zalka (Ern0)
+
+### /Composers/Zuegner_Alfred ################################################ 
+
+/Composers/Zuegner_Alfred/Wreck_of_the_Old_Ninety_Se.sap
+  TITLE: Wreck of the Old 97
+ ARTIST: G. B. Grayson & Henry Whitter
+
+/Composers/Zuegner_Alfred/You_Are_What_I_Need.sap
+  TITLE: You Are What I Want
+ ARTIST: Johnny Cash
+
+/Composers/Zuegner_Alfred/You_ll_be_All_Right.sap
+  TITLE: You'll be all right
+ ARTIST: Johnny Cash
+
+/Composers/Zuegner_Alfred/You_re_My_Home.sap
+  TITLE: You're My Home
+ ARTIST: Billy Joel
+
+/Composers/Zuegner_Alfred/You_Remembered_Me.sap
+  TITLE: You Remembered Me
+ ARTIST: Johnny Cash
 
 ### /Composers/Zur_soft ######################################################
 
