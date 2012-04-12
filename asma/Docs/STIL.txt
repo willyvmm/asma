@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 878
+#  Total number of entries: 879
 #
 ##############################################################################
 #
@@ -2410,6 +2410,10 @@ COMMENT: Covers only a part of it.
 /Composers/Sterba_Radek/Two_Years_Ago.sap
 COMMENT: 1st place at Forever 3 music compo.
 
+/Composers/Sterba_Radek/Yamahademo_Song_Q.sap
+  TITLE: Dervish D [from Spiral]
+ ARTIST: Vangelis
+
 ### /Composers/Strobe ########################################################
 
 /Composers/Strobe/Town_of_Ui.sap
@@ -2445,7 +2449,7 @@ COMMENT: Silesian Atari Open party 1995 music compo entry.
  ARTIST: Edvin Fladen (Random Voice)
 
 /Composers/Swierszcz_Piotr/Ninja_Starts_School.sap
-  TITLE: Ninja starts school [from the PC XM module]
+  TITLE: Ninja Starts School [from the PC XM module]
  ARTIST: Kalle Jonsson (Dubmood)
 
 /Composers/Swierszcz_Piotr/Oldskul_filink_z_newer_daj.sap
@@ -2774,6 +2778,7 @@ COMMENT: "Entry in the annual ABBUC demo competition 1990 held at the
 ### /Composers/Top_Odin ######################################################
 
 /Composers/Top_Odin/Flinstones.sap
+(#1)
   TITLE: The Flintstones [from the TV series]
  ARTIST: Hoyt Curtin (music), William Hanna & Joseph Barbera (lyrics)
 
