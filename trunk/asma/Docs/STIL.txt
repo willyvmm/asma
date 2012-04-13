@@ -3203,6 +3203,10 @@ COMMENT: The notes in voice 2 at the beginning of the tune spell out "SOS" in
   TITLE: Ave Maria
  ARTIST: Johanna S.Bacha & Charlesa Gounoda
 
+/Misc/Bolero.sap
+  TITLE: Bolero
+ ARTIST: Maurice Ravel
+
 /Misc/Das_Teufel.sap
   TITLE: Das Boot [from the movie]
  ARTIST: Klaus Doldinger
@@ -3410,10 +3414,6 @@ COMMENT: This is not a complete cover.
  ARTIST: Polish folk traditional
 
 ### /Unknown/AMP #############################################################
-
-/Unknown/AMP/Bolero.sap
-  TITLE: Bolero
- ARTIST: Maurice Ravel
 
 /Unknown/AMP/Cascades.sap
   TITLE: Cascades
