@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 879
+#  Total number of entries: 880
 #
 ##############################################################################
 #
@@ -963,6 +963,10 @@ COMMENT: 3rd place at Forever 5 music compo.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Synthy_Gambol.sap
 COMMENT: 1st place at QuaST party 2004 music compo.
+
+/Composers/Grayscale/Sychowicz_Lukasz/Zbig.sap
+  TITLE: L'Amour Toujours (I'll Fly With You) [from L'Amour Toujours]
+ ARTIST: Gigi d'Agostino
 
 ### /Composers/Grayscale/Wasiel_Bartek #######################################
 
