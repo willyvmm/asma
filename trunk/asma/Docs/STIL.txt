@@ -778,6 +778,12 @@ COMMENT: Originally a C64 SID tune with POKEY routine added.
  ARTIST: Jeroen Tel
 COMMENT: Originally a C64 SID tune with POKEY routine added.
 
+### /Composers/Falton_Peter ##################################################
+
+/Composers/Falton_Peter/Banana.sap
+  TITLE: Tico-tico no fubá
+ ARTIST: Orquestra Colbaz
+
 ### /Composers/Feske_Nils ####################################################
 
 /Composers/Feske_Nils/Dupa.sap
@@ -2982,10 +2988,6 @@ COMMENT: A good set of Amiga tune conversions: "Techno Florid",
 COMMENT: "One reviewer, an eminent jazz player, said it sounded like
          John Coltrane did it.I think that's my best compliment so far."
          (comment by Peter Langston)
-
-/Games/Banana.sap
-  TITLE: Tico-tico no fubá
- ARTIST: Orquestra Colbaz
 
 /Games/Battle_Ships.sap
   TITLE: Battle Ships, Tune #1 [from the C64 game]

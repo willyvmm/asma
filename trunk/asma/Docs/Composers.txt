@@ -2,14 +2,14 @@ Known Atari composers and handles                                 Feb 24 2012
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This list contains only composers who have at least 3 songs in ASMA
 collection. The composers are sorted in ABC order according to their surnames
-(if known, otherwise by their handles). There are 183 composers in this list.
+(if known, otherwise by their handles). There are 184 composers in this list.
 
 Argentina - 1
 Canada - 1
 Chile - 2
 Czech Republic - 9
 Finland - 1
-France - 1
+France - 2
 Germany - 17
 Hungary - 1
 Netherlands - 3
@@ -68,6 +68,7 @@ Esquivel, Sal - Kjmann - USA
 Ezcan, Kemal - KE-SOFT - Germany
 Feske, Nils - 505 - Germany
 Farkas, Felker - Hungary
+Falton, Peter - France
 Galinski, Adrian - Daxey - Poland
 Garrido, Daniel - ui - Argentina
 Gilbertson, Gary - USA
