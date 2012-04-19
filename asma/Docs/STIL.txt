@@ -256,9 +256,9 @@ COMMENT: Music starts at 0:07.
 COMMENT: Music starts at 0:06.
 
 /Composers/Chichakly_R_M/Nachtmusik.sap
+COMMENT: Music starts at 0:03.
   TITLE: Eine Kleine Nachtmusik
  ARTIST: Wolfgang Amadeus Mozart
-COMMENT: Music starts at 0:03.
 
 ### /Composers/Cierkonski_Michal #############################################
 
@@ -268,6 +268,7 @@ COMMENT: QuaST Party 1996 music compo entry.
 ### /Composers/Cieslewicz_Tomasz #############################################
 
 /Composers/Cieslewicz_Tomasz/Dom.sap
+(#1)
   TITLE: Dom w dolinie mgiel [from E=mc2]
  ARTIST: Marek Bilinski
 
