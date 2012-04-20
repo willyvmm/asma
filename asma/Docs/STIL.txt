@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 880
+#  Total number of entries: 883
 #
 ##############################################################################
 #
@@ -1761,6 +1761,18 @@ COMMENT: 3rd place at Forever Reneg8 music compo.
 /Composers/Martin_Chris/Approachong_stereo.sap
 COMMENT: Same as /Composers/Martin_Chris/Approachong.sap, but with second  POKEY support (stereo version).
 
+/Composers/Martin_Chris/Blue_Monday.sap
+  TITLE: Blue Monday
+ ARTIST: New Order
+
+/Composers/Martin_Chris/Crystal_Hammer.sap
+  TITLE: Crystal Hammer [from the Amiga game]
+ ARTIST: Karsten Obarski
+
+/Composers/Martin_Chris/Cybernoid_Song.sap
+  TITLE: Cybernoid, Tune #1 [from the C64 game]
+ ARTIST: Jeroen Tel
+
 /Composers/Martin_Chris/Popcorn_Song.sap
   TITLE: Popcorn [from Music To Moog By]
  ARTIST: Gershon Kingsley
@@ -2581,7 +2593,7 @@ COMMENT: Covers the MIDI conversion by Borgar Thorsteinsson (Oedipus).
 
 /Composers/Szpilowski_Michal/Isora.sap
 (#2)
-  TITLE: crystalhammer [from the Amiga MOD module]
+  TITLE: Crystal Hammer [from the Amiga game]
  ARTIST: Karsten Obarski
 
 /Composers/Szpilowski_Michal/Jetboy.sap
@@ -2972,7 +2984,7 @@ COMMENT: A good set of Amiga tune conversions: "Techno Florid",
  ARTIST: Patrick Pose (Pat)
 
 /Composers/Zur_soft/The_Top_3_Part_10.sap
-  TITLE: crystalhammer [from the Amiga MOD module]
+  TITLE: Crystal Hammer [from the Amiga game]
  ARTIST: Karsten Obarski
 
 ### /Games ###################################################################
