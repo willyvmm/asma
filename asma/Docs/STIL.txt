@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 883
+#  Total number of entries: 900
 #
 ##############################################################################
 #
@@ -2900,7 +2900,7 @@ COMMENT: Covers parts of above title.Erroneously named.
 ### /Composers/Whittaker_David ###############################################
 
 /Composers/Whittaker_David/Living_Daylights.sap
-(#2)
+(#3)
   TITLE: James Bond Theme [from the James Bond series of movies]
  ARTIST: Monty Norman
 
@@ -3619,9 +3619,77 @@ COMMENT: Best known from as the title theme to the comedy TV series
   TITLE: Come Back And Stay
  ARTIST: Paul Young
 
+/Unknown/AMS/Copacabana.sap
+  TITLE: Copacabana
+ ARTIST: Barry Manilow
+
+/Unknown/AMS/Dallas.sap
+  TITLE: Dallas Theme [from the TV series]
+ ARTIST: Jerrold Immel
+
+/Unknown/AMS/Dancing_in_the_Dark.sid
+  TITLE: Dancing In The Dark [from Born in the U.S.A.]
+ ARTIST: Bruce Springsteen
+
+/Unknown/AMS/Dancing_Queen.sap
+  TITLE: Dancing Queen [from Arrival]
+ ARTIST: Abba
+
+/Unknown/AMS/Do_Ya_Think_I_am_Sexy.sap
+  TITLE: Da Ya Think I'm Sexy?
+ ARTIST: Rod Stewart
+
+/Unknown/AMS/Down_Under.sap
+  TITLE: Down Under
+ ARTIST: Men At Work
+
+/Unknown/AMS/Dynasty.sap
+  TITLE: Dynasty Theme [from the TV series]
+ ARTIST: Bill Conti
+
+/Unknown/AMS/Eleanor_Rigby.sap
+  TITLE: Eleanor Rigby [from Revolver]
+ ARTIST: The Beatles
+
+/Unknown/AMS/Elite_Syncopations.sap
+  TITLE: Elite Syncopations
+ ARTIST: Scott Joplin
+
+/Unknown/AMS/Elite_Syncopations_2.sap
+  TITLE: Elite Syncopations
+ ARTIST: Scott Joplin
+
+/Unknown/AMS/Entertainer.sap
+  TITLE: The Entertainer
+ ARTIST: Scott Joplin
+
 /Unknown/AMS/Entry_of_the_Gladiators.sap
   TITLE: Entry of the Gladiators
  ARTIST: Julius Fucik
+
+/Unknown/AMS/Every_Breath_You_Take.sap
+  TITLE: Every Breath You Take [from Synchronicity]
+ ARTIST: The Police
+
+/Unknown/AMS/Eye_of_the_Tiger.sap
+  TITLE: Eye of the Tiger [from the movie Rocky III]
+ ARTIST: Survivor
+
+/Unknown/AMS/For_Elise.sap
+  TITLE: Für Elise
+ ARTIST: Ludwig van Beethoven
+
+/Unknown/AMS/Get_Back.sap
+  TITLE: Get Back [from Let It Be]
+ ARTIST: The Beatles
+
+/Unknown/AMS/Ghostbusters.sap
+  TITLE: Ghostbusters [from the movie]
+ ARTIST: Ray Parker, Jr.
+
+/Unknown/AMS/Ghostbusters_2.sap
+  TITLE: Ghostbusters [from the movie]
+ ARTIST: Ray Parker, Jr.
 
 /Unknown/AMS/House_of_Rising_Sun.sap
   TITLE: House of the Rising Sun
