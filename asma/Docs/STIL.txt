@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 900
+#  Total number of entries: 910
 #
 ##############################################################################
 #
@@ -3691,9 +3691,52 @@ COMMENT: Best known from as the title theme to the comedy TV series
   TITLE: Ghostbusters [from the movie]
  ARTIST: Ray Parker, Jr.
 
+/Unknown/AMS/Gloria.sap
+  TITLE: Gloria
+ ARTIST: Umberto Tozzi, Giancarlo Bigazzi & Trevor Veitch
+
+/Unknown/AMS/God_Save_the_Queen.sap
+  TITLE: God Save the King/Queen (The National Anthem of the U.K.)
+ ARTIST: Traditional
+COMMENT: This anthem is traditional and possibly one of the most known national
+         anthems in the world. Each verse was written at a different time,
+         ranging from the 1740s to the present day.
+
+/Unknown/AMS/Green_Sleeves.sap
+  TITLE: Greensleeves
+ ARTIST: Unknown
+
+/Unknown/AMS/Hallelujah.sap
+  TITLE: Hallelujah (from Messiah, HWV 56)
+ ARTIST: Georg Friedrich Händel
+
+/Unknown/AMS/Heart_of_Glass.sap
+  TITLE: Heart Of Glass [from Parallel Lines]
+ ARTIST: Blondie
+
+/Unknown/AMS/Hello_Dolly.sap
+    TITLE: Hello Dolly [from the musical]
+ ARTIST: Jerry Herman
+
+/Unknown/AMS/Hey_Jude.sap
+  TITLE: Hey Jude [from the B-side of the Revolution 7" single]
+ ARTIST: The Beatles
+
 /Unknown/AMS/House_of_Rising_Sun.sap
   TITLE: House of the Rising Sun
  ARTIST: Traditional
+
+/Unknown/AMS/Hungry_Like_The_Wolf.sap
+  TITLE: Hungry Like The Wolf [from Rio]
+ ARTIST: Duran Duran
+
+/Unknown/AMS/Imagine.sap
+  TITLE: Imagine
+ ARTIST: John Lennon
+
+/Unknown/AMS/Imperial_March.sap
+  TITLE: The Imperial March / Darth Vader's Theme [from Star Wars Episode V]
+ ARTIST: John Williams
 
 /Unknown/AMS/James_Bond_007.sap
   TITLE: James Bond Theme [from the James Bond series of movies]
