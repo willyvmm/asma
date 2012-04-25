@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 910
+#  Total number of entries: 912
 #
 ##############################################################################
 #
@@ -2945,6 +2945,10 @@ COMMENT: This music is also present in the game Buckaneer by Mastertronic.
 
 ### /Composers/Zuegner_Alfred ################################################ 
 
+/Composers/Zuegner_Alfred/El_Condor_Pasa.sap
+  TITLE: El Condor Pasa
+ ARTIST: D. Robles and J. Milchberg
+
 /Composers/Zuegner_Alfred/Wreck_of_the_Old_Ninety_Se.sap
   TITLE: Wreck of the Old 97
  ARTIST: G. B. Grayson & Henry Whitter
@@ -2970,6 +2974,9 @@ COMMENT: This music is also present in the game Buckaneer by Mastertronic.
 /Composers/Zur_soft/Tactic.sap
 COMMENT: A good set of Amiga tune conversions: "Techno Florid",
          "Happy Sprite", "Lotus Turbo Challenge 2" etc.
+(#4)
+  TITLE: The Hootchy Kootchy Dance
+ ARTIST: Sol Bloom		 
 
 /Composers/Zur_soft/The_Top_3_End_Scroll.sap
   TITLE: endtheme [from the Amiga SoundTracker module]
