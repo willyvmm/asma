@@ -3071,6 +3071,9 @@ COMMENT: Heavily based on /Composers/Szmatola_Krzysztof/Syn_Boga_Wiatru.sap
 
 /Games/Frogger.sap
 (#5)
+  TITLE: Camptown Races
+ ARTIST: Stephen Foster
+(#6)
   TITLE: Yankee Doodle
  ARTIST: Traditional, Dr. Richard Schuckburgh (lyrics)
 
