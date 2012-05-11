@@ -21,7 +21,7 @@ COMMENT: 5th place at Winter Chip II (Best Pokey) music compo.
 
 /Composers/Armijo_Richard_J/Congrabalation.sap
 COMMENT: Same as /Composers/Armijo_Richard_J/Congrabalation_Mono.sap,
-         but with second  POKEY support (stereo version).
+         but with second POKEY support (stereo version).
 
 /Composers/Armijo_Richard_J/Pokey_Axel_Foley.sap
   TITLE: Axel F [from the movie Beverly Hills Cop]
@@ -219,7 +219,7 @@ COMMENT: Last Party 2002 music compo entry.
 COMMENT: Lato Ludzików 2002 music compo entry.
 
 /Composers/Ce_Pumpkin/W_hole.sap
-  TITLE: Popcorn [from Music To Moog By](0:12)
+  TITLE: Popcorn [from Music To Moog By] (0:12)
  ARTIST: Gershon Kingsley
 COMMENT: Cover of original ZX Spectrum version of "Whole" Soundtrack.
 
@@ -244,7 +244,7 @@ COMMENT: Covers a popular German Christmas song.
 
 /Composers/Checa_Funcke_Marco_Antonio/O_Tannenbaum.sap
   TITLE: O Tannenbaum!
- ARTIST: Traditional, A.Zarnack & Ernst Anschuetz (lyrics)
+ ARTIST: Traditional, A. Zarnack & Ernst Anschuetz (lyrics)
 COMMENT: Covers a popular German Christmas song.
 
 ### /Composers/Chichakly_R_M #################################################
@@ -277,7 +277,7 @@ COMMENT: QuaST Party 1996 music compo entry.
  ARTIST: Adam Markiewicz
 
 /Composers/Cieslewicz_Tomasz/Roxette.sap
-  TITLE: Listen to Your Heart [from Look Sharp]
+  TITLE: Listen to Your Heart [from Look Sharp!]
  ARTIST: Roxette
 
 /Composers/Cieslewicz_Tomasz/Roxette_2.sap
@@ -328,7 +328,7 @@ COMMENT: QuaST Party 1996 music compo entry.
  ARTIST: Trans-X
 
 /Composers/Czartynski_Marcin/Heretic_Crew_Limited_Dem_3.sap
-  TITLE: Dom w dolinie mgiel [from E=mc2]
+  TITLE: Dom w dolinie mgieł [from E=mc2]
  ARTIST: Marek Biliński
 
 /Composers/Czartynski_Marcin/Outer_1.sap
@@ -402,7 +402,7 @@ COMMENT: Covers the main theme from the arcade game.
  ARTIST: Heiko (Luxor)
 
 /Composers/Dojwa_Jacek/Trisz_Divinis_Ingame.sap
-  TITLE: bootup [from the Amiga game Lotus Lotus Turbo Challenge II]
+  TITLE: bootup [from the Amiga game Lotus Turbo Challenge II]
  ARTIST: Barry Leitch
 
 ### /Composers/Drozdowski_Marek ##############################################
@@ -466,7 +466,7 @@ COMMENT: PG is short for PseudoGrafx.
 
 /Composers/Eisenhammer_Zdenek/Deus_Ex_Machina.sap
   TITLE: Hard Track [from the C64 SID]
- ARTIST: Soren Lund (Jeff)
+ ARTIST: Søren Lund (Jeff)
 
 /Composers/Eisenhammer_Zdenek/Diamondz_Congratulations.sap
   TITLE: Dunder Honung [from the Amiga MOD module]
@@ -660,12 +660,12 @@ COMMENT: Originally a C64 SID tune with POKEY routine added.
 
 /Composers/Farkas_Felker/Cool_Emotion_End.sap
   TITLE: Gammeldaws [from the C64 SID]
- ARTIST: Soren Lund (Jeff)
+ ARTIST: Søren Lund (Jeff)
 COMMENT: Originally a C64 SID tune with POKEY routine added.
 
 /Composers/Farkas_Felker/Cool_Emotion_First_Part.sap
   TITLE: Monster Jazz [from the C64 SID]
- ARTIST: Anders Elmen (Moon)
+ ARTIST: Anders Elmén (Moon)
 COMMENT: Originally a C64 SID tune with POKEY routine added.
 
 /Composers/Farkas_Felker/Cool_Emotion_Ghostbusters.sap
@@ -688,8 +688,8 @@ COMMENT: Featuring the sampled voice of Jeroen Tel himself.
          Originally a C64 SID tune with POKEY routine added.
 
 /Composers/Farkas_Felker/Cool_Emotion_Plasma.sap
-  TITLE: <?> [from the C64 SID]
- ARTIST: <?>
+  TITLE: Prometheus Unbound [from the C64 SID]
+ ARTIST: Anders Elmén (Moon)
 COMMENT: Originally a C64 SID tune with POKEY routine added.
 
 /Composers/Farkas_Felker/Cool_Emotion_Scrolls.sap
@@ -709,7 +709,7 @@ COMMENT: Originally a C64 SID tune with POKEY routine added.
 
 /Composers/Farkas_Felker/Joyride_Juggler.sap
   TITLE: Barricade X [from the C64 SID]
- ARTIST: Anders Elmen (Moon)
+ ARTIST: Anders Elmén (Moon)
 COMMENT: Originally a C64 SID tune with POKEY routine added.
 
 /Composers/Farkas_Felker/Joyride_Landscape.sap
@@ -809,7 +809,7 @@ COMMENT: Sadly, Adrian Galiński (Daxey) passed away in 1994, at the age of 20.
 COMMENT: 1st place at Shadows Party 1994 music compo.
 
 /Composers/Galinski_Adrian/Bells.sap
-COMMENT: 3rd place at Shadows Party music compo.
+COMMENT: 3rd place at Shadows Party 1994 music compo.
 
 /Composers/Galinski_Adrian/Intel_Outside_Intro.sap
   TITLE: Oxygene 4 [from Oxygene]
@@ -855,7 +855,7 @@ COMMENT: Lato Ludzików 2002 music compo entry.
 /Composers/Grad_Jacek/Fatum.sap
 (#2)
   TITLE: unit5 [from the Amiga MOD module]
- ARTIST: Alexander S.Kunz (Neurodancer)
+ ARTIST: Alexander S. Kunz (Neurodancer)
 
 ### /Composers/Grayscale  ####################################################
 
@@ -905,7 +905,7 @@ COMMENT: 3rd place at Forever 4 music compo.
  ARTIST: Zenon Kowalowski
   TITLE: End [from the cartoon series Bolek i Lolek] (1:17-1:29)
  ARTIST: Tadeusz Kocyba
-  TITLE: Title Theme [from a cartoon series Koziolek Matolek] (1:44-1:55)
+  TITLE: Title Theme [from a cartoon series Koziołek Matołek] (1:44-1:55)
  ARTIST: Adam Markiewicz
 COMMENT: Inspired by musics from Polish cartoon series.
 
