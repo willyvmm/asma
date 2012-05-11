@@ -1,4 +1,4 @@
-##############################################################################
+﻿##############################################################################
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
@@ -165,8 +165,8 @@ COMMENT: Same as /Composers/Bienias_Adam/Digital_Bonanza.sap with digitized drum
 /Composers/Bloszko_Marek/Factory_Demo.sap
   TITLE: Fahret Hin (0:00:-0:10)
  ARTIST: Busching, von der Hagen
-COMMENT: Commonly known as "Haenschen Klein" (german children's song) or
-         "Wlazl Kotek" in Poland.
+COMMENT: Commonly known as "Haenschen Klein" (German children's song) or
+         "Wlazł Kotek" in Poland.
 
 ### /Composers/Brooke_Jason ##################################################
 
@@ -216,7 +216,7 @@ COMMENT: 8th place at Grayscale Music Competition II.
 COMMENT: Last Party 2002 music compo entry.
 
 /Composers/Ce_Pumpkin/Skis.sap
-COMMENT: Lato Ludzikow 2002 music compo entry.
+COMMENT: Lato Ludzików 2002 music compo entry.
 
 /Composers/Ce_Pumpkin/W_hole.sap
   TITLE: Popcorn [from Music To Moog By](0:12)
@@ -269,11 +269,11 @@ COMMENT: QuaST Party 1996 music compo entry.
 
 /Composers/Cieslewicz_Tomasz/Dom.sap
 (#1)
-  TITLE: Dom w dolinie mgiel [from E=mc2]
- ARTIST: Marek Bilinski
+  TITLE: Dom w dolinie mgieł [from E=mc2]
+ ARTIST: Marek Biliński
 
 /Composers/Cieslewicz_Tomasz/Koziol.sap
-  TITLE: Koziolek Matolek [from a cartoon series]
+  TITLE: Koziołek Matołek [from a cartoon series]
  ARTIST: Adam Markiewicz
 
 /Composers/Cieslewicz_Tomasz/Roxette.sap
@@ -329,7 +329,7 @@ COMMENT: QuaST Party 1996 music compo entry.
 
 /Composers/Czartynski_Marcin/Heretic_Crew_Limited_Dem_3.sap
   TITLE: Dom w dolinie mgiel [from E=mc2]
- ARTIST: Marek Bilinski
+ ARTIST: Marek Biliński
 
 /Composers/Czartynski_Marcin/Outer_1.sap
 (#2)
@@ -536,7 +536,7 @@ COMMENT: Covers a version made by Lars Hutzelmann (The Blue Ninja) on the C64.
 
 /Composers/Esquivel_Sal/ActRaiser_Level_1_1_Stereo.sap
 COMMENT: Same as /Composers/Esquivel_Sal/ActRaiser_Level_1_1.sap,
-         but with second  POKEY support (stereo version).
+         but with second POKEY support (stereo version).
 
 /Composers/Esquivel_Sal/Axel_F.sap
   TITLE: Axel F [from the movie Beverly Hills Cop]
@@ -552,11 +552,11 @@ COMMENT: Same as /Composers/Esquivel_Sal/ActRaiser_Level_1_1.sap,
 
 /Composers/Esquivel_Sal/Battle_Squadron_Stereo.sap
 COMMENT: Same as /Composers/Esquivel_Sal/Battle_Squadron.sap,
-         but with second  POKEY support (stereo version).
+         but with second POKEY support (stereo version).
 
 /Composers/Esquivel_Sal/Blaster_Master_Level_1_Ste.sap
 COMMENT: Same as /Composers/Esquivel_Sal/Blaster_Master_Level_1.sap,
-         but with second  POKEY support (stereo version).
+         but with second POKEY support (stereo version).
 
 /Composers/Esquivel_Sal/Bubble_Bobble.sap
   TITLE: <?> [from the arcade game Bubble Bobble]
@@ -588,23 +588,23 @@ COMMENT: Same as /Composers/Esquivel_Sal/Blaster_Master_Level_1.sap,
 
 /Composers/Esquivel_Sal/Mega_Man_III_Title_Stereo.sap
 COMMENT: Same as /Composers/Esquivel_Sal/Mega_Man_III_Title.sap,
-         but with second  POKEY support (stereo version).
+         but with second POKEY support (stereo version).
 
 /Composers/Esquivel_Sal/Obliterator_Stereo.sap
 COMMENT: Same as /Composers/Esquivel_Sal/Obliterator.sap,
-         but with second  POKEY support (stereo version).
+         but with second POKEY support (stereo version).
 
 /Composers/Esquivel_Sal/OutRun_Magical_Sound_Sho_S.sap
 COMMENT: Same as /Composers/Esquivel_Sal/OutRun_Magical_Sound_Showe.sap,
-         but with second  POKEY support (stereo version).
+         but with second POKEY support (stereo version).
 
 /Composers/Esquivel_Sal/Outrun_Passing_Breeze_Ster.sap
 COMMENT: Same as /Composers/Esquivel_Sal/Outrun_Passing_Breeze.sap,
-         but with second  POKEY support (stereo version).
+         but with second POKEY support (stereo version).
 
 /Composers/Esquivel_Sal/OutRun_Splash_Wave_Stereo.sap
 COMMENT: Same as /Composers/Esquivel_Sal/OutRun_Splash_Wave.sap,
-         but with second  POKEY support (stereo version).
+         but with second POKEY support (stereo version).
 
 /Composers/Esquivel_Sal/Popcorn_Hot_Butter.sap
   TITLE: Popcorn [from Music To Moog By]
@@ -621,7 +621,7 @@ COMMENT: Covering the version arranged by Hot Butter.
 
 /Composers/Esquivel_Sal/Unreal_Superhero_3_Stereo.sap
   TITLE: Unreal Superhero 3 [from the XM module]
- ARTIST: Christophe Resigne (Rez) & Raphael Quercy (Kenet)
+ ARTIST: Christophe Résigné (Rez) & Raphaël Quercy (Kenet)
 
 ### /Composers/Ezcan_Kemal ###################################################
 
@@ -672,13 +672,13 @@ COMMENT: Originally a C64 SID tune with POKEY routine added.
   TITLE: Ghostbusters [from the movie]
  ARTIST: Ray Parker, Jr.
 COMMENT: A cover of the tune from C64 SID Ghostbusters by Roger Duijckaerts
-         (ReD).Originally a C64 SID tune with POKEY routine added.
+         (ReD). Originally a C64 SID tune with POKEY routine added.
 
 /Composers/Farkas_Felker/Cool_Emotion_Heal_the_Worl.sap
   TITLE: Heal The World [from Dangerous]
  ARTIST: Michael Jackson
 COMMENT: A cover of the tune from C64 SID Heal the World by Alain Hertenstein
-         (Iron Cat).Originally a C64 SID tune with POKEY routine added.
+         (Iron Cat). Originally a C64 SID tune with POKEY routine added.
 
 /Composers/Farkas_Felker/Cool_Emotion_Intro.sap
   TITLE: Magical Sound Shower [from the arcade game Out Run]
@@ -716,7 +716,7 @@ COMMENT: Originally a C64 SID tune with POKEY routine added.
   TITLE: Musiklinjen [from the Amiga MOD module]
  ARTIST: Jimmy Fredriksson (Firefox) & Robert Osterbergh (ex.Robert Ling)(Tip)
 COMMENT: A cover of the tune from C64 SID Enigma/PHA Theme by Alain
-         Hertenstein (Iron Cat).Originally a C64 SID tune with POKEY routine
+         Hertenstein (Iron Cat). Originally a C64 SID tune with POKEY routine
          added.
 
 /Composers/Farkas_Felker/Joyride_Plasma.sap
@@ -782,7 +782,7 @@ COMMENT: Originally a C64 SID tune with POKEY routine added.
 ### /Composers/Falton_Peter ##################################################
 
 /Composers/Falton_Peter/Banana.sap
-  TITLE: Tico-tico no fub�
+  TITLE: Tico-tico no fubá
  ARTIST: Orquestra Colbaz
 
 ### /Composers/Feske_Nils ####################################################
@@ -803,7 +803,7 @@ COMMENT: 3rd place at Winter Chip II (Best Pokey) music compo.
 ### /Composers/Galinski_Adrian ###############################################
 
 /Composers/Galinski_Adrian/
-COMMENT: Sadly, Adrian Galinski (Daxey) passed away in 1994, at the age of 20.
+COMMENT: Sadly, Adrian Galiński (Daxey) passed away in 1994, at the age of 20.
 
 /Composers/Galinski_Adrian/Abdicus.sap
 COMMENT: 1st place at Shadows Party 1994 music compo.
@@ -848,7 +848,7 @@ COMMENT: Last Party 2002 music compo entry.
 COMMENT: Last Party 1998 music compo entry.
 
 /Composers/Gora_Jakub/Return.sap
-COMMENT: Lato Ludzikow 2002 music compo entry.
+COMMENT: Lato Ludzików 2002 music compo entry.
 
 ### /Composers/Grad_Jacek ####################################################
 
@@ -864,7 +864,7 @@ COMMENT: Last Party 2002 music compo entry.
 
 /Composers/Grayscale/Gray_Set_Willy.sap
   TITLE: Ucieczka z tropiku [from Ucieczka do tropiku] (0:55)
- ARTIST: Marek Bilinski
+ ARTIST: Marek Biliński
 
 /Composers/Grayscale/Irish_Wood.sap
 COMMENT: 1st place at Forever 5 music compo.
@@ -924,7 +924,7 @@ COMMENT: 4th place at 24h Compo music compo.
 COMMENT: Inspired by /Composers/Adam_Gilmore/Draconus.sap
 
 /Composers/Grayscale/Sychowicz_Lukasz/Glikol.sap
-COMMENT: 3rd place at Lato Ludzikow 2002 music compo.
+COMMENT: 3rd place at Lato Ludzików 2002 music compo.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Glina.sap
   TITLE: Axel F [from the movie Beverly Hills Cop]
@@ -937,7 +937,7 @@ COMMENT: 1st place at Intel Outside 4 music compo.
 COMMENT: QuaST Party 1996 music compo entry.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Komar.sap
-COMMENT: 2nd place at Lato Ludzikow 2002 music compo.
+COMMENT: 2nd place at Lato Ludzików 2002 music compo.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Mahna_Malysz.sap
   TITLE: Mah Na Mah Na [from the movie Svezia, Inferno e Paradiso]
@@ -952,15 +952,15 @@ COMMENT: This song only uses 2 channels (used while loading) - try to recognize
 
 /Composers/Grayscale/Sychowicz_Lukasz/Porazka.sap
 COMMENT: 1st place at QuaST party 1996 music compo.This song is a cooperation
-         between Lukasz Sychowicz and Piotr Swierszcz.
+         between Łukasz Sychowicz and Piotr Świerszcz.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Porazka_2.sap
 COMMENT: 1st place at QuaST party 1997 music compo. This song is a cooperation
-         between Lukasz Sychowicz and Piotr Swierszcz.
+         between Łukasz Sychowicz and Piotr Świerszcz.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Porazka_3_KamiBa.sap
-COMMENT: 1st place at Lato Ludzikow 2002 music compo.This song is a
-         cooperation between Lukasz Sychowicz and Piotr Swierszcz.
+COMMENT: 1st place at Lato Ludzików 2002 music compo. This song is a
+         cooperation between Łukasz Sychowicz and Piotr Świerszcz.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Shake_Your_Ass.sap
 COMMENT: 1st place at Forever Reneg8 music compo.
@@ -1058,7 +1058,7 @@ COMMENT: "Jet Set Willy 2 was unique to the Atari and is very much in the Jarre
          style." (RH)
 
 /Composers/Hubbard_Rob/International_Karate.sap
-COMMENT: "I.K.was the first tune I ever did on the Atari, which was also quite
+COMMENT: "I.K. was the first tune I ever did on the Atari, which was also quite
          a challenge because of the 8bit pitch registers." (RH)
 
 /Composers/Hubbard_Rob/Warhawk.sap
@@ -1070,7 +1070,7 @@ COMMENT: "Warhawk was a c64 tune originally called Proteus." (RH)
 COMMENT: Forever 3 music compo entry.
 
 /Composers/Hudak_Matej/ElanLL02.sap
-COMMENT: Lato Ludzikow 2002 music compo entry.
+COMMENT: Lato Ludzików 2002 music compo entry.
 
 ### /Composers/Husak_Jakub ###################################################
 
@@ -1110,7 +1110,7 @@ COMMENT: Made using The Software Synthesizer "Softsynth".
  ARTIST: Aleksander Aleksandrow (music), Wasilij Lebiediew-Kumacz (lyrics).
 
 /Composers/Husak_Jakub/Your_Body_My_Body.sap
-  TITLE:  Let's All Chant [from Let's All Chant]
+  TITLE: Let's All Chant [from Let's All Chant]
  ARTIST: Michael Zager Band
 
 ### /Composers/Iwaszko_Krystian ##############################################
@@ -1129,16 +1129,16 @@ COMMENT: 7th place at Grayscale Music Competition II.
 COMMENT: Last Party 1999 music compo entry.
 
 /Composers/Iwaszko_Krystian/Osadnicy_2.sap
-COMMENT: Lato Ludzikow 2002 music compo entry.
+COMMENT: Lato Ludzików 2002 music compo entry.
 
 /Composers/Iwaszko_Krystian/Pies_drapie_sie_po_jajach.sap
 COMMENT: Last Party 2001 music compo entry.
 
 /Composers/Iwaszko_Krystian/THC10.sap
-COMMENT: Lato Ludzikow 2001 music compo entry.
+COMMENT: Lato Ludzików 2001 music compo entry.
 
 /Composers/Iwaszko_Krystian/THC11.sap
-COMMENT: Lato Ludzikow 2001 music compo entry.
+COMMENT: Lato Ludzików 2001 music compo entry.
 
 /Composers/Iwaszko_Krystian/THC_Kokot.sap
 COMMENT: 4th place at Forever Reneg8 music compo.
@@ -1208,25 +1208,25 @@ COMMENT: Same as /Composers/Rosolek_Maciej/Magia_Fortuny_Ingame.sap
 COMMENT: Last Party 1999 music compo entry.
 
 /Composers/Karwacki_Jakub/Geotion.sap
-COMMENT: Lato Ludzikow 2000 music compo entry.
+COMMENT: Lato Ludzików 2000 music compo entry.
 
 /Composers/Karwacki_Jakub/Picca.sap
-COMMENT: Lato Ludzikow 2000 music compo entry.
+COMMENT: Lato Ludzików 2000 music compo entry.
 
 /Composers/Karwacki_Jakub/Prelude.sap
 COMMENT: Last Party 2002 music compo entry.
 
 /Composers/Karwacki_Jakub/Shell.sap
-COMMENT: Lato Ludzikow 2000 music compo entry.
+COMMENT: Lato Ludzików 2000 music compo entry.
 
 /Composers/Karwacki_Jakub/Somemuz.sap
-COMMENT: Lato Ludzikow 2001 music compo entry.
+COMMENT: Lato Ludzików 2001 music compo entry.
 
 /Composers/Karwacki_Jakub/Uht03.sap
-COMMENT: Lato Ludzikow 2002 music compo entry.
+COMMENT: Lato Ludzików 2002 music compo entry.
 
 /Composers/Karwacki_Jakub/Uht05.sap
-COMMENT: Lato Ludzikow 2002 music compo entry.
+COMMENT: Lato Ludzików 2002 music compo entry.
 
 ### /Composers/Karwoth_Torsten ###############################################
 
@@ -1334,8 +1334,8 @@ COMMENT: Silesian Atari Open 1995 music compo entry.
  ARTIST: Jean Michel Jarre
 
 /Composers/Krawczyk_Adam/Turbican_1.sap
-  TITLE: Szukajac Cienia [form Wolne Loty]
- ARTIST: Marek Bilinski
+  TITLE: Szukając Cienia [form Wolne Loty]
+ ARTIST: Marek Biliński
 
 ### /Composers/Krix_Mario ####################################################
 
@@ -1451,7 +1451,7 @@ COMMENT: This tune covers the UB40 cover.
 
 /Composers/Kuczek_Ireneusz/Dlonie.sap
   TITLE: Na raz na dwa
- ARTIST: Rafal Paczkowski (music),Jacek Cygan (lyrics), performed by Majka Jezowska.
+ ARTIST: Rafał Paczkowski (music), Jacek Cygan (lyrics), performed by Majka Jeżowska.
 
 /Composers/Kuczek_Ireneusz/Do_You_Want_To_Know_A_Secr.sap
   TITLE: Do You Want To know A Secret
@@ -1503,7 +1503,7 @@ COMMENT: This tune covers the Pet Shop Boys cover.
  ARTIST: The Beatles
 
 /Composers/Kuczek_Ireneusz/Love_Is_Around_Us.sap
-  TITLE: Milosc jest cudowna
+  TITLE: Miłość jest cudowna
  ARTIST: Maanam
 
 /Composers/Kuczek_Ireneusz/Magnetic_Fields.sap
@@ -1519,7 +1519,7 @@ COMMENT: This tune covers the Pet Shop Boys cover.
  ARTIST: Bayer Full
 
 /Composers/Kuczek_Ireneusz/Mydelko_Fa.sap
-  TITLE: Mydelko Fa (Cycolina) [from Mydelko Fa]
+  TITLE: Mydełko Fa (Cycolina) [from Mydełko Fa]
  ARTIST: Marek Kondrat & Marlena Drozdowska
 
 /Composers/Kuczek_Ireneusz/Never_Ending_Story.sap
@@ -1527,7 +1527,7 @@ COMMENT: This tune covers the Pet Shop Boys cover.
  ARTIST: Giorgio Moroder, performed by Limahl
 
 /Composers/Kuczek_Ireneusz/Nie_Placz_Ewka.sap
-  TITLE: Nie placz Ewka [from Perfect]
+  TITLE: Nie płacz Ewka [from Perfect]
  ARTIST: Perfect
 
 /Composers/Kuczek_Ireneusz/Oh_Carol.sap
@@ -1535,7 +1535,7 @@ COMMENT: This tune covers the Pet Shop Boys cover.
  ARTIST: Neil Sedaka
 
 /Composers/Kuczek_Ireneusz/Oprocz_blekitnego_nieba.sap
-  TITLE: Oprocz
+  TITLE: Oprócz
  ARTIST: Marek Jackowski
 
 /Composers/Kuczek_Ireneusz/Please_Forgive_Me.sap
@@ -1543,7 +1543,7 @@ COMMENT: This tune covers the Pet Shop Boys cover.
  ARTIST: Bryan Adams
 
 /Composers/Kuczek_Ireneusz/Plaza.sap
-  TITLE: Spacer dzika plaza
+  TITLE: Spacer dziką plażą
  ARTIST: Stan Borys
 
 /Composers/Kuczek_Ireneusz/Speak.sap
@@ -1571,7 +1571,7 @@ COMMENT: This tune covers the Pet Shop Boys cover.
  ARTIST: ABBA
 
 /Composers/Kuczek_Ireneusz/Zgielk.sap
-  TITLE: Caly moj zgielk
+  TITLE: Cały mój zgiełk
  ARTIST: Lipko Romuald (music), Zeliszewski Tomasz (lyrics), performed by Budka Suflera
 
 ### /Composers/Kuczek_Ireneusz/Worktunes #####################################
@@ -1639,8 +1639,8 @@ COMMENT: Rush Hours 1997 music compo entry.
  ARTIST: Sandra Cretu
 
 /Composers/Liebich_Tomasz/Bilinski.sap
-  TITLE: Dom w dolinie mgiel [from E=mc2]
- ARTIST: Marek Bilinski
+  TITLE: Dom w dolinie mgieł [from E=mc2]
+ ARTIST: Marek Biliński
 
 /Composers/Liebich_Tomasz/Fucked_Vocabulary.sap
   TITLE: Crockett's Theme [from the TV series Miami Vice] (0:45)
@@ -1658,9 +1658,9 @@ COMMENT: Rush Hours 1997 music compo entry.
 
 /Composers/Liebich_Tomasz/Ucieczka.sap
   TITLE: Ucieczka z tropiku [from Ucieczka do tropiku]
- ARTIST: Marek Bilinski
+ ARTIST: Marek Biliński
 COMMENT: The title translates from Polish as "Escape from the tropic zone".
-         Marek Bilinski was some kind of a Polish J.M.Jarre, and had a string
+         Marek Biliński was some kind of a Polish J.M.Jarre, and had a string
          of instrumental hits back in the 80's.
 
 ### /Composers/Lis_Piotr #####################################################
@@ -1743,8 +1743,8 @@ COMMENT: 3rd place at Forever Reneg8 music compo.
  ARTIST: Enigma
 
 /Composers/Makowski_Robert/Lady_Pank.sap
-  TITLE: Tancz glupia, tancz [from Mala wojna - akustycznie]
- ARTIST: Jan Borysewicz (music), Andrzej Mogielnicki (lyrics),performed by Lady Pank.
+  TITLE: Tańcz głupia, tańcz [from Mała wojna - akustycznie]
+ ARTIST: Jan Borysewicz (music), Andrzej Mogielnicki (lyrics), performed by Lady Pank.
 
 /Composers/Makowski_Robert/Techno.sap
   TITLE: Axel F [from the movie Beverly Hills Cop] (1:17)
@@ -1780,10 +1780,10 @@ COMMENT: Same as /Composers/Martin_Chris/Approachong.sap, but with second  POKEY
 ### /Composers/Matoga_Adrian #################################################
 
 /Composers/Matoga_Adrian/Scream.sap
-COMMENT: Lato Ludzikow 2002 music compo entry.
+COMMENT: Lato Ludzików 2002 music compo entry.
 
 /Composers/Matoga_Adrian/Straight_Edge.sap
-COMMENT: Won first place at the Grayscale Compo 2004  music competition.
+COMMENT: Won first place at the Grayscale Compo 2004 music competition.
 
 ### /Composers/Matyasik_Krzysztof ############################################
 
@@ -1802,7 +1802,7 @@ COMMENT: Last Party 1998 music compo entry.
 COMMENT: Atari XL/XE official audio-visual test tune.
 
 /Composers/Matyasik_Krzysztof/Wolowinka_Sampled.sap
-  TITLE: Wolowinka [from the Atari XE/XL POKEY]
+  TITLE: Wołowinka [from the Atari XE/XL POKEY]
  ARTIST: Krzysztof Matyasik (Mateoos)
 COMMENT: Same melody as /Composers/Matyasik_Krzysztof/Wolowinka.sap,
          but with added digi drums.
@@ -1860,7 +1860,7 @@ COMMENT: From an unknown Atari ST demo.
 ### /Composers/Oglodek_Marek #################################################
 
 /Composers/Oglodek_Marek/Suprajs.sap
-COMMENT: Lato Ludzikow 2000 music compo entry.
+COMMENT: Lato Ludzików 2000 music compo entry.
 
 ### /Composers/Oscadal_Filip #################################################
 
@@ -1906,14 +1906,14 @@ COMMENT: Rush Hours 1997 music compo entry.
 
 /Composers/Pasiecznik_Michal/Damned_Remix.sap
   TITLE: Damned [from the Atari XE/XL POKEY]
- ARTIST: Michal Pasiecznik (Pasiu)
+ ARTIST: Michał Pasiecznik (Pasiu)
 COMMENT: Remix version /Composers/Pasiecznik_Michal/Damned.sap
 
 /Composers/Pasiecznik_Michal/Hot_Tuna.sap
   TITLE: Hot Tuna [from the Amiga MOD module]
  ARTIST: <?>
 COMMENT: This tune comes from the cracktro of Amiga version of "Mortal
-         Kombat 2".Originally module exists as The Player 6.0a pattern-packed
+         Kombat 2". Originally module exists as The Player 6.0a pattern-packed
          file.
 
 /Composers/Pasiecznik_Michal/Lost_Scrotum.sap
@@ -2226,8 +2226,8 @@ COMMENT: Performed by John Travolta & Olivia Newton John.
  ARTIST: John Williams
 
 /Composers/Radecki_Michal/Taniec_w_Zaczarowanym_Gaju.sap
-  TITLE: Taniec W Zaczarowanym Gaju [from Ogrod Krola Switu]
- ARTIST: Marek Bilinski
+  TITLE: Taniec W Zaczarowanym Gaju [from Ogród Króla Switu]
+ ARTIST: Marek Biliński
 
 ### /Composers/Rapalski_Konrad ###############################################
 
@@ -2270,7 +2270,7 @@ COMMENT: 6th place at Grayscale Music Competition II.
 
 /Composers/Roszkowski_Marek/Hope_Mix.sap
   TITLE: Hope [from the Atari XE/XL POKEY]
- ARTIST: Michal Szpilowski (Miker)
+ ARTIST: Michał Szpilowski (Miker)
 COMMENT: Covers /Composers/Szpilowski_Michal/Hope.sap
 
 /Composers/Roszkowski_Marek/Potworniki.sap
@@ -2308,15 +2308,15 @@ COMMENT: 11th place at Grayscale Music Competition II.
 
 /Composers/Skwiot_Stanislaw/Magia_Krysztalu.sap
 (#3)
-  TITLE: Marchewkowe pole [form O dwoch takich, co ukradli ksiezyc]
+  TITLE: Marchewkowe pole [form O dwóch takich, co ukradli księżyc]
  ARTIST: Jan Borysewicz (music), Andrzej Mogielnicki (lyrics), performed by Lady Pank.
 (#4)
-  TITLE: Zaopiekuj sie mna [from Serce]
+  TITLE: Zaopiekuj się mna [from Serce]
  ARTIST: Rezerwat
 
 /Composers/Skwiot_Stanislaw/Music_from_Poland_3.sap
-  TITLE: Dom w dolinie mgiel [from E=mc2]
- ARTIST: Marek Bilinski
+  TITLE: Dom w dolinie mgieł [from E=mc2]
+ ARTIST: Marek Biliński
 
 /Composers/Skwiot_Stanislaw/Music_from_Poland_II_p_3_4.sap
 (#1)
@@ -2325,8 +2325,8 @@ COMMENT: 11th place at Grayscale Music Competition II.
 (#2)
   TITLE: Main Title [from the TV series Dziewczyna i chlopak] (0:00-1:17)
  ARTIST: Waldemar Kazanecki
-  TITLE: Dom w dolinie mgiel [from E=mc2] (1:49-5:04)
- ARTIST: Marek Bilinski
+  TITLE: Dom w dolinie mgieł [from E=mc2] (1:49-5:04)
+ ARTIST: Marek Biliński
 
 /Composers/Skwiot_Stanislaw/Roxette.sap
   TITLE: Listen To Your heart [from Look Sharp]
@@ -2579,8 +2579,8 @@ COMMENT: 1st place at QuaST party 1998 music compo.
 COMMENT: 6th place at Forever Reneg8 music compo.
 
 /Composers/Szpilowski_Michal/Dom_w_Dolinie_Mgiel.sap
-  TITLE: Dom w dolinie mgiel [from E=mc2]
- ARTIST: Marek Bilinski
+  TITLE: Dom w dolinie mgieł [from E=mc2]
+ ARTIST: Marek Biliński
 
 /Composers/Szpilowski_Michal/Enchanted_Land.sap
   TITLE: Ingame [from the Atari ST/Amiga game Enchanted Lands]
@@ -2606,7 +2606,7 @@ COMMENT: Covers the MIDI conversion by Borgar Thorsteinsson (Oedipus).
  ARTIST: Koto
 
 /Composers/Szpilowski_Michal/Kombi_Nietykalni.sap
-  TITLE: Nietykalni - Skamieniale Zlo [from Tabu]
+  TITLE: Nietykalni - Skamieniałe Zło [from Tabu]
  ARTIST: Kombi
 
 /Composers/Szpilowski_Michal/Last_Ninja_2_Central_Park.sap
@@ -2639,8 +2639,8 @@ COMMENT: 3rd place at Rush Hours 1997 music compo.
 
 /Composers/Szpilowski_Michal/Music_Memory.sap
 (#1)
-  TITLE: Czterdziesci lat minelo [from the TV series 40-latek]
- ARTIST: Jan Stanis�awski (lyrics), Jerzy Matuszkiewicz (music), performed by Andrzej Rosiewicz
+  TITLE: Czterdzieści lat minęło [from the TV series 40-latek]
+ ARTIST: Jan Stanisławski (lyrics), Jerzy Matuszkiewicz (music), performed by Andrzej Rosiewicz
 
 /Composers/Szpilowski_Michal/Nexus_Ingame_3.sap
   TITLE: Lost Patrol Theme [from the Amiga game]
@@ -2672,7 +2672,7 @@ COMMENT: Cover of part of the original game soundtrack
 COMMENT: 3rd place at SillyVenture 2000 music compo.
 
 /Composers/Szpilowski_Michal/Slodkiego_Milego_Zycia.sap
-  TITLE: Slodkiego,milego zycia [from Nowy Rozdzial]
+  TITLE: Słodkiego, miłego zycia [from Nowy Rozdział]
  ARTIST: Kombi
 
 /Composers/Szpilowski_Michal/Snow_Ball.sap
@@ -2708,7 +2708,7 @@ COMMENT: MIDI conversion
  ARTIST: Zenon Kowalowski
 
 /Composers/Szpilowski_Michal/X_Mass.sap
-  TITLE: Hej, w dzien narodzenia
+  TITLE: Hej, w dzień narodzenia
  ARTIST: <?>
 COMMENT: Polish Christmas carol.
 
@@ -2891,7 +2891,7 @@ COMMENT: Performed by John Travolta/Olivia Newton John & cast.
 /Composers/Wasilewski_Dariusz/Koto.sap
   TITLE: I Like Chopin
  ARTIST: Gazebo
-COMMENT: Covers parts of above title.Erroneously named.
+COMMENT: Covers parts of above title. Erroneously named.
 
 /Composers/Wasilewski_Dariusz/No_Limits.sap
   TITLE: No Limit [from No Limits]
@@ -2907,7 +2907,7 @@ COMMENT: Covers parts of above title.Erroneously named.
 /Composers/Whittaker_David/Panther.sap
 COMMENT: This music is also present in the game Buckaneer by Mastertronic.
          Whittaker used the same music in an Amiga game called SideWinder as
-         loader tune.Also used in the game "Linewars", most probably without
+         loader tune. Also used in the game "Linewars", most probably without
          Whittaker's permission, because the programmers of that game credited
          this tune to themselves.
 
@@ -3037,8 +3037,8 @@ COMMENT: "One reviewer, an eminent jazz player, said it sounded like
 
 /Games/Deneb.sap
 (#2)
-  TITLE: Dom w dolinie mgiel [from E=mc2]
- ARTIST: Marek Bilinski
+  TITLE: Dom w dolinie mgieł [from E=mc2]
+ ARTIST: Marek Biliński
 
 /Games/Digi_Duck.sap
 (#2)
@@ -3199,7 +3199,7 @@ COMMENT: This piece is a cover of the arcade version.
 
 /Games/T34_The_Battle.sap
   TITLE: Czterej pancerni i pies [from the TV series] (0:46)
- ARTIST: Adam Walacinski
+ ARTIST: Adam Walaciński
 
 /Games/Tapper.sap
 (#1)
@@ -3211,7 +3211,7 @@ COMMENT: This piece is a cover of the arcade version.
  ARTIST: Traditional
 
 /Games/Web_Master.sap
-  TITLE: Koziolek Matolek [from a cartoon series]
+  TITLE: Koziołek Matołek [from a cartoon series]
  ARTIST: Adam Markiewicz
 
 /Games/William_Tell.sap
@@ -3285,7 +3285,7 @@ COMMENT: Last Party 1998 music compo entry.
  ARTIST: Jerzy Matuszkiewicz
 
 /Misc/Pizza_Margerita_Suxx.sap
-COMMENT: Lato Ludzikow 2000 music compo entry.
+COMMENT: Lato Ludzików 2000 music compo entry.
 
 /Misc/Preludium_no_20.sap
   TITLE: Prelude No.20 in A minor (BWV 889)
@@ -3296,7 +3296,7 @@ COMMENT: Lato Ludzikow 2000 music compo entry.
  ARTIST: Jonne Valtonen (Purple Motion)
 
 /Misc/Pytaj.sap
-  TITLE: Nie pytaj o Polske
+  TITLE: Nie pytaj o Polskę
  ARTIST: Obywatel G.C.
 
 /Misc/Reksio_2001.sap
@@ -3312,7 +3312,7 @@ COMMENT: 4th place at Winter Chip II (Best Pokey) music compo.
 
 /Misc/Say_Why.sap
   TITLE: Powiedz [from Ad.4]
- ARTIST: J. Lagwa (music), K. Lenarczyk & M. Wisniewski (lyrics), performed by
+ ARTIST: J. Łągwa (music), K. Lenarczyk & M. Wiśniewski (lyrics), performed by
          Ich Troje.
 
 /Misc/Self_Test.sap
@@ -3325,7 +3325,7 @@ COMMENT: Atari XL/XE official audio-visual test tune.
  ARTIST: Antonio Vivaldi
 
 /Misc/Takie_Cos.sap
-COMMENT: Lato Ludzikow 2001 music compo entry.
+COMMENT: Lato Ludzików 2001 music compo entry.
 
 /Misc/The_Top_2_Digi_Part.sap
 COMMENT: This song is converted from a C64 production made by Censor Design.
@@ -3433,7 +3433,7 @@ COMMENT: This is not a complete cover.
  ARTIST: Johann Sebastian Bach
 
 /Unknown/Uplywa.sap
-  TITLE: Uplywa szybko zycie
+  TITLE: Upływa szybko życie
  ARTIST: <?>, Polish Traditional.
 
 /Unknown/Wiosna.sap
@@ -3686,7 +3686,7 @@ COMMENT: Best known from as the title theme to the comedy TV series
  ARTIST: Survivor
 
 /Unknown/AMS/For_Elise.sap
-  TITLE: F�r Elise
+  TITLE: Für Elise
  ARTIST: Ludwig van Beethoven
 
 /Unknown/AMS/Get_Back.sap
@@ -3718,7 +3718,7 @@ COMMENT: This anthem is traditional and possibly one of the most known national
 
 /Unknown/AMS/Hallelujah.sap
   TITLE: Hallelujah (from Messiah, HWV 56)
- ARTIST: Georg Friedrich H�ndel
+ ARTIST: Georg Friedrich Händel
 
 /Unknown/AMS/Heart_of_Glass.sap
   TITLE: Heart Of Glass [from Parallel Lines]
@@ -4028,7 +4028,7 @@ COMMENT: Performed by John Travolta/Olivia Newton John & cast.
 /Unknown/AMS/Volare.sap
   TITLE: Nel blu dipinto di blu
  ARTIST: Domenico Modugno
-COMMENT: The title translates from Italian as ""In the Blue Painted Blue",
+COMMENT: The title translates from Italian as "In the Blue Painted Blue",
          popularly known as "Volare".
 
 /Unknown/AMS/Wake_Me_Up_before_You_Go_G.sap
