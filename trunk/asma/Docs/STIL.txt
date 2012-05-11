@@ -1149,6 +1149,7 @@ COMMENT: Last Party 2001 music compo entry.
 /Composers/Iwaszko_Krystian/ZybexTHC.sap
   TITLE: Zybex, Tune #4
  ARTIST: Adam Gilmore
+COMMENT: 1st place at Atari Area 24H Compo Zybex.
 
 ### /Composers/Jastrzemski_Marcin ############################################
 
@@ -1227,6 +1228,9 @@ COMMENT: Lato Ludzików 2002 music compo entry.
 
 /Composers/Karwacki_Jakub/Uht05.sap
 COMMENT: Lato Ludzików 2002 music compo entry.
+
+/Composers/Karwacki_Jakub/Yzbex.sap
+COMMENT: 2nd place at Atari Area 24H Compo Zybex.
 
 ### /Composers/Karwoth_Torsten ###############################################
 
@@ -2507,6 +2511,9 @@ COMMENT: Covering the version arranged by Hot Butter.
  ARTIST: Unknown
 COMMENT: Covers a version made by Richard Munns
 
+/Composers/Swierszcz_Piotr/Byzex.sap
+COMMENT: 2nd place at Atari Area 24H Compo Zybex.
+
 ### /Composers/Szmatola_Krzysztof ############################################
 
 /Composers/Szmatola_Krzysztof/Syn_Boga_Wiatru.sap
@@ -2729,6 +2736,7 @@ COMMENT: MIDI Conversions, except GAME OVER and LEVEL START tunes
 /Composers/Szpilowski_Michal/ZybeXXX.sap
   TITLE: Zybex, tune #1
  ARTIST: Adam Gilmore
+COMMENT: 2nd place at Atari Area 24H Compo Zybex.
 
 ### /Composers/Szurgot_Robert ################################################
 
