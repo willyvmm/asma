@@ -30,7 +30,7 @@ COMMENT: Same as /Composers/Armijo_Richard_J/Congrabalation_Mono.sap,
 ### /Composers/Badkowski_Marek ###############################################
 
 /Composers/Badkowski_Marek/Jade.sap
-COMMENT: QuaST Party 1996 music compo entry.
+COMMENT: 11th place at QuaST party 1996 music compo.
 
 ### /Composers/Banaszkiewicz_Marcin ##########################################
 
@@ -321,7 +321,7 @@ COMMENT: 1st place at SillyVenture 2000 music compo.
 ### /Composers/Czartynski_Marcin #############################################
 
 /Composers/Czartynski_Marcin/Hlejnia.sap
-COMMENT: QuaST Party 1996 music compo entry.
+COMMENT: 7th place at QuaST party 1996 music compo.
 
 /Composers/Czartynski_Marcin/Heretic_Crew_Limited_Dem_2.sap
   TITLE: Living on Video [from Living on Video]
@@ -898,6 +898,18 @@ COMMENT: Not a 100% cover, but very heavily inspired.
 /Composers/Grayscale/Kwiatek_Grzegorz/Still_Alive.sap
 COMMENT: 3rd place at Forever 4 music compo.
 
+/Composers/Grayscale/Kwiatek_Grzegorz/Insanity.sap
+COMMENT: 3rd place at QuaST party 1995 music compo.
+
+/Composers/Grayscale/Kwiatek_Grzegorz/Toxic_Cream.sap
+COMMENT: 2nd place at QuaST party 1996 music compo.
+
+/Composers/Grayscale/Kwiatek_Grzegorz/Sweet_Voice.sap
+COMMENT: 3rd place at QuaST party 1996 music compo.
+
+/Composers/Grayscale/Kwiatek_Grzegorz/Introspection.sap
+COMMENT: 7th place at QuaST party 1996 music compo.
+
 ### /Composers/Grayscale/Sychowicz_Lukasz ####################################
 
 /Composers/Grayscale/Sychowicz_Lukasz/Ala_ma_kota.sap
@@ -934,7 +946,7 @@ COMMENT: 3rd place at Lato Ludzików 2002 music compo.
 COMMENT: 1st place at Intel Outside 4 music compo.
 
 /Composers/Grayscale/Sychowicz_Lukasz/King_of_Agregat.sap
-COMMENT: QuaST Party 1996 music compo entry.
+COMMENT: 4th place at QuaST party 1996 music compo.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Komar.sap
 COMMENT: 2nd place at Lato Ludzików 2002 music compo.
@@ -974,6 +986,9 @@ COMMENT: 1st place at QuaST party 2004 music compo.
 /Composers/Grayscale/Sychowicz_Lukasz/Zbig.sap
   TITLE: L'Amour Toujours (I'll Fly With You) [from L'Amour Toujours]
  ARTIST: Gigi d'Agostino
+
+/Composers/Grayscale/Sychowicz_Lukasz/Overload.sap
+COMMENT: 8th place at QuaST party 1996 music compo.
 
 ### /Composers/Grayscale/Wasiel_Bartek #######################################
 
@@ -1861,6 +1876,9 @@ COMMENT: From an unknown Atari ST demo.
   TITLE: Axel F [from the movie Beverly Hills Cop]
  ARTIST: Harold Faltermeyer
 
+/Composers/Numan_Daniel/Red_Sector.sap
+COMMENT: 6th place at QuaST party 1996 music compo.
+
 ### /Composers/Oglodek_Marek #################################################
 
 /Composers/Oglodek_Marek/Suprajs.sap
@@ -2513,6 +2531,9 @@ COMMENT: Covers a version made by Richard Munns
 
 /Composers/Swierszcz_Piotr/Byzex.sap
 COMMENT: 2nd place at Atari Area 24H Compo Zybex.
+
+/Composers/Swierszcz_Piotr/Scream.sap
+COMMENT: 1st place at QuaST party 1995 music compo.
 
 ### /Composers/Szmatola_Krzysztof ############################################
 
