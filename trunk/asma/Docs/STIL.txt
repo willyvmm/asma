@@ -714,7 +714,7 @@ COMMENT: Originally a C64 SID tune with POKEY routine added.
 
 /Composers/Farkas_Felker/Joyride_Landscape.sap
   TITLE: Musiklinjen [from the Amiga MOD module]
- ARTIST: Jimmy Fredriksson (Firefox) & Robert Osterbergh (ex.Robert Ling)(Tip)
+ ARTIST: Jimmy Fredriksson (Firefox) & Robert Osterbergh (ex.Robert Ling) (Tip)
 COMMENT: A cover of the tune from C64 SID Enigma/PHA Theme by Alain
          Hertenstein (Iron Cat). Originally a C64 SID tune with POKEY routine
          added.
@@ -823,7 +823,7 @@ COMMENT: This tune takes 34 seconds to start.
 ### /Composers/Golewski_Filip ################################################
 
 /Composers/Golewski_Filip/Another_Speedtro.sap
-  TITLE: The Imperial March / Darth Vader's Theme [from Star Wars Episode V](0:00-0:06)
+  TITLE: The Imperial March / Darth Vader's Theme [from Star Wars Episode V] (0:00-0:06)
  ARTIST: John Williams
 
 /Composers/Golewski_Filip/Echo_Sampled.sap
@@ -951,7 +951,7 @@ COMMENT: This song only uses 2 channels (used while loading) - try to recognize
          that.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Porazka.sap
-COMMENT: 1st place at QuaST party 1996 music compo.This song is a cooperation
+COMMENT: 1st place at QuaST party 1996 music compo. This song is a cooperation
          between Łukasz Sychowicz and Piotr Świerszcz.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Porazka_2.sap
@@ -2333,7 +2333,7 @@ COMMENT: 11th place at Grayscale Music Competition II.
  ARTIST: Marek Biliński
 
 /Composers/Skwiot_Stanislaw/Roxette.sap
-  TITLE: Listen To Your heart [from Look Sharp]
+  TITLE: Listen To Your heart [from Look Sharp!]
  ARTIST: Roxette
 
 ### /Composers/Sledz_Slawek ##################################################
@@ -2726,7 +2726,7 @@ COMMENT: Polish Christmas carol.
   TITLE: <?> [from the C64 game Yie Ar Kung Fu]
  ARTIST: Martin Galway
 COMMENT: MIDI Conversions, except GAME OVER and LEVEL START tunes
-         (these were written by ear).Default tune is not used in the latest
+         (these were written by ear). Default tune is not used in the latest
          version of the game.
 
 /Composers/Szpilowski_Michal/Yie_Ar_Kung_Fu_Title.sap
@@ -3107,7 +3107,7 @@ COMMENT: Apart from covering classical music, this also covers the arcade
  ARTIST: Johann Sebastian Bach
 
 /Games/Hans_Kloss.sap
-  TITLE: Stawka wieksza niz zycie [from the TV series](0:57)
+  TITLE: Stawka większa niż życie [from the TV series](0:57)
  ARTIST: Jerzy Matuszkiewicz
 
 /Games/James_Bond.sap
@@ -3234,7 +3234,7 @@ COMMENT: The notes in voice 2 at the beginning of the tune spell out "SOS" in
          Morse code (...---...).
 
 /Games/Zorro.sap
-  TITLE: Zorro [from the TV series]<?>
+  TITLE: Zorro [from the TV series] <?>
  ARTIST: <?>
 
 ### /Misc ####################################################################
@@ -4081,7 +4081,7 @@ COMMENT: English carol
 
 /Unknown/AMS/Winter_Wonderland.sap
   TITLE: Walking in a Winter Wonderland
- ARTIST: Felix Bernard and Richard B.Smith
+ ARTIST: Felix Bernard and Richard B. Smith
 
 /Unknown/AMS/Wrapped_around_Your_Finger.sap
   TITLE: Wrapped Around Your Finger [from Synchronicity]
