@@ -350,7 +350,7 @@ COMMENT: 7th place at QuaST party 1996 music compo.
 
 ### /Composers/Czlowiek_W_Atomizerze #########################################
 
-/Composers/Czlowiek_W_Atomizerze/The_One.sap 
+/Composers/Czlowiek_W_Atomizerze/The_One.sap
   TITLE: Dragostea Din Tei
  ARTIST: O-Zone
 
@@ -1591,7 +1591,7 @@ COMMENT: This tune covers the Pet Shop Boys cover.
 
 /Composers/Kuczek_Ireneusz/Zgielk.sap
   TITLE: Cały mój zgiełk
- ARTIST: Lipko Romuald (music), Zeliszewski Tomasz (lyrics), performed by Budka Suflera
+ ARTIST: Romuald Lipko (music), Tomasz Zeliszewski (lyrics), performed by Budka Suflera
 
 ### /Composers/Kuczek_Ireneusz/Worktunes #####################################
 
@@ -2351,7 +2351,7 @@ COMMENT: 11th place at Grayscale Music Competition II.
  ARTIST: Marek Biliński
 
 /Composers/Skwiot_Stanislaw/Roxette.sap
-  TITLE: Listen To Your heart [from Look Sharp!]
+  TITLE: Listen To Your Heart [from Look Sharp!]
  ARTIST: Roxette
 
 ### /Composers/Sledz_Slawek ##################################################
@@ -2858,7 +2858,7 @@ COMMENT: "Entry in the annual ABBUC demo competition 1990 held at the
  ARTIST: Ace of Base
 
 /Composers/Vavra_Karel_and_Sedlak_Jiri/Mr_Vain.sap
-  TITLE: Mr.Vain [from Serenity]
+  TITLE: Mr. Vain [from Serenity]
  ARTIST: Culture Beat
 
 /Composers/Vavra_Karel_and_Sedlak_Jiri/Somebody_Dance.sap
@@ -2949,7 +2949,7 @@ COMMENT: This music is also present in the game Buckaneer by Mastertronic.
   TITLE: The Last V8, Tune #1 [from the C64 game]
  ARTIST: Rob Hubbard
 
-### /Composers/XLent ######################################################### 
+### /Composers/XLent #########################################################
 
 /Composers/XLent/Chuck_Rock.sap
   TITLE: chuckrock [from the Amiga game Chuck Rock]
@@ -2975,7 +2975,7 @@ COMMENT: This music is also present in the game Buckaneer by Mastertronic.
   TITLE: Rewind the Mind [from the Amiga MOD module]
  ARTIST: Thomas Lenhardt (ADT) & Ernoe Zalka (Ern0)
 
-### /Composers/Zuegner_Alfred ################################################ 
+### /Composers/Zuegner_Alfred ################################################
 
 /Composers/Zuegner_Alfred/El_Condor_Pasa.sap
   TITLE: El Condor Pasa
@@ -3008,7 +3008,7 @@ COMMENT: A good set of Amiga tune conversions: "Techno Florid",
          "Happy Sprite", "Lotus Turbo Challenge 2" etc.
 (#4)
   TITLE: The Hootchy Kootchy Dance
- ARTIST: Sol Bloom		 
+ ARTIST: Sol Bloom
 
 /Composers/Zur_soft/The_Top_3_End_Scroll.sap
   TITLE: endtheme [from the Amiga SoundTracker module]
@@ -3329,7 +3329,7 @@ COMMENT: Lato Ludzików 2000 music compo entry.
 
 /Misc/Pytaj.sap
   TITLE: Nie pytaj o Polskę
- ARTIST: Obywatel G.C.
+ ARTIST: Obywatel G. C.
 
 /Misc/Reksio_2001.sap
   TITLE: Title Theme [from the cartoon series Reksio] (0:07-0:30)
@@ -3998,7 +3998,7 @@ COMMENT: "PuckMan" is known outside Japan as "Pac-Man".
 
 /Unknown/AMS/Summer_Nights.sap
   TITLE: Summer Nights [from the musical Grease]
- ARTIST: J.Jacobs
+ ARTIST: J. Jacobs
 COMMENT: Performed by John Travolta/Olivia Newton John & cast.
 
 /Unknown/AMS/Surf_in_USA.sap
