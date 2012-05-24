@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 912
+#  Total number of entries: 913
 #
 ##############################################################################
 #
@@ -3380,10 +3380,6 @@ COMMENT: This song is converted from a C64 production made by Censor Design.
   TITLE: Title Theme [from the animated television series Bouli]
  ARTIST: Gerard Olivieri
 
-/Unknown/CompyShop_Magazin_Inside_B.sap
-  TITLE: Enola Gay [from Organisation]
- ARTIST: Orchestral Manoeuvres in the Dark (OMD)
-
 /Unknown/Dajana.sap
   TITLE: Adiana
  ARTIST: Paul Anka
@@ -3418,6 +3414,10 @@ COMMENT: This anthem is traditional and possibly one of the most known national
   TITLE: House of the Rising Sun
  ARTIST: Traditional
 
+/Unknown/Ice_in_the_Sunshine.sap
+  TITLE: Ice In The Sunshine 
+ ARTIST: Beagle Music Ltd.
+
 /Unknown/Let_It_Be.sap
   TITLE: Let It Be [from Let It Be]
  ARTIST: The Beatles
@@ -3451,6 +3451,10 @@ COMMENT: This is not a complete cover.
 /Unknown/Popcorn.sap
   TITLE: Popcorn [from Music To Moog By]
  ARTIST: Gershon Kingsley
+
+/Unknown/Pulstar.sap
+  TITLE: Enola Gay [from Organisation]
+ ARTIST: Orchestral Manoeuvres in the Dark (OMD)
 
 /Unknown/The_Great_Commandment.sap
   TITLE: The Great Commandment
