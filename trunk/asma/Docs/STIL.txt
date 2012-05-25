@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 932
+#  Total number of entries: 937
 #
 ##############################################################################
 #
@@ -999,12 +999,24 @@ COMMENT: Music from a game 'Magic of Words' released by Sikor Soft in 1996.
   TITLE: Mah Na Mah Na [from the movie Svezia, Inferno e Paradiso]
  ARTIST: Piero Umiliani
 
+/Composers/Grayscale/Sychowicz_Lukasz/Mental_Age_1.sap
+COMMENT: Music from a game 'Mental Age' released in 2009.
+
+/Composers/Grayscale/Sychowicz_Lukasz/Mental_Age_2.sap
+COMMENT: Music from a game 'Mental Age' released in 2009.
+
 /Composers/Grayscale/Sychowicz_Lukasz/Ninjax.sap
 COMMENT: 5th place at Forever Reneg8 realtime compo.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Overmind_11.sap
 COMMENT: This song only uses 2 channels (used while loading) - try to recognize
          that.
+
+/Composers/Grayscale/Sychowicz_Lukasz/Orto_Puzzle.sap
+COMMENT: Music from a game 'Orto Puzzle' released by Sikor Soft in 1997.
+
+/Composers/Grayscale/Sychowicz_Lukasz/Pilkarski_Poker.sap
+COMMENT: Music from a game 'Piłkarski Poker' released by Sikor Soft in 1995.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Porazka.sap
 COMMENT: 1st place at QuaST party 1996 music compo. This song is a cooperation
@@ -1033,6 +1045,9 @@ COMMENT: 1st place at QuaST party 2004 music compo.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Overload.sap
 COMMENT: 8th place at QuaST party 1996 music compo.
+
+/Composers/Grayscale/Sychowicz_Lukasz/Yoomp.sap
+COMMENT: Music from a game 'Yoomp!' released in 2007.
 
 ### /Composers/Grayscale/Wasiel_Bartek #######################################
 
