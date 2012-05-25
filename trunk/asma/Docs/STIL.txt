@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 915
+#  Total number of entries: 918
 #
 ##############################################################################
 #
@@ -211,6 +211,15 @@ COMMENT: Inspired by this music.
 
 /Composers/Brzezicki_Michal/Vlong.sap
 COMMENT: Music from a game 'Spy Master' released by L.K. Avalon in 1993.
+
+/Composers/Brzezicki_Michal/Cropky.sap
+COMMENT: Music from a game 'Cropky' released in 2011.
+
+/Composers/Brzezicki_Michal/Octopus.sap
+COMMENT: Music from a game 'Octopus' released in 2011.
+
+/Composers/Brzezicki_Michal/Patrol_In_the_Space.sap
+COMMENT: Music from a game 'Patrol In The Space' released in 2011.
 
 ### /Composers/Ce_Pumpkin ####################################################
 
