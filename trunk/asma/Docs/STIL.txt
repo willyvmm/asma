@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 962
+#  Total number of entries: 966
 #
 ##############################################################################
 #
@@ -1844,6 +1844,18 @@ COMMENT: 3rd place at Forever Reneg8 music compo.
  ARTIST: Harold Faltermeyer
 
 ### /Composers/Martin_Aleksander #############################################
+
+/Composers/Martin_Aleksander/Max_Ingame.sap
+COMMENT: Music from a game 'Max' released in 1994.
+
+/Composers/Martin_Aleksander/Max_Ready_For_Next_Level.sap
+COMMENT: Music from a game 'Max' released in 1994.
+
+/Composers/Martin_Aleksander/Max_Title.sap
+COMMENT: Music from a game 'Max' released in 1994.
+
+/Composers/Martin_Aleksander/Max_Winner.sap
+COMMENT: Music from a game 'Max' released in 1994.
 
 /Composers/Martin_Aleksander/Temptation.sap
   TITLE: Ob-La-Di, Ob-La-Da [from The Beatles]
