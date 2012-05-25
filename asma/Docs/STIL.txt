@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 914
+#  Total number of entries: 915
 #
 ##############################################################################
 #
@@ -206,6 +206,11 @@ COMMENT: Commonly known as "Haenschen Klein" (German children's song) or
   TITLE: Pirate Tune [from the C64 SID]
  ARTIST: Kay Tichelmann (Ragman)
 COMMENT: Inspired by this music.
+
+### /Composers/Brzezicki_Michal ##############################################
+
+/Composers/Brzezicki_Michal/Vlong.sap
+COMMENT: Music from a game 'Spy Master' released by L.K. Avalon in 1993.
 
 ### /Composers/Ce_Pumpkin ####################################################
 
