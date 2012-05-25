@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 937
+#  Total number of entries: 953
 #
 ##############################################################################
 #
@@ -1704,6 +1704,21 @@ COMMENT: Last Party 2002 music compo entry.
 /Composers/Lepkowski_Michal/Joshgoa.sap
 COMMENT: Rush Hours 1997 music compo entry.
 
+/Composers/Lepkowski_Michal/Tekblast_Ingame_1.sap
+COMMENT: Music from a game 'Tekblast' released by Sikor Soft in 1998.
+
+/Composers/Lepkowski_Michal/Tekblast_Ingame_2.sap
+COMMENT: Music from a game 'Tekblast' released by Sikor Soft in 1998.
+
+/Composers/Lepkowski_Michal/Tekblast_Ingame_3.sap
+COMMENT: Music from a game 'Tekblast' released by Sikor Soft in 1998.
+
+/Composers/Lepkowski_Michal/Tekblast_Ingame_4.sap
+COMMENT: Music from a game 'Tekblast' released by Sikor Soft in 1998.
+
+/Composers/Lepkowski_Michal/Tekblast_Menu.sap
+COMMENT: Music from a game 'Tekblast' released by Sikor Soft in 1998.
+
 ### /Composers/Lewandowski_Marcin ############################################
 
 /Composers/Lewandowski_Marcin/Zybex_Stereo.sap
@@ -2306,6 +2321,18 @@ COMMENT: Performed by John Travolta & Olivia Newton John.
   TITLE: Imperial March [from the movie Star Wars]
  ARTIST: John Williams
 
+/Composers/Radecki_Michal/Neuroid.sap
+COMMENT: Music from a game 'Neuroid' released by Sikor Soft in 1996.
+
+/Composers/Radecki_Michal/Neuroid_Game_Over.sap
+COMMENT: Music from a game 'Neuroid' released by Sikor Soft in 1996.
+
+/Composers/Radecki_Michal/Neuroid_Ingame.sap
+COMMENT: Music from a game 'Neuroid' released by Sikor Soft in 1996.
+
+/Composers/Radecki_Michal/Neuroid_Winner.sap
+COMMENT: Music from a game 'Neuroid' released by Sikor Soft in 1996.
+
 /Composers/Radecki_Michal/Taniec_w_Zaczarowanym_Gaju.sap
   TITLE: Taniec W Zaczarowanym Gaju [from Ogród Króla Switu]
  ARTIST: Marek Biliński
@@ -2749,9 +2776,16 @@ COMMENT: 3rd place at Rush Hours 1997 music compo.
   TITLE: Czterdzieści lat minęło [from the TV series 40-latek]
  ARTIST: Jan Stanisławski (lyrics), Jerzy Matuszkiewicz (music), performed by Andrzej Rosiewicz
 
+/Composers/Szpilowski_Michal/Nexus_Ingame_1.sap
+COMMENT: Music from a game 'Nexus' released by Sikor Soft in 1996.
+
+/Composers/Szpilowski_Michal/Nexus_Ingame_2.sap
+COMMENT: Music from a game 'Nexus' released by Sikor Soft in 1996.
+
 /Composers/Szpilowski_Michal/Nexus_Ingame_3.sap
   TITLE: Lost Patrol Theme [from the Amiga game]
  ARTIST: Chris Glaister
+COMMENT: Music from a game 'Nexus' released by Sikor Soft in 1996.
 
 /Composers/Szpilowski_Michal/RSI_1.sap
   TITLE: Telephone <?> [from the Amiga MOD module]
@@ -2774,6 +2808,21 @@ COMMENT: 3rd place at Rush Hours 1997 music compo.
  ARTIST: Markus Kludzuweit
 COMMENT: Cover of part of the original game soundtrack
          ("some" patterns have been heavily altered).
+
+/Composers/Szpilowski_Michal/Sexy_Six_Alfa_Ingame.sap
+COMMENT: Music from a game "Sexy Six' released by Sikor Soft in 1995.
+
+/Composers/Szpilowski_Michal/Sexy_Six_Alfa_Title.sap
+COMMENT: Music from a game "Sexy Six' released by Sikor Soft in 1995.
+
+/Composers/Szpilowski_Michal/Sexy_Six_Ingame_1.sap
+COMMENT: Music from a game "Sexy Six' released by Sikor Soft in 1995.
+
+/Composers/Szpilowski_Michal/Sexy_Six_Ingame_2.sap
+COMMENT: Music from a game "Sexy Six' released by Sikor Soft in 1995.
+
+/Composers/Szpilowski_Michal/Sexy_Six_Title.sap
+COMMENT: Music from a game "Sexy Six' released by Sikor Soft in 1995.
 
 /Composers/Szpilowski_Michal/Sleepy_Passage.sap
 COMMENT: 3rd place at SillyVenture 2000 music compo.
