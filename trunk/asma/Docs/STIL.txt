@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 918
+#  Total number of entries: 923
 #
 ##############################################################################
 #
@@ -357,6 +357,9 @@ COMMENT: 7th place at QuaST party 1996 music compo.
 /Composers/Czartynski_Marcin/Reksio.sap
   TITLE: Title Theme [from the cartoon series Reksio]
  ARTIST: Zenon Kowalowski
+
+/Composers/Czartynski_Marcin/Wave.sap
+COMMENT: Music from a game 'Grunwald 1410' released by Fire Bird in 1995.
 
 /Composers/Czartynski_Marcin/Trans_X.sap
   TITLE: Living on Video [from Living on Video]
@@ -2487,6 +2490,12 @@ COMMENT: 1st place at Winter Chip II (Best Pokey) music compo.
   TITLE: Anarchymenu3 [from the Amiga MOD module]
  ARTIST: Matt Simmonds (4-Mat)
 
+/Composers/Swierszcz_Piotr/Byzex.sap
+COMMENT: 2nd place at Atari Area 24H Compo Zybex.
+
+/Composers/Swierszcz_Piotr/Caveman.sap
+COMMENT: Music from a game 'Caveman' released by Mirage in 1993.
+
 /Composers/Swierszcz_Piotr/Flimbos_Quest_4.sap
   TITLE: Flimbo's Quest, Tune #1 [from the C64 game]
  ARTIST: Reyn Ouwehand
@@ -2505,6 +2514,7 @@ COMMENT: Silesian Atari Open party 1995 music compo entry.
 /Composers/Swierszcz_Piotr/Missile_Action.sap
   TITLE: Give Me Your Heart Tonight [from Give Me Your Heart Tonight]
  ARTIST: Shakin Stevens
+COMMENT: Music from a game 'Missile Action' released by Mirage in 1993.
 
 /Composers/Swierszcz_Piotr/Monday_Song.sap
   TITLE: Monday [from the Amiga MOD module]
@@ -2530,6 +2540,15 @@ COMMENT: Covering the version arranged by Hot Butter.
   TITLE: Main Title [from the TV series Janosik] (0:57)
  ARTIST: Jerzy Matuszkiewicz
 
+/Composers/Swierszcz_Piotr/Rebellion_Battle.sap
+COMMENT: Music from a game 'Grunwald 1410' released by Fire Bird in 1995.
+
+/Composers/Swierszcz_Piotr/Rebellion_Rise.sap
+COMMENT: Music from a game 'Grunwald 1410' released by Fire Bird in 1995.
+
+/Composers/Swierszcz_Piotr/Rebellion_Victory.sap
+COMMENT: Music from a game 'Grunwald 1410' released by Fire Bird in 1995.
+
 /Composers/Swierszcz_Piotr/Resal.sap
 (#5)
    NAME: Seaside
@@ -2542,16 +2561,13 @@ COMMENT: Covering the version arranged by Hot Butter.
   TITLE: Spending My Time [from Joyride]
  ARTIST: Roxette
 
+/Composers/Swierszcz_Piotr/Scream.sap
+COMMENT: 1st place at QuaST party 1995 music compo.
+
 /Composers/Swierszcz_Piotr/White_Lamp.sap
   TITLE: Greensleeves
  ARTIST: Unknown
 COMMENT: Covers a version made by Richard Munns
-
-/Composers/Swierszcz_Piotr/Byzex.sap
-COMMENT: 2nd place at Atari Area 24H Compo Zybex.
-
-/Composers/Swierszcz_Piotr/Scream.sap
-COMMENT: 1st place at QuaST party 1995 music compo.
 
 ### /Composers/Szmatola_Krzysztof ############################################
 
