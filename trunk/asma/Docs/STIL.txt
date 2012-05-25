@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 913
+#  Total number of entries: 914
 #
 ##############################################################################
 #
@@ -2511,6 +2511,10 @@ COMMENT: 2nd place at Grayscale Music Competition II.
   TITLE: Popcorn [from Music To Moog By]
  ARTIST: Gershon Kingsley
 COMMENT: Covering the version arranged by Hot Butter.
+
+/Composers/Swierszcz_Piotr/Ramaja.sap
+  TITLE: Main Title [from the TV series Janosik] (0:57)
+ ARTIST: Jerzy Matuszkiewicz
 
 /Composers/Swierszcz_Piotr/Resal.sap
 (#5)
