@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 925
+#  Total number of entries: 932
 #
 ##############################################################################
 #
@@ -973,6 +973,27 @@ COMMENT: 4th place at QuaST party 1996 music compo.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Komar.sap
 COMMENT: 2nd place at Lato Ludzików 2002 music compo.
+
+/Composers/Grayscale/Sychowicz_Lukasz/Magic_of_Words_1.sap
+COMMENT: Music from a game 'Magic of Words' released by Sikor Soft in 1996.
+
+/Composers/Grayscale/Sychowicz_Lukasz/Magic_of_Words_2.sap
+COMMENT: Music from a game 'Magic of Words' released by Sikor Soft in 1996.
+
+/Composers/Grayscale/Sychowicz_Lukasz/Magic_of_Words_3.sap
+COMMENT: Music from a game 'Magic of Words' released by Sikor Soft in 1996.
+
+/Composers/Grayscale/Sychowicz_Lukasz/Magic_of_Words_4.sap
+COMMENT: Music from a game 'Magic of Words' released by Sikor Soft in 1996.
+
+/Composers/Grayscale/Sychowicz_Lukasz/Magic_of_Words_5.sap
+COMMENT: Music from a game 'Magic of Words' released by Sikor Soft in 1996.
+
+/Composers/Grayscale/Sychowicz_Lukasz/Magic_of_Words_6.sap
+COMMENT: Music from a game 'Magic of Words' released by Sikor Soft in 1996.
+
+/Composers/Grayscale/Sychowicz_Lukasz/Magic_of_Words_Ingame.sap
+COMMENT: Music from a game 'Magic of Words' released by Sikor Soft in 1996.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Mahna_Malysz.sap
   TITLE: Mah Na Mah Na [from the movie Svezia, Inferno e Paradiso]
