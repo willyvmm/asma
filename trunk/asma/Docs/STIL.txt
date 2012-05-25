@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 923
+#  Total number of entries: 925
 #
 ##############################################################################
 #
@@ -928,6 +928,12 @@ COMMENT: 3rd place at QuaST party 1996 music compo.
 COMMENT: 7th place at QuaST party 1996 music compo.
 
 ### /Composers/Grayscale/Sychowicz_Lukasz ####################################
+
+/Composers/Grayscale/Sychowicz_Lukasz/ABC.sap
+COMMENT: Music from a game 'ABC' released by Sikor Soft in 1995.
+
+/Composers/Grayscale/Sychowicz_Lukasz/ABC_Ingame.sap
+COMMENT: Music from a game 'ABC' released by Sikor Soft in 1995.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Ala_ma_kota.sap
   TITLE: Title Theme [from the cartoon series Reksio] (0:56-1:12)
