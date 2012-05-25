@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 953
+#  Total number of entries: 962
 #
 ##############################################################################
 #
@@ -2705,6 +2705,15 @@ COMMENT: QuaST party 1995 music compo entry.
 /Composers/Szpilowski_Michal/Brzdonc.sap
 COMMENT: 1st place at QuaST party 1998 music compo.
 
+/Composers/Szpilowski_Michal/Cyborg_1.sap
+COMMENT: Music from a game 'Cyborg' released by Sikor Soft in 1995.
+
+/Composers/Szpilowski_Michal/Cyborg_2.sap
+COMMENT: Music from a game 'Cyborg' released by Sikor Soft in 1995.
+
+/Composers/Szpilowski_Michal/Cyborg_Ingame.sap
+COMMENT: Music from a game 'Cyborg' released by Sikor Soft in 1995.
+
 /Composers/Szpilowski_Michal/Cherry_Rave_Experimental.sap
   TITLE: Powiedz [from Ad. 4]
  ARTIST: Ich Troje
@@ -2747,6 +2756,9 @@ COMMENT: Covers the MIDI conversion by Borgar Thorsteinsson (Oedipus).
   TITLE: Last Ninja 2 (Central Park Loader) [from the C64 game]
  ARTIST: Matt Gray
 
+/Composers/Szpilowski_Michal/Liga_Polska.sap
+COMMENT: Music from a game 'Liga Polska' released by Sikor Soft in 1995.
+
 /Composers/Szpilowski_Michal/Logical.sap
   TITLE: Logical, Tune #4 [from the C64 game]
  ARTIST: Rudolf Stember
@@ -2763,13 +2775,20 @@ COMMENT: 3rd place at Rush Hours 1997 music compo.
   TITLE: mistyday [from the Amiga MOD module]
  ARTIST: Sami Saarnio (Nutcase)
 
+/Composers/Szpilowski_Michal/Moscow_1993_Stage_1.sap
+COMMENT: Music from a game 'Moscow 1993' released by Sikor Soft in 1994.
+
 /Composers/Szpilowski_Michal/Moscow_1993_Stage_2.sap
+COMMENT: Music from a game 'Moscow 1993' released by Sikor Soft in 1994.
 (#2)
   TITLE: National Anthem of the Soviet Union
  ARTIST: Aleksandr Aleksandrov
 (#3)
   TITLE: Game Over [from the Amiga game Nitro]
  ARTIST: Tony Williams
+
+/Composers/Szpilowski_Michal/Moscow_1993_Title.sap
+COMMENT: Music from a game 'Moscow 1993' released by Sikor Soft in 1994.
 
 /Composers/Szpilowski_Michal/Music_Memory.sap
 (#1)
@@ -2837,6 +2856,15 @@ COMMENT: 3rd place at SillyVenture 2000 music compo.
 
 /Composers/Szpilowski_Michal/Song_12.sap
 COMMENT: Composed using Chaos Music Composer 4 times/VBL.
+
+/Composers/Szpilowski_Michal/Teacher_Killer.sap
+COMMENT: Music from a game 'Teacher Killer' released by Sikor Soft in 1994.
+
+/Composers/Szpilowski_Michal/Teacher_Killer_End.sap
+COMMENT: Music from a game 'Teacher Killer' released by Sikor Soft in 1994.
+
+/Composers/Szpilowski_Michal/Teacher_Killer_Intro.sap
+COMMENT: Music from a game 'Teacher Killer' released by Sikor Soft in 1994.
 
 /Composers/Szpilowski_Michal/Tempest_2000_Blue_Level.sap
   TITLE: Tune 4 <?> [from the Amiga game Jaguar Tempest 2000]
