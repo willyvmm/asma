@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 968
+#  Total number of entries: 973
 #
 ##############################################################################
 #
@@ -1253,6 +1253,19 @@ COMMENT: 1st place at Atari Area 24H Compo Zybex.
 
 /Composers/Kalinowski_Bartosz/
 COMMENT: Sadly, Bartosz Kalinowski (Bartman) passed away in 1997.
+
+/Composers/Kalinowski_Bartosz/CIS_Musicshow.sap
+(#1)
+   NAME: We Want To Learn Assembler
+(#2)
+   NAME: 13th Satelite of Jupiter
+(#3)
+   NAME: The Last Nop
+
+/Composers/Kalinowski_Bartosz/Self_Test_1.sap
+  TITLE: Promenade - Il vecchio Castello [from Pictures at an Exhibition] (00:00-00:15)
+ ARTIST: Modest Petrovich Musorgskij
+COMMENT: Atari XL/XE official audio-visual test tune.
 
 /Composers/Kalinowski_Bartosz/Self_Test_2.sap
   TITLE: Promenade - Il vecchio Castello [from Pictures at an Exhibition] (00:00-00:15)
