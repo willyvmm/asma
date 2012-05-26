@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 966
+#  Total number of entries: 967
 #
 ##############################################################################
 #
@@ -3139,6 +3139,14 @@ COMMENT: This music is also present in the game Buckaneer by Mastertronic.
 /Composers/XLent/Rewind_the_Mind.sap
   TITLE: Rewind the Mind [from the Amiga MOD module]
  ARTIST: Thomas Lenhardt (ADT) & Ernoe Zalka (Ern0)
+
+### /Composers/Zaborowski_Robert #############################################
+
+/Composers/Zaborowski_Robert/Magnex.sap
+(#1)
+  TITLE: Fred [from the Atari XE/XL POKEY]
+ ARTIST: Janusz Pelc
+COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
 
 ### /Composers/Zuegner_Alfred ################################################
 
