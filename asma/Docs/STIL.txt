@@ -210,16 +210,16 @@ COMMENT: Inspired by this music.
 ### /Composers/Brzezicki_Michal ##############################################
 
 /Composers/Brzezicki_Michal/Vlong.sap
-COMMENT: Music from a game 'Spy Master' released by L.K. Avalon in 1993.
+COMMENT: Music from the game 'Spy Master' released by L.K. Avalon in 1993.
 
 /Composers/Brzezicki_Michal/Cropky.sap
-COMMENT: Music from a game 'Cropky' released in 2011.
+COMMENT: Music from the game 'Cropky' released in 2011.
 
 /Composers/Brzezicki_Michal/Octopus.sap
-COMMENT: Music from a game 'Octopus' released in 2011.
+COMMENT: Music from the game 'Octopus' released in 2011.
 
 /Composers/Brzezicki_Michal/Patrol_In_the_Space.sap
-COMMENT: Music from a game 'Patrol In The Space' released in 2011.
+COMMENT: Music from the game 'Patrol In The Space' released in 2011.
 
 ### /Composers/Ce_Pumpkin ####################################################
 
@@ -359,7 +359,7 @@ COMMENT: 7th place at QuaST party 1996 music compo.
  ARTIST: Zenon Kowalowski
 
 /Composers/Czartynski_Marcin/Wave.sap
-COMMENT: Music from a game 'Grunwald 1410' released by Fire Bird in 1995.
+COMMENT: Music from the game 'Grunwald 1410' released by Fire Bird in 1995.
 
 /Composers/Czartynski_Marcin/Trans_X.sap
   TITLE: Living on Video [from Living on Video]
@@ -930,10 +930,10 @@ COMMENT: 7th place at QuaST party 1996 music compo.
 ### /Composers/Grayscale/Sychowicz_Lukasz ####################################
 
 /Composers/Grayscale/Sychowicz_Lukasz/ABC.sap
-COMMENT: Music from a game 'ABC' released by Sikor Soft in 1995.
+COMMENT: Music from the game 'ABC' released by Sikor Soft in 1995.
 
 /Composers/Grayscale/Sychowicz_Lukasz/ABC_Ingame.sap
-COMMENT: Music from a game 'ABC' released by Sikor Soft in 1995.
+COMMENT: Music from the game 'ABC' released by Sikor Soft in 1995.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Ala_ma_kota.sap
   TITLE: Title Theme [from the cartoon series Reksio] (0:56-1:12)
@@ -975,35 +975,35 @@ COMMENT: 4th place at QuaST party 1996 music compo.
 COMMENT: 2nd place at Lato Ludzików 2002 music compo.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Magic_of_Words_1.sap
-COMMENT: Music from a game 'Magic of Words' released by Sikor Soft in 1996.
+COMMENT: Music from the game 'Magic of Words' released by Sikor Soft in 1996.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Magic_of_Words_2.sap
-COMMENT: Music from a game 'Magic of Words' released by Sikor Soft in 1996.
+COMMENT: Music from the game 'Magic of Words' released by Sikor Soft in 1996.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Magic_of_Words_3.sap
-COMMENT: Music from a game 'Magic of Words' released by Sikor Soft in 1996.
+COMMENT: Music from the game 'Magic of Words' released by Sikor Soft in 1996.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Magic_of_Words_4.sap
-COMMENT: Music from a game 'Magic of Words' released by Sikor Soft in 1996.
+COMMENT: Music from the game 'Magic of Words' released by Sikor Soft in 1996.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Magic_of_Words_5.sap
-COMMENT: Music from a game 'Magic of Words' released by Sikor Soft in 1996.
+COMMENT: Music from the game 'Magic of Words' released by Sikor Soft in 1996.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Magic_of_Words_6.sap
-COMMENT: Music from a game 'Magic of Words' released by Sikor Soft in 1996.
+COMMENT: Music from the game 'Magic of Words' released by Sikor Soft in 1996.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Magic_of_Words_Ingame.sap
-COMMENT: Music from a game 'Magic of Words' released by Sikor Soft in 1996.
+COMMENT: Music from the game 'Magic of Words' released by Sikor Soft in 1996.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Mahna_Malysz.sap
   TITLE: Mah Na Mah Na [from the movie Svezia, Inferno e Paradiso]
  ARTIST: Piero Umiliani
 
 /Composers/Grayscale/Sychowicz_Lukasz/Mental_Age_1.sap
-COMMENT: Music from a game 'Mental Age' released in 2009.
+COMMENT: Music from the game 'Mental Age' released in 2009.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Mental_Age_2.sap
-COMMENT: Music from a game 'Mental Age' released in 2009.
+COMMENT: Music from the game 'Mental Age' released in 2009.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Ninjax.sap
 COMMENT: 5th place at Forever Reneg8 realtime compo.
@@ -1013,10 +1013,10 @@ COMMENT: This song only uses 2 channels (used while loading) - try to recognize
          that.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Orto_Puzzle.sap
-COMMENT: Music from a game 'Orto Puzzle' released by Sikor Soft in 1997.
+COMMENT: Music from the game 'Orto Puzzle' released by Sikor Soft in 1997.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Pilkarski_Poker.sap
-COMMENT: Music from a game 'Piłkarski Poker' released by Sikor Soft in 1995.
+COMMENT: Music from the game 'Piłkarski Poker' released by Sikor Soft in 1995.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Porazka.sap
 COMMENT: 1st place at QuaST party 1996 music compo. This song is a cooperation
@@ -1047,7 +1047,7 @@ COMMENT: 1st place at QuaST party 2004 music compo.
 COMMENT: 8th place at QuaST party 1996 music compo.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Yoomp.sap
-COMMENT: Music from a game 'Yoomp!' released in 2007.
+COMMENT: Music from the game 'Yoomp!' released in 2007.
 
 ### /Composers/Grayscale/Wasiel_Bartek #######################################
 
@@ -1718,19 +1718,19 @@ COMMENT: Last Party 2002 music compo entry.
 COMMENT: Rush Hours 1997 music compo entry.
 
 /Composers/Lepkowski_Michal/Tekblast_Ingame_1.sap
-COMMENT: Music from a game 'Tekblast' released by Sikor Soft in 1998.
+COMMENT: Music from the game 'Tekblast' released by Sikor Soft in 1998.
 
 /Composers/Lepkowski_Michal/Tekblast_Ingame_2.sap
-COMMENT: Music from a game 'Tekblast' released by Sikor Soft in 1998.
+COMMENT: Music from the game 'Tekblast' released by Sikor Soft in 1998.
 
 /Composers/Lepkowski_Michal/Tekblast_Ingame_3.sap
-COMMENT: Music from a game 'Tekblast' released by Sikor Soft in 1998.
+COMMENT: Music from the game 'Tekblast' released by Sikor Soft in 1998.
 
 /Composers/Lepkowski_Michal/Tekblast_Ingame_4.sap
-COMMENT: Music from a game 'Tekblast' released by Sikor Soft in 1998.
+COMMENT: Music from the game 'Tekblast' released by Sikor Soft in 1998.
 
 /Composers/Lepkowski_Michal/Tekblast_Menu.sap
-COMMENT: Music from a game 'Tekblast' released by Sikor Soft in 1998.
+COMMENT: Music from the game 'Tekblast' released by Sikor Soft in 1998.
 
 ### /Composers/Lewandowski_Marcin ############################################
 
@@ -1783,38 +1783,38 @@ COMMENT: 3rd place at Forever Reneg8 music compo.
 ### /Composers/Luberda_Michal ################################################
 
 /Composers/Luberda_Michal/Alchemia.sap
-COMMENT: Music from a game 'Alchemia' released by Mirage in 1993.
+COMMENT: Music from the game 'Alchemia' released by Mirage in 1993.
 
 /Composers/Luberda_Michal/Barahir.sap
-COMMENT: Music from a game 'Barahir' released by L.K. Avalon in 1993.
+COMMENT: Music from the game 'Barahir' released by L.K. Avalon in 1993.
 
 /Composers/Luberda_Michal/Barahir_Ingame.sap
   TITLE: baznewhero [from the Amiga game Hero Quest]
  ARTIST: Barry Leitch
-COMMENT: Music from a game 'Barahir' released by L.K. Avalon in 1993.
+COMMENT: Music from the game 'Barahir' released by L.K. Avalon in 1993.
 
 /Composers/Luberda_Michal/Frank_and_Mark.sap
-COMMENT: Music from a game 'Frank and Mark' released by L.K. Avalon in 1993.
+COMMENT: Music from the game 'Frank and Mark' released by L.K. Avalon in 1993.
 
 /Composers/Luberda_Michal/Frank_and_Mark_Ingame.sap
-COMMENT: Music from a game 'Frank and Mark' released by L.K. Avalon in 1993.
+COMMENT: Music from the game 'Frank and Mark' released by L.K. Avalon in 1993.
 
 /Composers/Luberda_Michal/Kernaw.sap
-COMMENT: Music from a game 'Kernaw' released by L.K. Avalon in 1993.
+COMMENT: Music from the game 'Kernaw' released by L.K. Avalon in 1993.
 
 /Composers/Luberda_Michal/Kernaw_Ingame.sap
-COMMENT: Music from a game 'Kernaw' released by L.K. Avalon in 1993.
+COMMENT: Music from the game 'Kernaw' released by L.K. Avalon in 1993.
 
 /Composers/Luberda_Michal/Kernaw_Intro.sap
-COMMENT: Music from a game 'Kernaw' released by L.K. Avalon in 1993.
+COMMENT: Music from the game 'Kernaw' released by L.K. Avalon in 1993.
 
 /Composers/Luberda_Michal/U235.sap
-COMMENT: Music from a game 'U235' released by L.K. Avalon in 1992.
+COMMENT: Music from the game 'U235' released by L.K. Avalon in 1992.
 
 /Composers/Luberda_Michal/U235_Ingame.sap
   TITLE: Last Ninja 2 (Central Park Loader) [from the C64 game]
  ARTIST: Matt Gray
-COMMENT: Music from a game 'U235' released by L.K. Avalon in 1992.
+COMMENT: Music from the game 'U235' released by L.K. Avalon in 1992.
 
 ### /Composers/Majewski_Tomasz ###############################################
 
@@ -1885,16 +1885,16 @@ COMMENT: Music from a game 'U235' released by L.K. Avalon in 1992.
 ### /Composers/Martin_Aleksander #############################################
 
 /Composers/Martin_Aleksander/Max_Ingame.sap
-COMMENT: Music from a game 'Max' released in 1994.
+COMMENT: Music from the game 'Max' released in 1994.
 
 /Composers/Martin_Aleksander/Max_Ready_For_Next_Level.sap
-COMMENT: Music from a game 'Max' released in 1994.
+COMMENT: Music from the game 'Max' released in 1994.
 
 /Composers/Martin_Aleksander/Max_Title.sap
-COMMENT: Music from a game 'Max' released in 1994.
+COMMENT: Music from the game 'Max' released in 1994.
 
 /Composers/Martin_Aleksander/Max_Winner.sap
-COMMENT: Music from a game 'Max' released in 1994.
+COMMENT: Music from the game 'Max' released in 1994.
 
 /Composers/Martin_Aleksander/Temptation.sap
   TITLE: Ob-La-Di, Ob-La-Da [from The Beatles]
@@ -2373,16 +2373,16 @@ COMMENT: Performed by John Travolta & Olivia Newton John.
  ARTIST: John Williams
 
 /Composers/Radecki_Michal/Neuroid.sap
-COMMENT: Music from a game 'Neuroid' released by Sikor Soft in 1996.
+COMMENT: Music from the game 'Neuroid' released by Sikor Soft in 1996.
 
 /Composers/Radecki_Michal/Neuroid_Game_Over.sap
-COMMENT: Music from a game 'Neuroid' released by Sikor Soft in 1996.
+COMMENT: Music from the game 'Neuroid' released by Sikor Soft in 1996.
 
 /Composers/Radecki_Michal/Neuroid_Ingame.sap
-COMMENT: Music from a game 'Neuroid' released by Sikor Soft in 1996.
+COMMENT: Music from the game 'Neuroid' released by Sikor Soft in 1996.
 
 /Composers/Radecki_Michal/Neuroid_Winner.sap
-COMMENT: Music from a game 'Neuroid' released by Sikor Soft in 1996.
+COMMENT: Music from the game 'Neuroid' released by Sikor Soft in 1996.
 
 /Composers/Radecki_Michal/Taniec_w_Zaczarowanym_Gaju.sap
   TITLE: Taniec W Zaczarowanym Gaju [from Ogród Króla Switu]
@@ -2614,7 +2614,7 @@ COMMENT: 1st place at Winter Chip II (Best Pokey) music compo.
 COMMENT: 2nd place at Atari Area 24H Compo Zybex.
 
 /Composers/Swierszcz_Piotr/Caveman.sap
-COMMENT: Music from a game 'Caveman' released by Mirage in 1993.
+COMMENT: Music from the game 'Caveman' released by Mirage in 1993.
 
 /Composers/Swierszcz_Piotr/Flimbos_Quest_4.sap
   TITLE: Flimbo's Quest, Tune #1 [from the C64 game]
@@ -2634,7 +2634,7 @@ COMMENT: Silesian Atari Open party 1995 music compo entry.
 /Composers/Swierszcz_Piotr/Missile_Action.sap
   TITLE: Give Me Your Heart Tonight [from Give Me Your Heart Tonight]
  ARTIST: Shakin Stevens
-COMMENT: Music from a game 'Missile Action' released by Mirage in 1993.
+COMMENT: Music from the game 'Missile Action' released by Mirage in 1993.
 
 /Composers/Swierszcz_Piotr/Monday_Song.sap
   TITLE: Monday [from the Amiga MOD module]
@@ -2661,13 +2661,13 @@ COMMENT: Covering the version arranged by Hot Butter.
  ARTIST: Jerzy Matuszkiewicz
 
 /Composers/Swierszcz_Piotr/Rebellion_Battle.sap
-COMMENT: Music from a game 'Grunwald 1410' released by Fire Bird in 1995.
+COMMENT: Music from the game 'Grunwald 1410' released by Fire Bird in 1995.
 
 /Composers/Swierszcz_Piotr/Rebellion_Rise.sap
-COMMENT: Music from a game 'Grunwald 1410' released by Fire Bird in 1995.
+COMMENT: Music from the game 'Grunwald 1410' released by Fire Bird in 1995.
 
 /Composers/Swierszcz_Piotr/Rebellion_Victory.sap
-COMMENT: Music from a game 'Grunwald 1410' released by Fire Bird in 1995.
+COMMENT: Music from the game 'Grunwald 1410' released by Fire Bird in 1995.
 
 /Composers/Swierszcz_Piotr/Resal.sap
 (#5)
@@ -2757,13 +2757,13 @@ COMMENT: QuaST party 1995 music compo entry.
 COMMENT: 1st place at QuaST party 1998 music compo.
 
 /Composers/Szpilowski_Michal/Cyborg_1.sap
-COMMENT: Music from a game 'Cyborg' released by Sikor Soft in 1995.
+COMMENT: Music from the game 'Cyborg' released by Sikor Soft in 1995.
 
 /Composers/Szpilowski_Michal/Cyborg_2.sap
-COMMENT: Music from a game 'Cyborg' released by Sikor Soft in 1995.
+COMMENT: Music from the game 'Cyborg' released by Sikor Soft in 1995.
 
 /Composers/Szpilowski_Michal/Cyborg_Ingame.sap
-COMMENT: Music from a game 'Cyborg' released by Sikor Soft in 1995.
+COMMENT: Music from the game 'Cyborg' released by Sikor Soft in 1995.
 
 /Composers/Szpilowski_Michal/Cherry_Rave_Experimental.sap
   TITLE: Powiedz [from Ad. 4]
@@ -2808,7 +2808,7 @@ COMMENT: Covers the MIDI conversion by Borgar Thorsteinsson (Oedipus).
  ARTIST: Matt Gray
 
 /Composers/Szpilowski_Michal/Liga_Polska.sap
-COMMENT: Music from a game 'Liga Polska' released by Sikor Soft in 1995.
+COMMENT: Music from the game 'Liga Polska' released by Sikor Soft in 1995.
 
 /Composers/Szpilowski_Michal/Logical.sap
   TITLE: Logical, Tune #4 [from the C64 game]
@@ -2827,10 +2827,10 @@ COMMENT: 3rd place at Rush Hours 1997 music compo.
  ARTIST: Sami Saarnio (Nutcase)
 
 /Composers/Szpilowski_Michal/Moscow_1993_Stage_1.sap
-COMMENT: Music from a game 'Moscow 1993' released by Sikor Soft in 1994.
+COMMENT: Music from the game 'Moscow 1993' released by Sikor Soft in 1994.
 
 /Composers/Szpilowski_Michal/Moscow_1993_Stage_2.sap
-COMMENT: Music from a game 'Moscow 1993' released by Sikor Soft in 1994.
+COMMENT: Music from the game 'Moscow 1993' released by Sikor Soft in 1994.
 (#2)
   TITLE: National Anthem of the Soviet Union
  ARTIST: Aleksandr Aleksandrov
@@ -2839,7 +2839,7 @@ COMMENT: Music from a game 'Moscow 1993' released by Sikor Soft in 1994.
  ARTIST: Tony Williams
 
 /Composers/Szpilowski_Michal/Moscow_1993_Title.sap
-COMMENT: Music from a game 'Moscow 1993' released by Sikor Soft in 1994.
+COMMENT: Music from the game 'Moscow 1993' released by Sikor Soft in 1994.
 
 /Composers/Szpilowski_Michal/Music_Memory.sap
 (#1)
@@ -2847,15 +2847,15 @@ COMMENT: Music from a game 'Moscow 1993' released by Sikor Soft in 1994.
  ARTIST: Jan Stanisławski (lyrics), Jerzy Matuszkiewicz (music), performed by Andrzej Rosiewicz
 
 /Composers/Szpilowski_Michal/Nexus_Ingame_1.sap
-COMMENT: Music from a game 'Nexus' released by Sikor Soft in 1996.
+COMMENT: Music from the game 'Nexus' released by Sikor Soft in 1996.
 
 /Composers/Szpilowski_Michal/Nexus_Ingame_2.sap
-COMMENT: Music from a game 'Nexus' released by Sikor Soft in 1996.
+COMMENT: Music from the game 'Nexus' released by Sikor Soft in 1996.
 
 /Composers/Szpilowski_Michal/Nexus_Ingame_3.sap
   TITLE: Lost Patrol Theme [from the Amiga game]
  ARTIST: Chris Glaister
-COMMENT: Music from a game 'Nexus' released by Sikor Soft in 1996.
+COMMENT: Music from the game 'Nexus' released by Sikor Soft in 1996.
 
 /Composers/Szpilowski_Michal/RSI_1.sap
   TITLE: Telephone <?> [from the Amiga MOD module]
@@ -2880,19 +2880,19 @@ COMMENT: Cover of part of the original game soundtrack
          ("some" patterns have been heavily altered).
 
 /Composers/Szpilowski_Michal/Sexy_Six_Alfa_Ingame.sap
-COMMENT: Music from a game "Sexy Six' released by Sikor Soft in 1995.
+COMMENT: Music from the game "Sexy Six' released by Sikor Soft in 1995.
 
 /Composers/Szpilowski_Michal/Sexy_Six_Alfa_Title.sap
-COMMENT: Music from a game "Sexy Six' released by Sikor Soft in 1995.
+COMMENT: Music from the game "Sexy Six' released by Sikor Soft in 1995.
 
 /Composers/Szpilowski_Michal/Sexy_Six_Ingame_1.sap
-COMMENT: Music from a game "Sexy Six' released by Sikor Soft in 1995.
+COMMENT: Music from the game "Sexy Six' released by Sikor Soft in 1995.
 
 /Composers/Szpilowski_Michal/Sexy_Six_Ingame_2.sap
-COMMENT: Music from a game "Sexy Six' released by Sikor Soft in 1995.
+COMMENT: Music from the game "Sexy Six' released by Sikor Soft in 1995.
 
 /Composers/Szpilowski_Michal/Sexy_Six_Title.sap
-COMMENT: Music from a game "Sexy Six' released by Sikor Soft in 1995.
+COMMENT: Music from the game "Sexy Six' released by Sikor Soft in 1995.
 
 /Composers/Szpilowski_Michal/Sleepy_Passage.sap
 COMMENT: 3rd place at SillyVenture 2000 music compo.
@@ -2909,13 +2909,13 @@ COMMENT: 3rd place at SillyVenture 2000 music compo.
 COMMENT: Composed using Chaos Music Composer 4 times/VBL.
 
 /Composers/Szpilowski_Michal/Teacher_Killer.sap
-COMMENT: Music from a game 'Teacher Killer' released by Sikor Soft in 1994.
+COMMENT: Music from the game 'Teacher Killer' released by Sikor Soft in 1994.
 
 /Composers/Szpilowski_Michal/Teacher_Killer_End.sap
-COMMENT: Music from a game 'Teacher Killer' released by Sikor Soft in 1994.
+COMMENT: Music from the game 'Teacher Killer' released by Sikor Soft in 1994.
 
 /Composers/Szpilowski_Michal/Teacher_Killer_Intro.sap
-COMMENT: Music from a game 'Teacher Killer' released by Sikor Soft in 1994.
+COMMENT: Music from the game 'Teacher Killer' released by Sikor Soft in 1994.
 
 /Composers/Szpilowski_Michal/Tempest_2000_Blue_Level.sap
   TITLE: Tune 4 <?> [from the Amiga game Jaguar Tempest 2000]
@@ -2980,28 +2980,28 @@ COMMENT: 2nd place at Atari Area 24H Compo Zybex.
 ### /Composers/Szymczuk_Daniel ###############################################
 
 /Composers/Szymczuk_Daniel/Darkness_Hour.sap
-COMMENT: Music from a game 'Darkness Hour' released by L.K. Avalon in 1992.
+COMMENT: Music from the game 'Darkness Hour' released by L.K. Avalon in 1992.
 
 /Composers/Szymczuk_Daniel/Darkness_Hour_End.sap
-COMMENT: Music from a game 'Darkness Hour' released by L.K. Avalon in 1992.
+COMMENT: Music from the game 'Darkness Hour' released by L.K. Avalon in 1992.
 
 /Composers/Szymczuk_Daniel/Darkness_Hour_Ingame.sap
-COMMENT: Music from a game 'Darkness Hour' released by L.K. Avalon in 1992.
+COMMENT: Music from the game 'Darkness Hour' released by L.K. Avalon in 1992.
 
 /Composers/Szymczuk_Daniel/Honky_Ingame.sap
-COMMENT: Music from a game 'Honky' released by L.K. Avalon in 1993.
+COMMENT: Music from the game 'Honky' released by L.K. Avalon in 1993.
 
 /Composers/Szymczuk_Daniel/Loriens_Tomb.sap
-COMMENT: Music from a game 'Lorien's Tomb' released by L.K. Avalon in 1992.
+COMMENT: Music from the game 'Lorien's Tomb' released by L.K. Avalon in 1992.
 
 /Composers/Szymczuk_Daniel/Loriens_Tomb_Game_Over.sap
-COMMENT: Music from a game 'Lorien's Tomb' released by L.K. Avalon in 1992.
+COMMENT: Music from the game 'Lorien's Tomb' released by L.K. Avalon in 1992.
 
 /Composers/Szymczuk_Daniel/Streets.sap
-COMMENT: Music from a game 'Streets' released by L.K. Avalon in 1993.
+COMMENT: Music from the game 'Streets' released by L.K. Avalon in 1993.
 
 /Composers/Szymczuk_Daniel/Streets_Ingame.sap
-COMMENT: Music from a game 'Streets' released by L.K. Avalon in 1993.
+COMMENT: Music from the game 'Streets' released by L.K. Avalon in 1993.
 
 ### /Composers/Takacs_Gabriel ################################################
 
@@ -3068,42 +3068,42 @@ COMMENT: "Entry in the annual ABBUC demo competition 1990 held at the
  ARTIST: Hoyt Curtin (music), William Hanna & Joseph Barbera (lyrics)
 
 /Composers/Top_Odin/Gallahad_Credits.sap
-COMMENT: Music from a game 'Gallahad' released by Domain Software in 1992.
+COMMENT: Music from the game 'Gallahad' released by Domain Software in 1992.
 
 /Composers/Top_Odin/Gallahad_Ingame.sap
-COMMENT: Music from a game 'Gallahad' released by Domain Software in 1992.
+COMMENT: Music from the game 'Gallahad' released by Domain Software in 1992.
 
 /Composers/Top_Odin/Gallahad_Intro.sap
-COMMENT: Music from a game 'Gallahad' released by Domain Software in 1992.
+COMMENT: Music from the game 'Gallahad' released by Domain Software in 1992.
 
 /Composers/Top_Odin/Indiana_Jones.sap
   TITLE: Theme from The Raiders of the Lost Ark [from the movie]
  ARTIST: John Williams
-COMMENT: Music from a game 'Indiana Jones' released in 1992.
+COMMENT: Music from the game 'Indiana Jones' released in 1992.
 
 /Composers/Top_Odin/Indiana_Jones_Ingame.sap
-COMMENT: Music from a game 'Indiana Jones' released in 1992.
+COMMENT: Music from the game 'Indiana Jones' released in 1992.
 
 /Composers/Top_Odin/Renegade.sap
-COMMENT: Music from a game 'Renegade' released in 1992.
+COMMENT: Music from the game 'Renegade' released in 1992.
 
 /Composers/Top_Odin/Riot.sap
-COMMENT: Music from a game 'Riot' released by Domain Software in 1992.
+COMMENT: Music from the game 'Riot' released by Domain Software in 1992.
 
 /Composers/Top_Odin/SOS_Saturn_Intro.sap
-COMMENT: Music from a game 'SOS Saturn' released by Domain Software in 1992.
+COMMENT: Music from the game 'SOS Saturn' released by Domain Software in 1992.
 
 /Composers/Top_Odin/Terminator_Ingame.sap
-COMMENT: Music from a game 'Terminator' released by Domain Software in 1993.
+COMMENT: Music from the game 'Terminator' released by Domain Software in 1993.
 
 /Composers/Top_Odin/Terminator_Intro.sap
-COMMENT: Music from a game 'Terminator' released by Domain Software in 1993.
+COMMENT: Music from the game 'Terminator' released by Domain Software in 1993.
 
 /Composers/Top_Odin/Terminator_The_End.sap
-COMMENT: Music from a game 'Terminator' released by Domain Software in 1993.
+COMMENT: Music from the game 'Terminator' released by Domain Software in 1993.
 
 /Composers/Top_Odin/Terminator_Title.sap
-COMMENT: Music from a game 'Terminator' released by Domain Software in 1993.
+COMMENT: Music from the game 'Terminator' released by Domain Software in 1993.
 
 ### /Composers/Trokowicz_Bartlomiej ##########################################
 
