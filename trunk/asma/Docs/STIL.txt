@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 992
+#  Total number of entries: 1000
 #
 ##############################################################################
 #
@@ -1782,13 +1782,39 @@ COMMENT: 3rd place at Forever Reneg8 music compo.
 
 ### /Composers/Luberda_Michal ################################################
 
+/Composers/Luberda_Michal/Alchemia.sap
+COMMENT: Music from a game 'Alchemia' released by Mirage in 1993.
+
+/Composers/Luberda_Michal/Barahir.sap
+COMMENT: Music from a game 'Barahir' released by L.K. Avalon in 1993.
+
 /Composers/Luberda_Michal/Barahir_Ingame.sap
   TITLE: baznewhero [from the Amiga game Hero Quest]
  ARTIST: Barry Leitch
+COMMENT: Music from a game 'Barahir' released by L.K. Avalon in 1993.
+
+/Composers/Luberda_Michal/Frank_and_Mark.sap
+COMMENT: Music from a game 'Frank and Mark' released by L.K. Avalon in 1993.
+
+/Composers/Luberda_Michal/Frank_and_Mark_Ingame.sap
+COMMENT: Music from a game 'Frank and Mark' released by L.K. Avalon in 1993.
+
+/Composers/Luberda_Michal/Kernaw.sap
+COMMENT: Music from a game 'Kernaw' released by L.K. Avalon in 1993.
+
+/Composers/Luberda_Michal/Kernaw_Ingame.sap
+COMMENT: Music from a game 'Kernaw' released by L.K. Avalon in 1993.
+
+/Composers/Luberda_Michal/Kernaw_Intro.sap
+COMMENT: Music from a game 'Kernaw' released by L.K. Avalon in 1993.
+
+/Composers/Luberda_Michal/U235.sap
+COMMENT: Music from a game 'U235' released by L.K. Avalon in 1992.
 
 /Composers/Luberda_Michal/U235_Ingame.sap
   TITLE: Last Ninja 2 (Central Park Loader) [from the C64 game]
  ARTIST: Matt Gray
+COMMENT: Music from a game 'U235' released by L.K. Avalon in 1992.
 
 ### /Composers/Majewski_Tomasz ###############################################
 
