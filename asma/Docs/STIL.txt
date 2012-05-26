@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 984
+#  Total number of entries: 992
 #
 ##############################################################################
 #
@@ -2950,6 +2950,32 @@ COMMENT: 2nd place at Atari Area 24H Compo Zybex.
 /Composers/Szurgot_Robert/Pentagram_4_Moonlight.sap
   TITLE: Moonlight Shadow [from Crises]
  ARTIST: Mike Oldfield & Simon Philips
+
+### /Composers/Szymczuk_Daniel ###############################################
+
+/Composers/Szymczuk_Daniel/Darkness_Hour.sap
+COMMENT: Music from a game 'Darkness Hour' released by L.K. Avalon in 1992.
+
+/Composers/Szymczuk_Daniel/Darkness_Hour_End.sap
+COMMENT: Music from a game 'Darkness Hour' released by L.K. Avalon in 1992.
+
+/Composers/Szymczuk_Daniel/Darkness_Hour_Ingame.sap
+COMMENT: Music from a game 'Darkness Hour' released by L.K. Avalon in 1992.
+
+/Composers/Szymczuk_Daniel/Honky_Ingame.sap
+COMMENT: Music from a game 'Honky' released by L.K. Avalon in 1993.
+
+/Composers/Szymczuk_Daniel/Loriens_Tomb.sap
+COMMENT: Music from a game 'Lorien's Tomb' released by L.K. Avalon in 1992.
+
+/Composers/Szymczuk_Daniel/Loriens_Tomb_Game_Over.sap
+COMMENT: Music from a game 'Lorien's Tomb' released by L.K. Avalon in 1992.
+
+/Composers/Szymczuk_Daniel/Streets.sap
+COMMENT: Music from a game 'Streets' released by L.K. Avalon in 1993.
+
+/Composers/Szymczuk_Daniel/Streets_Ingame.sap
+COMMENT: Music from a game 'Streets' released by L.K. Avalon in 1993.
 
 ### /Composers/Takacs_Gabriel ################################################
 
