@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 973
+#  Total number of entries: 984
 #
 ##############################################################################
 #
@@ -3015,9 +3015,43 @@ COMMENT: "Entry in the annual ABBUC demo competition 1990 held at the
   TITLE: The Flintstones [from the TV series]
  ARTIST: Hoyt Curtin (music), William Hanna & Joseph Barbera (lyrics)
 
+/Composers/Top_Odin/Gallahad_Credits.sap
+COMMENT: Music from a game 'Gallahad' released by Domain Software in 1992.
+
+/Composers/Top_Odin/Gallahad_Ingame.sap
+COMMENT: Music from a game 'Gallahad' released by Domain Software in 1992.
+
+/Composers/Top_Odin/Gallahad_Intro.sap
+COMMENT: Music from a game 'Gallahad' released by Domain Software in 1992.
+
 /Composers/Top_Odin/Indiana_Jones.sap
   TITLE: Theme from The Raiders of the Lost Ark [from the movie]
  ARTIST: John Williams
+COMMENT: Music from a game 'Indiana Jones' released in 1992.
+
+/Composers/Top_Odin/Indiana_Jones_Ingame.sap
+COMMENT: Music from a game 'Indiana Jones' released in 1992.
+
+/Composers/Top_Odin/Renegade.sap
+COMMENT: Music from a game 'Renegade' released in 1992.
+
+/Composers/Top_Odin/Riot.sap
+COMMENT: Music from a game 'Riot' released by Domain Software in 1992.
+
+/Composers/Top_Odin/SOS_Saturn_Intro.sap
+COMMENT: Music from a game 'SOS Saturn' released by Domain Software in 1992.
+
+/Composers/Top_Odin/Terminator_Ingame.sap
+COMMENT: Music from a game 'Terminator' released by Domain Software in 1993.
+
+/Composers/Top_Odin/Terminator_Intro.sap
+COMMENT: Music from a game 'Terminator' released by Domain Software in 1993.
+
+/Composers/Top_Odin/Terminator_The_End.sap
+COMMENT: Music from a game 'Terminator' released by Domain Software in 1993.
+
+/Composers/Top_Odin/Terminator_Title.sap
+COMMENT: Music from a game 'Terminator' released by Domain Software in 1993.
 
 ### /Composers/Trokowicz_Bartlomiej ##########################################
 
