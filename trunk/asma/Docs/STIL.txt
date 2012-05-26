@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1001
+#  Total number of entries: 1000
 #
 ##############################################################################
 #
@@ -893,9 +893,6 @@ COMMENT: 2nd place at Forever 5 music compo.
 
 /Composers/Grayscale/Kwiatek_Grzegorz/Alive.sap
 COMMENT: Last Party 1999 music compo entry.
-
-/Composers/Grayscale/Kwiatek_Grzegorz/Atarians.sap
-COMMENT: 1st place at QuaST 2003 music compo entry.
 
 /Composers/Grayscale/Kwiatek_Grzegorz/Cubeniculosis.sap
 COMMENT: Last Party 1999 music compo entry.
