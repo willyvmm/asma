@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 967
+#  Total number of entries: 968
 #
 ##############################################################################
 #
@@ -3616,6 +3616,10 @@ COMMENT: This is not a complete cover.
 /Unknown/Mydelko.sap
   TITLE: Mydelko Fa (Cycolina) [from Mydelko Fa]
  ARTIST: Marek Kondrat & Marlena Drozdowska
+
+/Unknown/No_Limit.sap
+  TITLE: No Limit [from No Limits]
+ ARTIST: 2 Unlimited
 
 /Unknown/Oxygen_4.sap
   TITLE: Oxygene 4 [from Oxygene]
