@@ -731,7 +731,7 @@ COMMENT: Originally a C64 SID tune with POKEY routine added.
 
 /Composers/Farkas_Felker/Joyride_Landscape.sap
   TITLE: Musiklinjen [from the Amiga MOD module]
- ARTIST: Jimmy Fredriksson (Firefox) & Robert Osterbergh (ex.Robert Ling) (Tip)
+ ARTIST: Jimmy Fredriksson (Firefox) & Robert Osterbergh (ex. Robert Ling) (Tip)
 COMMENT: A cover of the tune from C64 SID Enigma/PHA Theme by Alain
          Hertenstein (Iron Cat). Originally a C64 SID tune with POKEY routine
          added.
@@ -1668,7 +1668,7 @@ COMMENT: This tune covers the Pet Shop Boys cover.
 ### /Composers/Kuczek_Ireneusz/Worktunes #####################################
 
 /Composers/Kuczek_Ireneusz/Worktunes/Back_in_USSR.sap
-  TITLE: Back In The U.S.S.R.[from The Beatles]
+  TITLE: Back In The U.S.S.R. [from The Beatles]
  ARTIST: The Beatles
 
 /Composers/Kuczek_Ireneusz/Worktunes/Come_Together.sap
@@ -1766,7 +1766,7 @@ COMMENT: Music from the game 'Tekblast' released by Sikor Soft in 1998.
   TITLE: Ucieczka z tropiku [from Ucieczka do tropiku]
  ARTIST: Marek Biliński
 COMMENT: The title translates from Polish as "Escape from the tropic zone".
-         Marek Biliński was some kind of a Polish J.M.Jarre, and had a string
+         Marek Biliński was some kind of a Polish J. M. Jarre, and had a string
          of instrumental hits back in the 80's.
 
 ### /Composers/Lis_Piotr #####################################################
@@ -2880,19 +2880,19 @@ COMMENT: Cover of part of the original game soundtrack
          ("some" patterns have been heavily altered).
 
 /Composers/Szpilowski_Michal/Sexy_Six_Alfa_Ingame.sap
-COMMENT: Music from the game "Sexy Six' released by Sikor Soft in 1995.
+COMMENT: Music from the game 'Sexy Six' released by Sikor Soft in 1995.
 
 /Composers/Szpilowski_Michal/Sexy_Six_Alfa_Title.sap
-COMMENT: Music from the game "Sexy Six' released by Sikor Soft in 1995.
+COMMENT: Music from the game 'Sexy Six' released by Sikor Soft in 1995.
 
 /Composers/Szpilowski_Michal/Sexy_Six_Ingame_1.sap
-COMMENT: Music from the game "Sexy Six' released by Sikor Soft in 1995.
+COMMENT: Music from the game 'Sexy Six' released by Sikor Soft in 1995.
 
 /Composers/Szpilowski_Michal/Sexy_Six_Ingame_2.sap
-COMMENT: Music from the game "Sexy Six' released by Sikor Soft in 1995.
+COMMENT: Music from the game 'Sexy Six' released by Sikor Soft in 1995.
 
 /Composers/Szpilowski_Michal/Sexy_Six_Title.sap
-COMMENT: Music from the game "Sexy Six' released by Sikor Soft in 1995.
+COMMENT: Music from the game 'Sexy Six' released by Sikor Soft in 1995.
 
 /Composers/Szpilowski_Michal/Sleepy_Passage.sap
 COMMENT: 3rd place at SillyVenture 2000 music compo.
@@ -3016,48 +3016,49 @@ COMMENT: Tegethoff's own comments are denoted by (ST).
 
 /Composers/Tegethoff_Sven/ABBUC_20_1.sap
 COMMENT: "Entry in the annual Abbuc demo competition (can't remember the year)
-         held at the 'Hobbytronic' Computer Fair in Dortmund, Germany.The song
-         is an adaption of a popular tune from the Commodore C64.It's such a
-         crappy rendition because this is a LOADER music, and you can only use
-         two voices while loading from floppy.The demo (not this particular
-         tune)won first price.Uses custom player routines." (ST)
+         held at the 'Hobbytronic' Computer Fair in Dortmund, Germany.
+         The song is an adaption of a popular tune from the Commodore C64.
+         It's such a crappy rendition because this is a LOADER music, and you
+         can only use two voices while loading from floppy. The demo
+         (not this particular tune) won first price. Uses custom player
+         routines." (ST)
 
 /Composers/Tegethoff_Sven/ABBUC_21_1.sap
   TITLE: Commando, Tune #2 [from the C64 game]
  ARTIST: Rob Hubbard
-COMMENT: "The second loader music from the same demo.This is an equally crappy
-         rendition of the High Score theme from the C64 game 'Commando'.The
-         demo (not this particular tune)won first price.Uses custom player
-         routines." (ST)
+COMMENT: "The second loader music from the same demo. This is an equally
+         crappy rendition of the High Score theme from the C64 game
+         'Commando'. The demo (not this particular tune) won first price.
+         Uses custom player routines." (ST)
 
 /Composers/Tegethoff_Sven/ABBUC_21_2.sap
 COMMENT: "Another entry in the annual ABBUC demo competition (can't remember
-         the year)held at the 'Hobbytronic' Computer Fair in Dortmund,
-         Germany.The demo (not this particular tune)won first price.Written
+         the year) held at the 'Hobbytronic' Computer Fair in Dortmund,
+         Germany. The demo (not this particular tune) won first price. Written
          using 'The Black Magic Composer'.
 
 /Composers/Tegethoff_Sven/ABBUC_21_3.sap
 COMMENT: "Another entry in the annual ABBUC demo competition (can't remember
-         the year)held at the 'Hobbytronic' Computer Fair in Dortmund,
-         Germany.Written using 'The Black Magic Composer' with Digi-Drums.
+         the year) held at the 'Hobbytronic' Computer Fair in Dortmund,
+         Germany. Written using 'The Black Magic Composer' with Digi-Drums.
          Drums were blatantly ripped from various Chris Huelsbeck modules :)"
          (ST)
 
 /Composers/Tegethoff_Sven/The_Top_2_2.sap
-COMMENT: "This song was part of the same ABBUC Demo like ABBUC_20_1.sapand
-         ABBUC_21_2.sap.The complete demo (not this particular tune)won first
-         price.The tune was ripped and re-used by some Czech demo crew in a
-         demo called 'the top'.But I forgive them, because they gave me the
-         proper credits :) Makes heavy uses of the  very few modulations the
-         atari sound chip allowed for.Written using 'The Black Magic Composer'
-         with Digi-Drums.Drums were blatantly ripped from various Chris
-         Huelsbeck modules :)" (ST)
+COMMENT: "This song was part of the same ABBUC Demo like ABBUC_20_1.sap and
+         ABBUC_21_2.sap. The complete demo (not this particular tune) won
+         first price. The tune was ripped and re-used by some Czech demo crew
+         in a demo called 'the top'. But I forgive them, because they gave me
+         the proper credits :) Makes heavy uses of the very few modulations
+         the atari sound chip allowed for. Written using 'The Black Magic
+         Composer' with Digi-Drums. Drums were blatantly ripped from various
+         Chris Huelsbeck modules :)" (ST)
          Sven is wrong here, The Top demos were produced in Poland.
 
 /Composers/Tegethoff_Sven/Hobbytronic_90_2.sap
 COMMENT: "Entry in the annual ABBUC demo competition 1990 held at the
-         'Hobbytronic' Computer Fair in Dortmund, Germany.Written using 'The
-         Black Magic Composer' with Digi-Drums.Drums were blatantly ripped
+         'Hobbytronic' Computer Fair in Dortmund, Germany. Written using 'The
+         Black Magic Composer' with Digi-Drums. Drums were blatantly ripped
          from various Chris Huelsbeck modules :)" (ST)
 
 ### /Composers/Top_Odin ######################################################
@@ -3310,7 +3311,7 @@ COMMENT: A good set of Amiga tune conversions: "Techno Florid",
 
 /Games/Ballblaster.sap
 COMMENT: "One reviewer, an eminent jazz player, said it sounded like
-         John Coltrane did it.I think that's my best compliment so far."
+         John Coltrane did it. I think that's my best compliment so far."
          (comment by Peter Langston)
 
 /Games/Battle_Ships.sap
@@ -3489,7 +3490,7 @@ COMMENT: Popular under name "Jingle Bells".
 COMMENT: This piece is a cover of the arcade version.
 
 /Games/Star_Raiders_II.sap
-  TITLE: G.I.Joe, Tune #4 [from the C64 game]
+  TITLE: G.I. Joe, Tune #4 [from the C64 game]
  ARTIST: Bob Vieira
 
 /Games/Stealth.sap
@@ -3534,7 +3535,7 @@ COMMENT: The notes in voice 2 at the beginning of the tune spell out "SOS" in
 
 /Misc/Ave_Maria.sap
   TITLE: Ave Maria
- ARTIST: Johanna S.Bacha & Charlesa Gounoda
+ ARTIST: Johanna S. Bacha & Charlesa Gounoda
 
 /Misc/Bolero.sap
   TITLE: Bolero
@@ -3749,7 +3750,7 @@ COMMENT: This is not a complete cover.
  ARTIST: <?>, Polish Traditional.
 
 /Unknown/Wiosna.sap
-  TITLE: An die Freude [from Symphony No.9 Op.125 "Choral Symphony"](0:12)
+  TITLE: An die Freude [from Symphony No.9 Op.125 "Choral Symphony"] (0:12)
  ARTIST: Ludwig van Beethoven
   TITLE: W murowanej piwnicy (0:57)
  ARTIST: Polish folk traditional
@@ -4282,7 +4283,7 @@ COMMENT: "PuckMan" is known outside Japan as "Pac-Man".
 COMMENT: Performed by John Travolta/Olivia Newton John & cast.
 
 /Unknown/AMS/Surf_in_USA.sap
-  TITLE: Surfin' U.S.A.[from Surfin' USA]
+  TITLE: Surfin' U.S.A. [from Surfin' USA]
  ARTIST: Beach Boys
 
 /Unknown/AMS/Sweet_Dreams.sap
@@ -4315,7 +4316,7 @@ COMMENT: Performed by John Travolta/Olivia Newton John & cast.
 
 /Unknown/AMS/Tie_a_Yellow_Ribbon_Round.sap
   TITLE: Tie A Yellow Ribbon 'Round The Ole Oak Tree
- ARTIST: Dawn featuring Tony Orlando (written by Irwin Levine & L.Russell Brown)
+ ARTIST: Dawn featuring Tony Orlando (written by Irwin Levine & L. Russell Brown)
 
 /Unknown/AMS/Time_After_Time.sap
   TITLE: Time After Time
@@ -4369,7 +4370,7 @@ COMMENT: English carol
  ARTIST: Irene Cara
 
 /Unknown/AMS/When_Im_64.sap
-  TITLE: When I'm 64 [from Sgt.Pepper's Lonely Hearts Club Band]
+  TITLE: When I'm 64 [from Sgt. Pepper's Lonely Hearts Club Band]
  ARTIST: The Beatles
 
 /Unknown/AMS/Why_Me_Lord.sap
