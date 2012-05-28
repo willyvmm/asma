@@ -2702,7 +2702,7 @@ COMMENT: Covers a version made by Richard Munns
 
 /Composers/Szpilowski_Michal/48h.sap
   TITLE: 48h
- COMMENT: Soundtrack from intro by LaResistance. Winner of Glucholazy 2010 demo comp.
+ COMMENT: Soundtrack from intro by LaResistance. Winner of Głuchołazy 2010 demo compo.
 
 /Composers/Szpilowski_Michal/7_Gates_of_Jambala.sap
   TITLE: Title [from the Atari ST/Amiga game 7 Gates Of Jambala]
