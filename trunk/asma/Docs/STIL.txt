@@ -163,7 +163,7 @@ COMMENT: Same as /Composers/Bienias_Adam/Digital_Bonanza.sap with digitized drum
 ### /Composers/Bloszko_Marek #################################################
 
 /Composers/Bloszko_Marek/Factory_Demo.sap
-  TITLE: Fahret Hin (0:00:-0:10)
+  TITLE: Fahret Hin (0:00-0:10)
  ARTIST: Busching, von der Hagen
 COMMENT: Commonly known as "Haenschen Klein" (German children's song) or
          "Wlazł Kotek" in Poland.
@@ -4287,7 +4287,7 @@ COMMENT: Performed by John Travolta/Olivia Newton John & cast.
  ARTIST: Beach Boys
 
 /Unknown/AMS/Sweet_Dreams.sap
-  TITLE: Sweet Dreams (are made of this)[from Sweet Dreams]
+  TITLE: Sweet Dreams (are made of this) [from Sweet Dreams]
  ARTIST: Eurythmics
 
 /Unknown/AMS/Take_Five.sap
