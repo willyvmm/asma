@@ -922,8 +922,8 @@ COMMENT: Not a 100% cover, but very heavily inspired.
 COMMENT: 3rd place at QuaST party 1996 music compo.
 
 /Composers/Grayscale/Kwiatek_Grzegorz/So_Alone.sap
-COMMENT: Soundtrack from demo 'Ultra' by Taquart released on Intel 
-         Outside #4 Copy Party in 1997.
+COMMENT: Soundtrack from the demo 'Ultra' which won at Intel Outside 
+         #4 Copy Party in 1997.
 
 /Composers/Grayscale/Kwiatek_Grzegorz/Still_Alive.sap
 COMMENT: 3rd place at Forever 4 music compo.
@@ -932,12 +932,12 @@ COMMENT: 3rd place at Forever 4 music compo.
 COMMENT: 2nd place at QuaST party 1996 music compo.
 
 /Composers/Grayscale/Kwiatek_Grzegorz/Ultra.sap
-COMMENT: Soundtrack from demo 'Ultra' by Taquart released on Intel 
-         Outside #4 Copy Party in 1997.
+COMMENT: Soundtrack from the demo 'Ultra' which won at Intel Outside 
+         #4 Copy Party in 1997.
 
 /Composers/Grayscale/Kwiatek_Grzegorz/Ultrance.sap
-COMMENT: Soundtrack from demo 'Ultra' by Taquart released on Intel 
-         Outside #4 Copy Party in 1997.
+COMMENT: Soundtrack from the demo 'Ultra' which won at Intel Outside 
+         #4 Copy Party in 1997.
 
 ### /Composers/Grayscale/Sychowicz_Lukasz ####################################
 
