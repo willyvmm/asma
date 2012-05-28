@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1001
+#  Total number of entries: 1002
 #
 ##############################################################################
 #
@@ -2699,6 +2699,10 @@ COMMENT: Covers a version made by Richard Munns
  ARTIST: Koto
 
 ### /Composers/Szpilowski_Michal #############################################
+
+/Composers/Szpilowski_Michal/48h.sap
+  TITLE: 48h
+ COMMENT: Soundtrack from intro by LaResistance. Winner of Glucholazy 2010 demo comp.
 
 /Composers/Szpilowski_Michal/7_Gates_of_Jambala.sap
   TITLE: Title [from the Atari ST/Amiga game 7 Gates Of Jambala]
