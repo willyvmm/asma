@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1002
+#  Total number of entries: 1005
 #
 ##############################################################################
 #
@@ -903,6 +903,12 @@ COMMENT: 2nd place at Intel Outside 4 music compo.
 /Composers/Grayscale/Kwiatek_Grzegorz/Failure_Dream.sap
 COMMENT: 2nd place at Rush Hours 1997 music compo.
 
+/Composers/Grayscale/Kwiatek_Grzegorz/Introspection.sap
+COMMENT: 7th place at QuaST party 1996 music compo.
+
+/Composers/Grayscale/Kwiatek_Grzegorz/Insanity.sap
+COMMENT: 3rd place at QuaST party 1995 music compo.
+
 /Composers/Grayscale/Kwiatek_Grzegorz/Maja.sap
   TITLE: Die Biene Maja [from the cartoon series]
  ARTIST: Karel Svoboda
@@ -912,20 +918,26 @@ COMMENT: 2nd place at Rush Hours 1997 music compo.
  ARTIST: 2 Unlimited
 COMMENT: Not a 100% cover, but very heavily inspired.
 
+/Composers/Grayscale/Kwiatek_Grzegorz/Sweet_Voice.sap
+COMMENT: 3rd place at QuaST party 1996 music compo.
+
+/Composers/Grayscale/Kwiatek_Grzegorz/So_Alone.sap
+COMMENT: Soundtrack from demo 'Ultra' by Taquart released on Intel 
+         Outside #4 Copy Party in 1997.
+
 /Composers/Grayscale/Kwiatek_Grzegorz/Still_Alive.sap
 COMMENT: 3rd place at Forever 4 music compo.
-
-/Composers/Grayscale/Kwiatek_Grzegorz/Insanity.sap
-COMMENT: 3rd place at QuaST party 1995 music compo.
 
 /Composers/Grayscale/Kwiatek_Grzegorz/Toxic_Cream.sap
 COMMENT: 2nd place at QuaST party 1996 music compo.
 
-/Composers/Grayscale/Kwiatek_Grzegorz/Sweet_Voice.sap
-COMMENT: 3rd place at QuaST party 1996 music compo.
+/Composers/Grayscale/Kwiatek_Grzegorz/Ultra.sap
+COMMENT: Soundtrack from demo 'Ultra' by Taquart released on Intel 
+         Outside #4 Copy Party in 1997.
 
-/Composers/Grayscale/Kwiatek_Grzegorz/Introspection.sap
-COMMENT: 7th place at QuaST party 1996 music compo.
+/Composers/Grayscale/Kwiatek_Grzegorz/Ultrance.sap
+COMMENT: Soundtrack from demo 'Ultra' by Taquart released on Intel 
+         Outside #4 Copy Party in 1997.
 
 ### /Composers/Grayscale/Sychowicz_Lukasz ####################################
 
