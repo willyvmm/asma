@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1007
+#  Total number of entries: 1008
 #
 ##############################################################################
 #
@@ -2946,6 +2946,10 @@ COMMENT: Music from the game 'Teacher Killer' released by Sikor Soft in 1994.
 /Composers/Szpilowski_Michal/Trial1.sap
   TITLE: Buy/Sell Music [from the PC game Tyrian]
  ARTIST: Alexander Brandon
+
+/Composers/Szpilowski_Michal/WAP_NIAK_Pre_Invitation.sap
+  TITLE: Billie Jean [from Thriller]
+ ARTIST: Michael Jackson
 
 /Composers/Szpilowski_Michal/Weird_Trip.sap
 COMMENT: 3nd place at Grayscale Music Competition II.
