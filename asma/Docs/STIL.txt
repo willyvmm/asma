@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1015
+#  Total number of entries: 1018
 #
 ##############################################################################
 #
@@ -881,6 +881,9 @@ COMMENT: Lato Ludzików 2002 music compo entry.
 
 ### /Composers/Grayscale  ####################################################
 
+/Composers/Grayscale/404_Error.sap
+COMMENT: 1st place at Forever 4 music compo.
+
 /Composers/Grayscale/DrillDance.sap
 COMMENT: Last Party 2002 music compo entry.
 
@@ -1161,7 +1164,7 @@ COMMENT: "Warhawk was a c64 tune originally called Proteus." (RH)
 ### /Composers/Hudak_Matej ###################################################
 
 /Composers/Hudak_Matej/Color.sap
-COMMENT: Forever 3 music compo entry.
+COMMENT: 3rd place at Forever 3 music compo.
 
 /Composers/Hudak_Matej/ElanLL02.sap
 COMMENT: Lato Ludzików 2002 music compo entry.
@@ -2553,6 +2556,9 @@ COMMENT: 9th place at Grayscale Music Competition II.
 
 ### /Composers/Sterba_Radek ##################################################
 
+/Composers/Sterba_Radek/Aspiration_332.sap
+COMMENT: 4th place at Forever 4 music compo.
+
 /Composers/Sterba_Radek/Cubico.sap
 (#1)
   TITLE: Cutesy [from the Amiga MOD module]
@@ -2915,6 +2921,9 @@ COMMENT: Music from the game 'Nexus' released by Sikor Soft in 1996.
 /Composers/Szpilowski_Michal/Rzog_Joins_XE_Team_3.sap
   TITLE: Secret Land [from Into a Secret Land]
  ARTIST: Sandra Cretu
+
+/Composers/Szpilowski_Michal/Saddams_Secret_Moonbase.sap
+COMMENT: 5th place at Forever 4 music compo.
 
 /Composers/Szpilowski_Michal/Salute.sap
   TITLE: Salute [from the Amiga MOD module]
