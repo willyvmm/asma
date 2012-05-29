@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1027
+#  Total number of entries: 1033
 #
 ##############################################################################
 #
@@ -1167,6 +1167,9 @@ COMMENT: "Warhawk was a c64 tune originally called Proteus." (RH)
 
 ### /Composers/Hudak_Matej ###################################################
 
+/Composers/Hudak_Matej/30_Minutes_of_Tracking.sap
+COMMENT: 8th place at Forever 9 music compo.
+
 /Composers/Hudak_Matej/Color.sap
 COMMENT: 3rd place at Forever 3 music compo.
 
@@ -1243,6 +1246,9 @@ COMMENT: Lato Ludzików 2002 music compo entry.
 
 /Composers/Iwaszko_Krystian/Pies_drapie_sie_po_jajach.sap
 COMMENT: Last Party 2001 music compo entry.
+
+/Composers/Iwaszko_Krystian/Samantha.sap
+COMMENT: 4th place at Forever 9 music compo.
 
 /Composers/Iwaszko_Krystian/THC05.sap
 COMMENT: 2nd place at Forever 2 music compo.
@@ -1810,6 +1816,9 @@ COMMENT: The title translates from Polish as "Escape from the tropic zone".
 
 ### /Composers/Lis_Piotr #####################################################
 
+/Composers/Lis_Piotr/I_Presume_Its_Funny.sap
+COMMENT: 3rd place at Forever 9 music compo.
+
 /Composers/Lis_Piotr/Gerappaaaaaa.sap
 COMMENT: 5th place at Forever 7 music compo.
 
@@ -2033,6 +2042,11 @@ COMMENT: Same melody as /Composers/Matyasik_Krzysztof/Wolowinka.sap,
  ARTIST: James Rich & Boots Randolph
 COMMENT: Best known from as the title theme to the comedy TV series "The Benny
          Hill Show".
+
+### /Composers/Nedved_Vojtech ################################################
+
+/Composers/Nedved_Vojtech/Aoki.sap
+COMMENT: 5th place at Forever 9 music compo.
 
 ### /Composers/Niestegge_Stefan ##############################################
 
@@ -2609,6 +2623,9 @@ COMMENT: Covers a popular Czech Christmas song.
 /Composers/Sterba_Radek/Hymn_to_Aurora.sap
   TITLE: Hymn to Aurora [from the Amiga MOD module]
  ARTIST: Horace Wimp
+
+/Composers/Sterba_Radek/Im_sure.sap
+COMMENT: 1st place at Forever 9 music compo.
 
 /Composers/Sterba_Radek/It_Doesnt_Matter.sap
 COMMENT: 2nd place at Forever 6 music compo.
@@ -3291,6 +3308,9 @@ COMMENT: This music is also present in the game Buckaneer by Mastertronic.
          this tune to themselves.
 
 ### /Composers/Wisniewski_Mateusz ############################################
+
+/Composers/Wisniewski_Mateusz/High_Tide.sap
+COMMENT: 2nd place at Forever 9 music compo.
 
 /Composers/Wisniewski_Mateusz/Last_V8.sap
   TITLE: The Last V8, Tune #1 [from the C64 game]
