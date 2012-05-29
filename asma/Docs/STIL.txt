@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1022
+#  Total number of entries: 1027
 #
 ##############################################################################
 #
@@ -997,6 +997,9 @@ COMMENT: Music from the game 'Ketchup' released by Sikor Soft in 1996.
 /Composers/Grayscale/Sychowicz_Lukasz/Hypnotic.sap
 COMMENT: 1st place at Intel Outside 4 music compo.
 
+/Composers/Grayscale/Sychowicz_Lukasz/Jatatap.sap
+COMMENT: 1st place at Forever 7 music compo.
+
 /Composers/Grayscale/Sychowicz_Lukasz/King_of_Agregat.sap
 COMMENT: 4th place at QuaST party 1996 music compo.
 
@@ -1226,6 +1229,9 @@ COMMENT: Last Party 1999 music compo entry.
 
 /Composers/Iwaszko_Krystian/Chlorzul.sap
 COMMENT: 5th place at Forever 6 music compo.
+
+/Composers/Iwaszko_Krystian/Hooy_F.sap
+COMMENT: 4th place at Forever 7 music compo.
 
 /Composers/Iwaszko_Krystian/IK_Crazy_Remix.sap
   TITLE: IK+, Tune #1 [from the C64 game]
@@ -1809,6 +1815,9 @@ COMMENT: The title translates from Polish as "Escape from the tropic zone".
 
 ### /Composers/Lis_Piotr #####################################################
 
+/Composers/Lis_Piotr/Gerappaaaaaa.sap
+COMMENT: 5th place at Forever 7 music compo.
+
 /Composers/Lis_Piotr/May_I_Win.sap
 COMMENT: 4th place at Forever 6 music compo.
 
@@ -1963,6 +1972,9 @@ COMMENT: Same as /Composers/Martin_Chris/Approachong.sap, but with second  POKEY
  ARTIST: Gershon Kingsley
 
 ### /Composers/Matoga_Adrian #################################################
+
+/Composers/Matoga_Adrian/Meryb.sap
+COMMENT: 3rd place at Forever 7 music compo.
 
 /Composers/Matoga_Adrian/Scream.sap
 COMMENT: Lato Ludzików 2002 music compo entry.
@@ -2634,6 +2646,9 @@ COMMENT: Covers a song by a popular Slovak music band.
 
 /Composers/Sterba_Radek/Small_Stir.sap
 COMMENT: 1st place at Forever 1 music compo.
+
+/Composers/Sterba_Radek/Three_Hundred_Thirteen.sap
+COMMENT: 2nd place at Forever 7 music compo.
 
 /Composers/Sterba_Radek/Time_to_Turn.sap
 COMMENT: 5th place at Forever 5 music compo.
