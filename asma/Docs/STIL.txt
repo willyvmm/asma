@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1009
+#  Total number of entries: 1010
 #
 ##############################################################################
 #
@@ -2634,6 +2634,10 @@ COMMENT: 2nd place at Atari Area 24H Compo Zybex.
 
 /Composers/Swierszcz_Piotr/Caveman.sap
 COMMENT: Music from the game 'Caveman' released by Mirage in 1993.
+
+/Composers/Swierszcz_Piotr/Deluxe_Dream.sap
+  TITLE: Deluxe Dream [from the Amiga MOD module]
+ ARTIST: Maxym of Credo
 
 /Composers/Swierszcz_Piotr/Flimbos_Quest_4.sap
   TITLE: Flimbo's Quest, Tune #1 [from the C64 game]
