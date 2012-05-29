@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1014
+#  Total number of entries: 1015
 #
 ##############################################################################
 #
@@ -1230,6 +1230,9 @@ COMMENT: Lato Ludzików 2002 music compo entry.
 
 /Composers/Iwaszko_Krystian/Pies_drapie_sie_po_jajach.sap
 COMMENT: Last Party 2001 music compo entry.
+
+/Composers/Iwaszko_Krystian/THC05.sap
+COMMENT: 2nd place at Forever 2 music compo.
 
 /Composers/Iwaszko_Krystian/THC10.sap
 COMMENT: Lato Ludzików 2001 music compo entry.
