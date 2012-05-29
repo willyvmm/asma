@@ -2994,7 +2994,7 @@ COMMENT: Music from the game 'Teacher Killer' released by Sikor Soft in 1994.
  ARTIST: Alexander Brandon
 
 /Composers/Szpilowski_Michal/WAP_NIAK_Pre_Invitation.sap
-  TITLE: Billie Jean [from Thriller]
+  TITLE: Thriller [from Thriller]
  ARTIST: Michael Jackson
 
 /Composers/Szpilowski_Michal/Weird_Trip.sap
