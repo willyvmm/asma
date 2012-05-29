@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1005
+#  Total number of entries: 1006
 #
 ##############################################################################
 #
@@ -2402,6 +2402,10 @@ COMMENT: Music from the game 'Neuroid' released by Sikor Soft in 1996.
 /Composers/Radecki_Michal/Taniec_w_Zaczarowanym_Gaju.sap
   TITLE: Taniec W Zaczarowanym Gaju [from Ogród Króla Switu]
  ARTIST: Marek Biliński
+
+/Composers/Radecki_Michal/Zdzicho_z_Pola.sap
+  TITLE: Co Ty mi dasz?
+ ARTIST: Mig
 
 ### /Composers/Rapalski_Konrad ###############################################
 
