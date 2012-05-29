@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1018
+#  Total number of entries: 1022
 #
 ##############################################################################
 #
@@ -947,6 +947,9 @@ COMMENT: Soundtrack from the demo 'Ultra' which won at Intel Outside #4 Copy
 COMMENT: Soundtrack from the demo 'Ultra' which won at Intel Outside #4 Copy
          Party in 1997.
 
+/Composers/Grayscale/Kwiatek_Grzegorz/UnderTrencinPressure.sap
+COMMENT: 3rd place at Forever 6 music compo.
+
 ### /Composers/Grayscale/Sychowicz_Lukasz ####################################
 
 /Composers/Grayscale/Sychowicz_Lukasz/ABC.sap
@@ -984,6 +987,9 @@ COMMENT: 3rd place at Lato Ludzików 2002 music compo.
 /Composers/Grayscale/Sychowicz_Lukasz/Glina.sap
   TITLE: Axel F [from the movie Beverly Hills Cop]
  ARTIST: Harold Faltermeyer
+
+/Composers/Grayscale/Sychowicz_Lukasz/Gwoopie_Yes_Them.sap
+COMMENT: 1st place at Forever 6 music compo.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Graba.sap
 COMMENT: Music from the game 'Ketchup' released by Sikor Soft in 1996.
@@ -1217,6 +1223,9 @@ COMMENT: Made using The Software Synthesizer "Softsynth".
 
 /Composers/Iwaszko_Krystian/Avm.sap
 COMMENT: Last Party 1999 music compo entry.
+
+/Composers/Iwaszko_Krystian/Chlorzul.sap
+COMMENT: 5th place at Forever 6 music compo.
 
 /Composers/Iwaszko_Krystian/IK_Crazy_Remix.sap
   TITLE: IK+, Tune #1 [from the C64 game]
@@ -1799,6 +1808,9 @@ COMMENT: The title translates from Polish as "Escape from the tropic zone".
          of instrumental hits back in the 80's.
 
 ### /Composers/Lis_Piotr #####################################################
+
+/Composers/Lis_Piotr/May_I_Win.sap
+COMMENT: 4th place at Forever 6 music compo.
 
 /Composers/Lis_Piotr/Piczung_Do_Kurczaka_Na_Zac.sap
 COMMENT: 3rd place at Forever Reneg8 music compo.
