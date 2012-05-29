@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1033
+#  Total number of entries: 1035
 #
 ##############################################################################
 #
@@ -1828,6 +1828,9 @@ COMMENT: 4th place at Forever 6 music compo.
 /Composers/Lis_Piotr/Piczung_Do_Kurczaka_Na_Zac.sap
 COMMENT: 3rd place at Forever Reneg8 music compo.
 
+/Composers/Lis_Piotr/Wyjasnijmy_to_sobie.sap
+COMMENT: 2nd place at Forever 10 music compo.
+
 ### /Composers/Loos_Uwe ######################################################
 
 /Composers/Loos_Uwe/Das_Omen.sap
@@ -2638,6 +2641,9 @@ COMMENT: Covers a song by a popular Slovak music band.
 
 /Composers/Sterba_Radek/Less_Than_222.sap
 COMMENT: 1st place at Forever 2 music compo.
+
+/Composers/Sterba_Radek/MAB.sap
+COMMENT: 1st place at Forever 10 music compo.
 
 /Composers/Sterba_Radek/Od_Tater_k_Dunaju.sap
   TITLE: Od Tater k Dunaju
