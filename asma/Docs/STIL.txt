@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1038
+#  Total number of entries: 1042
 #
 ##############################################################################
 #
@@ -1060,6 +1060,9 @@ COMMENT: 1st place at QuaST party 1997 music compo. This song is a cooperation
 COMMENT: 1st place at Lato Ludzików 2002 music compo. This song is a
          cooperation between Łukasz Sychowicz and Piotr Świerszcz.
 
+/Composers/Grayscale/Sychowicz_Lukasz/Sandpit.sap
+COMMENT: 5th place at Forever 12 music compo.
+
 /Composers/Grayscale/Sychowicz_Lukasz/Shake_Your_Ass.sap
 COMMENT: 1st place at Forever Reneg8 music compo.
 
@@ -1267,6 +1270,9 @@ COMMENT: 4th place at Forever Reneg8 music compo.
 
 /Composers/Iwaszko_Krystian/THC_Rulla.sap
 COMMENT: Last Party 2001 music compo entry.
+
+/Composers/Iwaszko_Krystian/Wiochna.sap
+COMMENT: 4th place at Forever 12 music compo.
 
 /Composers/Iwaszko_Krystian/ZybexTHC.sap
   TITLE: Zybex, Tune #4
@@ -1833,6 +1839,9 @@ COMMENT: 4th place at Forever 6 music compo.
 
 /Composers/Lis_Piotr/Piczung_Do_Kurczaka_Na_Zac.sap
 COMMENT: 3rd place at Forever Reneg8 music compo.
+
+/Composers/Lis_Piotr/Przeszlem_Freda_w_lewo.sap
+COMMENT: 2nd place at Forever 12 music compo.
 
 /Composers/Lis_Piotr/Wyjasnijmy_to_sobie.sap
 COMMENT: 2nd place at Forever 10 music compo.
@@ -2613,6 +2622,9 @@ COMMENT: 4th place at Forever 4 music compo.
 /Composers/Sterba_Radek/Enigma_part_2.sap
   TITLE: Musiklinjen [from the Amiga MOD module]
  ARTIST: Jimmy Fredriksson (Firefox) & Robert Osterbergh (Tip)
+
+/Composers/Sterba_Radek/Fasc_in_Action.sap
+COMMENT: 3rd place at Forever 12 music compo.
 
 /Composers/Sterba_Radek/Flop_magazin_30_Just_Now.sap
   TITLE: Prave Ted
