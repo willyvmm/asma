@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1010
+#  Total number of entries: 1013
 #
 ##############################################################################
 #
@@ -1160,6 +1160,9 @@ COMMENT: Forever 3 music compo entry.
 
 /Composers/Hudak_Matej/ElanLL02.sap
 COMMENT: Lato Ludzików 2002 music compo entry.
+
+/Composers/Hudak_Matej/Null_Cubic.sap
+COMMENT: 7th place at Forever 5 music compo.
 
 ### /Composers/Husak_Jakub ###################################################
 
@@ -2606,6 +2609,9 @@ COMMENT: Covers a song by a popular Slovak music band.
 /Composers/Sterba_Radek/Small_Stir.sap
 COMMENT: 1st place at Forever 1 music compo.
 
+/Composers/Sterba_Radek/Time_to_Turn.sap
+COMMENT: 5th place at Forever 5 music compo.
+
 /Composers/Sterba_Radek/Turrican_2_Experiment.sap
   TITLE: Turrican 2 - World 1, Tune #1 [from the Amiga game Turrican 2]
  ARTIST: Chris Huelsbeck
@@ -2642,6 +2648,9 @@ COMMENT: Music from the game 'Caveman' released by Mirage in 1993.
 /Composers/Swierszcz_Piotr/Flimbos_Quest_4.sap
   TITLE: Flimbo's Quest, Tune #1 [from the C64 game]
  ARTIST: Reyn Ouwehand
+
+/Composers/Swierszcz_Piotr/Forgotten_Sounds.sap
+COMMENT: 4th place at Forever 5 music compo.
 
 /Composers/Swierszcz_Piotr/Jimmy.sap
   TITLE: Jimmy Dean
