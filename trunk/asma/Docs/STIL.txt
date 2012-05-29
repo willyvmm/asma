@@ -237,11 +237,6 @@ COMMENT: Lato Ludzików 2002 music compo entry.
  ARTIST: Gershon Kingsley
 COMMENT: Cover of original ZX Spectrum version of "Whole" Soundtrack.
 
-### /Composers/Centy_Brown ###################################################
-
-/Composers/Centy_Brown/Flatfish.sap
-COMMENT: 6th place at Forever 5 music compo.
-
 ### /Composers/Checa_Funcke_Marco_Antonio ####################################
 
 /Composers/Checa_Funcke_Marco_Antonio/Kling_Gloeckchen.sap
@@ -3652,6 +3647,9 @@ COMMENT: Forever 2e3 music compo entry.
 
 /Misc/Epileptic_Duck.sap
 COMMENT: 2nd place at Winter Chip II (Best Pokey) music compo.
+
+/Misc/Flatfish.sap
+COMMENT: 6th place at Forever 5 music compo.
 
 /Misc/Huhi.sap
 COMMENT: 6th place at Winter Chip II (Best Pokey) music compo.
