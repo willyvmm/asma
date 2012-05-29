@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1035
+#  Total number of entries: 1038
 #
 ##############################################################################
 #
@@ -535,6 +535,9 @@ COMMENT: Covers a version made by Jogeir Liljedahl on the Amiga.
 /Composers/Eisenhammer_Zdenek/Mind_Blast_Ingame.sap
   TITLE: Stardust Memories [from the Amiga MOD module]
  ARTIST: Volker Tripp (Jester)
+
+/Composers/Eisenhammer_Zdenek/Phase_08.sap
+COMMENT: 2nd place at Forever 11 music compo.
 
 /Composers/Eisenhammer_Zdenek/Spellbound_Partial_Version.sap
   TITLE: Spellbound, Tune #1 [from the C64 game]
@@ -1819,6 +1822,9 @@ COMMENT: The title translates from Polish as "Escape from the tropic zone".
 /Composers/Lis_Piotr/I_Presume_Its_Funny.sap
 COMMENT: 3rd place at Forever 9 music compo.
 
+/Composers/Lis_Piotr/Jest_Sprawa.sap
+COMMENT: 3rd place at Forever 11 music compo.
+
 /Composers/Lis_Piotr/Gerappaaaaaa.sap
 COMMENT: 5th place at Forever 7 music compo.
 
@@ -2629,6 +2635,9 @@ COMMENT: Covers a popular Czech Christmas song.
 
 /Composers/Sterba_Radek/Im_sure.sap
 COMMENT: 1st place at Forever 9 music compo.
+
+/Composers/Sterba_Radek/ILM.sap
+COMMENT: 1st place at Forever 11 music compo.
 
 /Composers/Sterba_Radek/It_Doesnt_Matter.sap
 COMMENT: 2nd place at Forever 6 music compo.
