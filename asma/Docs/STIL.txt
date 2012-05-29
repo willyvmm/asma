@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1008
+#  Total number of entries: 1009
 #
 ##############################################################################
 #
@@ -2692,9 +2692,13 @@ COMMENT: Music from the game 'Grunwald 1410' released by Fire Bird in 1995.
 (#5)
    NAME: Seaside
 
+/Composers/Swierszcz_Piotr/Reverse_1.sap
+COMMENT: Music from the game 'Reverse' released by Mirage in 1993.
+
 /Composers/Swierszcz_Piotr/Reverse_2.sap
   TITLE: Dear Rob [from the Amiga MOD module]
  ARTIST: Frederick Hahn (Fred)
+COMMENT: Music from the game 'Reverse' released by Mirage in 1993.
 
 /Composers/Swierszcz_Piotr/Roxette.sap
   TITLE: Spending My Time [from Joyride]
