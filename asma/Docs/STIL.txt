@@ -922,8 +922,8 @@ COMMENT: Not a 100% cover, but very heavily inspired.
 COMMENT: 3rd place at QuaST party 1996 music compo.
 
 /Composers/Grayscale/Kwiatek_Grzegorz/So_Alone.sap
-COMMENT: Soundtrack from the demo 'Ultra' which won at Intel Outside 
-         #4 Copy Party in 1997.
+COMMENT: Soundtrack from the demo 'Ultra' which won at Intel Outside #4 Copy
+         Party in 1997.
 
 /Composers/Grayscale/Kwiatek_Grzegorz/Still_Alive.sap
 COMMENT: 3rd place at Forever 4 music compo.
@@ -932,12 +932,12 @@ COMMENT: 3rd place at Forever 4 music compo.
 COMMENT: 2nd place at QuaST party 1996 music compo.
 
 /Composers/Grayscale/Kwiatek_Grzegorz/Ultra.sap
-COMMENT: Soundtrack from the demo 'Ultra' which won at Intel Outside 
-         #4 Copy Party in 1997.
+COMMENT: Soundtrack from the demo 'Ultra' which won at Intel Outside #4 Copy
+         Party in 1997.
 
 /Composers/Grayscale/Kwiatek_Grzegorz/Ultrance.sap
-COMMENT: Soundtrack from the demo 'Ultra' which won at Intel Outside 
-         #4 Copy Party in 1997.
+COMMENT: Soundtrack from the demo 'Ultra' which won at Intel Outside #4 Copy
+         Party in 1997.
 
 ### /Composers/Grayscale/Sychowicz_Lukasz ####################################
 
@@ -1440,7 +1440,7 @@ COMMENT: Silesian Atari Open 1995 music compo entry.
  ARTIST: Jean Michel Jarre
 
 /Composers/Krawczyk_Adam/Turbican_1.sap
-  TITLE: Szukając Cienia [form Wolne Loty]
+  TITLE: Szukając Cienia [from Wolne Loty]
  ARTIST: Marek Biliński
 
 ### /Composers/Krix_Mario ####################################################
@@ -1851,7 +1851,7 @@ COMMENT: Music from the game 'U235' released by L.K. Avalon in 1992.
 
 /Composers/Majewski_Tomasz/Magic_Fly.sap
   TITLE: Magic Fly
- ARTIST: Didier Marouani (Ecama), Performed by Space
+ ARTIST: Didier Marouani (Ecama), performed by Space
 
 /Composers/Majewski_Tomasz/Mega_Player_151_Hidden_Mus.sap
   TITLE: MacGyver Theme [from the TV series]
@@ -2400,7 +2400,7 @@ COMMENT: Music from the game 'Neuroid' released by Sikor Soft in 1996.
 COMMENT: Music from the game 'Neuroid' released by Sikor Soft in 1996.
 
 /Composers/Radecki_Michal/Taniec_w_Zaczarowanym_Gaju.sap
-  TITLE: Taniec W Zaczarowanym Gaju [from Ogród Króla Switu]
+  TITLE: Taniec W Zaczarowanym Gaju [from Ogród Króla Świtu]
  ARTIST: Marek Biliński
 
 /Composers/Radecki_Michal/Zdzicho_z_Pola.sap
@@ -2486,7 +2486,7 @@ COMMENT: 11th place at Grayscale Music Competition II.
 
 /Composers/Skwiot_Stanislaw/Magia_Krysztalu.sap
 (#3)
-  TITLE: Marchewkowe pole [form O dwóch takich, co ukradli księżyc]
+  TITLE: Marchewkowe pole [from O dwóch takich, co ukradli księżyc]
  ARTIST: Jan Borysewicz (music), Andrzej Mogielnicki (lyrics), performed by Lady Pank.
 (#4)
   TITLE: Zaopiekuj się mna [from Serce]
@@ -3878,7 +3878,7 @@ COMMENT: English carol.
 /Unknown/AMS/Aquarius.sap
   TITLE: Ron and Tribe
  ARTIST: Aquarius
-COMMENT: Music form rock musical Hair.
+COMMENT: Music from rock musical Hair.
 
 /Unknown/AMS/Ave_Maria.sap
   TITLE: Ellens dritter Gesang [from Ellens Gesang III, D839, Op 52 no 6]
@@ -4376,7 +4376,7 @@ COMMENT: The title translates from Italian as "In the Blue Painted Blue",
 
 /Unknown/AMS/Wake_Me_Up_before_You_Go_G.sap
   TITLE: Wake Me Up Before You Go-Go [from Make It Big]
- ARTIST: Written by George Michael, Performed by Wham!
+ ARTIST: Written by George Michael, performed by Wham!
 
 /Unknown/AMS/We_Build_This_City.sap
   TITLE: We Built This City On Rock & Roll
