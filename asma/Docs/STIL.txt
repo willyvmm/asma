@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1006
+#  Total number of entries: 1007
 #
 ##############################################################################
 #
@@ -3275,6 +3275,10 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
 /Composers/Zuegner_Alfred/El_Condor_Pasa.sap
   TITLE: El Condor Pasa
  ARTIST: D. Robles and J. Milchberg
+
+/Composers/Zuegner_Alfred/In_the_Mood.sap
+  TITLE: In the Mood
+ ARTIST: Joe Garland
 
 /Composers/Zuegner_Alfred/Wreck_of_the_Old_Ninety_Se.sap
   TITLE: Wreck of the Old 97
