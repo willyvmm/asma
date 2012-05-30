@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1045
+#  Total number of entries: 1047
 #
 ##############################################################################
 #
@@ -1074,6 +1074,9 @@ COMMENT: 3rd place at Forever 5 music compo.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Synthy_Gambol.sap
 COMMENT: 1st place at QuaST party 2004 music compo.
+
+/Composers/Grayscale/Sychowicz_Lukasz/Time.sap
+COMMENT: 5th place at QuaST party 1996 music compo.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Yoomp.sap
 COMMENT: Music from the game 'Yoomp!' released in 2007.
@@ -2235,6 +2238,9 @@ COMMENT: Same as /Composers/Pesout_Marek/Alphaville.sap,
 
 /Composers/Przybyszewski_Krzysztof/
 COMMENT: BLB is short for Bloody Butcher.
+
+/Composers/Przybyszewski_Krzysztof/Happy_New_Year.sap
+COMMENT: 10th place at QuaST party 1996 music compo.
 
 ### /Composers/Pucinski_Rafal ################################################
 
