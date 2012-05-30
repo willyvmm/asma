@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1043
+#  Total number of entries: 1044
 #
 ##############################################################################
 #
@@ -3871,6 +3871,10 @@ COMMENT: This is not a complete cover.
 /Unknown/Pulstar.sap
   TITLE: Enola Gay [from Organisation]
  ARTIST: Orchestral Manoeuvres in the Dark (OMD)
+
+/Misc/Strangers_in_the_Night.sap
+  TITLE: Strangers in The Night
+ ARTIST: Frank Sinatra
 
 /Unknown/The_Great_Commandment.sap
   TITLE: The Great Commandment
