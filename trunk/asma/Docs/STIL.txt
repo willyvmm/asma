@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1044
+#  Total number of entries: 1045
 #
 ##############################################################################
 #
@@ -3540,11 +3540,15 @@ COMMENT: Apart from covering classical music, this also covers the arcade
   TITLE: Stawka większa niż życie [from the TV series](0:57)
  ARTIST: Jerzy Matuszkiewicz
 
+/Games/Inferno.sap
+  TITLE: The Entertainer
+ ARTIST: Scott Joplin
+
 /Games/James_Bond.sap
   TITLE: James Bond Theme [from the James Bond series of movies]
  ARTIST: Monty Norman
 
-/Games/King_Of_Killers.sap
+/Games/King_of_Killers.sap
   TITLE: Axel F [from the movie Beverly Hills Cop](0:30)
  ARTIST: Harold Faltermeyer
 COMMENT: This is not cover.
