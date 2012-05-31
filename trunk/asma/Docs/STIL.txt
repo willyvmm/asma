@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1047
+#  Total number of entries: 1049
 #
 ##############################################################################
 #
@@ -277,7 +277,7 @@ COMMENT: Music starts at 0:03.
 ### /Composers/Cierkonski_Michal #############################################
 
 /Composers/Cierkonski_Michal/Yo.sap
-COMMENT: QuaST Party 1996 music compo entry.
+COMMENT: 21th place at QuaST party 1996 music compo.
 
 ### /Composers/Cieslewicz_Tomasz #############################################
 
@@ -2256,7 +2256,7 @@ COMMENT: Silesian Atari Open 1995 music compo entry.
 COMMENT: Silesian Atari Open 1995 music compo entry.
 
 /Composers/Pucinski_Rafal/Rama.sap
-COMMENT: QuaST Party 1996 music compo entry.
+COMMENT: 17th place at QuaST party 1996 music compo.
 
 ### /Composers/Quack_Ralf_Thomas #############################################
 
@@ -3292,6 +3292,12 @@ COMMENT: Music from the game 'Terminator' released by Domain Software in 1993.
 /Composers/Vogt_Dariusz/Ballada_O_Januszku.sap
   TITLE: Main Theme [from the TV series Ballada o Januszku]
  ARTIST: Waldemar Kazanecki
+
+/Composers/Vogt_Dariusz/Music_1.sap
+COMMENT: 12th place at QuaST party 1996 music compo.
+
+/Composers/Vogt_Dariusz/Music_1.sap
+COMMENT: 16th place at QuaST party 1996 music compo.
 
 ### /Composers/Vybostok_Marian ###############################################
 
