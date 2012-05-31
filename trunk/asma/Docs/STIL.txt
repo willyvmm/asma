@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1056
+#  Total number of entries: 1057
 #
 ##############################################################################
 #
@@ -980,7 +980,7 @@ COMMENT: 1st place at Rush Hours 1997 music compo.
 /Composers/Grayscale/Sychowicz_Lukasz/Czarna_dziura_w_dupie.sap
   TITLE: Greensleeves
  ARTIST: Unknown
-COMMENT: 4th place at 24h Compo music compo.
+COMMENT: 3rd place at Atari Area 24h 'Black Lamp' music compo.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Draka.sap
 COMMENT: Inspired by /Composers/Adam_Gilmore/Draconus.sap
@@ -1096,6 +1096,7 @@ COMMENT: Music from the game 'Yoomp!' released in 2007.
 /Composers/Grayscale/Wasiel_Bartek/Dark_Lamp.sap
   TITLE: Greensleeves (0:00-0:12)
  ARTIST: Unknown
+COMMENT: 1st place at Atari Area 24h 'Black Lamp' music compo.
 
 /Composers/Grayscale/Wasiel_Bartek/Rastan.sap
   TITLE: Agressive World [from the arcade game Rastan Saga]
@@ -1286,7 +1287,7 @@ COMMENT: 4th place at Forever 12 music compo.
 /Composers/Iwaszko_Krystian/ZybexTHC.sap
   TITLE: Zybex, Tune #4
  ARTIST: Adam Gilmore
-COMMENT: 1st place at Atari Area 24H Compo Zybex.
+COMMENT: 1st place at Atari Area 24h 'Zybex' music compo.
 
 ### /Composers/Jastrzemski_Marcin ############################################
 
@@ -1380,7 +1381,7 @@ COMMENT: Lato Ludzików 2002 music compo entry.
 COMMENT: Lato Ludzików 2002 music compo entry.
 
 /Composers/Karwacki_Jakub/Yzbex.sap
-COMMENT: 2nd place at Atari Area 24H Compo Zybex.
+COMMENT: 2nd place at Atari Area 24h 'Zybex' music compo.
 
 ### /Composers/Karwoth_Torsten ###############################################
 
@@ -1845,6 +1846,9 @@ COMMENT: 3rd place at Forever 11 music compo.
 
 /Composers/Lis_Piotr/Gerappaaaaaa.sap
 COMMENT: 5th place at Forever 7 music compo.
+
+/Composers/Lis_Piotr/Lampa.sap
+COMMENT: 2nd place at Atari Area 24h 'Black Lamp' music compo.
 
 /Composers/Lis_Piotr/May_I_Win.sap
 COMMENT: 4th place at Forever 6 music compo.
@@ -2619,7 +2623,7 @@ COMMENT: 2nd place at Grayscale Music Competition I.
  ARTIST: Adam Gilmore
 
 /Composers/Sledz_Slawek/DigiDigiDomba_feat_Adam_Gi.sap
-COMMENT: 2nd place at Atari Area 24H Compo Zybex.
+COMMENT: 2nd place at Atari Area 24h 'Zybex' music compo.
 
 ### /Composers/Stanik_Krzysztof ##############################################
 
@@ -2740,7 +2744,7 @@ COMMENT: 1st place at Winter Chip II (Best Pokey) music compo.
  ARTIST: Matt Simmonds (4-Mat)
 
 /Composers/Swierszcz_Piotr/Byzex.sap
-COMMENT: 2nd place at Atari Area 24H Compo Zybex.
+COMMENT: 2nd place at Atari Area 24h 'Zybex' music compo.
 
 /Composers/Swierszcz_Piotr/Caveman.sap
 COMMENT: Music from the game 'Caveman' released by Mirage in 1993.
@@ -2827,7 +2831,8 @@ COMMENT: 1st place at QuaST party 1995 music compo.
 /Composers/Swierszcz_Piotr/White_Lamp.sap
   TITLE: Greensleeves
  ARTIST: Unknown
-COMMENT: Covers a version made by Richard Munns
+COMMENT: Covers a version made by Richard Munns. 2nd place at Atari Area 
+         24h 'Black Lamp' music compo.
 
 ### /Composers/Szmatola_Krzysztof ############################################
 
@@ -3114,7 +3119,7 @@ COMMENT: MIDI Conversions, except GAME OVER and LEVEL START tunes
 /Composers/Szpilowski_Michal/ZybeXXX.sap
   TITLE: Zybex, tune #1
  ARTIST: Adam Gilmore
-COMMENT: 2nd place at Atari Area 24H Compo Zybex.
+COMMENT: 2nd place at Atari Area 24h 'Zybex' music compo.
 
 ### /Composers/Szurgot_Robert ################################################
 
