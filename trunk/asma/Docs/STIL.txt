@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1049
+#  Total number of entries: 1055
 #
 ##############################################################################
 #
@@ -28,6 +28,9 @@ COMMENT: Same as /Composers/Armijo_Richard_J/Congrabalation_Mono.sap,
  ARTIST: Harold Faltermeyer
 
 ### /Composers/Badkowski_Marek ###############################################
+
+/Composers/Badkowski_Marek/Full_Shock.sap
+COMMENT: 19th place at QuaST party 1996 music compo.
 
 /Composers/Badkowski_Marek/Jade.sap
 COMMENT: 11th place at QuaST party 1996 music compo.
@@ -1912,6 +1915,9 @@ COMMENT: Music from the game 'U235' released by L.K. Avalon in 1992.
   TITLE: The Model [from The Man Machine]
  ARTIST: Kraftwerk
 
+/Composers/Majewski_Tomasz/Fog_in_the_Sky.sap
+COMMENT: 18th place at QuaST party 1996 music compo.
+
 /Composers/Majewski_Tomasz/Magic_Fly.sap
   TITLE: Magic Fly
  ARTIST: Didier Marouani (Ecama), performed by Space
@@ -1927,6 +1933,9 @@ COMMENT: Music from the game 'U235' released by L.K. Avalon in 1992.
 /Composers/Majewski_Tomasz/Reksio_Theme.sap
   TITLE: Title Theme [from the cartoon series Reksio]
  ARTIST: Zenon Kowalowski
+
+/Composers/Majewski_Tomasz/The_Escaper.sap
+COMMENT: 15th place at QuaST party 1996 music compo.
 
 ### /Composers/Makara_Grzegorz ###############################################
 
@@ -2086,6 +2095,9 @@ COMMENT: From an unknown Atari ST demo.
 /Composers/Numan_Daniel/Pentagram_4_Axel_F.sap
   TITLE: Axel F [from the movie Beverly Hills Cop]
  ARTIST: Harold Faltermeyer
+
+/Composers/Numan_Daniel/Psychodelic_Acied.sap
+COMMENT: 14th place at QuaST party 1996 music compo.
 
 /Composers/Numan_Daniel/Red_Sector.sap
 COMMENT: 6th place at QuaST party 1996 music compo.
@@ -2913,6 +2925,9 @@ COMMENT: Covers the MIDI conversion by Borgar Thorsteinsson (Oedipus).
   TITLE: End Theme [from the Amiga Soundtracker module]
  ARTIST: Karsten Obarski
 
+/Composers/Szpilowski_Michal/Hall_of_Rabarbadon.sap
+COMMENT: 22th place at QuaST party 1996 music compo.
+
 /Composers/Szpilowski_Michal/Isora.sap
 (#2)
   TITLE: Crystal Hammer [from the Amiga game]
@@ -3357,6 +3372,11 @@ COMMENT: 2nd place at Forever 9 music compo.
 /Composers/Wisniewski_Mateusz/Last_V8.sap
   TITLE: The Last V8, Tune #1 [from the C64 game]
  ARTIST: Rob Hubbard
+
+### /Composers/Witkiewicz_Dariusz ############################################
+
+/Composers/Witkiewicz_Dariusz/Van_1.sap
+COMMENT: 20th place at QuaST party 1996 music compo.
 
 ### /Composers/XLent #########################################################
 
