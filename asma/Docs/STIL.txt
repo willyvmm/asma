@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1055
+#  Total number of entries: 1056
 #
 ##############################################################################
 #
@@ -347,6 +347,9 @@ COMMENT: 7th place at QuaST party 1996 music compo.
 /Composers/Czartynski_Marcin/Heretic_Crew_Limited_Dem_3.sap
   TITLE: Dom w dolinie mgieł [from E=mc2]
  ARTIST: Marek Biliński
+
+Composers/Czartynski_Marcin/New.sap
+COMMENT: 13th place at QuaST party 1996 music compo.
 
 /Composers/Czartynski_Marcin/Outer_1.sap
 (#2)
