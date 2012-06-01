@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1064
+#  Total number of entries: 1080
 #
 ##############################################################################
 #
@@ -28,6 +28,9 @@ COMMENT: Same as /Composers/Armijo_Richard_J/Congrabalation_Mono.sap,
  ARTIST: Harold Faltermeyer
 
 ### /Composers/Badkowski_Marek ###############################################
+
+/Composers/Badkowski_Marek/Deafman.sap
+COMMENT: Silesian Atari Open party 1995 music compo entry.
 
 /Composers/Badkowski_Marek/Full_Shock.sap
 COMMENT: 19th place at QuaST party 1996 music compo.
@@ -933,6 +936,12 @@ COMMENT: 3rd place at QuaST party 1995 music compo.
  ARTIST: 2 Unlimited
 COMMENT: Not a 100% cover, but very heavily inspired.
 
+/Composers/Grayscale/Kwiatek_Grzegorz/Punk_Is_Not_Dead.sap
+COMMENT: Silesian Atari Open party 1995 music compo entry.
+
+/Composers/Grayscale/Kwiatek_Grzegorz/Sadness.sap
+COMMENT: Silesian Atari Open party 1995 music compo entry.
+
 /Composers/Grayscale/Kwiatek_Grzegorz/Sweet_Voice.sap
 COMMENT: 3rd place at QuaST party 1996 music compo.
 
@@ -956,6 +965,9 @@ COMMENT: Soundtrack from the demo 'Ultra' which won at Intel Outside #4 Copy
 
 /Composers/Grayscale/Kwiatek_Grzegorz/UnderTrencinPressure.sap
 COMMENT: 3rd place at Forever 6 music compo.
+
+/Composers/Grayscale/Kwiatek_Grzegorz/Voice_of_Silence.sap
+COMMENT: Silesian Atari Open party 1995 music compo entry.
 
 ### /Composers/Grayscale/Sychowicz_Lukasz ####################################
 
@@ -1057,6 +1069,9 @@ COMMENT: 8th place at QuaST party 1996 music compo.
 COMMENT: This song only uses 2 channels (used while loading) - try to recognize
          that.
 
+/Composers/Grayscale/Sychowicz_Lukasz/Pancerne_Trampki.sap
+COMMENT: Silesian Atari Open party 1995 music compo entry.
+
 /Composers/Grayscale/Sychowicz_Lukasz/Pilkarski_Poker.sap
 COMMENT: Music from the game 'Piłkarski Poker' released by Sikor Soft in 1995.
 
@@ -1072,6 +1087,9 @@ COMMENT: 1st place at QuaST party 1997 music compo. This song is a cooperation
 COMMENT: 1st place at Lato Ludzików 2002 music compo. This song is a
          cooperation between Łukasz Sychowicz and Piotr Świerszcz.
 
+/Composers/Grayscale/Sychowicz_Lukasz/Revenge_of_Bozon.sap
+COMMENT: Silesian Atari Open party 1995 music compo entry.
+
 /Composers/Grayscale/Sychowicz_Lukasz/Sandpit.sap
 COMMENT: 5th place at Forever 12 music compo.
 
@@ -1086,6 +1104,9 @@ COMMENT: 1st place at QuaST party 2004 music compo.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Time.sap
 COMMENT: 5th place at QuaST party 1996 music compo.
+
+/Composers/Grayscale/Sychowicz_Lukasz/Trance_of_Garnek.sap
+COMMENT: Silesian Atari Open party 1995 music compo entry.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Yoomp.sap
 COMMENT: Music from the game 'Yoomp!' released in 2007.
@@ -1300,6 +1321,12 @@ COMMENT: 1st place at Atari Area 24h 'Zybex' music compo.
 
 ### /Composers/Jastrzemski_Marcin ############################################
 
+/Composers/Jastrzemski_Marcin/Digital_Drum.sap
+COMMENT: Silesian Atari Open party 1995 music compo entry.
+
+/Composers/Jastrzemski_Marcin/Forest.sap
+COMMENT: Silesian Atari Open party 1995 music compo entry.
+
 /Composers/Jastrzemski_Marcin/Giana_Sisters_Remix.sap
   TITLE: The Great Giana Sisters [from the C64 game]
  ARTIST: Chris Huelsbeck
@@ -1405,6 +1432,9 @@ COMMENT: 2nd place at Atari Area 24h 'Zybex' music compo.
 ### /Composers/Kazimierczak_Leszek ###########################################
 
 /Composers/Kazimierczak_Leszek/Bad_Girl.sap
+COMMENT: Silesian Atari Open 1995 music compo entry.
+
+/Composers/Kazimierczak_Leszek/Under_The_Open.sap
 COMMENT: Silesian Atari Open 1995 music compo entry.
 
 ### /Composers/Kidaj_Andrzej #################################################
@@ -1990,6 +2020,9 @@ COMMENT: 15th place at QuaST party 1996 music compo.
 
 ### /Composers/Martin_Aleksander #############################################
 
+/Composers/Martin_Aleksander/Convention.sap
+COMMENT: Silesian Atari Open party 1995 music compo entry.
+
 /Composers/Martin_Aleksander/Max_Ingame.sap
 COMMENT: Music from the game 'Max' released in 1994.
 
@@ -2002,9 +2035,15 @@ COMMENT: Music from the game 'Max' released in 1994.
 /Composers/Martin_Aleksander/Max_Winner.sap
 COMMENT: Music from the game 'Max' released in 1994.
 
+/Composers/Martin_Aleksander/Orient.sap
+COMMENT: Silesian Atari Open party 1995 music compo entry.
+
 /Composers/Martin_Aleksander/Temptation.sap
   TITLE: Ob-La-Di, Ob-La-Da [from The Beatles]
  ARTIST: The Beatles
+
+/Composers/Martin_Aleksander/Troubles.sap
+COMMENT: Silesian Atari Open party 1995 music compo entry.
 
 ### /Composers/Martin_Chris ##################################################
 
@@ -2106,6 +2145,12 @@ COMMENT: 5th place at Forever 9 music compo.
 COMMENT: From an unknown Atari ST demo.
 
 ### /Composers/Numan_Daniel ##################################################
+
+/Composers/Numan_Daniel/It_Means_War.sap
+COMMENT: Silesian Atari Open party 1995 music compo entry.
+
+/Composers/Numan_Daniel/Motherfuckin_Bitch_Wodecka.sap
+COMMENT: Silesian Atari Open party 1995 music compo entry.
 
 /Composers/Numan_Daniel/Pentagram_2_Menu.sap
   TITLE: Hymn to Aurora [from the Amiga MOD module]
@@ -2945,6 +2990,9 @@ COMMENT: 6th place at Forever Reneg8 music compo.
 /Composers/Szpilowski_Michal/Dom_w_Dolinie_Mgiel.sap
   TITLE: Dom w dolinie mgieł [from E=mc2]
  ARTIST: Marek Biliński
+
+/Composers/Szpilowski_Michal/Earth_242.sap
+COMMENT: Silesian Atari Open party 1995 music compo entry.
 
 /Composers/Szpilowski_Michal/Enchanted_Land.sap
   TITLE: Ingame [from the Atari ST/Amiga game Enchanted Lands]
