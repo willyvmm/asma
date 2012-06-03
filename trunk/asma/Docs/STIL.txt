@@ -124,6 +124,9 @@ COMMENT: Same as /Composers/Bienias_Adam/Happy_Train_to_Kingdom_of.sap with digi
  ARTIST: Depeche Mode
 
 /Composers/Bienias_Adam/Invitro_Orneta_95.sap
+(#1)
+  TITLE: Monday [from the XM module]
+ ARTIST: Rez (Christophe Résigné)
 (#4)
 COMMENT: Same as /Composers/Bienias_Adam/Train.sap
 
