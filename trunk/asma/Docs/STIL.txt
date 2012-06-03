@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1080
+#  Total number of entries: 1087
 #
 ##############################################################################
 #
@@ -37,6 +37,15 @@ COMMENT: 19th place at QuaST party 1996 music compo.
 
 /Composers/Badkowski_Marek/Jade.sap
 COMMENT: 11th place at QuaST party 1996 music compo.
+
+/Composers/Badkowski_Marek/Paradise.sap
+COMMENT: 12th place at Shadows Party 1994 music compo.
+
+/Composers/Badkowski_Marek/Vacares.sap
+COMMENT: 6th place at Shadows Party 1994 music compo.
+
+/Composers/Badkowski_Marek/Wind.sap
+COMMENT: 10th place at Shadows Party 1994 music compo.
 
 ### /Composers/Banaszkiewicz_Marcin ##########################################
 
@@ -115,6 +124,9 @@ COMMENT: Music starts at 0:04.
 /Composers/Bienias_Adam/Haddaway.sap
   TITLE: What Is Love
  ARTIST: Haddaway
+
+/Composers/Bienias_Adam/Happy_Train_to_Kingdom_of.sap
+COMMENT: 2nd place at Shadows Party 1994 music compo.
 
 /Composers/Bienias_Adam/Happy_Train_to_Kin_Sampled.sap
 COMMENT: Same as /Composers/Bienias_Adam/Happy_Train_to_Kingdom_of.sap with digitized drums.
@@ -358,6 +370,8 @@ Composers/Czartynski_Marcin/New.sap
 COMMENT: 13th place at QuaST party 1996 music compo.
 
 /Composers/Czartynski_Marcin/Outer_1.sap
+(#1)
+COMMENT: 4th place at Shadows Party 1994 music compo.
 (#2)
   TITLE: Living on Video [from Living on Video]
  ARTIST: Trans-X
@@ -2135,7 +2149,7 @@ COMMENT: Same melody as /Composers/Matyasik_Krzysztof/Wolowinka.sap,
   TITLE: Yakety Sax [from Yakety Sax]
  ARTIST: James Rich & Boots Randolph
 COMMENT: Best known from as the title theme to the comedy TV series "The Benny
-         Hill Show".
+         Hill Show". 8th place at Shadows Party 1994 music compo.
 
 ### /Composers/Nedved_Vojtech ################################################
 
@@ -2672,6 +2686,12 @@ COMMENT: 11th place at Grayscale Music Competition II.
 /Composers/Skwiot_Stanislaw/Roxette.sap
   TITLE: Listen To Your Heart [from Look Sharp!]
  ARTIST: Roxette
+
+/Composers/Skwiot_Stanislaw/Stanley.sap
+COMMENT: 7th place at Shadows Party 1994 music compo.
+
+/Composers/Skwiot_Stanislaw/Stanley_2.sap
+COMMENT: 11th place at Shadows Party 1994 music compo.
 
 ### /Composers/Sledz_Slawek ##################################################
 
@@ -3838,6 +3858,9 @@ COMMENT: 6th place at Winter Chip II (Best Pokey) music compo.
  ARTIST: Bartosz Kalinowski (Bartman)
 COMMENT: Last Party 1998 music compo entry.
          Cover /Composers/Kalinowski_Bartosz/Zepi.sap
+
+/Misc/Nemesis.sap
+COMMENT: 9th place at Shadows Party 1994 music compo.
 
 /Misc/Ogloszenie.sap
   TITLE: Main Title [from the TV series Janosik] (0:23-0:45)
