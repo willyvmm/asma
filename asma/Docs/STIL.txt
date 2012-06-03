@@ -139,6 +139,12 @@ COMMENT: Same as /Composers/Bienias_Adam/Happy_Train_to_Kingdom_of.sap with digi
 (#1)
   TITLE: Monday [from the XM module]
  ARTIST: Rez (Christophe Résigné)
+(#2)
+  TITLE: Salute [from the Amiga MOD module]
+ ARTIST: <?>
+(#3)
+  TITLE: Foreign Sound [from the Amiga MOD module]
+ ARTIST: <?>
 (#4)
 COMMENT: Same as /Composers/Bienias_Adam/Train.sap
 
