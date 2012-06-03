@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1087
+#  Total number of entries: 1088
 #
 ##############################################################################
 #
@@ -3100,6 +3100,9 @@ COMMENT: Music from the game 'Nexus' released by Sikor Soft in 1996.
   TITLE: Lost Patrol Theme [from the Amiga game]
  ARTIST: Chris Glaister
 COMMENT: Music from the game 'Nexus' released by Sikor Soft in 1996.
+
+/Composers/Szpilowski_Michal/Party_info.sap
+COMMENT: 5th place at Shadows Party 1994 music compo.
 
 /Composers/Szpilowski_Michal/RSI_1.sap
   TITLE: Telephone <?> [from the Amiga MOD module]
