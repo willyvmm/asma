@@ -3107,7 +3107,7 @@ COMMENT: Music from the game 'Nexus' released by Sikor Soft in 1996.
  ARTIST: Chris Glaister
 COMMENT: Music from the game 'Nexus' released by Sikor Soft in 1996.
 
-/Composers/Szpilowski_Michal/Party_info.sap
+/Composers/Szpilowski_Michal/Party_Info.sap
 COMMENT: 5th place at Shadows Party 1994 music compo.
 
 /Composers/Szpilowski_Michal/RSI_1.sap
