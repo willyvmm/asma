@@ -38,6 +38,9 @@ COMMENT: 19th place at QuaST party 1996 music compo.
 /Composers/Badkowski_Marek/Jade.sap
 COMMENT: 11th place at QuaST party 1996 music compo.
 
+/Composers/Badkowski_Marek/Nemesis.sap
+COMMENT: 9th place at Shadows Party 1994 music compo.
+
 /Composers/Badkowski_Marek/Paradise.sap
 COMMENT: 12th place at Shadows Party 1994 music compo.
 
@@ -3867,9 +3870,6 @@ COMMENT: 6th place at Winter Chip II (Best Pokey) music compo.
  ARTIST: Bartosz Kalinowski (Bartman)
 COMMENT: Last Party 1998 music compo entry.
          Cover /Composers/Kalinowski_Bartosz/Zepi.sap
-
-/Misc/Nemesis.sap
-COMMENT: 9th place at Shadows Party 1994 music compo.
 
 /Misc/Ogloszenie.sap
   TITLE: Main Title [from the TV series Janosik] (0:23-0:45)
