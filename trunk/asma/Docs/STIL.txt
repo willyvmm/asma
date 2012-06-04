@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1088
+#  Total number of entries: 1092
 #
 ##############################################################################
 #
@@ -244,6 +244,25 @@ COMMENT: Music from the game 'Spy Master' released by L.K. Avalon in 1993.
 
 /Composers/Brzezicki_Michal/Cropky.sap
 COMMENT: Music from the game 'Cropky' released in 2011.
+(#1)
+  TITLE: Cheri Cheri Lady [from Let's Talk About Love] (0:00 - 0:15)
+ ARTIST: Modern Talking
+  TITLE: Sweet Dreams (are made of this) [from Sweet Dreams] (0:16 - 0:42)
+ ARTIST: Eurythmics
+  TITLE: Only You (0:43 - 1:14)
+ ARTIST: Roberto Zanetti (Savage)
+(#2)
+  TITLE: It's a Sin [from Actually] (0:00 - 1:11)
+ ARTIST: Pet Shop Boys
+(#3)
+  TITLE: Voyage Voyage [from Francois] (0:00 - 1:55)
+ ARTIST: Desireless
+(#4)
+  TITLE: Boys (Summertime Love) [from Sabrina] (0:00 - 1:17)
+ ARTIST: Sabrina Salerno
+(#5)
+  TITLE: Touch Me [from Samantha Fox] (0:00 - 0:16)
+ ARTIST: Samantha Fox
 
 /Composers/Brzezicki_Michal/Octopus.sap
 COMMENT: Music from the game 'Octopus' released in 2011.
