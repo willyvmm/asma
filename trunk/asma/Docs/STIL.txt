@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1092
+#  Total number of entries: 1122
 #
 ##############################################################################
 #
@@ -1892,9 +1892,27 @@ COMMENT: Music from the game 'Tekblast' released by Sikor Soft in 1998.
   TITLE: Secret Land [from Into a Secret Land]
  ARTIST: Sandra Cretu
 
+/Composers/Liebich_Tomasz/Aurum.sap
+COMMENT: Music from the game 'Aurum' released by L.K. Avalon in 1993.
+
 /Composers/Liebich_Tomasz/Bilinski.sap
   TITLE: Dom w dolinie mgieł [from E=mc2]
  ARTIST: Marek Biliński
+
+/Composers/Liebich_Tomasz/Dark_Abyss.sap
+COMMENT: Music from the game 'Dark Abbys' released by Mirage in 1993.
+
+/Composers/Liebich_Tomasz/Deimos.sap
+COMMENT: Music from the game 'Deimos' released by Sonix in 1993.
+
+/Composers/Liebich_Tomasz/Fluid_Kha_Ingame.sap
+COMMENT: Music from the game 'Fluid - Kha' released in 1993.
+
+/Composers/Liebich_Tomasz/Fluid_Kha_Intro.sap
+COMMENT: Music from the game 'Fluid - Kha' released in 1993.
+
+/Composers/Liebich_Tomasz/Fluid_Kha_Title.sap
+COMMENT: Music from the game 'Fluid - Kha' released in 1993.
 
 /Composers/Liebich_Tomasz/Fucked_Vocabulary.sap
   TITLE: Crockett's Theme [from the TV series Miami Vice] (0:45)
@@ -1906,9 +1924,63 @@ COMMENT: Music from the game 'Tekblast' released by Sikor Soft in 1998.
   TITLE: Alf Theme [from the TV series]
  ARTIST: Tom Kramer & Alf Clausen
 
+/Composers/Liebich_Tomasz/Hawkmoon.sap
+COMMENT: Music from the game 'Hawkmoon' released by L.K. Avalon in 1993.
+
+/Composers/Liebich_Tomasz/Lowca.sap
+COMMENT: Music from the game 'Łowca' released by Krysal in 1993.
+
+/Composers/Liebich_Tomasz/Master_Head.sap
+COMMENT: Music from the game 'Master Head' released by Sonix in 1992.
+
+/Composers/Liebich_Tomasz/Master_Head_Ingame.sap
+COMMENT: Music from the game 'Master Head' released by Sonix in 1992.
+
+/Composers/Liebich_Tomasz/Master_Head_The_End.sap
+COMMENT: Music from the game 'Master Head' released by Sonix in 1992.
+
+/Composers/Liebich_Tomasz/Master_Head_Winner.sap
+COMMENT: Music from the game 'Master Head' released by Sonix in 1992.
+
+/Composers/Liebich_Tomasz/Piekielko_1.sap
+COMMENT: Music from the game 'Piekiełko' released by L.K. Avalon in 1992.
+
+/Composers/Liebich_Tomasz/Piekielko_2.sap
+COMMENT: Music from the game 'Piekiełko' released by L.K. Avalon in 1992.
+
+/Composers/Liebich_Tomasz/Rucu.sap
+COMMENT: Music from the game 'Rucu' released by L.K. Avalon in 1992.
+
 /Composers/Liebich_Tomasz/Sky_Computer_Network.sap
   TITLE: Fourth Rendez-vous [from Rendez-vous]
  ARTIST: Jean Michel Jarre
+
+/Composers/Liebich_Tomasz/Smus.sap
+COMMENT: Music from the game 'Smuś' released by L.K. Avalon in 1993.
+
+/Composers/Liebich_Tomasz/Snowball.sap
+COMMENT: Music from the game 'Snowball' released by L.K. Avalon in 1993.
+
+/Composers/Liebich_Tomasz/Snowball_Ingame.sap
+COMMENT: Music from the game 'Snowball' released by L.K. Avalon in 1993.
+
+/Composers/Liebich_Tomasz/Tank_vs_Tank.sap
+COMMENT: Music from the game 'Tank vs Tank' released by Mirage in 1993.
+
+/Composers/Liebich_Tomasz/Tank_vs_Tank_Ingame.sap
+COMMENT: Music from the game 'Tank vs Tank' released by Mirage in 1993.
+
+/Composers/Liebich_Tomasz/Technus.sap
+COMMENT: Music from the game 'Technus' released by L.K. Avalon in 1993.
+
+/Composers/Liebich_Tomasz/Technus_Intro.sap
+COMMENT: Music from the game 'Technus' released by L.K. Avalon in 1993.
+
+/Composers/Liebich_Tomasz/Technus_Title.sap
+COMMENT: Music from the game 'Technus' released by L.K. Avalon in 1993.
+
+/Composers/Liebich_Tomasz/Tusker.sap
+COMMENT: Music from the game 'Tusker' released by Mirage in 1993.
 
 /Composers/Liebich_Tomasz/Ucieczka.sap
   TITLE: Ucieczka z tropiku [from Ucieczka do tropiku]
@@ -1916,6 +1988,24 @@ COMMENT: Music from the game 'Tekblast' released by Sikor Soft in 1998.
 COMMENT: The title translates from Polish as "Escape from the tropic zone".
          Marek Biliński was some kind of a Polish J. M. Jarre, and had a string
          of instrumental hits back in the 80's.
+
+/Composers/Liebich_Tomasz/Vicky_Game_Over.sap
+COMMENT: Music from the game 'Vicky' released by L.K. Avalon in 1992.
+
+/Composers/Liebich_Tomasz/Vicky_Ingame.sap
+COMMENT: Music from the game 'Vicky' released by L.K. Avalon in 1992.
+
+/Composers/Liebich_Tomasz/Vicky_Intro.sap
+COMMENT: Music from the game 'Vicky' released by L.K. Avalon in 1992.
+
+/Composers/Liebich_Tomasz/Vicky_Title.sap
+COMMENT: Music from the game 'Vicky' released by L.K. Avalon in 1992.
+
+/Composers/Liebich_Tomasz/Vicky_Victory.sap
+COMMENT: Music from the game 'Vicky' released by L.K. Avalon in 1992.
+
+/Composers/Liebich_Tomasz/Wloczykij.sap
+COMMENT: Music from the game 'Włóczykij' released by L.K. Avalon in 1993.
 
 ### /Composers/Lis_Piotr #####################################################
 
