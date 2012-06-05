@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1122
+#  Total number of entries: 1139
 #
 ##############################################################################
 #
@@ -1272,6 +1272,15 @@ COMMENT: 7th place at Forever 5 music compo.
 /Composers/Husak_Jakub/Aquanaut.sap
 COMMENT: Made using The Software Synthesizer "Softsynth".
 
+/Composers/Husak_Jakub/Bank_Bang.sap
+COMMENT: Music from the game 'Bank Bang!' released by Mirage in 1992.
+
+/Composers/Husak_Jakub/Bank_Bang_Ingame.sap
+COMMENT: Music from the game 'Bank Bang!' released by Mirage in 1992.
+
+/Composers/Husak_Jakub/Barbarian.sap
+COMMENT: Music from the game 'Barbarian' released by L.K. Avalon in 1993.
+
 /Composers/Husak_Jakub/Battle_Ships.sap
 (#1)
   TITLE: Battle Ships, Tune #1 [from the C64 game]
@@ -1281,6 +1290,9 @@ COMMENT: Made using The Software Synthesizer "Softsynth".
   TITLE: Do You Want to Dance with Me?
  ARTIST: Alphaville
 COMMENT: Made using The Software Synthesizer "Softsynth".
+
+/Composers/Husak_Jakub/Duch.sap
+COMMENT: Music from the game 'Duch' released by Mirage in 1992.
 
 /Composers/Husak_Jakub/Extreme_Night.sap
 COMMENT: 10th place at SillyVenture 2011 music compo.
@@ -1293,19 +1305,58 @@ COMMENT: 10th place at SillyVenture 2011 music compo.
   TITLE: Musik Non Stop
  ARTIST: Kraftwerk
 
+/Composers/Husak_Jakub/Helix.sap
+COMMENT: Music from the game 'Helix' released by Mirage in 1993.
+
+/Composers/Husak_Jakub/Inside.sap
+COMMENT: Music from the game 'Inside' released by Spektra in 1990.
+
 /Composers/Husak_Jakub/Kim_Wilde.sap
   TITLE: Cambodia [from Select]
  ARTIST: Kim Wilde
 COMMENT: Made using The Software Synthesizer "Softsynth".
+
+/Composers/Husak_Jakub/Ksiaze.sap
+COMMENT: Music from the game 'Książe' released by Mirage in 1994.
+
+/Composers/Husak_Jakub/Problem_Jasia_Ingame.sap
+COMMENT: Music from the game 'Problem Jasia' released by Mirage in 1992.
+
+/Composers/Husak_Jakub/Problem_Jasia_Signatures.sap
+COMMENT: Music from the game 'Problem Jasia' released by Mirage in 1992.
+
+/Composers/Husak_Jakub/Problem_Jasia_Title.sap
+COMMENT: Music from the game 'Problem Jasia' released by Mirage in 1992.
+
+/Composers/Husak_Jakub/Raszyn_1809.sap
+COMMENT: Music from the game 'Raszyn 1809' released by Mirage in 1992.
+
+/Composers/Husak_Jakub/Rycerz.sap
+COMMENT: Music from the game 'Rycerz' released by Mirage in 1993.
 
 /Composers/Husak_Jakub/Schlecht_Korrekt.sap
   TITLE: Das Modell [from The Man Machine]
  ARTIST: Kraftwerk
 COMMENT: Made using The Software Synthesizer "Softsynth".
 
+/Composers/Husak_Jakub/Super_Fortuna.sap
+COMMENT: Music from the game 'Super Fortuna' released by Mirage in 1993.
+
 /Composers/Husak_Jakub/Swiaszczennaja_Wojna.sap
   TITLE: Swiaszczennaja Wojna
  ARTIST: Aleksander Aleksandrow (music), Wasilij Lebiediew-Kumacz (lyrics).
+
+/Composers/Husak_Jakub/Tanks.sap
+COMMENT: Music from the game 'Tanks' released by Kober in 1991.
+
+/Composers/Husak_Jakub/Thinker_1.sap
+COMMENT: Music from the game 'Thinker' released by Mirage in 1992.
+
+/Composers/Husak_Jakub/Thinker_2.sap
+COMMENT: Music from the game 'Thinker' released by Mirage in 1992.
+
+/Composers/Husak_Jakub/Tron.sap
+COMMENT: Music from the game 'Tron' released by Mirage in 1992.
 
 /Composers/Husak_Jakub/Your_Body_My_Body.sap
   TITLE: Let's All Chant [from Let's All Chant]
