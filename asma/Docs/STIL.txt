@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1146
+#  Total number of entries: 1154
 #
 ##############################################################################
 #
@@ -911,9 +911,33 @@ COMMENT: 1st place at Shadows Party 1994 music compo.
 /Composers/Galinski_Adrian/Bells.sap
 COMMENT: 3rd place at Shadows Party 1994 music compo.
 
+/Composers/Galinski_Adrian/Crypts_of_Egypt.sap
+COMMENT: Music from the game 'Crypts of Egypt' released by Mirage in 1994.
+
+/Composers/Galinski_Adrian/Crypts_of_Egypt_Ingame.sap
+COMMENT: Music from the game 'Crypts of Egypt' released by Mirage in 1994.
+
+/Composers/Galinski_Adrian/Drop_It.sap
+COMMENT: Music from the game 'Drop It' released by Sonix in 1993.
+
+/Composers/Galinski_Adrian/Guard.sap
+COMMENT: Music from the game 'Guard' released by Sonix in 1992.
+
 /Composers/Galinski_Adrian/Intel_Outside_Intro.sap
   TITLE: Oxygene 4 [from Oxygene]
  ARTIST: Jean Michel Jarre
+
+/Composers/Galinski_Adrian/Midnight.sap
+COMMENT: Music from the game 'Midnight' released by Mirage in 1992.
+
+/Composers/Galinski_Adrian/Rockman.sap
+COMMENT: Music from the game 'Rockman' released by Mirage in 1995.
+
+/Composers/Galinski_Adrian/Special_Forces.sap
+COMMENT: Music from the game 'Special Forces' released by Mirage in 1993.
+
+/Composers/Galinski_Adrian/Special_Forces_2.sap
+COMMENT: Music from the game 'Special Forces' released by Mirage in 1993.
 
 ### /Composers/Gilbertson_Gary ###############################################
 
