@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1157
+#  Total number of entries: 1160
 #
 ##############################################################################
 #
@@ -2836,6 +2836,17 @@ COMMENT: 8th place at SillyVenture 2011 music compo.
 
 /Composers/Roemer_Markus/Way_You_Are.sap
 COMMENT: 6th place at Grayscale Music Competition II.
+
+### /Composers/Rosolek_Maciej ################################################
+
+/Composers/Rosolek_Maciej/Magia_Fortuny_Ingame.sap
+COMMENT: Music from the game 'Magia Fortuny' released by ASF in 1993.
+
+/Composers/Rosolek_Maciej/Magia_Fortuny_Intro.sap
+COMMENT: Music from the game 'Magia Fortuny' released by ASF in 1993.
+
+/Composers/Rosolek_Maciej/Magia_Fortuny_Title.sap
+COMMENT: Music from the game 'Magia Fortuny' released by ASF in 1993.
 
 ### /Composers/Roszkowski_Marek ##############################################
 
