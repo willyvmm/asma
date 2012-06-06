@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1184
+#  Total number of entries: 1187
 #
 ##############################################################################
 #
@@ -1225,6 +1225,17 @@ COMMENT: Cover the version by Martin Galway from game C64 Rastan, Tune #2.
 /Composers/Grayscale/Wasiel_Bartek/Zybex.sap
   TITLE: Zybex, Tune #4
  ARTIST: Adam Gilmore
+
+### /Composers/Grzyb_Janusz ##################################################
+
+/Composers/Grzyb_Janusz/Around_the_Planet.sap
+COMMENT: Music from the game 'Around the Planet' released by Mirage in 1994.
+
+/Composers/Grzyb_Janusz/Around_the_Planet_Ingame.sap
+COMMENT: Music from the game 'Around the Planet' released by Mirage in 1994.
+
+/Composers/Grzyb_Janusz/Around_the_Planet_Intro.sap
+COMMENT: Music from the game 'Around the Planet' released by Mirage in 1994.
 
 ### /Composers/Hay_Adam ######################################################
 
