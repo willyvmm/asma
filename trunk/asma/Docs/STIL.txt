@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1160
+#  Total number of entries: 1171
 #
 ##############################################################################
 #
@@ -2468,14 +2468,50 @@ COMMENT: This tune comes from the cracktro of Amiga version of "Mortal
   TITLE: Blue Monday
  ARTIST: New Order
 
+/Composers/Pelc_Janusz/Captain_Gather.sap
+COMMENT: Music from the game 'Captain Gather' released by L.K. Avalon in 1992.
+
+/Composers/Pelc_Janusz/Captain_Gather_Ingame.sap
+COMMENT: Music from the game 'Captain Gather' released by L.K. Avalon in 1992.
+
+/Composers/Pelc_Janusz/Dagobar.sap
+COMMENT: Music from the game 'Dagobar' released by L.K. Avalon in 1993.
+
+/Composers/Pelc_Janusz/Dagobar_Game_Over.sap
+COMMENT: Music from the game 'Dagobar' released by L.K. Avalon in 1993.
+
+/Composers/Pelc_Janusz/Dagobar_Ingame_1.sap
+COMMENT: Music from the game 'Dagobar' released by L.K. Avalon in 1993.
+
+/Composers/Pelc_Janusz/Dagobar_Ingame_2.sap
+COMMENT: Music from the game 'Dagobar' released by L.K. Avalon in 1993.
+
+/Composers/Pelc_Janusz/Dagobar_Ingame_3.sap
+COMMENT: Music from the game 'Dagobar' released by L.K. Avalon in 1993.
+
 /Composers/Pelc_Janusz/Enola.sap
   TITLE: Enola Gay [from Organisation]
  ARTIST: Orchestral Manoeuvres in the Dark (OMD)
 
+/Composers/Pelc_Janusz/Fred.sap
+COMMENT: Music from the game 'Fred' released by L.K. Avalon in 1990.
+
 /Composers/Pelc_Janusz/Lasermania.sap
+COMMENT: Music from the game 'Lasermania' released by L.K. Avalon in 1990.
 (#1)
   TITLE: Touched By The Hand Of God [from Rest Of New Order]
  ARTIST: New Order
+
+/Composers/Pelc_Janusz/Misja.sap
+COMMENT: Music from the game 'Misja' released by L.K. Avalon in 1990.
+
+/Composers/Pelc_Janusz/Trix.sap
+COMMENT: Music from the game 'Trix' released by L.K. Avalon in 1992.
+
+/Composers/Pelc_Janusz/Trix_Ingame.sap
+  TITLE: A Forest [from Seventeen Seconds]
+ ARTIST: The Cure
+COMMENT: Music from the game 'Trix' released by L.K. Avalon in 1992.
 
 /Composers/Pelc_Janusz/Try.sap
 COMMENT: One of the demo songs that came with Chaos Music Composer.
