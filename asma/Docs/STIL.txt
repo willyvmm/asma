@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1180
+#  Total number of entries: 1184
 #
 ##############################################################################
 #
@@ -1278,6 +1278,20 @@ COMMENT: The Atari version was made by Adam, with tweaks made by Sean.
 /Composers/Hay_Adam/Smells_Like_Teen_Spirit.sap
   TITLE: Smells Like Teen Spirit [from Nevermind]
  ARTIST: Nirvana
+
+### /Composers/Holda_Leszek ##################################################
+
+/Composers/Holda_Leszek/Klatwa.sap
+COMMENT: Music from the game 'Klątwa' released by L.K. Avalon in 1992.
+
+/Composers/Holda_Leszek/Klatwa_Ingame.sap
+COMMENT: Music from the game 'Klątwa' released by L.K. Avalon in 1992.
+
+/Composers/Holda_Leszek/Wladcy_Ciemnosci.sap
+COMMENT: Music from the game 'Władcy Ciemności' released by L.K. Avalon in 1993.
+
+/Composers/Holda_Leszek/Wladcy_Ciemnosci_Ingame.sap
+COMMENT: Music from the game 'Władcy Ciemności' released by L.K. Avalon in 1993.
 
 ### /Composers/Hubbard_Rob ###################################################
 
