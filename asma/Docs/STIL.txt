@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1187
+#  Total number of entries: 1196
 #
 ##############################################################################
 #
@@ -976,10 +976,38 @@ COMMENT: Lato Ludzików 2002 music compo entry.
 
 ### /Composers/Grad_Jacek ####################################################
 
+/Composers/Grad_Jacek/Artefakt_Przodkow.sap
+COMMENT: Music from the game 'Artefakt Przodków' released by ASF in 1992.
+
+/Composers/Grad_Jacek/Drutt.sap
+COMMENT: Music from the game 'Drutt' released by ASF in 1992.
+
+/Composers/Grad_Jacek/Dwie_Wieze.sap
+COMMENT: Music from the game 'Dwie Wieże' released by ASF in 1993.
+
 /Composers/Grad_Jacek/Fatum.sap
+COMMENT: Music from the game 'Fatum' released by ASF in 1993.
 (#2)
   TITLE: unit5 [from the Amiga MOD module]
  ARTIST: Alexander S. Kunz (Neurodancer)
+
+/Composers/Grad_Jacek/Fatum_Ingame.sap
+COMMENT: Music from the game 'Fatum' released by ASF in 1993.
+
+/Composers/Grad_Jacek/Fatum_Intro.sap
+COMMENT: Music from the game 'Fatum' released by ASF in 1993.
+
+/Composers/Grad_Jacek/Muff_1.sap
+COMMENT: Music from the game 'Muff' released by ASF in 1992.
+
+/Composers/Grad_Jacek/Muff_2.sap
+COMMENT: Music from the game 'Muff' released by ASF in 1992.
+
+/Composers/Grad_Jacek/Muff_3.sap
+COMMENT: Music from the game 'Muff' released by ASF in 1992.
+
+/Composers/Grad_Jacek/Muff_3_Mix.sap
+COMMENT: Same as /Composers/Grad_Jacek/Muff_3.sap
 
 ### /Composers/Grayscale  ####################################################
 
