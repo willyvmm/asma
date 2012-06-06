@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1140
+#  Total number of entries: 1146
 #
 ##############################################################################
 #
@@ -453,17 +453,32 @@ COMMENT: Covers the main theme from the arcade game.
   TITLE: Enlightenment: Druid II, Tune #3 [from the C64 game]
  ARTIST: David Hanlon
 
+/Composers/Dojwa_Jacek/Hydraulik.sap
+COMMENT: Music from the game 'Hydraulik' released by ASF in 1993.
+
+/Composers/Dojwa_Jacek/Hydraulik_Ingame.sap
+COMMENT: Music from the game 'Hydraulik' released by ASF in 1993.
+
 /Composers/Dojwa_Jacek/Jumping_Jack.sap
+COMMENT: Music from the game 'Jumping Jack' released by ASF in 1993.
 (#1)
   TITLE: Moonlight Shadow [from Crises]
  ARTIST: Mike Oldfield & Simon Philips
 
+/Composers/Dojwa_Jacek/Jumping_Jack_Ingame.sap
+COMMENT: Music from the game 'Jumping Jack' released by ASF in 1993.
+
 /Composers/Dojwa_Jacek/Micro_Man.sap
+COMMENT: Music from the game 'Micro Man' released by ASF in 1993.
 (#6)
   TITLE: Living on Video [from Living on Video]
  ARTIST: Trans-X
 
+/Composers/Dojwa_Jacek/Micro_Man_Ingame.sap
+COMMENT: Music from the game 'Micro Man' released by ASF in 1993.
+
 /Composers/Dojwa_Jacek/Pang.sap
+COMMENT: Music from the game 'Pang' released by ASF in 1993.
 (#3)
   TITLE: Heart [from Actually] (0:00-0:15)
  ARTIST: Pet Shop Boys
@@ -471,10 +486,18 @@ COMMENT: Covers the main theme from the arcade game.
 /Composers/Dojwa_Jacek/Trisz_Divinis.sap
   TITLE: megaforce02 [from the Amiga MOD module]
  ARTIST: Heiko (Luxor)
+COMMENT: Music from the game 'Trisz Divinis' released by ASF in 1993.
+
+/Composers/Dojwa_Jacek/Trisz_Divinis_End.sap
+COMMENT: Music from the game 'Trisz Divinis' released by ASF in 1993.
+
+/Composers/Dojwa_Jacek/Trisz_Divinis_Game_Over.sap
+COMMENT: Music from the game 'Trisz Divinis' released by ASF in 1993.
 
 /Composers/Dojwa_Jacek/Trisz_Divinis_Ingame.sap
   TITLE: bootup [from the Amiga game Lotus Turbo Challenge II]
  ARTIST: Barry Leitch
+COMMENT: Music from the game 'Trisz Divinis' released by ASF in 1993.
 
 ### /Composers/Drozdowski_Marek ##############################################
 
