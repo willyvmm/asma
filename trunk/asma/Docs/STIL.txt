@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1139
+#  Total number of entries: 1140
 #
 ##############################################################################
 #
@@ -3613,6 +3613,12 @@ COMMENT: Performed by John Travolta/Olivia Newton John & cast.
          Not a 100% cover, but very heavily inspired.
 
 ### /Composers/Wasilewski_Dariusz ############################################
+
+/Composers/Wasilewski_Dariusz/Buu_Sampled.sap
+  TITLE: Buu [from the Atari XE/XL POKEY]
+ ARTIST: Dariusz Wasilewski (Trener)
+COMMENT: Same melody as /Composers/Wasilewski_Dariusz/Buu.sap,
+         but with added digi drums.
 
 /Composers/Wasilewski_Dariusz/Koto.sap
   TITLE: I Like Chopin
