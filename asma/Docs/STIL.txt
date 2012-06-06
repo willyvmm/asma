@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1171
+#  Total number of entries: 1174
 #
 ##############################################################################
 #
@@ -2334,10 +2334,20 @@ COMMENT: Same melody as /Composers/Matyasik_Krzysztof/Wolowinka.sap,
 
 ### /Composers/Mikolajczak_Pawel #############################################
 
+/Composers/Mikolajczak_Pawel/Jaffar.sap
+COMMENT: Music from the game 'Jaffar' released by Mirage in 1993.
+
 /Composers/Mikolajczak_Pawel/Janosik.sap
+COMMENT: Music from the game 'Janosik' released by Mirage in 1994.
 (#1)
   TITLE: Main Title [from the TV series Janosik]
  ARTIST: Jerzy Matuszkiewicz
+
+/Composers/Mikolajczak_Pawel/Magia.sap
+COMMENT: Music from the game 'Magia' released by Mirage in 1993.
+
+/Composers/Mikolajczak_Pawel/Zbir.sap
+COMMENT: Music from the game 'Zbir' released by Mirage in 1993.
 
 ### /Composers/Mrozowski_Robert ##############################################
 
