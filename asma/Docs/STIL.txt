@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1154
+#  Total number of entries: 1157
 #
 ##############################################################################
 #
@@ -3703,6 +3703,17 @@ COMMENT: 2nd place at Forever 9 music compo.
 
 /Composers/Witkiewicz_Dariusz/Van_1.sap
 COMMENT: 20th place at QuaST party 1996 music compo.
+
+### /Composers/Witkowski_Przemyslaw ##########################################
+
+/Composers/Witkowski_Przemyslaw/Adax.sap
+COMMENT: Music from the game 'Adax' released by L.K. Avalon in 1992.
+
+/Composers/Witkowski_Przemyslaw/Adax_Ingame.sap
+COMMENT: Music from the game 'Adax' released by L.K. Avalon in 1992.
+
+/Composers/Witkowski_Przemyslaw/Upior.sap
+COMMENT: Music from the game 'Upiór' released by L.K. Avalon in 1992.
 
 ### /Composers/XLent #########################################################
 
