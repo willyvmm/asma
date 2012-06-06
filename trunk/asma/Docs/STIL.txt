@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1196
+#  Total number of entries: 1200
 #
 ##############################################################################
 #
@@ -973,6 +973,20 @@ COMMENT: Last Party 1998 music compo entry.
 
 /Composers/Gora_Jakub/Return.sap
 COMMENT: Lato Ludzików 2002 music compo entry.
+
+### /Composers/Grabowski_Pawel ###############################################
+
+/Composers/Grabowski_Pawel/IQ_Master.sap
+COMMENT: Music from the game 'IQ Master' released by ASF in 1992.
+
+/Composers/Grabowski_Pawel/Kult.sap
+COMMENT: Music from the game 'Kult' released by ASF in 1992.
+
+/Composers/Grabowski_Pawel/Monstrum.sap
+COMMENT: Music from the game 'Monstrum' released by ASF in 1992.
+
+/Composers/Grabowski_Pawel/Skarbnik.sap
+COMMENT: Music from the game 'Skarbnik' released by ASF in 1992.
 
 ### /Composers/Grad_Jacek ####################################################
 
