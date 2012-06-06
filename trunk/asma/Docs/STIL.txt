@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1174
+#  Total number of entries: 1180
 #
 ##############################################################################
 #
@@ -2178,6 +2178,26 @@ COMMENT: Music from the game 'U235' released by L.K. Avalon in 1992.
   TITLE: Last Ninja 2 (Central Park Loader) [from the C64 game]
  ARTIST: Matt Gray
 COMMENT: Music from the game 'U235' released by L.K. Avalon in 1992.
+
+### /Composers/Luszcz_Tomasz #################################################
+
+/Composers/Luszcz_Tomasz/Najemnik.sap
+COMMENT: Music from the game 'Najemnik' released by Krysal in 1992.
+
+/Composers/Luszcz_Tomasz/Najemnik_Powrot.sap
+COMMENT: Music from the game 'Najemnik Powrót' released by Krysal in 1993.
+
+/Composers/Luszcz_Tomasz/Samurais_Game.sap
+COMMENT: Music from the game 'Samurai's Game' released by Krysal in 1992.
+
+/Composers/Luszcz_Tomasz/Samurais_Game_Ingame_1.sap
+COMMENT: Music from the game 'Samurai's Game' released by Krysal in 1992.
+
+/Composers/Luszcz_Tomasz/Samurais_Game_Ingame_2.sap
+COMMENT: Music from the game 'Samurai's Game' released by Krysal in 1992.
+
+/Composers/Luszcz_Tomasz/Wladca.sap
+COMMENT: Music from the game 'Władca' released by Mirage in 1993.
 
 ### /Composers/Majewski_Tomasz ###############################################
 
