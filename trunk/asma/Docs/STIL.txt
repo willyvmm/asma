@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1202
+#  Total number of entries: 1204
 #
 ##############################################################################
 #
@@ -1669,6 +1669,9 @@ COMMENT: Silesian Atari Open 1995 music compo entry.
 
 ### /Composers/Krasuski_Jaroslaw #############################################
 
+/Composers/Krasuski_Jaroslaw/
+COMMENT: Sadly, Jaroslaw Krasuski (Jaras) passed away in 2007.
+
 /Composers/Krasuski_Jaroslaw/Bad.sap
   TITLE: Bad [from Bad]
  ARTIST: Michael Jackson
@@ -3092,6 +3095,9 @@ COMMENT: 10th place at Grayscale Music Competition II.
 COMMENT: 9th place at Grayscale Music Competition II.
 
 ### /Composers/Sterba_Radek ##################################################
+
+/Composers/Sterba_Radek/
+COMMENT: Sadly, Radek Sterba (Raster) passed away in 2011.
 
 /Composers/Sterba_Radek/Aspiration_332.sap
 COMMENT: 4th place at Forever 4 music compo.
