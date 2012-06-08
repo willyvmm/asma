@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1200
+#  Total number of entries: 1202
 #
 ##############################################################################
 #
@@ -1712,6 +1712,14 @@ COMMENT: Silesian Atari Open 1995 music compo entry.
 /Composers/Krasuski_Jaroslaw/Runaway.sap
   TITLE: Runaway [from Runaway With Del Shannon]
  ARTIST: Del Shannon
+
+Composers/Krasuski_Jaroslaw/Saturday_Night.sap
+  TITLE: Saturday Night
+ ARTIST: Whigfield
+
+Composers/Krasuski_Jaroslaw/Saturday_Night_2.sap
+  TITLE: Saturday Night
+ ARTIST: Whigfield
 
 /Composers/Krasuski_Jaroslaw/Sunny.sap
   TITLE: Sunny
