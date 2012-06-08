@@ -1562,7 +1562,7 @@ COMMENT: Silesian Atari Open party 1995 music compo entry.
 ### /Composers/Kalinowski_Bartosz ############################################
 
 /Composers/Kalinowski_Bartosz/
-COMMENT: Sadly, Bartosz Kalinowski (Bartman) passed away in 1997.
+COMMENT: Sadly, Bartosz Kalinowski (Bartman) passed away in 1997, at the age of 20.
 
 /Composers/Kalinowski_Bartosz/CIS_Musicshow.sap
 (#1)
@@ -1670,7 +1670,7 @@ COMMENT: Silesian Atari Open 1995 music compo entry.
 ### /Composers/Krasuski_Jaroslaw #############################################
 
 /Composers/Krasuski_Jaroslaw/
-COMMENT: Sadly, Jaroslaw Krasuski (Jaras) passed away in 2007.
+COMMENT: Sadly, Jaroslaw Krasuski (Jaras) passed away in 2007, at the age of 33.
 
 /Composers/Krasuski_Jaroslaw/Bad.sap
   TITLE: Bad [from Bad]
@@ -3097,7 +3097,7 @@ COMMENT: 9th place at Grayscale Music Competition II.
 ### /Composers/Sterba_Radek ##################################################
 
 /Composers/Sterba_Radek/
-COMMENT: Sadly, Radek Sterba (Raster) passed away in 2011.
+COMMENT: Sadly, Radek Sterba (Raster) passed away in 2011, at the age of 38.
 
 /Composers/Sterba_Radek/Aspiration_332.sap
 COMMENT: 4th place at Forever 4 music compo.
