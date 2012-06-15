@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1204
+#  Total number of entries: 1205
 #
 ##############################################################################
 #
@@ -2913,6 +2913,10 @@ COMMENT: Performed by John Travolta & Olivia Newton John.
 /Composers/Radecki_Michal/Entrance_of_Dragon_Intro_2.sap
   TITLE: Imperial March [from the movie Star Wars]
  ARTIST: John Williams
+
+/Composers/Radecki_Michal/Indoktrynacja.sap
+  TITLE: An End Once and For All [from the PC game Mass Effect 3]
+ ARTIST: Clint Mansell
 
 /Composers/Radecki_Michal/Neuroid.sap
 COMMENT: Music from the game 'Neuroid' released by Sikor Soft in 1996.
