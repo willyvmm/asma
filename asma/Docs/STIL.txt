@@ -286,6 +286,21 @@ COMMENT: Lato Ludzików 2002 music compo entry.
  ARTIST: Gershon Kingsley
 COMMENT: Cover of original ZX Spectrum version of "Whole" Soundtrack.
 
+### /Composers/CEvE-Soft #####################################################
+
+/Composers/CEvE-Soft/World_of_Wonders_Against_C.sap
+  TITLE: The Hootchy Kootchy Dance
+ ARTIST: Sol Bloom
+
+/Composers/CEvE-Soft/World_of_Wonders_Amiga_Meg.sap
+  TITLE: Heart [from Actually] (0:00-0:19)
+ ARTIST: Pet Shop Boys
+
+/Composers/CEvE-Soft/World_of_Wonders_Goldrunne.sap
+  TITLE: Human Race, Tune #4 [from the C64 game]
+ ARTIST: Rob Hubbard
+COMMENT: Also used in "GoldRunner" on the Atari ST.
+
 ### /Composers/Checa_Funcke_Marco_Antonio ####################################
 
 /Composers/Checa_Funcke_Marco_Antonio/Kling_Gloeckchen.sap
@@ -346,21 +361,6 @@ COMMENT: 21th place at QuaST party 1996 music compo.
 /Composers/Cieslewicz_Tomasz/Roxette_2.sap
   TITLE: The Look [from Look Sharp!]
  ARTIST: Roxette
-
-### /Composers/Claas_Clever ##################################################
-
-/Composers/Claas_Clever/World_of_Wonders_Against_C.sap
-  TITLE: The Hootchy Kootchy Dance
- ARTIST: Sol Bloom
-
-/Composers/Claas_Clever/World_of_Wonders_Amiga_Meg.sap
-  TITLE: Heart [from Actually] (0:00-0:19)
- ARTIST: Pet Shop Boys
-
-/Composers/Claas_Clever/World_of_Wonders_Goldrunne.sap
-  TITLE: Human Race, Tune #4 [from the C64 game]
- ARTIST: Rob Hubbard
-COMMENT: Also used in "GoldRunner" on the Atari ST.
 
 ### /Composers/Cornelius_Orall ###############################################
 
