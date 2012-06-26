@@ -4335,14 +4335,14 @@ COMMENT: This song is converted from a C64 production made by Censor Design.
   TITLE: Fable [from Dreamland]
  ARTIST: Robert Miles
 
-/Unknown/God_Save_The_Queen_1.sap
+/Unknown/God_Save_the_Queen_1.sap
   TITLE: God Save the King/Queen (The National Anthem of the U.K.)
  ARTIST: Traditional
 COMMENT: This anthem is traditional and possibly one of the most known national
          anthems in the world. Each verse was written at a different time,
          ranging from the 1740s to the present day.
 
-/Unknown/God_Save_The_Queen_2.sap
+/Unknown/God_Save_the_Queen_2.sap
   TITLE: God Save the King/Queen (The National Anthem of the U.K.)
  ARTIST: Traditional
 COMMENT: This anthem is traditional and possibly one of the most known national
