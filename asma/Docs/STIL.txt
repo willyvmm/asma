@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1205
+#  Total number of entries: 1206
 #
 ##############################################################################
 #
@@ -4303,6 +4303,10 @@ COMMENT: Atari XL/XE official audio-visual test tune.
   TITLE: Le Quattro Stagioni, Op.8 No.1 "La primavera" (Allegro)
  ARTIST: Antonio Vivaldi
 
+/Misc/Strangers_in_the_Night.sap
+  TITLE: Strangers in The Night
+ ARTIST: Frank Sinatra
+
 /Misc/Takie_Cos.sap
 COMMENT: Lato Ludzików 2001 music compo entry.
 
@@ -4407,9 +4411,9 @@ COMMENT: This is not a complete cover.
   TITLE: Enola Gay [from Organisation]
  ARTIST: Orchestral Manoeuvres in the Dark (OMD)
 
-/Misc/Strangers_in_the_Night.sap
-  TITLE: Strangers in The Night
- ARTIST: Frank Sinatra
+/Unknown/Szanty.sap
+  TITLE: What Shall We Do with the Drunken Sailor
+ ARTIST: Traditional (sea shanty)
 
 /Unknown/The_Great_Commandment.sap
   TITLE: The Great Commandment
