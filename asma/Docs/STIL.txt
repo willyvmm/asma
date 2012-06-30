@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1208
+#  Total number of entries: 1211
 #
 ##############################################################################
 #
@@ -1577,6 +1577,15 @@ COMMENT: Sadly, Bartosz Kalinowski (Bartman) passed away in 1997, at the age of 
    NAME: 13th Satelite of Jupiter
 (#3)
    NAME: The Last Nop
+
+/Composers/Kalinowski_Bartosz/Kapitan_Planeta.sap
+COMMENT: Music from the game 'Kapitan Planeta' released by Mirage.
+
+/Composers/Kalinowski_Bartosz/Robin_Wojownik_Czasu.sap
+COMMENT: Music from the game 'Robin Wojownik Czasu' released by Avalon.
+
+/Composers/Kalinowski_Bartosz/Robin_Wojownik_Czasu_Ingame.sap
+COMMENT: Music from the game 'Robin Wojownik Czasu' released by Avalon.
 
 /Composers/Kalinowski_Bartosz/Self_Test_1.sap
   TITLE: Promenade - Il vecchio Castello [from Pictures at an Exhibition] (00:00-00:15)
