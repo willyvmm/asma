@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1206
+#  Total number of entries: 1208
 #
 ##############################################################################
 #
@@ -414,6 +414,12 @@ COMMENT: 4th place at Shadows Party 1994 music compo.
 
 /Composers/Czartynski_Marcin/Wave.sap
 COMMENT: Music from the game 'Grunwald 1410' released by Fire Bird in 1995.
+
+/Composers/Czartynski_Marcin/Top_Secret.sap
+COMMENT: Music from the game 'Top Secret' released by Mirage in 1993.
+
+/Composers/Czartynski_Marcin/Top_Secret_Ingame.sap
+COMMENT: Music from the game 'Top Secret' released by Mirage in 1993.
 
 /Composers/Czartynski_Marcin/Trans_X.sap
   TITLE: Living on Video [from Living on Video]
