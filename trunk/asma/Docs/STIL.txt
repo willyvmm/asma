@@ -3684,7 +3684,13 @@ COMMENT: "Another entry in the annual ABBUC demo competition (can't remember
          Germany. The demo (not this particular tune) won first price. Written
          using 'The Black Magic Composer'.
 
-/Composers/Tegethoff_Sven/ABBUC_21_3.sap
+/Composers/Tegethoff_Sven/Opus_X.sap
+COMMENT: "Entry in the annual ABBUC demo competition 1990 held at the
+         'Hobbytronic' Computer Fair in Dortmund, Germany. Written using 'The
+         Black Magic Composer' with Digi-Drums. Drums were blatantly ripped
+         from various Chris Huelsbeck modules :)" (ST)
+
+/Composers/Tegethoff_Sven/Pulse.sap
 COMMENT: "Another entry in the annual ABBUC demo competition (can't remember
          the year) held at the 'Hobbytronic' Computer Fair in Dortmund,
          Germany. Written using 'The Black Magic Composer' with Digi-Drums.
@@ -3701,12 +3707,6 @@ COMMENT: "This song was part of the same ABBUC Demo like ABBUC_20_1.sap and
          Composer' with Digi-Drums. Drums were blatantly ripped from various
          Chris Huelsbeck modules :)" (ST)
          Sven is wrong here, The Top demos were produced in Poland.
-
-/Composers/Tegethoff_Sven/Hobbytronic_90_2.sap
-COMMENT: "Entry in the annual ABBUC demo competition 1990 held at the
-         'Hobbytronic' Computer Fair in Dortmund, Germany. Written using 'The
-         Black Magic Composer' with Digi-Drums. Drums were blatantly ripped
-         from various Chris Huelsbeck modules :)" (ST)
 
 ### /Composers/Top_Odin ######################################################
 
