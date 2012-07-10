@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1211
+#  Total number of entries: 1217
 #
 ##############################################################################
 #
@@ -4338,6 +4338,10 @@ COMMENT: This song is converted from a C64 production made by Censor Design.
   TITLE: Axel F [from the movie Beverly Hills Cop]
  ARTIST: Harold Faltermeyer
 
+/Unknown/Bach.sap
+  TITLE: Flute Duet: Invention #01
+ ARTIST: Johann Sebastian Bach
+
 /Unknown/Bach_Mix.sap
   TITLE: Rondo alla turca [from Piano Sonata No.11 A major KV 331](0:07)
  ARTIST: Wolfgang Amadeus Mozart
@@ -4346,6 +4350,10 @@ COMMENT: This song is converted from a C64 production made by Censor Design.
   TITLE: Title Theme [from the animated television series Bouli]
  ARTIST: Gerard Olivieri
 
+/Unknown/Cielito.sap
+  TITLE: Cielito Lindo (Lovely Heaven)
+ ARTIST: Carlos Fernandez
+
 /Unknown/Dajana.sap
   TITLE: Adiana
  ARTIST: Paul Anka
@@ -4353,6 +4361,15 @@ COMMENT: This song is converted from a C64 production made by Censor Design.
 /Unknown/Fable.sap
   TITLE: Fable [from Dreamland]
  ARTIST: Robert Miles
+
+/Unknown/Funicula.sap
+  TITLE: Funiculi Funicula
+ ARTIST: Luigi Denza
+
+/Unknown/Galliard.sap
+  TITLE: Galliard
+ ARTIST: Anthony Holborne
+COMMENT: An example of 16th century lute music.
 
 /Unknown/God_Save_the_Queen_1.sap
   TITLE: God Save the King/Queen (The National Anthem of the U.K.)
@@ -4426,9 +4443,20 @@ COMMENT: This is not a complete cover.
   TITLE: Enola Gay [from Organisation]
  ARTIST: Orchestral Manoeuvres in the Dark (OMD)
 
+/Unknown/Range.sap
+COMMENT: Demonstation of the range of frequencies in 16 bit music.
+
+/Unknown/Sorella.sap
+  TITLE: La Sorella
+ ARTIST: C. Borel - Clerc
+
 /Unknown/Szanty.sap
   TITLE: What Shall We Do with the Drunken Sailor
  ARTIST: Traditional (sea shanty)
+
+/Unknown/Telemann.sap
+  TITLE: Duet in G Major For Flute & Violin
+ ARTIST: Telemann
 
 /Unknown/The_Great_Commandment.sap
   TITLE: The Great Commandment
