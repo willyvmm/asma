@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1217
+#  Total number of entries: 1218
 #
 ##############################################################################
 #
@@ -2199,6 +2199,9 @@ COMMENT: Music from the game 'Vicky' released by L.K. Avalon in 1992.
 COMMENT: Music from the game 'Włóczykij' released by L.K. Avalon in 1993.
 
 ### /Composers/Lis_Piotr #####################################################
+
+/Composers/Lis_Piotr/Egy_Lengyel.sap
+COMMENT: 1st place at Arok Party 2012 music compo.
 
 /Composers/Lis_Piotr/I_Love You_True_Story.sap
 COMMENT: 2nd place at Forever 13 music compo.
