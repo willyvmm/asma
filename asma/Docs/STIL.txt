@@ -4451,7 +4451,7 @@ COMMENT: Demonstation of the range of frequencies in 16 bit music.
 
 /Unknown/Sorella.sap
   TITLE: La Sorella
- ARTIST: C. Borel - Clerc
+ ARTIST: Charles Borel-Clerc
 
 /Unknown/Szanty.sap
   TITLE: What Shall We Do with the Drunken Sailor
