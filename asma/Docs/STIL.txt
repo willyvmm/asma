@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1218
+#  Total number of entries: 1223
 #
 ##############################################################################
 #
@@ -713,6 +713,10 @@ COMMENT: Same as /Composers/Esquivel_Sal/OutRun_Splash_Wave.sap,
   TITLE: Popcorn [from Music To Moog By]
  ARTIST: Gershon Kingsley
 COMMENT: Covering the version arranged by Hot Butter.
+
+/Composers/Esquivel_Sal/Space_Harrier_Main_Theme.sap
+  TITLE: Main Theme [from the arcade game  Space Harrier]
+ ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
 
 /Composers/Esquivel_Sal/Stardust_Memories.sap
   TITLE: Stardust Memories [from the Amiga MOD module]
@@ -2658,6 +2662,10 @@ COMMENT: Same as /Composers/Pesout_Marek/Alphaville.sap,
   TITLE: Blade Runner (End Titles) [from the movie]
  ARTIST: Vangelis
 
+/Composers/Pesout_Marek/Desert_Dream_Part_2.sap
+  TITLE: checknobankh [from the Amiga MOD module]
+ ARTIST: Anders Emil Hansen (Merge)
+
 /Composers/Pesout_Marek/Golden_Axe.sap
   TITLE: Wilderness [from the arcade game Golden Axe]
  ARTIST: SEGA Sound Team
@@ -2771,6 +2779,10 @@ COMMENT: 17th place at QuaST party 1996 music compo.
   TITLE: Chattanooga Choo Choo
  ARTIST: Glenn Miller Orchestra
 
+/Composers/Quack_Ralf_Thomas/Don_t_Worry_Be_Happy.sap
+  TITLE: Don't Worry, Be Happy [from Simple Pleasures]
+ ARTIST: Bobby McFerrin
+
 /Composers/Quack_Ralf_Thomas/Heart_of_Glass.sap
   TITLE: Heart Of Glass [from Parallel Lines]
  ARTIST: Blondie
@@ -2814,6 +2826,10 @@ COMMENT: 17th place at QuaST party 1996 music compo.
 /Composers/Quack_Ralf_Thomas/Nah_Neh_Nah.sap
   TITLE: Nah Neh Nah
  ARTIST: Vaya Con Dios
+
+/Composers/Quack_Ralf_Thomas/Nights_in_White_Satin.sap
+  TITLE: Nights in White Satin
+ ARTIST: The Moody Blues
 
 /Composers/Quack_Ralf_Thomas/Ob_La_Di_Ob_La_Da.sap
   TITLE: Ob-La-Di, Ob-La-Da [from The Beatles]
@@ -3686,6 +3702,10 @@ COMMENT: "Another entry in the annual ABBUC demo competition (can't remember
          the year) held at the 'Hobbytronic' Computer Fair in Dortmund,
          Germany. The demo (not this particular tune) won first price. Written
          using 'The Black Magic Composer'.
+
+/Composers/Tegethoff_Sven/Dance.sap
+  TITLE: Dance at Night [from the C64 SID]
+ ARTIST: Chris Hülsbeck
 
 /Composers/Tegethoff_Sven/Opus_X.sap
 COMMENT: "Entry in the annual ABBUC demo competition 1990 held at the
