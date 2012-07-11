@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1223
+#  Total number of entries: 1227
 #
 ##############################################################################
 #
@@ -634,6 +634,11 @@ COMMENT: 2nd place at Forever 11 music compo.
   TITLE: Navstevnici [from the TV series]
  ARTIST: Karel Svoboda
 COMMENT: Covers a version made by Lars Hutzelmann (The Blue Ninja) on the C64.
+
+/Composers/Eisenhammer_Zdenek/We_re_the_Devils.sap
+  TITLE: We're the Devils [from the Amiga MOD module]
+ ARTIST: Tor Bernhard Gausen (Walkman)
+COMMENT: This was used as the popular game TwinTris.
 
 ### /Composers/Esquivel_Sal ##################################################
 
@@ -2415,6 +2420,10 @@ COMMENT: Same as /Composers/Martin_Chris/Approachong.sap, but with second  POKEY
   TITLE: Cybernoid, Tune #1 [from the C64 game]
  ARTIST: Jeroen Tel
 
+/Composers/Martin_Chris/Einsteinium_01.sap
+  TITLE: Einsteinium-01 [from the Amiga MOD module]
+ ARTIST: Poul Peder Hestbek (Einstein)
+
 /Composers/Martin_Chris/Popcorn_Song.sap
   TITLE: Popcorn [from Music To Moog By]
  ARTIST: Gershon Kingsley
@@ -3032,6 +3041,10 @@ COMMENT: Music from the game 'Magia Fortuny' released by ASF in 1993.
 
 ### /Composers/Roszkowski_Marek ##############################################
 
+/Composers/Roszkowski_Marek/Gitaro.sap
+  TITLE: Guitarous [from the Amiga MOD module]
+ ARTIST: Jukka Aho (The Warlock)
+
 /Composers/Roszkowski_Marek/Hope_Mix.sap
   TITLE: Hope [from the Atari XE/XL POKEY]
  ARTIST: Michał Szpilowski (Miker)
@@ -3128,6 +3141,10 @@ COMMENT: 2nd place at Atari Area 24h 'Zybex' music compo.
 
 /Composers/Stanik_Krzysztof/Ble_ble_ble.sap
 COMMENT: 10th place at Grayscale Music Competition II.
+
+/Composers/Stanik_Krzysztof/Guitarous.sap
+  TITLE: Guitarous [from the Amiga MOD module]
+ ARTIST: Jukka Aho (The Warlock)
 
 /Composers/Stanik_Krzysztof/Mroczny.sap
 COMMENT: 9th place at Grayscale Music Competition II.
