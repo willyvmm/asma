@@ -3054,9 +3054,9 @@ COMMENT: Covers /Composers/Szpilowski_Michal/Hope.sap
   TITLE: Listen to Your Heart [from Look Sharp]
  ARTIST: Roxette
 
-### /Composers/Rymorz_W ######################################################
+### /Composers/Rymorz_Waldemar ######################################################
 
-/Composers/Rymorz_W/Music_Box_Demo_II_6.sap
+/Composers/Rymorz_Waldemar/Music_Box_Demo_II_6.sap
   TITLE: Popcorn [from Music To Moog By]
  ARTIST: Gershon Kingsley
 
