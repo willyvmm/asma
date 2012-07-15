@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1227
+#  Total number of entries: 1229
 #
 ##############################################################################
 #
@@ -3055,6 +3055,14 @@ COMMENT: Covers /Composers/Szpilowski_Michal/Hope.sap
  ARTIST: Roxette
 
 ### /Composers/Rymorz_Waldemar ######################################################
+
+/Composers/Rymorz_Waldemar/Arkanoid_II.sap
+(#5)
+COMMENT: Another version of /Composers/Rymorz_Waldemar/Music_Box_Demo_II_1_4.sap, tune 1.
+
+/Composers/Rymorz_Waldemar/Music_Box_Demo_II_1_4.sap
+(#1)
+COMMENT: Another version of /Composers/Rymorz_Waldemar/Arkanoid_II.sap, tune 5.
 
 /Composers/Rymorz_Waldemar/Music_Box_Demo_II_6.sap
   TITLE: Popcorn [from Music To Moog By]
