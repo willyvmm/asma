@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1229
+#  Total number of entries: 1230
 #
 ##############################################################################
 #
@@ -4244,6 +4244,10 @@ COMMENT: This piece is a cover of the arcade version.
 (#1)
   TITLE: Oh Susanna
  ARTIST: Stephen C. Foster
+
+/Games/Taxicab_Hill.sap
+(#6)
+   NAME: One Way
 
 /Games/Tumble_Bugs.sap
   TITLE: La Cucaracha
