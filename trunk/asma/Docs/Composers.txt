@@ -2,7 +2,7 @@ Known Atari composers and handles                                 Feb 24 2012
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This list contains only composers who have at least 3 songs in ASMA
 collection. The composers are sorted in ABC order according to their surnames
-(if known, otherwise by their handles). There are 191 composers in this list.
+(if known, otherwise by their handles). There are 192 composers in this list.
 
 Argentina - 1
 Canada - 1
@@ -14,7 +14,7 @@ Germany - 18
 Hungary - 1
 Netherlands - 3
 Peru - 1
-Poland - 112
+Poland - 113
 Slovakia - 8
 Sweden - 1
 United Kingdom - 4
@@ -157,6 +157,7 @@ Pesout, Marek - Poison - Czech Republic
 Pieczko, Szymon - Sim Piko - Poland
 Piscol, Juergen - Germany
 Podedworny, Wojtek - Ferro - Poland
+Polak, Krzysztof - Poland
 Poorten, Ivo van - The Gatekeeper - (?)
 Portelli, Jim - (?)
 Przybyszewski, Krzysztof - Bloody Butcher - Poland
