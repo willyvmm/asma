@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1235
+#  Total number of entries: 1236
 #
 ##############################################################################
 #
@@ -506,6 +506,10 @@ COMMENT: Music from the game 'Trisz Divinis' released by ASF in 1993.
 COMMENT: Music from the game 'Trisz Divinis' released by ASF in 1993.
 
 ### /Composers/Drozdowski_Marek ##############################################
+
+/Composers/Drozdowski_Marek/Shake.sap
+  TITLE: Never Alone [from Dreams]
+ ARTIST: 2 Brothers On The 4th Floor
 
 /Composers/Drozdowski_Marek/Shakemix.sap
   TITLE: Shake
