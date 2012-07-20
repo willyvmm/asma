@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1230
+#  Total number of entries: 1235
 #
 ##############################################################################
 #
@@ -2704,6 +2704,35 @@ COMMENT: Same as /Composers/Pesout_Marek/Alphaville.sap,
 /Composers/Piscol_Juergen/The_Last_Rumba.sap
   TITLE: The Last Rumba
  ARTIST: Jean Michel Jarre
+
+### /Composers/Polak_Krzysztof ###############################################
+
+/Composers/Polak_Krzysztof/Cicha_Noc.sap
+  TITLE: Stille Nacht! Heilige Nacht!
+ ARTIST: Joseph Mohr (lyrics), Franz Xaver Gruber (music)
+COMMENT: A Christmas song also known as "Silent Night".
+
+/Composers/Polak_Krzysztof/Dzisiaj_w_Beteljem.sap
+  TITLE: Dzisiaj w Betlejem
+ ARTIST: Traditional
+COMMENT: Polish Christmas carol.
+
+/Composers/Polak_Krzysztof/Lulajze_Jezuniu.sap
+  TITLE: Lulajże, Jezuniu
+ ARTIST: Traditional
+COMMENT: Polish Christmas carol.
+
+/Composers/Polak_Krzysztof/Przybiezeli_do_Betlejem.sap
+  TITLE: Przybieżeli do Betlejem
+ ARTIST: Traditional
+COMMENT: Polish Christmas carol. The title translates from Polish as "They
+         Hastened to Bethlehem".
+
+/Composers/Polak_Krzysztof/Wsrod_Nocnej_Ciszy.sap
+  TITLE: Wśrod Nocnej Ciszy
+ ARTIST: Traditional
+COMMENT: Polish Christmas carol. The title translates from Polish as "In the
+         Stillness of the night".
 
 ### /Composers/Poorten_Ivo ###################################################
 
