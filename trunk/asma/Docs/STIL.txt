@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1236
+#  Total number of entries: 1237
 #
 ##############################################################################
 #
@@ -4356,6 +4356,11 @@ COMMENT: 6th place at Winter Chip II (Best Pokey) music compo.
  ARTIST: Bartosz Kalinowski (Bartman)
 COMMENT: Last Party 1998 music compo entry.
          Cover /Composers/Kalinowski_Bartosz/Zepi.sap
+
+/Misc/Nyan_Cat.sap
+  TITLE: Nyanyanyanyanyanyanya!
+ ARTIST: DaniwellP featuring Hatsune Miku
+COMMENT: Also known as Nyan Cat Song, one of the most famous internet memes.
 
 /Misc/Ogloszenie.sap
   TITLE: Main Title [from the TV series Janosik] (0:23-0:45)
