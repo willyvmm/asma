@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1237
+#  Total number of entries: 1241
 #
 ##############################################################################
 #
@@ -114,7 +114,7 @@ COMMENT: Last Party 1998 music compo entry.
  ARTIST: Fine Young Cannibals
 
 /Composers/Bienias_Adam/Digital_Bonanza.sap
-  TITLE: tanktitle [from the Amiga SoundTracker module]
+  TITLE: Tank Title [from the Amiga game Future Tank]
  ARTIST: Karsten Obarski
 
 /Composers/Bienias_Adam/Digital_Trash.sap
@@ -176,7 +176,7 @@ COMMENT: Same as /Composers/Bienias_Adam/Train.sap
  ARTIST: Stian Tjelle (Eagle)
 
 /Composers/Bienias_Adam/Tank.sap
-  TITLE: tanktitle [from the Amiga SoundTracker module]
+  TITLE: Tank Title [from the Amiga game Future Tank]
  ARTIST: Karsten Obarski
 COMMENT: Same as /Composers/Bienias_Adam/Digital_Bonanza.sap with digitized drums.
 
@@ -1017,6 +1017,9 @@ COMMENT: Music from the game 'Drutt' released by ASF in 1992.
 
 /Composers/Grad_Jacek/Dwie_Wieze.sap
 COMMENT: Music from the game 'Dwie Wieże' released by ASF in 1993.
+(#2)
+  TITLE: sll3 [from the Amiga SoundTracker module]
+ ARTIST: Sten Lysholm Larsen (SLL)
 
 /Composers/Grad_Jacek/Fatum.sap
 COMMENT: Music from the game 'Fatum' released by ASF in 1993.
@@ -3044,6 +3047,10 @@ COMMENT: 8th place at SillyVenture 2011 music compo.
   TITLE: Draconus, Tune #7
  ARTIST: Adam Gilmore
 
+/Composers/Radzikowski_Ireneusz/PuzIntro.sap
+  TITLE: Snow Blind [from the Amiga MOD module]
+ ARTIST: Björn Lynne (Dr. Awesome)
+
 /Composers/Radzikowski_Ireneusz/Terra_Titanic_96.sap
   TITLE: Terra Titanic [from 120 Grad]
  ARTIST: Peter Schilling
@@ -4308,6 +4315,10 @@ COMMENT: The notes in voice 2 at the beginning of the tune spell out "SOS" in
   TITLE: Ave Maria
  ARTIST: Johanna S. Bacha & Charlesa Gounoda
 
+/Misc/Beams_of_Light.sap
+  TITLE: Beams of Light [from the Amiga MOD module]
+ ARTIST: Tor Bernhard Gausen (Walkman)
+
 /Misc/Bolero.sap
   TITLE: Bolero
  ARTIST: Maurice Ravel
@@ -4421,6 +4432,10 @@ COMMENT: This song is converted from a C64 production made by Censor Design.
 /Misc/Windows95_1.sap
   TITLE: National Anthem of the Soviet Union
  ARTIST: Aleksandr Aleksandrov
+
+/Misc/Windows95_2.sap
+  TITLE: Crystal Hammer [from the Amiga game]
+ ARTIST: Karsten Obarski
 
 ### /Unknown #################################################################
 
