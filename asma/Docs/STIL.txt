@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1241
+#  Total number of entries: 1244
 #
 ##############################################################################
 #
@@ -300,6 +300,20 @@ COMMENT: Cover of original ZX Spectrum version of "Whole" Soundtrack.
   TITLE: Human Race, Tune #4 [from the C64 game]
  ARTIST: Rob Hubbard
 COMMENT: Also used in "GoldRunner" on the Atari ST.
+
+### /Composers/Chamberlain_Craig #############################################
+
+/Composers/Chamberlain_Craig/Happy_Birthday_Song.sap
+  TITLE: Happy Birthday
+ ARTIST: Mildred J. Hill
+
+/Composers/Chamberlain_Craig/Londonderry_Air.sap
+  TITLE: Londonderry Air
+ ARTIST: Danny Boy
+
+/Composers/Chamberlain_Craig/Musette.sap
+  TITLE: Musette in D major [from The Anna Magdalena Notebooks]
+ ARTIST: Johann Sebastian Bach
 
 ### /Composers/Checa_Funcke_Marco_Antonio ####################################
 
