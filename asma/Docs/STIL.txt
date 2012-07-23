@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1245
+#  Total number of entries: 1246
 #
 ##############################################################################
 #
@@ -524,6 +524,10 @@ COMMENT: Music from the game 'Trisz Divinis' released by ASF in 1993.
 /Composers/Drozdowski_Marek/Barymag_1_Music_8.sap
   TITLE: Somebody Dance With Me [from Dance With Me]
  ARTIST: DJ Bobo
+
+/Composers/Drozdowski_Marek/Land.sap
+  TITLE: Secret Land [from Into a Secret Land]
+ ARTIST: Sandra Cretu
 
 /Composers/Drozdowski_Marek/Shake.sap
   TITLE: Never Alone [from Dreams]
