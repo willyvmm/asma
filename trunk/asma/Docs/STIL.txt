@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1250
+#  Total number of entries: 1255
 #
 ##############################################################################
 #
@@ -540,8 +540,9 @@ COMMENT: Music from the game 'Trisz Divinis' released by ASF in 1993.
 ### /Composers/Drozdowski_Marek ##############################################
 
 /Composers/Drozdowski_Marek/Barymag_1_Music_8.sap
-  TITLE: Somebody Dance With Me [from Dance With Me]
- ARTIST: DJ Bobo
+  TITLE: Somebody's Dance With Me
+ ARTIST: Rockwell
+COMMENT: This piece covers the version by Somebody Dance With Me by DJ Bobo.
 
 /Composers/Drozdowski_Marek/Land.sap
   TITLE: Secret Land [from Into a Secret Land]
@@ -1351,6 +1352,10 @@ COMMENT: Music from the game 'Around the Planet' released by Mirage in 1994.
   TITLE: Alloyrun, Tune #1 [from the C64 game]
  ARTIST: Jeroen Tel
 
+ /Composers/Hay_Adam/Amegas.sap
+  TITLE: Title Tune [from the Amiga game Amegas]
+ ARTIST: Karsten Obarski
+
 /Composers/Hay_Adam/Commando.sap
   TITLE: Commando, Tune #1 [from the C64 game]
  ARTIST: Rob Hubbard
@@ -1833,6 +1838,10 @@ COMMENT: Sadly, Jaroslaw Krasuski (Jaras) passed away in 2007, at the age of 33.
   TITLE: Alloyrun, Tune #1 [from the C64 game]
  ARTIST: Jeroen Tel
 
+/Composers/Krix_Mario/Amegas.sap
+  TITLE: Title Tune [from the Amiga game Amegas]
+ ARTIST: Karsten Obarski
+
 /Composers/Krix_Mario/Arkanoid.sap
   TITLE: Arkanoid, Tune #2 [from the C64 game]
  ARTIST: Martin Galway
@@ -1963,6 +1972,10 @@ COMMENT: This tune covers the UB40 cover.
   TITLE: Go West
  ARTIST: The Village People
 COMMENT: This tune covers the Pet Shop Boys cover.
+
+/Composers/Kuczek_Ireneusz/Goniac_Kormorany.sap
+  TITLE: Goniąc Kormorany
+ ARTIST: Piotr Szczepanik
 
 /Composers/Kuczek_Ireneusz/Here.sap
   TITLE: Here, There and Everywhere
@@ -2891,6 +2904,10 @@ COMMENT: 17th place at QuaST party 1996 music compo.
 /Composers/Quack_Ralf_Thomas/Kansas_City.sap
   TITLE: Kansas City
  ARTIST: The Beatles
+
+/Composers/Quack_Ralf_Thomas/Lady_in_Black.sap
+  TITLE: Lady in Black [from Salisbury]
+ ARTIST: Uriah Heep
 
 /Composers/Quack_Ralf_Thomas/Let_It_Be.sap
   TITLE: Let It Be [from Let It Be]
@@ -4433,6 +4450,10 @@ COMMENT: Lato Ludzików 2000 music compo entry.
 /Misc/Pytaj.sap
   TITLE: Nie pytaj o Polskę
  ARTIST: Obywatel G. C.
+
+/Misc/Ray_of_Hope_Plasma.sap
+  TITLE: Title Tune [from the Amiga game Amegas]
+ ARTIST: Karsten Obarski
 
 /Misc/Reksio_2001.sap
   TITLE: Title Theme [from the cartoon series Reksio] (0:07-0:30)
