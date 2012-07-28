@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1255
+#  Total number of entries: 1257
 #
 ##############################################################################
 #
@@ -4249,6 +4249,14 @@ COMMENT: This is not cover.
  ARTIST: Rob Hubbard
 COMMENT: Although the C64 version was composed by Rob Hubbard, Hubbard has
          confirmed that the Atari version isn't his.
+
+/Games/Leaper.sap
+(#2)
+  TITLE: Can Can [from the Orpheus in the Underworld]
+ ARTIST: Jacques Offenbach
+(#3)
+  TITLE: Popcorn [from Music To Moog By] (0:04)
+ ARTIST: Gershon Kingsley
 
 /Games/Loco.sap
   TITLE: Chattanooga Choo Choo
