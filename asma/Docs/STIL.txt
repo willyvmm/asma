@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1257
+#  Total number of entries: 1259
 #
 ##############################################################################
 #
@@ -106,8 +106,8 @@ COMMENT: Last Party 1998 music compo entry.
  ARTIST: Heiko (Luxor)
 
 /Composers/Bienias_Adam/Bitter_Reality_Rzog_Plazma.sap
-  TITLE: Impact <?> [from the Amiga MOD module]
- ARTIST: <?>
+  TITLE: Impact-7 [from the Amiga MOD module]
+ ARTIST: Frédéric Motte (Moby)
 
 /Composers/Bienias_Adam/Crazy.sap
   TITLE: Crazy
@@ -140,8 +140,8 @@ COMMENT: Same as /Composers/Bienias_Adam/Happy_Train_to_Kingdom_of.sap with digi
 
 /Composers/Bienias_Adam/Invitro_Orneta_95.sap
 (#1)
-  TITLE: Monday [from the XM module]
- ARTIST: Rez (Christophe Résigné)
+  TITLE: Monday [from the Amiga MOD module]
+ ARTIST: Edvin Fladen (Random Voice)
 (#2)
   TITLE: Salute [from the Amiga MOD module]
  ARTIST: <?>
@@ -239,6 +239,10 @@ COMMENT: Commonly known as "Haenschen Klein" (German children's song) or
 /Composers/Bruenninski_Uwe/Hell.sap
   TITLE: Hells Bells [from Back In Black]
  ARTIST: AC/DC
+
+/Composers/Bruenninski_Uwe/Joshua_Tree.sap
+  TITLE: With or Without You [from The Joshua Tree]
+ ARTIST: U2
 
 /Composers/Bruenninski_Uwe/Smoke_On_The_Water.sap
   TITLE: Smoke on the Water [from Machine Head]
@@ -540,7 +544,7 @@ COMMENT: Music from the game 'Trisz Divinis' released by ASF in 1993.
 ### /Composers/Drozdowski_Marek ##############################################
 
 /Composers/Drozdowski_Marek/Barymag_1_Music_8.sap
-  TITLE: Somebody's Dance With Me
+  TITLE: Somebody's Watching Me
  ARTIST: Rockwell
 COMMENT: This piece covers the version by Somebody Dance With Me by DJ Bobo.
 
@@ -3919,8 +3923,9 @@ COMMENT: Music from the game 'Terminator' released by Domain Software in 1993.
  ARTIST: Culture Beat
 
 /Composers/Vavra_Karel_and_Sedlak_Jiri/Somebody_Dance.sap
-  TITLE: Somebody Dance With Me [from Dance With Me]
- ARTIST: DJ Bobo
+ TITLE: Somebody's Watching Me
+ARTIST: Rockwell
+COMMENT: This piece covers the version by Somebody Dance With Me by DJ Bobo.
 
 ### /Composers/Vila_Jaime ####################################################
 
@@ -4523,6 +4528,10 @@ COMMENT: This song is converted from a C64 production made by Censor Design.
 /Unknown/Buli.sap
   TITLE: Title Theme [from the animated television series Bouli]
  ARTIST: Gerard Olivieri
+
+/Unknown/Carpe_Demo_5.sap
+  TITLE: With or Without You [from The Joshua Tree]
+ ARTIST: U2
 
 /Unknown/Cielito.sap
   TITLE: Cielito Lindo (Lovely Heaven)
