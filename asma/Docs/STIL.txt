@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1261
+#  Total number of entries: 1264
 #
 ##############################################################################
 #
@@ -249,7 +249,13 @@ COMMENT: Commonly known as "Haenschen Klein" (German children's song) or
  ARTIST: Deep Purple
 
 /Composers/Bruenninski_Uwe/Synthy.sap
-  TITLE: Oxygene 4 [from Oxygene]
+  TITLE: Oxygene 4 [from Oxygene] (0:00-0:55)
+ ARTIST: Jean Michel Jarre
+  TITLE: Oxygene 2 [from Oxygene] (0:59-2:00)
+ ARTIST: Jean Michel Jarre
+   TITLE: Oxygene 4 [from Oxygene] (2:24-2:58)
+ ARTIST: Jean Michel Jarre
+  TITLE: Oxygene 2 [from Oxygene] (3:02-4:03)
  ARTIST: Jean Michel Jarre
 
 ### /Composers/Bryla_Krzysztof ###############################################
@@ -1368,6 +1374,10 @@ COMMENT: Music from the game 'Around the Planet' released by Mirage in 1994.
   TITLE: Disco Zax [from the C64 SID]
  ARTIST: Thomas Mogensen (DRAX)
 
+/Composers/Hay_Adam/Heart_Shaped_Box.sap
+  TITLE: Heart Shaped Box [from In Utero]
+ ARTIST: Nirvana
+
 /Composers/Hay_Adam/Introtune.sap
   TITLE: Strike Force Introtune [from the C64 SID]
  ARTIST: Markus Schneider
@@ -1737,9 +1747,19 @@ COMMENT: Silesian Atari Open 1995 music compo entry.
   TITLE: Axel F [from the movie Beverly Hills Cop]
  ARTIST: Harold Faltermeyer
 
+/Composers/Kidaj_Andrzej/Johnny_Intro.sap
+  TITLE: Take On Me [from Hunting High and Low]
+ ARTIST: A-Ha
+COMMENT: This is not a complete cover.
+
 /Composers/Kidaj_Andrzej/Kraftwerk_Das_Model.sap
   TITLE: The Model [from The Man Machine]
  ARTIST: Kraftwerk
+
+/Composers/Kidaj_Andrzej/Megademo_Capital.sap
+  TITLE: Take On Me [from Hunting High and Low]
+ ARTIST: A-Ha
+COMMENT: This is not a complete cover.
 
 ### /Composers/Kociuba_Dariusz ###############################################
 
