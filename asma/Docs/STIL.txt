@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1259
+#  Total number of entries: 1261
 #
 ##############################################################################
 #
@@ -3050,9 +3050,15 @@ COMMENT: Performed by John Travolta & Olivia Newton John.
   TITLE: Comic Bakery, Tune #1 [from the C64 game]
  ARTIST: Martin Galway
 
+/Composers/Radecki_Michal/Cosmic_Voyage.sap
+COMMENT: 4th place at Głuchołazy 2012 music compo.
+
 /Composers/Radecki_Michal/Entrance_of_Dragon_Intro_2.sap
   TITLE: Imperial March [from the movie Star Wars]
  ARTIST: John Williams
+
+/Composers/Radecki_Michal/Error_in_Line_10.sap
+COMMENT: 1st place at Głuchołazy 2012 music compo.
 
 /Composers/Radecki_Michal/Indoktrynacja.sap
   TITLE: An End Once and For All [from the PC game Mass Effect 3]
