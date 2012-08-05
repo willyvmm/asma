@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1264
+#  Total number of entries: 1286
 #
 ##############################################################################
 #
@@ -154,6 +154,10 @@ COMMENT: Same as /Composers/Bienias_Adam/Train.sap
 /Composers/Bienias_Adam/Jack_Dance.sap
   TITLE: Jack Dance [from the Amiga MOD module]
  ARTIST: Karsten Obarski
+
+/Composers/Bienias_Adam/Little_5.sap
+  TITLE: megaforce02 [from the Amiga MOD module]
+ ARTIST: Heiko (Luxor)
 
 /Composers/Bienias_Adam/Kebab_Magazine.sap
   TITLE: Brass Tune [from the Amiga SoundTracker module]
@@ -479,6 +483,12 @@ COMMENT: Music from the game 'Top Secret' released by Mirage in 1993.
   TITLE: Title [from the arcade game Gauntlet]
  ARTIST: Hal Canon & Earl Vickers
 
+### /Composers/Diaz_Esteban ##################################################
+
+/Composers/Diaz_Esteban/CWKND.sap
+  TITLE: Computer Weekend
+ ARTIST: Jean Michel Jarre
+
 ### /Composers/Diepenhorst_Marius ############################################
 
 /Composers/Diepenhorst_Marius/Alfred_J_Kwak.sap
@@ -736,6 +746,10 @@ COMMENT: Same as /Composers/Esquivel_Sal/Blaster_Master_Level_1.sap,
 /Composers/Esquivel_Sal/Every_Breath_You_Take.sap
   TITLE: Every Breath You Take [from Synchronicity]
  ARTIST: The Police
+
+/Composers/Esquivel_Sal/Final_Fantasy.sap
+  TITLE: The Prelude [from Final Fantasy IV Piano Collections]
+ ARTIST: Nobuo Uematsu
 
 /Composers/Esquivel_Sal/Fletch_Investigates.sap
   TITLE: Fletch Theme [from the movie Fletch]
@@ -1125,8 +1139,22 @@ COMMENT: Last Party 1999 music compo entry.
 /Composers/Grayscale/Kwiatek_Grzegorz/Desastre.sap
 COMMENT: 2nd place at Intel Outside 4 music compo.
 
+/Composers/Grayscale/Kwiatek_Grzegorz/Escape.sap
+  TITLE: Ucieczka z tropiku [from Ucieczka do tropiku]
+ ARTIST: Marek Biliński
+COMMENT: The title translates from Polish as "Escape from the tropic zone".
+         Marek Biliński was some kind of a Polish J. M. Jarre, and had a string
+         of instrumental hits back in the 80's.
+
+/Composers/Grayscale/Kwiatek_Grzegorz/Extase.sap
+  TITLE: Smoke on the Water [from Machine Head]
+ ARTIST: Deep Purple
+
 /Composers/Grayscale/Kwiatek_Grzegorz/Failure_Dream.sap
 COMMENT: 2nd place at Rush Hours 1997 music compo.
+
+/Composers/Grayscale/Kwiatek_Grzegorz/Goodbye.sap
+  TITLE: House of the Rising Sun
 
 /Composers/Grayscale/Kwiatek_Grzegorz/Introspection.sap
 COMMENT: 7th place at QuaST party 1996 music compo.
@@ -1262,6 +1290,10 @@ COMMENT: Music from the game 'Mental Age' released in 2009.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Mental_Age_2.sap
 COMMENT: Music from the game 'Mental Age' released in 2009.
+
+/Composers/Grayscale/Sychowicz_Lukasz/Menuet.sap
+  TITLE: String Quintet in E major, Op. 11, No. 5 3rd Movement. Minuetto, Trio (A major)
+ ARTIST: Luigi Boccherini
 
 /Composers/Grayscale/Sychowicz_Lukasz/Ninjax.sap
 COMMENT: 5th place at Forever Reneg8 realtime compo.
@@ -1756,6 +1788,10 @@ COMMENT: This is not a complete cover.
   TITLE: The Model [from The Man Machine]
  ARTIST: Kraftwerk
 
+/Composers/Kidaj_Andrzej/Lost_Patrol.sap
+  TITLE: tunev1 [from the Amiga game Lost Patrol]
+ ARTIST: Chris Glaister
+
 /Composers/Kidaj_Andrzej/Megademo_Capital.sap
   TITLE: Take On Me [from Hunting High and Low]
  ARTIST: A-Ha
@@ -1823,6 +1859,10 @@ COMMENT: Sadly, Jaroslaw Krasuski (Jaras) passed away in 2007, at the age of 33.
 /Composers/Krasuski_Jaroslaw/Saturday_Night_2.sap
   TITLE: Saturday Night
  ARTIST: Whigfield
+
+/Composers/Krasuski_Jaroslaw/Stownboy.sap
+  TITLE: Smalltown Boy
+ ARTIST: Bronski Beat
 
 /Composers/Krasuski_Jaroslaw/Sunny.sap
   TITLE: Sunny
@@ -2143,6 +2183,14 @@ COMMENT: Last Party 2002 music compo entry.
 /Composers/Lehky_Jaroslav/Ballad.sap
   TITLE: Greensleeves
  ARTIST: Unknown
+
+/Composers/Lehky_Jaroslav/Night.sap
+  TITLE: Smoke on the Water [from Machine Head]
+ ARTIST: Deep Purple
+
+/Composers/Lehky_Jaroslav/Show.sap
+  TITLE: The Show Must Go On [from Innuendo]
+ ARTIST: Queen
 
 ### /Composers/Lepkowski_Michal ##############################################
 
@@ -2545,6 +2593,12 @@ COMMENT: Atari XL/XE official audio-visual test tune.
 COMMENT: Same melody as /Composers/Matyasik_Krzysztof/Wolowinka.sap,
          but with added digi drums.
 
+### /Composers/Michalski_Krzysztof ###########################################
+
+/Composers/Michalski_Krzysztof/Madteam_Intro.sap
+  TITLE: Moonlight Shadow [from Crises]
+ ARTIST: Mike Oldfield & Simon Philips
+
 ### /Composers/Mikolajczak_Pawel #############################################
 
 /Composers/Mikolajczak_Pawel/Jaffar.sap
@@ -2599,6 +2653,10 @@ COMMENT: 5th place at Forever 9 music compo.
 
 /Composers/Niestegge_Stefan/Aggressive.sap
 COMMENT: From an unknown Atari ST demo.
+
+/Composers/Niestegge_Stefan/Fujiama_Run.sap
+  TITLE: Titles [from Chariots of Fire]
+ ARTIST: Vangelis
 
 ### /Composers/Numan_Daniel ##################################################
 
@@ -2666,6 +2724,20 @@ COMMENT: Scenery Copy Party music compo entry.
 
 /Composers/Padula_Jaroslaw/Trance_Feat_House.sap
 COMMENT: Rush Hours 1997 music compo entry.
+
+### /Composers/Panopticum ####################################################
+
+/Composers/Panopticum/Cramer.sap
+  TITLE: Speak Softly Love (Love Theme from The Godfather)
+ ARTIST: Nino Rota
+
+/Composers/Panopticum/Gladiator.sap
+  TITLE: Entry of the Gladiators
+ ARTIST: Julius Fucik
+
+/Composers/Panopticum/Unforgiven.sap
+  TITLE: The Unforgiven [from Black Album]
+ ARTIST: Metallica
 
 ### /Composers/Pasiecznik_Michal #############################################
 
@@ -2770,6 +2842,10 @@ COMMENT: Same as /Composers/Pesout_Marek/Alphaville.sap,
 /Composers/Pesout_Marek/Popcorn.sap
   TITLE: Popcorn [from Music To Moog By]
  ARTIST: Gershon Kingsley
+
+/Composers/Pesout_Marek/Turrican_2.sap
+  TITLE: <?> [from the Amiga game Turrican 2]
+ ARTIST: Chris Huelsbeck
 
 ### /Composers/Piscol_Juergen ################################################
 
@@ -3335,6 +3411,10 @@ COMMENT: 1st place at Forever 11 music compo.
 
 /Composers/Sterba_Radek/It_Doesnt_Matter.sap
 COMMENT: 2nd place at Forever 6 music compo.
+
+/Composers/Sterba_Radek/Just_for_Dance.sap
+  TITLE: Billie Jean [from Thriller]
+ ARTIST: Michael Jackson
 
 /Composers/Sterba_Radek/Len_raz.sap
   TITLE: Len raz
@@ -4002,6 +4082,10 @@ COMMENT: 16th place at QuaST party 1996 music compo.
   TITLE: No Limit [from No Limits]
  ARTIST: 2 Unlimited
 
+/Composers/Vybostok_Marian/Wanted_Part_3_1.sap
+  TITLE: The Show Must Go On [from Innuendo]
+ ARTIST: Queen
+
 /Composers/Vybostok_Marian/Wanted_Part_4_Polizei.sap
   TITLE: Eins Zwei Polizei
  ARTIST: Mo-Do
@@ -4439,6 +4523,14 @@ COMMENT: Forever 2e3 music compo entry.
 
 /Misc/Epileptic_Duck.sap
 COMMENT: 2nd place at Winter Chip II (Best Pokey) music compo.
+
+/Misc/Final_Fantasy_3.sap
+  TITLE: The Prelude [from Final Fantasy IV Piano Collections]
+ ARTIST: Nobuo Uematsu
+
+/Misc/Final_Fantasy_Prelude.sap
+  TITLE: The Prelude [from Final Fantasy IV Piano Collections]
+ ARTIST: Nobuo Uematsu
 
 /Misc/Flatfish.sap
 COMMENT: 6th place at Forever 5 music compo.
@@ -4986,6 +5078,10 @@ COMMENT: This anthem is traditional and possibly one of the most known national
 /Unknown/AMS/Hungry_Like_The_Wolf.sap
   TITLE: Hungry Like The Wolf [from Rio]
  ARTIST: Duran Duran
+
+/Unknown/AMS/Invention_no_13_2.sap
+  TITLE: Two-Part Invention No. 13, in A minor (BWV 784)
+ ARTIST: Johann Sebastian Bach
 
 /Unknown/AMS/Imagine.sap
   TITLE: Imagine
