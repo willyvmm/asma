@@ -132,7 +132,8 @@ COMMENT: Music starts at 0:04.
 COMMENT: 2nd place at Shadows Party 1994 music compo.
 
 /Composers/Bienias_Adam/Happy_Train_to_Kin_Sampled.sap
-COMMENT: Same as /Composers/Bienias_Adam/Happy_Train_to_Kingdom_of.sap with digitized drums.
+COMMENT: Same as /Composers/Bienias_Adam/Happy_Train_to_Kingdom_of.sap with
+         digitized drums.
 
 /Composers/Bienias_Adam/Ice_Machine.sap
   TITLE: Ice Machine
@@ -182,7 +183,8 @@ COMMENT: Same as /Composers/Bienias_Adam/Train.sap
 /Composers/Bienias_Adam/Tank.sap
   TITLE: Tank Title [from the Amiga game Future Tank]
  ARTIST: Karsten Obarski
-COMMENT: Same as /Composers/Bienias_Adam/Digital_Bonanza.sap with digitized drums.
+COMMENT: Same as /Composers/Bienias_Adam/Digital_Bonanza.sap with digitized 
+         drums.
 
 /Composers/Bienias_Adam/Rzog_Joins_XE_Team_2.sap
   TITLE: ALF Theme [from the TV series] (00:07)
@@ -1121,6 +1123,9 @@ COMMENT: Last Party 2002 music compo entry.
 /Composers/Grayscale/Gray_Set_Willy.sap
   TITLE: Ucieczka z tropiku [from Ucieczka do tropiku] (0:55)
  ARTIST: Marek Biliński
+COMMENT: The title translates from Polish as "Escape from the tropic zone".
+         Marek Biliński was some kind of a Polish J. M. Jarre, and had a 
+         string of instrumental hits back in the 80's.
 
 /Composers/Grayscale/Irish_Wood.sap
 COMMENT: 1st place at Forever 5 music compo.
@@ -1143,8 +1148,8 @@ COMMENT: 2nd place at Intel Outside 4 music compo.
   TITLE: Ucieczka z tropiku [from Ucieczka do tropiku]
  ARTIST: Marek Biliński
 COMMENT: The title translates from Polish as "Escape from the tropic zone".
-         Marek Biliński was some kind of a Polish J. M. Jarre, and had a string
-         of instrumental hits back in the 80's.
+         Marek Biliński was some kind of a Polish J. M. Jarre, and had a 
+         string of instrumental hits back in the 80's.
 
 /Composers/Grayscale/Kwiatek_Grzegorz/Extase.sap
   TITLE: Smoke on the Water [from Machine Head]
@@ -1305,8 +1310,8 @@ COMMENT: Music from the game 'Orto Puzzle' released by Sikor Soft in 1997.
 COMMENT: 8th place at QuaST party 1996 music compo.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Overmind_11.sap
-COMMENT: This song only uses 2 channels (used while loading) - try to recognize
-         that.
+COMMENT: This song only uses 2 channels (used while loading) - try to 
+         recognize that.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Pancerne_Trampki.sap
 COMMENT: Silesian Atari Open party 1995 music compo entry.
@@ -1454,10 +1459,12 @@ COMMENT: Music from the game 'Klątwa' released by L.K. Avalon in 1992.
 COMMENT: Music from the game 'Klątwa' released by L.K. Avalon in 1992.
 
 /Composers/Holda_Leszek/Wladcy_Ciemnosci.sap
-COMMENT: Music from the game 'Władcy Ciemności' released by L.K. Avalon in 1993.
+COMMENT: Music from the game 'Władcy Ciemności' released by L.K. Avalon in 
+         1993.
 
 /Composers/Holda_Leszek/Wladcy_Ciemnosci_Ingame.sap
-COMMENT: Music from the game 'Władcy Ciemności' released by L.K. Avalon in 1993.
+COMMENT: Music from the game 'Władcy Ciemności' released by L.K. Avalon in 
+         1993.
 
 ### /Composers/Hubbard_Rob ###################################################
 
@@ -1470,12 +1477,12 @@ COMMENT: "Extirpator is unknown to me, but the tune is Sanxion, which is
          probably my favorite tune I ever wrote on the c64." (RH)
 
 /Composers/Hubbard_Rob/Jet_Set_Willy.sap
-COMMENT: "Jet Set Willy 2 was unique to the Atari and is very much in the Jarre
-         style." (RH)
+COMMENT: "Jet Set Willy 2 was unique to the Atari and is very much in the 
+         Jarre style." (RH)
 
 /Composers/Hubbard_Rob/International_Karate.sap
-COMMENT: "I.K. was the first tune I ever did on the Atari, which was also quite
-         a challenge because of the 8bit pitch registers." (RH)
+COMMENT: "I.K. was the first tune I ever did on the Atari, which was also 
+         quite a challenge because of the 8bit pitch registers." (RH)
 
 /Composers/Hubbard_Rob/Warhawk.sap
 COMMENT: "Warhawk was a c64 tune originally called Proteus." (RH)
@@ -1675,7 +1682,8 @@ COMMENT: Silesian Atari Open party 1995 music compo entry.
 ### /Composers/Kalinowski_Bartosz ############################################
 
 /Composers/Kalinowski_Bartosz/
-COMMENT: Sadly, Bartosz Kalinowski (Bartman) passed away in 1997, at the age of 20.
+COMMENT: Sadly, Bartosz Kalinowski (Bartman) passed away in 1997, at the age 
+         of 20.
 
 /Composers/Kalinowski_Bartosz/CIS_Musicshow.sap
 (#1)
@@ -1806,7 +1814,8 @@ COMMENT: This is not a complete cover.
 ### /Composers/Krasuski_Jaroslaw #############################################
 
 /Composers/Krasuski_Jaroslaw/
-COMMENT: Sadly, Jaroslaw Krasuski (Jaras) passed away in 2007, at the age of 33.
+COMMENT: Sadly, Jaroslaw Krasuski (Jaras) passed away in 2007, at the age 
+         of 33.
 
 /Composers/Krasuski_Jaroslaw/Bad.sap
   TITLE: Bad [from Bad]
@@ -1925,7 +1934,8 @@ COMMENT: Sadly, Jaroslaw Krasuski (Jaras) passed away in 2007, at the age of 33.
 /Composers/Krix_Mario/Bombo.sap
   TITLE: The Hootchy Kootchy Dance
  ARTIST: Sol Bloom
-COMMENT: Covering from the C64 version game by Ben Daglish that appeared in the game "Bombo".
+COMMENT: Covering from the C64 version game by Ben Daglish that appeared in 
+         the game "Bombo".
 
 /Composers/Krix_Mario/Chuck_Rock.sap
   TITLE: chuckrock [from the Amiga game Chuck Rock]
@@ -2318,8 +2328,8 @@ COMMENT: Music from the game 'Tusker' released by Mirage in 1993.
   TITLE: Ucieczka z tropiku [from Ucieczka do tropiku]
  ARTIST: Marek Biliński
 COMMENT: The title translates from Polish as "Escape from the tropic zone".
-         Marek Biliński was some kind of a Polish J. M. Jarre, and had a string
-         of instrumental hits back in the 80's.
+         Marek Biliński was some kind of a Polish J. M. Jarre, and had a 
+         string of instrumental hits back in the 80's.
 
 /Composers/Liebich_Tomasz/Vicky_Game_Over.sap
 COMMENT: Music from the game 'Vicky' released by L.K. Avalon in 1992.
@@ -2538,7 +2548,8 @@ COMMENT: Silesian Atari Open party 1995 music compo entry.
 ### /Composers/Martin_Chris ##################################################
 
 /Composers/Martin_Chris/Approachong_stereo.sap
-COMMENT: Same as /Composers/Martin_Chris/Approachong.sap, but with second  POKEY support (stereo version).
+COMMENT: Same as /Composers/Martin_Chris/Approachong.sap, but with second 
+         POKEY support (stereo version).
 
 /Composers/Martin_Chris/Blue_Monday.sap
   TITLE: Blue Monday
@@ -3257,15 +3268,17 @@ COMMENT: Covers /Composers/Szpilowski_Michal/Hope.sap
   TITLE: Listen to Your Heart [from Look Sharp]
  ARTIST: Roxette
 
-### /Composers/Rymorz_Waldemar ######################################################
+### /Composers/Rymorz_Waldemar ###############################################
 
 /Composers/Rymorz_Waldemar/Arkanoid_II.sap
 (#5)
-COMMENT: Another version of /Composers/Rymorz_Waldemar/Music_Box_Demo_II_1_4.sap, tune 1.
+COMMENT: Another version of 
+         /Composers/Rymorz_Waldemar/Music_Box_Demo_II_1_4.sap, tune 1.
 
 /Composers/Rymorz_Waldemar/Music_Box_Demo_II_1_4.sap
 (#1)
-COMMENT: Another version of /Composers/Rymorz_Waldemar/Arkanoid_II.sap, tune 5.
+COMMENT: Another version of 
+         /Composers/Rymorz_Waldemar/Arkanoid_II.sap, tune 5.
 
 /Composers/Rymorz_Waldemar/Music_Box_Demo_II_6.sap
   TITLE: Popcorn [from Music To Moog By]
@@ -3577,7 +3590,8 @@ COMMENT: Covers a version made by Richard Munns. 2nd place at Atari Area
 ### /Composers/Szpilowski_Michal #############################################
 
 /Composers/Szpilowski_Michal/48h.sap
-COMMENT: Soundtrack from intro by LaResistance. Winner of Głuchołazy 2010 demo compo.
+COMMENT: Soundtrack from intro by LaResistance. Winner of Głuchołazy 2010 demo
+         compo.
 
 /Composers/Szpilowski_Michal/7_Gates_of_Jambala.sap
   TITLE: Title [from the Atari ST/Amiga game 7 Gates Of Jambala]
@@ -4675,16 +4689,16 @@ COMMENT: An example of 16th century lute music.
 /Unknown/God_Save_the_Queen_1.sap
   TITLE: God Save the King/Queen (The National Anthem of the U.K.)
  ARTIST: Traditional
-COMMENT: This anthem is traditional and possibly one of the most known national
-         anthems in the world. Each verse was written at a different time,
-         ranging from the 1740s to the present day.
+COMMENT: This anthem is traditional and possibly one of the most known 
+         national anthems in the world. Each verse was written at a different
+         time, ranging from the 1740s to the present day.
 
 /Unknown/God_Save_the_Queen_2.sap
   TITLE: God Save the King/Queen (The National Anthem of the U.K.)
  ARTIST: Traditional
-COMMENT: This anthem is traditional and possibly one of the most known national
-         anthems in the world. Each verse was written at a different time,
-         ranging from the 1740s to the present day.
+COMMENT: This anthem is traditional and possibly one of the most known 
+         national anthems in the world. Each verse was written at a different
+         time, ranging from the 1740s to the present day.
 
 /Unknown/Hawkeye.sap
   TITLE: Hawkeye, Tune #6 [from the C64 game]
@@ -5047,9 +5061,9 @@ COMMENT: Best known from as the title theme to the comedy TV series
 /Unknown/AMS/God_Save_the_Queen.sap
   TITLE: God Save the King/Queen (The National Anthem of the U.K.)
  ARTIST: Traditional
-COMMENT: This anthem is traditional and possibly one of the most known national
-         anthems in the world. Each verse was written at a different time,
-         ranging from the 1740s to the present day.
+COMMENT: This anthem is traditional and possibly one of the most known 
+         national anthems in the world. Each verse was written at a different
+         time, ranging from the 1740s to the present day.
 
 /Unknown/AMS/Green_Sleeves.sap
   TITLE: Greensleeves
