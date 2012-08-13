@@ -29,7 +29,7 @@ COMMENT: Same as /Composers/Armijo_Richard_J/Congrabalation_Mono.sap,
 
 ### /Composers/Badkowski_Marek ###############################################
 
-/Composers/Badkowski_Marek/Deafman.sap
+/Composers/Badkowski_Marek/DeafMan.sap
 COMMENT: Silesian Atari Open party 1995 music compo entry.
 
 /Composers/Badkowski_Marek/Full_Shock.sap
@@ -461,7 +461,7 @@ COMMENT: 4th place at Shadows Party 1994 music compo.
  ARTIST: Zenon Kowalowski
 
 /Composers/Czartynski_Marcin/Wave.sap
-COMMENT: Music from the game 'Grunwald 1410' released by Fire Bird in 1995.
+COMMENT: Music from the game 'Grunwald 1410' released by L.K. Firebird in 1995.
 
 /Composers/Czartynski_Marcin/Top_Secret.sap
 COMMENT: Music from the game 'Top Secret' released by Mirage in 1993.
@@ -621,7 +621,7 @@ COMMENT: 5th place at Forever Reneg8 music compo.
 ### /Composers/Eisenhammer_Zdenek ############################################
 
 /Composers/Eisenhammer_Zdenek/
-COMMENT: PG is short for PseudoGrafx.
+COMMENT: PG is abbreviation of PseudoGrafx.
 
 /Composers/Eisenhammer_Zdenek/Aurora_rev_2.sap
   TITLE: Hymn to Aurora [from the Amiga MOD module]
@@ -764,6 +764,7 @@ COMMENT: Same as /Composers/Esquivel_Sal/Blaster_Master_Level_1.sap,
 /Composers/Esquivel_Sal/M_U_L_E_Remix.sap
   TITLE: M.U.L.E., Tune #1
  ARTIST: Roy Glover
+CoMMENT: Used in 'Mule Wars' game by Mario Caillahuz.
 
 /Composers/Esquivel_Sal/Mega_Man_III_Title_Stereo.sap
 COMMENT: Same as /Composers/Esquivel_Sal/Mega_Man_III_Title.sap,
@@ -2609,6 +2610,10 @@ COMMENT: Same melody as /Composers/Matyasik_Krzysztof/Wolowinka.sap,
 /Composers/Michalski_Krzysztof/Madteam_Intro.sap
   TITLE: Moonlight Shadow [from Crises]
  ARTIST: Mike Oldfield & Simon Philips
+
+/Composers/Michalski_Krzysztof/Mac.sap
+  TITLE: MacGyver Theme [from the TV series]
+ ARTIST: Randy Edelman
 
 ### /Composers/Mikolajczak_Pawel #############################################
 
