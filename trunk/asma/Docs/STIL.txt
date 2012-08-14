@@ -122,6 +122,8 @@ COMMENT: Last Party 1998 music compo entry.
  ARTIST: Pet Shop Boys
 
 /Composers/Bienias_Adam/Dimension_X.sap
+  TITLE: Dimension X [from the Atari XE/XL POKEY]
+ ARTIST: Steve Hales <?>
 COMMENT: Music starts at 0:04.
 
 /Composers/Bienias_Adam/Haddaway.sap
