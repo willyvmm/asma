@@ -32,6 +32,7 @@ Composers/Duma_Dariusz/Disco_Beat.sap
 Composers/Duma_Dariusz/Out_of_Prison.sap
 Composers/Duma_Dariusz/Rolling_World.sap
 Composers/Duma_Dariusz/Sexperience.sap
+Composers/Ezcan_Kemal/Fire_Cracker.sap
 Composers/Falton_Peter/Break-Out.sap
 Composers/Falton_Peter/Chopp_the_Robot.sap
 Composers/Farkas_Felker/Blip.sap
@@ -116,7 +117,7 @@ Composers/Murray_Chris/Winter_Games_88_Ingame.sap
 Composers/Padula_Jaroslaw/Zero_Music_1.sap
 Composers/Padula_Jaroslaw/Zero_Music_2.sap
 Composers/Polak_Krzysztof/Cicha_Noc.sap
-Composers/Polak_Krzysztof/Dzisiaj_w_Beteljem.sap
+Composers/Polak_Krzysztof/Dzisiaj_w_Betlejem.sap.sap
 Composers/Polak_Krzysztof/Lulajze_Jezuniu.sap
 Composers/Polak_Krzysztof/Przybiezeli_do_Betlejem.sap
 Composers/Polak_Krzysztof/Wsrod_Nocnej_Ciszy.sap
@@ -186,6 +187,7 @@ Games/Archon_II.sap
 Games/Ataroid.sap
 Games/Atomix_Plus.sap
 Games/Bannercatch.sap
+Games/Dimension_X.sap
 Games/Hats.sap
 Games/Hover_Bovver.sap
 Games/Hulk_Out.sap
@@ -198,15 +200,16 @@ Games/Lethal_Weapon.sap
 Games/Lets_Frog_3D.sap
 Games/Little_Devil.sap
 Games/Logic_Levels.sap
-Games/Los_Angeles_1984.sap
 Games/Mad_Marble_Maze.sap
 Games/Mountain_King.sap
+Games/Nadral_Next_Level.sap
 Games/Phantom.sap
 Games/Pogotron.sap
 Games/Preppie.sap
 Games/Preppie_II.sap
 Games/Rent_Wars.sap
-Games/Revenge_of_the_Mutant.sap 
+Games/Revenge_of_the_Mutant.sap
+Games/Starbowl_Football.sap
 Games/Tales_of_Dragons_and_Cav.sap 
 Games/Trailblazer.sap
 Games/Web_Master.sap
@@ -217,7 +220,7 @@ Misc/Cantata.sap
 Misc/Darling_Nellie_Grey.sap
 Misc/Datavoid.sap
 Misc/Glow_Little_Glowworm.sap
-Misc/Groove_Cave_ Reborn.sap
+Misc/Groove_Cave_Reborn.sap
 Misc/Hook.sap
 Misc/Lost_in_a_Forest.sap
 Misc/Making_Love.sap
@@ -232,12 +235,10 @@ Unknown/Bach.sap
 Unknown/Bee.sap
 Unknown/Bumboog.sap
 Unknown/Canyon_Climber.sap
-Unknown/Chinese.sap
 Unknown/Cielito.sap
 Unknown/Compy_Shop_Magazin_6.sap
 Unknown/Dance.sap
 Unknown/Davids_Midnight.sap
-Unknown/Dimention_X_ Cracktro.sap
 Unknown/Dream.sap
 Unknown/Frosty_The_Snowman.sap
 Unknown/Funicula.sap
@@ -250,7 +251,6 @@ Unknown/Jacobs.sap
 Unknown/Manger.sap
 Unknown/March.sap
 Unknown/Musbox.sap
-Unknown/Nadral.sap
 Unknown/No_Limit.sap
 Unknown/O_Little_Town_of_Bethlehem.sap
 Unknown/ORileys_Mine.sap
@@ -264,7 +264,6 @@ Unknown/Sing_Hosanna.sap
 Unknown/Somebody.sap
 Unknown/Sorella.sap
 Unknown/Spaceship_Demo.sap
-Unknown/Starbowl_Football.sap
 Unknown/Streets_of_London.sap
 Unknown/Sweeney.sap
 Unknown/Tblues.sap
