@@ -3675,7 +3675,7 @@ COMMENT: 1st place at QuaST party 1998 music compo.
   TITLE: 5 Mazurkas, Opus 7, part 1
  ARTIST: Fryderyk Chopin
 (#4)
-  TITLE: Préludes, Opus 28, part 17
+  TITLE: Préludes, Opus 28, part 17 (fragment)
  ARTIST: Fryderyk Chopin
 (#5)
   TITLE: Préludes, Opus 28, part 17
