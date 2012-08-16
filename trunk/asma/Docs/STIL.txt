@@ -3659,18 +3659,39 @@ COMMENT: QuaST party 1995 music compo entry.
 /Composers/Szpilowski_Michal/Brzdonc.sap
 COMMENT: 1st place at QuaST party 1998 music compo.
 
-/Composers/Szpilowski_Michal/Cyborg_1.sap
-COMMENT: Music from the game 'Cyborg' released by Sikor Soft in 1995.
-
-/Composers/Szpilowski_Michal/Cyborg_2.sap
-COMMENT: Music from the game 'Cyborg' released by Sikor Soft in 1995.
-
-/Composers/Szpilowski_Michal/Cyborg_Ingame.sap
-COMMENT: Music from the game 'Cyborg' released by Sikor Soft in 1995.
 
 /Composers/Szpilowski_Michal/Cherry_Rave_Experimental.sap
   TITLE: Powiedz [from Ad. 4]
  ARTIST: Ich Troje
+
+/Composers/Szpilowski_Michal/Chopin_2010.sap
+(#2)
+  TITLE: Etudes, Opus 10, part 5 - Black key
+ ARTIST: Fryderyk Chopin
+(#3)
+  TITLE: 5 Mazurkas, Opus 7, part 1
+ ARTIST: Fryderyk Chopin
+(#4)
+  TITLE: Préludes, Opus 28, part 17
+ ARTIST: Fryderyk Chopin
+(#5)
+  TITLE: Préludes, Opus 28, part 17
+ ARTIST: Fryderyk Chopin
+(#6)
+  TITLE: Préludes, Opus 28, part 23
+ ARTIST: Fryderyk Chopin
+(#7)
+  TITLE: Préludes, Opus 28, part 19
+ ARTIST: Fryderyk Chopin
+/Composers/Szpilowski_Michal/Cyborg_1.sap
+COMMENT: Music from the game 'Cyborg' released by Sikor Soft in 1995.
+
+/Composers/Szpilowski_Michal/Cyborg_2.sap
+COMMENT: Music for the game 'Cyborg' released by Sikor Soft in 1995.
+         This version is not used in game.
+
+/Composers/Szpilowski_Michal/Cyborg_Ingame.sap
+COMMENT: Music from the game 'Cyborg' released by Sikor Soft in 1995.
 
 /Composers/Szpilowski_Michal/Disturbance.sap
 COMMENT: 6th place at Forever Reneg8 music compo.
@@ -3690,6 +3711,10 @@ COMMENT: Covers the MIDI conversion by Borgar Thorsteinsson (Oedipus).
 /Composers/Szpilowski_Michal/Endtheme.sap
   TITLE: End Theme [from the Amiga Soundtracker module]
  ARTIST: Karsten Obarski
+
+/Composers/Szpilowski_Michal/Full_Logic.sap
+  TITLE: Full Logic1 [from the Amiga Soundtracker module]
+ ARTIST: Fred Thomas (Gamma)
 
 /Composers/Szpilowski_Michal/Hall_of_Rabarbadon.sap
 COMMENT: 22th place at QuaST party 1996 music compo.
@@ -3753,7 +3778,69 @@ COMMENT: Music from the game 'Moscow 1993' released by Sikor Soft in 1994.
 /Composers/Szpilowski_Michal/Music_Memory.sap
 (#1)
   TITLE: Czterdzieści lat minęło [from the TV series 40-latek]
- ARTIST: Jan Stanisławski (lyrics), Jerzy Matuszkiewicz (music), performed by Andrzej Rosiewicz
+ ARTIST: Jan Stanisławski (lyrics), Jerzy Matuszkiewicz (music),
+         performed by Andrzej Rosiewicz
+(#2)
+  TITLE: Chcemy być sobą [from Biały Album]
+ ARTIST: Perfect 
+(#3)
+  TITLE: Kreon
+ ARTIST: Maanam
+(#4)
+  TITLE: Teksański [from Fire]
+ ARTIST: Hey
+(#5)
+  TITLE: Parostatek [from Rysunek na szkle]
+ ARTIST: Krzysztof Krawczyk
+(#6)
+  TITLE: Kamikadze wróć [from Papa Dance]
+ ARTIST: Papa Dance
+(#7)
+  TITLE: Jenny [from Dziecko]
+ ARTIST: Edyta Bartosiewicz
+(#8)
+  TITLE: Przemija uroda w nas [from ???]
+ ARTIST: Seweryn Krajewski
+(#9)
+  TITLE: Wieża radości, wieża samotności [from Europa i Azja]
+ ARTIST: Sztywny Pal Azji
+(#10)
+  TITLE: Biała Flaga [from Biała Flaga]
+ ARTIST: Republika
+(#11)
+  TITLE: Mniej niż zero [from Lady Pank]
+ ARTIST: Lady Pank
+(#12)
+  TITLE: Ogrodu serce [from Daab]
+ ARTIST: Daab
+(#13)
+  TITLE: Króliczek [from Cała jesteś w skowronkach]
+ ARTIST: Skaldowie
+(#14)
+  TITLE: Lokomotywa z ogłoszenia [from Perfect]
+ ARTIST: Perfect
+(#15)
+  TITLE: Statki na niebie [from Stop]
+ ARTIST: De Mono
+(#16)
+  TITLE: W moim magicznym domu [from ???]
+ ARTIST: Hanna Banaszak
+(#17)
+  TITLE: Czerwony jak cegła [from Cegła]
+ ARTIST: Dżem
+(#18)
+  TITLE: Malinowy Król [from Malinowy Król]
+ ARTIST: Urszula
+(#19)
+  TITLE: Marchewkowe Pole [from O dwóch takich, co ukradli księżyc]
+ ARTIST: Lady Pank
+(#20)
+  TITLE: Polly [from Nevermind]
+ ARTIST: Nirvana
+
+/Composers/Szpilowski_Michal/Music_Memory_Title.sap
+  TITLE: Summer Theme (from Harverst Moon 64, Nintendo 64 game)
+ ARTIST: Tsuyoshi Tanaka
 
 /Composers/Szpilowski_Michal/Nexus_Ingame_1.sap
 COMMENT: Music from the game 'Nexus' released by Sikor Soft in 1996.
