@@ -3666,32 +3666,30 @@ COMMENT: 1st place at QuaST party 1998 music compo.
 
 /Composers/Szpilowski_Michal/Chopin_2010.sap
 (#1)
-  TITLE: Polonaise Ab major, Opus 53 (short fragment)
+  TITLE: Polonaise Ab major Op 53 (short fragment)
  ARTIST: Fryderyk Chopin
 (#2)
-  TITLE: Etudes, Opus 10, part 5 - Black key
+  TITLE: Etude Op 10 No 5 - Black key
  ARTIST: Fryderyk Chopin
 (#3)
-  TITLE: 5 Mazurkas, Opus 7, part 1
+  TITLE: Mazurka Op 7 No 1
  ARTIST: Fryderyk Chopin
 (#4)
-  TITLE: Préludes, Opus 28, part 17 (fragment)
+  TITLE: Prelude Op 28 No 17 (fragment)
  ARTIST: Fryderyk Chopin
 (#5)
-  TITLE: Préludes, Opus 28, part 17
+  TITLE: Prelude Op 28 No 23
  ARTIST: Fryderyk Chopin
 (#6)
-  TITLE: Préludes, Opus 28, part 23
+  TITLE: Prelude Op 28 No 19
  ARTIST: Fryderyk Chopin
-(#7)
-  TITLE: Préludes, Opus 28, part 19
- ARTIST: Fryderyk Chopin
+
 /Composers/Szpilowski_Michal/Cyborg_1.sap
 COMMENT: Music from the game 'Cyborg' released by Sikor Soft in 1995.
 
 /Composers/Szpilowski_Michal/Cyborg_2.sap
 COMMENT: Music for the game 'Cyborg' released by Sikor Soft in 1995.
-         This version is not used in game.
+         This version is not used in the game.
 
 /Composers/Szpilowski_Michal/Cyborg_Ingame.sap
 COMMENT: Music from the game 'Cyborg' released by Sikor Soft in 1995.
