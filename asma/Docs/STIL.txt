@@ -3665,6 +3665,9 @@ COMMENT: 1st place at QuaST party 1998 music compo.
  ARTIST: Ich Troje
 
 /Composers/Szpilowski_Michal/Chopin_2010.sap
+(#1)
+  TITLE: Polonaise Ab major, Opus 53 (short fragment)
+ ARTIST: Fryderyk Chopin
 (#2)
   TITLE: Etudes, Opus 10, part 5 - Black key
  ARTIST: Fryderyk Chopin
