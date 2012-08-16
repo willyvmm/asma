@@ -3843,6 +3843,21 @@ COMMENT: Music from the game 'Moscow 1993' released by Sikor Soft in 1994.
   TITLE: Summer Theme (from Harverst Moon 64, Nintendo 64 game)
  ARTIST: Tsuyoshi Tanaka
 
+/Composers/Szpilowski_Michal/Mission_ArSoft.sap
+(#1)
+  TITLE: Samurai Warrior: The Battles of Usagi Yojimbo [from C64 game]
+ ARTIST: Neil Brennan
+COMMENT: Covers the MIDI conversion by Hyena
+(#2)
+  TITLE: Sidebad [from Dragon Ball Z: Hyper Dimension, SNES game]
+ ARTIST: Takano Nakajima
+COMMENT: Covers the MIDI conversion by KDS
+(#3)
+  TITLE: Canon Rider [from C64 game]
+ ARTIST: René Udert
+COMMENT: Covers the MIDI conversion by Rochus
+
+
 /Composers/Szpilowski_Michal/Nexus_Ingame_1.sap
 COMMENT: Music from the game 'Nexus' released by Sikor Soft in 1996.
 
