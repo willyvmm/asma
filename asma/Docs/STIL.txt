@@ -317,7 +317,7 @@ COMMENT: Last Party 2002 music compo entry.
 /Composers/Ce_Pumpkin/R0l0_5_Rulu
   TITLE: Bazuona [from the Amiga SoundTracker module]
  ARTIST: Marcus Johansson (Mopz)
-COMMENT: Altered a bit.
+COMMENT: Based on this music.
 
 /Composers/Ce_Pumpkin/Skis.sap
 COMMENT: Lato Ludzików 2002 music compo entry. Its full name is Skisłodrom.
@@ -3744,11 +3744,11 @@ COMMENT: 22th place at QuaST party 1996 music compo.
 (#1)
   TITLE: Jetpac Refuelled - Hi-Score (fragment) [from rhe tbox 360 game]
  ARTIST: Steve Burke (Rare)
-COMMENT: Written by ear
+COMMENT: Written by ear.
 (#2)
-  TITLE: Jetpac Refuelled - Ingame (fragment) [from the Xbox 360 Game]
+  TITLE: Jetpac Refuelled - Ingame (fragment) [from the Xbox 360 game]
  ARTIST: Steve Burke (Rare)
-COMMENT: Written by ear
+COMMENT: Written by ear.
 (#3)
   TITLE: Strangelove [from Music for the Masses]
  ARTIST: Depeche Mode
@@ -3808,7 +3808,7 @@ COMMENT: Music from the game 'Moscow 1993' released by Sikor Soft in 1994.
   TITLE: Chcemy być sobą [from Biały Album]
  ARTIST: Perfect 
 (#3)
-  TITLE: Kreon
+  TITLE: Kreon [from Mental Cut]
  ARTIST: Maanam
 (#4)
   TITLE: Teksański [from Fire]
@@ -3823,7 +3823,7 @@ COMMENT: Music from the game 'Moscow 1993' released by Sikor Soft in 1994.
   TITLE: Jenny [from Dziecko]
  ARTIST: Edyta Bartosiewicz
 (#8)
-  TITLE: Przemija uroda w nas [from ???]
+  TITLE: Przemija uroda w nas [from Baw mnie]
  ARTIST: Seweryn Krajewski
 (#9)
   TITLE: Wieża radości, wieża samotności [from Europa i Azja]
@@ -3847,7 +3847,7 @@ COMMENT: Music from the game 'Moscow 1993' released by Sikor Soft in 1994.
   TITLE: Statki na niebie [from Stop]
  ARTIST: De Mono
 (#16)
-  TITLE: W moim magicznym domu [from ???]
+  TITLE: W moim magicznym domu [from W moim magicznym domu]
  ARTIST: Hanna Banaszak
 (#17)
   TITLE: Czerwony jak cegła [from Cegła]
@@ -3870,15 +3870,15 @@ COMMENT: Music from the game 'Moscow 1993' released by Sikor Soft in 1994.
 (#1)
   TITLE: Samurai Warrior: The Battles of Usagi Yojimbo [from C64 game]
  ARTIST: Neil Brennan
-COMMENT: Covers the MIDI conversion by Hyena
+COMMENT: Covers the MIDI conversion by Hyena (vgmusic.com)
 (#2)
   TITLE: Sidebad [from Dragon Ball Z: Hyper Dimension, SNES game]
  ARTIST: Takano Nakajima
-COMMENT: Covers the MIDI conversion by KDS
+COMMENT: Covers the MIDI conversion by KDS (vgmusic.com)
 (#3)
   TITLE: Canon Rider [from C64 game]
  ARTIST: René Udert
-COMMENT: Covers the MIDI conversion by Rochus
+COMMENT: Covers the MIDI conversion by Rochus (vgmusic.com)
 
 /Composers/Szpilowski_Michal/Nexus_Ingame_1.sap
 COMMENT: Music from the game 'Nexus' released by Sikor Soft in 1996.
