@@ -3753,6 +3753,17 @@ COMMENT: Written by ear.
   TITLE: Strangelove [from Music for the Masses]
  ARTIST: Depeche Mode
 
+/Composers/Szpilowski_Michal/Jevel_Bits.sap
+(#1)
+  TITLE: Still Alive [from the game Portal]
+ ARTIST: Jonathan Coulton
+(#2)
+  TITLE: And your bird can sing [from Revolver]
+ ARTIST: The Beatles
+(#5)
+  TITLE: Bring it on! [from: R.O.S.E Online (Rush On Seven Episodes)]
+ ARTIST: <?>
+
 /Composers/Szpilowski_Michal/K_O_T_O.sap
   TITLE: Visitors [from Masterpieces]
  ARTIST: Koto
