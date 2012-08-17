@@ -3753,7 +3753,7 @@ COMMENT: Written by ear.
   TITLE: Strangelove [from Music for the Masses]
  ARTIST: Depeche Mode
 
-/Composers/Szpilowski_Michal/Jevel_Bits.sap
+/Composers/Szpilowski_Michal/Jewel_Bits.sap
 (#1)
   TITLE: Still Alive [from the game Portal]
  ARTIST: Jonathan Coulton
