@@ -3742,11 +3742,13 @@ COMMENT: 22th place at QuaST party 1996 music compo.
 
 /Composers/Szpilowski_Michal/Jetboy.sap
 (#1)
-  TITLE: Jetpac Refuelled - Ingame [from The Xbox360 Game]
+  TITLE: Jetpac Refuelled - Hi-Score (fragment) [from rhe tbox 360 game]
  ARTIST: Steve Burke (Rare)
+COMMENT: Written by ear
 (#2)
-  TITLE: Jetpac Refuelled [from The Xbox360 Game]
+  TITLE: Jetpac Refuelled - Ingame (fragment) [from the Xbox 360 Game]
  ARTIST: Steve Burke (Rare)
+COMMENT: Written by ear
 (#3)
   TITLE: Strangelove [from Music for the Masses]
  ARTIST: Depeche Mode
