@@ -3622,6 +3622,11 @@ COMMENT: Composed using Chaos Music Composer 4 times/VBL.
 /Composers/Szpilowski_Michal/Baracco.sap
 COMMENT: Composed using Chaos Music Composer 4 times/VBL.
 
+/Composers/Szpilowski_Michal/Blekitne_Nimfy.sap
+(#1)
+  TITLE: Błękitne Nimfy [from Ogród Króla Świtu]
+ ARTIST: Marek Biliński
+
 /Composers/Szpilowski_Michal/Bomb_Jack.sap
 (#1)
   TITLE: Bomb Jack, Tune #6 [from the C64 game]
@@ -3658,7 +3663,6 @@ COMMENT: QuaST party 1995 music compo entry.
 
 /Composers/Szpilowski_Michal/Brzdonc.sap
 COMMENT: 1st place at QuaST party 1998 music compo.
-
 
 /Composers/Szpilowski_Michal/Cherry_Rave_Experimental.sap
   TITLE: Powiedz [from Ad. 4]
@@ -3721,9 +3725,15 @@ COMMENT: Covers the MIDI conversion by Borgar Thorsteinsson (Oedipus).
 COMMENT: 22th place at QuaST party 1996 music compo.
 
 /Composers/Szpilowski_Michal/Isora.sap
+(#1)
+  TITLE: Phalanx [from the Amiga/Atari ST/SNES/GBA/Sharp X68000 game]
+ ARTIST: Jochen Hippel (Mad Max)
 (#2)
   TITLE: Crystal Hammer [from the Amiga game]
  ARTIST: Karsten Obarski
+(#3)
+  TITLE: Thing on a Spring [from the C64 game]
+ ARTIST: Rob Hubbard
 
 /Composers/Szpilowski_Michal/Jetboy.sap
 (#3)
@@ -3840,7 +3850,7 @@ COMMENT: Music from the game 'Moscow 1993' released by Sikor Soft in 1994.
  ARTIST: Nirvana
 
 /Composers/Szpilowski_Michal/Music_Memory_Title.sap
-  TITLE: Summer Theme (from Harverst Moon 64, Nintendo 64 game)
+  TITLE: Summer Theme (from Harvest Moon 64, Nintendo 64 game)
  ARTIST: Tsuyoshi Tanaka
 
 /Composers/Szpilowski_Michal/Mission_ArSoft.sap
@@ -3897,10 +3907,10 @@ COMMENT: Cover of part of the original game soundtrack
          ("some" patterns have been heavily altered).
 
 /Composers/Szpilowski_Michal/Sexy_Six_Alfa_Ingame.sap
-COMMENT: Music from the game 'Sexy Six' released by Sikor Soft in 1995.
+COMMENT: Music from prototype version the game 'Sexy Six'.
 
 /Composers/Szpilowski_Michal/Sexy_Six_Alfa_Title.sap
-COMMENT: Music from the game 'Sexy Six' released by Sikor Soft in 1995.
+COMMENT: Music from prototype version the game 'Sexy Six'.
 
 /Composers/Szpilowski_Michal/Sexy_Six_Ingame_1.sap
 COMMENT: Music from the game 'Sexy Six' released by Sikor Soft in 1995.
@@ -3935,8 +3945,25 @@ COMMENT: Music from the game 'Teacher Killer' released by Sikor Soft in 1994.
 COMMENT: Music from the game 'Teacher Killer' released by Sikor Soft in 1994.
 
 /Composers/Szpilowski_Michal/Tempest_2000_Blue_Level.sap
-  TITLE: Tune 4 <?> [from the Amiga game Jaguar Tempest 2000]
+  TITLE: Tune 4 <?> [from the Atari Jaguar game Tempest 2000]
  ARTIST: <?>
+
+/Composers/Szpilowski_Michal/Tomcat.sap
+(#1)
+  TITLE: Level 1 [from the Nintendo game 1943 - Battle of Midway]
+ ARTIST: Yoshihiro Sakaguchi
+(#2)
+  TITLE: Level 1 Pre-Boss [from the Nintendo game 1943 - The Battle of Midway]
+ ARTIST: Yoshihiro Sakaguchi
+(#3)
+  TITLE: Mission Failure [from the Nintendo game 1943 - The Battle of Midway]
+ ARTIST: Yoshihiro Sakaguchi
+(#4)
+  TITLE: Airwolf [from the TV series], one pattern from Delta
+ ARTIST: Sylvester Levay, Rob Hubbard
+(#5)
+  TITLE: Delta, Tune # 12 [from the C64 game]
+ ARTIST: Rob Hubbard
 
 /Composers/Szpilowski_Michal/Trial1.sap
   TITLE: Buy/Sell Music [from the PC game Tyrian]
@@ -3947,7 +3974,7 @@ COMMENT: Music from the game 'Teacher Killer' released by Sikor Soft in 1994.
  ARTIST: Michael Jackson
 
 /Composers/Szpilowski_Michal/Weird_Trip.sap
-COMMENT: 3nd place at Grayscale Music Competition II.
+COMMENT: 3rd place at Grayscale Music Competition II.
 
 /Composers/Szpilowski_Michal/Wings_of_Death_Level_Music.sap
   TITLE: Wings of Death - Level #1 [from the Atari ST/Amiga game Wings of Death]
