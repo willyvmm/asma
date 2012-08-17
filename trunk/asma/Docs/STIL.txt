@@ -2890,7 +2890,7 @@ COMMENT: Same as /Composers/Pesout_Marek/Alphaville.sap,
  ARTIST: Joseph Mohr (lyrics), Franz Xaver Gruber (music)
 COMMENT: A Christmas song also known as "Silent Night".
 
-/Composers/Polak_Krzysztof/Dzisiaj_w_Beteljem.sap
+/Composers/Polak_Krzysztof/Dzisiaj_w_Betlejem.sap
   TITLE: Dzisiaj w Betlejem
  ARTIST: Traditional
 COMMENT: Polish Christmas carol.
@@ -3950,13 +3950,13 @@ COMMENT: Music from the game 'Teacher Killer' released by Sikor Soft in 1994.
 
 /Composers/Szpilowski_Michal/Tomcat.sap
 (#1)
-  TITLE: Level 1 [from the Nintendo game 1943 - Battle of Midway]
+  TITLE: 1943 - Battle of Midway: Level 1 [from the Nintendo game]
  ARTIST: Yoshihiro Sakaguchi
 (#2)
-  TITLE: Level 1 Pre-Boss [from the Nintendo game 1943 - The Battle of Midway]
+  TITLE: 1943 - Battle of Midway: Level 1 Pre-Boss [from the Nintendo game]
  ARTIST: Yoshihiro Sakaguchi
 (#3)
-  TITLE: Mission Failure [from the Nintendo game 1943 - The Battle of Midway]
+  TITLE:  1943 - Battle of Midway: Mission Failure [from the Nintendo game]
  ARTIST: Yoshihiro Sakaguchi
 (#4)
   TITLE: Airwolf [from the TV series], one pattern from Delta
