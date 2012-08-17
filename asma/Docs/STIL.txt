@@ -314,8 +314,13 @@ COMMENT: 8th place at Grayscale Music Competition II.
 /Composers/Ce_Pumpkin/Rulez_2.sap
 COMMENT: Last Party 2002 music compo entry.
 
+/Composers/Ce_Pumpkin/R0l0_5_Rulu
+  TITLE: Bazuona [from the Amiga SoundTracker module]
+ ARTIST: Marcus Johansson (Mopz)
+COMMENT: Altered a bit.
+
 /Composers/Ce_Pumpkin/Skis.sap
-COMMENT: Lato Ludzików 2002 music compo entry.
+COMMENT: Lato Ludzików 2002 music compo entry. Its full name is Skisłodrom.
 
 /Composers/Ce_Pumpkin/W_hole.sap
   TITLE: Popcorn [from Music To Moog By] (0:12)
@@ -3736,6 +3741,12 @@ COMMENT: 22th place at QuaST party 1996 music compo.
  ARTIST: Rob Hubbard
 
 /Composers/Szpilowski_Michal/Jetboy.sap
+(#1)
+  TITLE: Jetpac Refuelled - Ingame [from The Xbox360 Game]
+ ARTIST: Steve Burke (Rare)
+(#2)
+  TITLE: Jetpac Refuelled [from The Xbox360 Game]
+ ARTIST: Steve Burke (Rare)
 (#3)
   TITLE: Strangelove [from Music for the Masses]
  ARTIST: Depeche Mode
@@ -3900,6 +3911,11 @@ COMMENT: 5th place at Forever 4 music compo.
   TITLE: Salute [from the Amiga MOD module]
  ARTIST: Hans Arild Runde (Gladiator)
 
+/Composers/Szpilowski_Michal/Scorpio.sap
+  TITLE: Human Race, Tune #4 [from the C64 game]
+ ARTIST: Rob Hubbard
+COMMENT: Also used in "GoldRunner" on the Atari ST.
+
 /Composers/Szpilowski_Michal/Settlers.sap
   TITLE: Siedler II [from the Amiga game Settlers]
  ARTIST: Markus Kludzuweit
@@ -3927,6 +3943,7 @@ COMMENT: 3rd place at SillyVenture 2000 music compo.
 /Composers/Szpilowski_Michal/Slodkiego_Milego_Zycia.sap
   TITLE: Słodkiego, miłego zycia [from Nowy Rozdział]
  ARTIST: Kombi
+COMMENT: Grzybsoniada 2007 music compo entry.
 
 /Composers/Szpilowski_Michal/Snow_Ball.sap
   TITLE: Snowblind [from the Amiga MOD module]
