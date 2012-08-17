@@ -3857,7 +3857,6 @@ COMMENT: Covers the MIDI conversion by KDS
  ARTIST: René Udert
 COMMENT: Covers the MIDI conversion by Rochus
 
-
 /Composers/Szpilowski_Michal/Nexus_Ingame_1.sap
 COMMENT: Music from the game 'Nexus' released by Sikor Soft in 1996.
 
