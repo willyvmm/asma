@@ -3726,6 +3726,10 @@ COMMENT: Covers the MIDI conversion by Borgar Thorsteinsson (Oedipus).
   TITLE: Full Logic1 [from the Amiga Soundtracker module]
  ARTIST: Fred Thomas (Gamma)
 
+/Composers/Szpilowski_Michal/Ghosts_n_Goblins.sap
+  TITLE: Ghosts'n Goblins - Ingame [from the C64 game]
+ ARTIST: Mark Cooksey
+
 /Composers/Szpilowski_Michal/Hall_of_Rabarbadon.sap
 COMMENT: 22th place at QuaST party 1996 music compo.
 
@@ -3742,7 +3746,7 @@ COMMENT: 22th place at QuaST party 1996 music compo.
 
 /Composers/Szpilowski_Michal/Jetboy.sap
 (#1)
-  TITLE: Jetpac Refuelled - Hi-Score (fragment) [from rhe tbox 360 game]
+  TITLE: Jetpac Refuelled - Hi-Score (fragment) [from the Xbox 360 game]
  ARTIST: Steve Burke (Rare)
 COMMENT: Written by ear.
 (#2)
@@ -3758,10 +3762,10 @@ COMMENT: Written by ear.
   TITLE: Still Alive [from the game Portal]
  ARTIST: Jonathan Coulton
 (#2)
-  TITLE: And your bird can sing [from Revolver]
+  TITLE: And Your Bird can Sing [from Revolver]
  ARTIST: The Beatles
 (#5)
-  TITLE: Bring it on! [from: R.O.S.E Online (Rush On Seven Episodes)]
+  TITLE: Bring it On! [from R.O.S.E Online (Rush On Seven Episodes)]
  ARTIST: <?>
 
 /Composers/Szpilowski_Michal/K_O_T_O.sap
@@ -3771,6 +3775,10 @@ COMMENT: Written by ear.
 /Composers/Szpilowski_Michal/Kombi_Nietykalni.sap
   TITLE: Nietykalni - Skamieniałe Zło [from Tabu]
  ARTIST: Kombi
+
+/Composers/Szpilowski_Michal/Last_Ninja.sap
+  TITLE: Last Ninja [from the C64 game]
+ ARTIST: Ben Daglish
 
 /Composers/Szpilowski_Michal/Last_Ninja_2_Central_Park.sap
   TITLE: Last Ninja 2 (Central Park Loader) [from the C64 game]
@@ -3909,6 +3917,10 @@ COMMENT: Music from the game 'Nexus' released by Sikor Soft in 1996.
 
 /Composers/Szpilowski_Michal/Party_Info.sap
 COMMENT: 5th place at Shadows Party 1994 music compo.
+
+/Composers/Szpilowski_Michal/Polly.sap
+  TITLE: Polly [from Nevermind]
+ ARTIST: Nirvana
 
 /Composers/Szpilowski_Michal/RSI_1.sap
   TITLE: Telephone <?> [from the Amiga MOD module]
