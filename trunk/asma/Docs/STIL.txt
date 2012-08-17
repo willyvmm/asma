@@ -3902,6 +3902,11 @@ COMMENT: Music from the game 'Nexus' released by Sikor Soft in 1996.
  ARTIST: Chris Glaister
 COMMENT: Music from the game 'Nexus' released by Sikor Soft in 1996.
 
+/Composers/Szpilowski_Michal/Ocean_Detox.sap
+(#5)
+  TITLE: Taniec W Zaczarowanym Gaju [from Ogród Króla Świtu]
+ ARTIST: Marek Biliński
+
 /Composers/Szpilowski_Michal/Party_Info.sap
 COMMENT: 5th place at Shadows Party 1994 music compo.
 
@@ -3954,7 +3959,7 @@ COMMENT: Music from the game 'Sexy Six' released by Sikor Soft in 1995.
 COMMENT: 3rd place at SillyVenture 2000 music compo.
 
 /Composers/Szpilowski_Michal/Slodkiego_Milego_Zycia.sap
-  TITLE: Słodkiego, miłego zycia [from Nowy Rozdział]
+  TITLE: Słodkiego, miłego życia [from Nowy Rozdział]
  ARTIST: Kombi
 COMMENT: Grzybsoniada 2007 music compo entry.
 
