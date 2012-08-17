@@ -3740,6 +3740,7 @@ COMMENT: 22th place at QuaST party 1996 music compo.
 (#2)
   TITLE: Crystal Hammer [from the Amiga game]
  ARTIST: Karsten Obarski
+COMMENT: This piece covers "crystalhammer'95" by budweiser&dep/dfx
 (#3)
   TITLE: Thing on a Spring [from the C64 game]
  ARTIST: Rob Hubbard
