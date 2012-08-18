@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1302
+#  Total number of entries: 1305
 #
 ##############################################################################S
 #
@@ -1757,6 +1757,10 @@ COMMENT: Same as /Composers/Rosolek_Maciej/Magia_Fortuny_Ingame.sap
 
 ### /Composers/Karwacki_Jakub ################################################
 
+/Composers/Karwacki_Jakub/East_Party_2003_Invi_Intro.sap
+  TITLE: Toccata [from Toccata and Fugue in D Minor (BWV 565)]
+ ARTIST: Johann Sebastian Bach
+
 /Composers/Karwacki_Jakub/Lark.sap
 COMMENT: Last Party 1999 music compo entry.
 
@@ -3460,6 +3464,10 @@ COMMENT: Covers a song by a popular Czech singer.
   TITLE: Fishing Junks at Sunset [from Concerts in China]
  ARTIST: Jean Michel Jarre
 
+/Composers/Sterba_Radek/Flop_magazin_52.sap
+  TITLE: The X-Files [from the TV series]
+ ARTIST: Mark Snow
+
 /Composers/Sterba_Radek/Gear_Up.sap
 COMMENT: 2nd place at Forever Reneg8 music compo.
 
@@ -3482,6 +3490,10 @@ COMMENT: 1st place at Forever 11 music compo.
 
 /Composers/Sterba_Radek/It_Doesnt_Matter.sap
 COMMENT: 2nd place at Forever 6 music compo.
+
+/Composers/Sterba_Radek/J_M_Jarre_Remake.sap
+  TITLE: Magnetic Fields, Part 1 [from Magnetic Fields]
+ ARTIST: Jean Michel Jarre
 
 /Composers/Sterba_Radek/Just_for_Dance.sap
   TITLE: Billie Jean [from Thriller]
