@@ -2,9 +2,9 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1289
+#  Total number of entries: 1296
 #
-##############################################################################
+##############################################################################S
 #
 # ABOUT THIS VERSION OF THE STIL:
 #
@@ -195,6 +195,10 @@ COMMENT: Same as /Composers/Bienias_Adam/Digital_Bonanza.sap with digitized
 /Composers/Bienias_Adam/Techno_Florid.sap
   TITLE: Technostyle II [from the Amiga MOD module]
  ARTIST: Xenox
+
+/Composers/Bienias_Adam/Vroom_Intro.sap
+  TITLE: Monday [from the Amiga MOD module]
+ ARTIST: Edvin Fladen (Random Voice)
 
 ### /Composers/Billyard_Adam #################################################
 
@@ -1435,6 +1439,10 @@ COMMENT: Music from the game 'Around the Planet' released by Mirage in 1994.
 /Composers/Hay_Adam/Monty_on_the_Run_Game_Over.sap
   TITLE: Monty on the Run, Tune #3 [from the C64 game]
  ARTIST: Rob Hubbard
+
+/Composers/Hay_Adam/My_Life_in_the_Knife_Trade.sap
+  TITLE: My Life in the Knife Trade [from all the After the Eulogy]
+ ARTIST: Boysetsfire
 
 /Composers/Hay_Adam/Parallax_Mix.sap
   TITLE: Parallax, Tune #1 [from the C64 game]
@@ -2769,6 +2777,10 @@ COMMENT: Rush Hours 1997 music compo entry.
   TITLE: Entry of the Gladiators
  ARTIST: Julius Fucik
 
+/Composers/Panopticum/Indy.sap
+  TITLE: The Raiders March [from all the Indiana Jones movies]
+ ARTIST: John Williams
+
 /Composers/Panopticum/Unforgiven.sap
   TITLE: The Unforgiven [from Black Album]
  ARTIST: Metallica
@@ -2876,6 +2888,11 @@ COMMENT: Same as /Composers/Pesout_Marek/Alphaville.sap,
 /Composers/Pesout_Marek/Popcorn.sap
   TITLE: Popcorn [from Music To Moog By]
  ARTIST: Gershon Kingsley
+
+/Composers/Pesout_Marek/Pulstar.sap
+  TITLE: Pulstar [from Albedo 0.39]
+ ARTIST: Vangelis
+COMMENT: Covers Hypnosis' disco version, from the album "Hypnosis".
 
 /Composers/Pesout_Marek/Turrican_2.sap
   TITLE: <?> [from the Amiga game Turrican 2]
@@ -3302,6 +3319,9 @@ COMMENT: Another version of
 (#1)
 COMMENT: Another version of 
          /Composers/Rymorz_Waldemar/Arkanoid_II.sap, tune 5.
+(#4)
+  TITLE: Toccata [from Toccata and Fugue in D Minor (BWV 565)]
+ ARTIST: Johann Sebastian Bach
 
 /Composers/Rymorz_Waldemar/Music_Box_Demo_II_6.sap
   TITLE: Popcorn [from Music To Moog By]
@@ -3937,8 +3957,8 @@ COMMENT: 5th place at Shadows Party 1994 music compo.
  ARTIST: Nirvana
 
 /Composers/Szpilowski_Michal/RSI_1.sap
-  TITLE: Telephone <?> [from the Amiga MOD module]
- ARTIST: <?>
+  TITLE: Telephone [from the Amiga SoundTracker module]
+ ARTIST: Karsten Obarski
 
 /Composers/Szpilowski_Michal/Rubicon.sap
   TITLE: Enemies <?> [from the Amiga MOD module]
@@ -4398,6 +4418,10 @@ COMMENT: Music from the game 'Upiór' released by L.K. Avalon in 1992.
  ARTIST: Janusz Pelc
 COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
 
+/Composers/Zaborowski_Robert/Mixtrood.sap
+  TITLE: The Human Race, Tune #4 [from the C64 SID]
+ ARTIST: Rob Hubbard
+
 ### /Composers/Zuegner_Alfred ################################################
 
 /Composers/Zuegner_Alfred/El_Condor_Pasa.sap
@@ -4444,6 +4468,10 @@ COMMENT: A good set of Amiga tune conversions: "Techno Florid",
 /Composers/Zur_soft/The_Top_3_Part_3.sap
   TITLE: Jack Dance [from the Amiga MOD module]
  ARTIST: Karsten Obarski
+
+/Composers/Zur_soft/The_Top_3_Part_8.sap
+  TITLE: The Human Race, Tune #4 [from the C64 SID]
+ ARTIST: Rob Hubbard
 
 /Composers/Zur_soft/The_Top_3_Part_9.sap
   TITLE: Pat Strikes Back [from the Amiga MOD module]
