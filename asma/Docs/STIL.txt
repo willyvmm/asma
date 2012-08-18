@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1286
+#  Total number of entries: 1289
 #
 ##############################################################################
 #
@@ -191,6 +191,10 @@ COMMENT: Same as /Composers/Bienias_Adam/Digital_Bonanza.sap with digitized
 /Composers/Bienias_Adam/Rzog_Joins_XE_Team_2.sap
   TITLE: ALF Theme [from the TV series] (00:07)
  ARTIST: Tom Kramer & Alf Clausen
+
+/Composers/Bienias_Adam/Techno_Florid.sap
+  TITLE: Technostyle II [from the Amiga MOD module]
+ ARTIST: Xenox
 
 ### /Composers/Billyard_Adam #################################################
 
@@ -974,7 +978,8 @@ COMMENT: Originally a C64 SID tune with POKEY routine added.
 
 /Composers/Falton_Peter/Banana.sap
   TITLE: Tico-tico no fubá
- ARTIST: Orquestra Colbaz
+ ARTIST: Zequinha de Abreu
+COMMENT: A famous Brazilian choro tune composed in 1917.
 
 ### /Composers/Feske_Nils ####################################################
 
@@ -1795,6 +1800,11 @@ COMMENT: Silesian Atari Open 1995 music compo entry.
   TITLE: Axel F [from the movie Beverly Hills Cop]
  ARTIST: Harold Faltermeyer
 
+/Composers/Kidaj_Andrzej/Blinki.sap
+(#1)
+  TITLE: Blinky's Scary School, Tune #1 [from the Atari game]
+ ARTIST: Adam Gilmore
+
 /Composers/Kidaj_Andrzej/Johnny_Intro.sap
   TITLE: Take On Me [from Hunting High and Low]
  ARTIST: A-Ha
@@ -2302,6 +2312,7 @@ COMMENT: Music from the game 'Piekiełko' released by L.K. Avalon in 1992.
 COMMENT: Music from the game 'Rucu' released by L.K. Avalon in 1992.
 
 /Composers/Liebich_Tomasz/Sky_Computer_Network.sap
+(#10)
   TITLE: Fourth Rendez-vous [from Rendez-vous]
  ARTIST: Jean Michel Jarre
 
@@ -4831,6 +4842,10 @@ COMMENT: This song is converted from a C64 production made by Censor Design.
  ARTIST: Karsten Obarski
 
 ### /Unknown #################################################################
+
+/Unknown/4mat_Chip.sap
+  TITLE: anarchymenu17 [from the Amiga MOD module]
+ ARTIST: Matthew Simmonds (4-Mat)
 
 /Unknown/Axel.sap
   TITLE: Axel F [from the movie Beverly Hills Cop]
