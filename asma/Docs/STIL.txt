@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1300
+#  Total number of entries: 1302
 #
 ##############################################################################S
 #
@@ -1545,6 +1545,10 @@ COMMENT: Music from the game 'Barbarian' released by L.K. Avalon in 1993.
   TITLE: Do You Want to Dance with Me?
  ARTIST: Alphaville
 COMMENT: Made using The Software Synthesizer "Softsynth".
+
+/Composers/Husak_Jakub/Do_You_Want_to_Dance_With.sap
+  TITLE: Dance with Me [from Afternoons in Utopia]
+ ARTIST: Alphaville
 
 /Composers/Husak_Jakub/Duch.sap
 COMMENT: Music from the game 'Duch' released by Mirage in 1992.
@@ -3323,6 +3327,9 @@ COMMENT: Another version of
 (#1)
 COMMENT: Another version of 
          /Composers/Rymorz_Waldemar/Arkanoid_II.sap, tune 5.
+(#2)
+  TITLE: Dance with Me [from Afternoons in Utopia]
+ ARTIST: Alphaville
 (#4)
   TITLE: Toccata [from Toccata and Fugue in D Minor (BWV 565)]
  ARTIST: Johann Sebastian Bach
