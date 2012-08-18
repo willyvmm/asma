@@ -3644,6 +3644,8 @@ COMMENT: Covers the C64 game version.
   TITLE: Orient Express [from Concerts in China]
  ARTIST: Jean Michel Jarre
 (#4)
+  TITLE: Ending Theme Song [from the cartoon series Mrs.Pepperpot called Spoon Obasan]
+ ARTIST: Tachio Akano (music), performed by Mari Iijima
 COMMENT: Cover of the arcade music.
 (#5)
   TITLE: Lady Madonna [from The Inner Light]
