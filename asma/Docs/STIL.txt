@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1296
+#  Total number of entries: 1300
 #
 ##############################################################################S
 #
@@ -2908,6 +2908,10 @@ COMMENT: Covers Hypnosis' disco version, from the album "Hypnosis".
   TITLE: Stille Nacht! Heilige Nacht!
  ARTIST: Joseph Mohr (lyrics), Franz Xaver Gruber (music)
 
+/Composers/Piscol_Juergen/Synthi_1.sap
+  TITLE: Pictures at an Exhibition (0:00-0:04)
+ ARTIST: Modest Musorgski
+
 /Composers/Piscol_Juergen/Take_on_Me.sap
   TITLE: Take On Me [from Hunting High and Low]
  ARTIST: A-Ha
@@ -3444,6 +3448,10 @@ COMMENT: 3rd place at Forever 12 music compo.
   TITLE: Prave Ted
  ARTIST: Janek Ledecky
 COMMENT: Covers a song by a popular Czech singer.
+
+/Composers/Sterba_Radek/Flop_magazin_51.sap
+  TITLE: Fishing Junks at Sunset [from Concerts in China]
+ ARTIST: Jean Michel Jarre
 
 /Composers/Sterba_Radek/Gear_Up.sap
 COMMENT: 2nd place at Forever Reneg8 music compo.
@@ -4487,6 +4495,10 @@ COMMENT: A good set of Amiga tune conversions: "Techno Florid",
   TITLE: Action Biker, Tune #1 [from the C64 game]
  ARTIST: Rob Hubbard
 
+/Games/Alien_Ambush.sap
+  TITLE: Ride of the Valkyries
+ ARTIST: Richard Wagner
+
 /Games/Astro_Chase.sap
   TITLE: The Festival Overture: The Year 1812, Op.49
  ARTIST: Pyotr Ilyitch Tchaikovsky
@@ -5042,6 +5054,10 @@ COMMENT: Demonstation of the range of frequencies in 16 bit music.
 /Unknown/AMP/Jingle_Bells.sap
   TITLE: One Horse Open Sleigh
  ARTIST: James Lord Pierpont
+
+/Unknown/AMP/Pictures_4.sap
+  TITLE: Pictures at an Exhibition
+ ARTIST: Modest Musorgski
 
 /Unknown/AMP/Silent_Night.sap
   TITLE: Stille Nacht! Heilige Nacht!
