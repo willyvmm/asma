@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1310
+#  Total number of entries: 1317
 #
 ##############################################################################S
 #
@@ -521,6 +521,11 @@ COMMENT: Covers the main theme from the arcade game.
 /Composers/Diepenhorst_Marius/I_Will_Survive.sap
   TITLE: I Will Survive
  ARTIST: Gloria Gaynor
+
+/Composers/Diepenhorst_Marius/Monkey_Island_and_Saints.sap
+(#1)
+  TITLE: Introduction [from the game The Secret of Monkey Island]
+ ARTIST: Michael Z. Land, Barney Jones, Andy Newell, Patrick Mundy
 
 ### /Composers/Dojwa_Jacek ###################################################
 
@@ -1435,6 +1440,11 @@ COMMENT: Music from the game 'Around the Planet' released by Mirage in 1994.
 /Composers/Hay_Adam/Introtune.sap
   TITLE: Strike Force Introtune [from the C64 SID]
  ARTIST: Markus Schneider
+
+/Composers/Hay_Adam/Koyaanis.sap
+  TITLE: Koyaanisqatsi [from the movie]
+ ARTIST: Philip Glass
+COMMENT: A cover of the tune from C64 SID Delta, Tune #12 by Rob Hubbard.
 
 /Composers/Hay_Adam/Monty_on_the_Run_Game_Over.sap
   TITLE: Monty on the Run, Tune #3 [from the C64 game]
@@ -2913,7 +2923,7 @@ COMMENT: Same as /Composers/Pesout_Marek/Alphaville.sap,
 COMMENT: Covers Hypnosis' disco version, from the album "Hypnosis".
 
 /Composers/Pesout_Marek/Turrican_2.sap
-  TITLE: <?> [from the Amiga game Turrican 2]
+  TITLE: Main Title [from the Amiga game Turrican 2]
  ARTIST: Chris Huelsbeck
 
 ### /Composers/Piscol_Juergen ################################################
@@ -4563,6 +4573,10 @@ COMMENT: "One reviewer, an eminent jazz player, said it sounded like
   TITLE: Bruce Lee, Tune #1 [from the C64 game]
  ARTIST: John A. Fitzpatrick
 
+/Games/Chimera.sap
+  TITLE: Two-Part Invention No. 8, in F major (BWV 779)
+ ARTIST: Johann Sebastian Bach
+
 /Games/Deneb.sap
 (#2)
   TITLE: Dom w dolinie mgieł [from E=mc2]
@@ -4666,14 +4680,28 @@ COMMENT: Although the C64 version was composed by Rob Hubbard, Hubbard has
 /Games/Master_of_the_Lamps.sap
 COMMENT: Russel Lieblich sadly passed away in 2005, at the age of 51.
 
-/Games/Moon_Patrol.sap
-(#1)
-COMMENT: Covers the arcade version.
-
 /Games/Montezumas_Revenge.sap
 (#1)
   TITLE: Spanish Flea
  ARTIST: Herp Albert
+
+/Games/Moon_Patrol.sap
+(#1)
+COMMENT: Covers the arcade version.
+
+/Games/Mountain_King.sap
+(#1)
+  TITLE: In the Hall of the Mountain King [from Peer Gynt] (2:10-2:27)
+ ARTIST: Edvard Grieg
+(#2)
+  TITLE: Anitra's Dance [from Peer Gynt]
+ ARTIST: Edvard Grieg
+(#3)
+  TITLE: In the Hall of the Mountain King [from Peer Gynt] (2:10-2:27)
+ ARTIST: Edvard Grieg
+(#4)
+  TITLE: In the Hall of the Mountain King [from Peer Gynt] (2:10-2:27)
+ ARTIST: Edvard Grieg
 
 /Games/Mouse_Trap.sap
   TITLE: Golliwogg's Cakewalk
