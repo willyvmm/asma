@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1305
+#  Total number of entries: 1310
 #
 ##############################################################################S
 #
@@ -1879,6 +1879,11 @@ COMMENT: Sadly, Jaroslaw Krasuski (Jaras) passed away in 2007, at the age
   TITLE: Overworld BGM [from the NES game Super Mario Bros.]
  ARTIST: Koji Kondo
 
+/Composers/Krasuski_Jaroslaw/Mojamuz.sap
+  TITLE: Taka Piosenka
+ ARTIST: Karol Płudowski
+COMMENT: This covers the version "Moja Muzyka" by Bayer Full.
+
 /Composers/Krasuski_Jaroslaw/MULE.sap
   TITLE: M.U.L.E., Tune #1 [from the Atari/C64 game]
  ARTIST: Roy Glover
@@ -1894,6 +1899,10 @@ COMMENT: Sadly, Jaroslaw Krasuski (Jaras) passed away in 2007, at the age
 /Composers/Krasuski_Jaroslaw/Runaway.sap
   TITLE: Runaway [from Runaway With Del Shannon]
  ARTIST: Del Shannon
+
+/Composers/Krasuski_Jaroslaw/Summer_Is_Magic.sap
+  TITLE: The Summer is Magic
+ ARTIST: Playahitty
 
 /Composers/Krasuski_Jaroslaw/Saturday_Night.sap
   TITLE: Saturday Night
@@ -2122,8 +2131,9 @@ COMMENT: This tune covers the Pet Shop Boys cover.
  ARTIST: Phil Collins
 
 /Composers/Kuczek_Ireneusz/Moja_Muzyka.sap
-  TITLE: Moja muzyka
- ARTIST: Bayer Full
+  TITLE: Taka Piosenka
+ ARTIST: Karol Płudowski
+COMMENT: This covers the version "Moja Muzyka" by Bayer Full.
 
 /Composers/Kuczek_Ireneusz/Mydelko_Fa.sap
   TITLE: Mydełko Fa (Cycolina) [from Mydełko Fa]
@@ -2214,7 +2224,7 @@ COMMENT: Last Party 2002 music compo entry.
 
 ### /Composers/Langston_Peter ################################################
 
-/Games/Ballblazer.sap
+/Composers/Langston_Peter/Ballblazer.sap
 (#4)
   TITLE: Ballblaster
  ARTIST: Peter Langston
@@ -4682,15 +4692,27 @@ COMMENT: Covers the arcade version.
 COMMENT: Although the C64 version was composed by Rob Hubbard, Hubbard has
          confirmed that the Atari version isn't his.
 
+/Games/Olympic_Skier.sap
+  TITLE: Morning Mood [from Peer Gynt]
+ ARTIST: Edvard Grieg
+
 /Games/Pac_Man.sap
   TITLE: PuckMan [from the arcade game]
  ARTIST: Toshio Kai
 COMMENT: "PuckMan" is known outside Japan as "Pac-Man".
 
+/Games/Paradise_Threat.sap
+  TITLE: Polonaise in A-flat major, Op. 53
+ ARTIST: Frederic Chopin
+
 /Games/Perly_Szeherezady.sap
 (#3)
   TITLE: Noisy Pillars, Tune #3 [from the C64 game]
  ARTIST: Jeroen Tel
+
+/Games/Ring_Der_Nibelungen_Intro.sap
+  TITLE: Air [from Orchestral Suite No. 3 (BWV 1068)]
+ ARTIST: Johann Sebastian Bach
 
 /Games/Shamus.sap
   TITLE: Funeral March of a Marionette
