@@ -4044,12 +4044,12 @@ COMMENT: MIDI conversion
 COMMENT: Polish Christmas carol.
 
 /Composers/Szpilowski_Michal/Yie_Ar_Kung_Fu.sap
-  TITLE: <?> [from the arcade game Yie Ar Kung Fu]
- ARTIST: Miki Higashino
-COMMENT: This covers the version by Martin Galway on the C64.
 COMMENT: MIDI Conversions, except GAME OVER and LEVEL START tunes
          (these were written by ear). Default tune is not used in the latest
          version of the game.
+  TITLE: <?> [from the arcade game Yie Ar Kung Fu]
+ ARTIST: Miki Higashino
+COMMENT: This covers the version by Martin Galway on the C64.
 
 /Composers/Szpilowski_Michal/Yie_Ar_Kung_Fu_Title.sap
   TITLE: Magnetic Fields, Part 4 [from Magnetic Fields]
