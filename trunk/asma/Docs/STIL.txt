@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1317
+#  Total number of entries: 1320
 #
 ##############################################################################S
 #
@@ -1822,6 +1822,10 @@ COMMENT: Silesian Atari Open 1995 music compo entry.
   TITLE: Airwolf Theme [from the TV series]
  ARTIST: Sylvester Levay
 
+/Composers/Kidaj_Andrzej/Ania.sap
+  TITLE: The Hootchy Kootchy Dance
+ ARTIST: Sol Bloom
+
 /Composers/Kidaj_Andrzej/Beverly_Hills_Cop.sap
   TITLE: Axel F [from the movie Beverly Hills Cop]
  ARTIST: Harold Faltermeyer
@@ -2927,6 +2931,12 @@ COMMENT: Covers Hypnosis' disco version, from the album "Hypnosis".
  ARTIST: Chris Huelsbeck
 
 ### /Composers/Piscol_Juergen ################################################
+
+/Composers/Piscol_Juergen/Adagio_Cantabile_and_Rondo.sap
+  TITLE: Piano Sonata No. 8, Op. 13 "Sonata Pathétique", 2nd Movement, Adagio cantabile (0:00-0:42)
+ ARTIST: Ludwig van Beethoven
+  TITLE: Piano Sonata No. 8, Op. 13 "Sonata Pathétique", 3rd Movement, Rondo Allegro (0:43-1:06)
+ ARTIST: Ludwig van Beethoven
 
 /Composers/Piscol_Juergen/Oxygene_2.sap
   TITLE: Oxygene 2 [from Oxygene]
