@@ -4088,13 +4088,14 @@ COMMENT: Music from the game 'Teacher Killer' released by Sikor Soft in 1994.
 
 /Composers/Szpilowski_Michal/Tomcat.sap
 (#1)
-  TITLE: 1943 - Battle of Midway: Level 1 [from the Nintendo game]
+  TITLE: 1943 - Battle of Midway: Level 1 [from the NES game]
  ARTIST: Yoshihiro Sakaguchi
+COMMENT: Covers Atari ST version, too.
 (#2)
-  TITLE: 1943 - Battle of Midway: Level 1 Pre-Boss [from the Nintendo game]
+  TITLE: 1943 - Battle of Midway: Level 1 Pre-Boss [from the NES game]
  ARTIST: Yoshihiro Sakaguchi
 (#3)
-  TITLE:  1943 - Battle of Midway: Mission Failure [from the Nintendo game]
+  TITLE:  1943 - Battle of Midway: Mission Failure [from the NES game]
  ARTIST: Yoshihiro Sakaguchi
 (#4)
   TITLE: Airwolf [from the TV series], one pattern from Delta
@@ -4105,6 +4106,11 @@ COMMENT: Music from the game 'Teacher Killer' released by Sikor Soft in 1994.
 
 /Composers/Szpilowski_Michal/Trial1.sap
   TITLE: Buy/Sell Music [from the PC game Tyrian]
+ ARTIST: Alexander Brandon
+COMMENT: Written by ear.
+
+/Composers/Szpilowski_Michal/Tyrian_Zanac5.sap
+  TITLE: Zanac5 Music [from the PC game Tyrian]
  ARTIST: Alexander Brandon
 
 /Composers/Szpilowski_Michal/WAP_NIAK_Pre_Invitation.sap
