@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1320
+#  Total number of entries: 1322
 #
 ##############################################################################S
 #
@@ -3003,6 +3003,16 @@ COMMENT: Polish Christmas carol. The title translates from Polish as "In the
 (#8)
   TITLE: The Final Countdown [from The Final Countdown]
  ARTIST: Europe
+
+### /Composers/Portelli_Jim ##################################################
+
+/Composers/Portelli_Jim/We_Can_Work_It_Out.sap
+  TITLE: We Can Work It Out
+ ARTIST: The Beatles
+
+/Composers/Portelli_Jim/We_Will_Rock_You.sap
+  TITLE: We Will Rock You [from News of the World]
+ ARTIST: Queen
 
 ### /Composers/Przybyszewski_Krzysztof #######################################
 
