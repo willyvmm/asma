@@ -853,7 +853,7 @@ COMMENT: This song won the Eurovision Song Contest in 1984.
 ### /Composers/Farkas_Felker #################################################
 
 /Composers/Farkas_Felker/
-COMMENT: It is very likely that all tunes made by Farkas_Felker are directly
+COMMENT: It is very likely that all tunes made by Farkas Felker are directly
          transfered from the Commodore 64.
 
 /Composers/Farkas_Felker/ABBUC_36.sap
