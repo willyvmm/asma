@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1322
+#  Total number of entries: 1323
 #
 ##############################################################################S
 #
@@ -351,6 +351,10 @@ COMMENT: Cover of original ZX Spectrum version of "Whole" Soundtrack.
 COMMENT: Also used in "GoldRunner" on the Atari ST.
 
 ### /Composers/Chamberlain_Craig #############################################
+
+/Composers/Chamberlain_Craig/Londonderry_Air.sap
+  TITLE: Londonderry Air  (National Anthem of the Northern Ireland)
+ ARTIST: <?>
 
 /Composers/Chamberlain_Craig/Happy_Birthday_Song.sap
   TITLE: Happy Birthday
