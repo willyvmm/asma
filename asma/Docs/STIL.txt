@@ -260,7 +260,7 @@ COMMENT: Commonly known as "Haenschen Klein" (German children's song) or
   TITLE: With or Without You [from The Joshua Tree]
  ARTIST: U2
 
-/Composers/Bruenninski_Uwe/Smoke_On_The_Water.sap
+/Composers/Bruenninski_Uwe/Smoke_On_the_Water.sap
   TITLE: Smoke on the Water [from Machine Head]
  ARTIST: Deep Purple
 
