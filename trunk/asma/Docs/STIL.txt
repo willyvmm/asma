@@ -2942,6 +2942,10 @@ COMMENT: Covers Hypnosis' disco version, from the album "Hypnosis".
   TITLE: Piano Sonata No. 8, Op. 13 "Sonata Pathétique", 3rd Movement, Rondo Allegro (0:43-1:06)
  ARTIST: Ludwig van Beethoven
 
+/Composers/Piscol_Juergen/Last_Rumba.sap
+  TITLE: The Last Rumba
+ ARTIST: Jean Michel Jarre
+
 /Composers/Piscol_Juergen/Oxygene_2.sap
   TITLE: Oxygene 2 [from Oxygene]
  ARTIST: Jean Michel Jarre
@@ -2957,10 +2961,6 @@ COMMENT: Covers Hypnosis' disco version, from the album "Hypnosis".
 /Composers/Piscol_Juergen/Take_on_Me.sap
   TITLE: Take On Me [from Hunting High and Low]
  ARTIST: A-Ha
-
-/Composers/Piscol_Juergen/The_Last_Rumba.sap
-  TITLE: The Last Rumba
- ARTIST: Jean Michel Jarre
 
 ### /Composers/Polak_Krzysztof ###############################################
 
