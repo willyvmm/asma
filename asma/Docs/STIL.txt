@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1323
+#  Total number of entries: 1326
 #
 ##############################################################################S
 #
@@ -5102,9 +5102,17 @@ COMMENT: This is not a complete cover.
 /Unknown/Range.sap
 COMMENT: Demonstation of the range of frequencies in 16 bit music.
 
+/Unknown/Rudolph_the_Red_Nosed_R.sap
+  TITLE: Rudolph The Red Nosed Reindeer
+ ARTIST: Johnny Marks
+
 /Unknown/Sorella.sap
   TITLE: La Sorella
  ARTIST: Charles Borel-Clerc
+
+/Unknown/Streets_of_London.sap
+  TITLE: Streets Of London [from Spiral Staircase]
+ ARTIST: Ralph McTell
 
 /Unknown/Szanty.sap
   TITLE: What Shall We Do with the Drunken Sailor
@@ -5117,6 +5125,11 @@ COMMENT: Demonstation of the range of frequencies in 16 bit music.
 /Unknown/The_Great_Commandment.sap
   TITLE: The Great Commandment
  ARTIST: Camouflage
+
+/Unknown/The_Holly_and_the_Ivy.sap
+  TITLE: The Holly and the Ivy
+ ARTIST: Traditional
+COMMENT: English Christmas carol.
 
 /Unknown/Tiger.sap
   TITLE: Eye of the Tiger [from the movie Rocky III]
