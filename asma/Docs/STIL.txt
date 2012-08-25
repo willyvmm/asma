@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1326
+#  Total number of entries: 1328
 #
 ##############################################################################S
 #
@@ -530,6 +530,9 @@ COMMENT: Covers the main theme from the arcade game.
 (#1)
   TITLE: Introduction [from the game The Secret of Monkey Island]
  ARTIST: Michael Z. Land, Barney Jones, Andy Newell, Patrick Mundy
+(#2)
+  TITLE: When the Saints Go Marching In
+ ARTIST: American gospel hymn.
 
 ### /Composers/Dojwa_Jacek ###################################################
 
@@ -832,6 +835,10 @@ COMMENT: Covering the version arranged by Hot Butter.
  ARTIST: Christophe Résigné (Rez) & Raphaël Quercy (Kenet)
 
 ### /Composers/Ezcan_Kemal ###################################################
+
+/Composers/Ezcan_Kemal/Atomit_II.sap
+  TITLE: El Cumbanchero
+ ARTIST: Rafael Hernández
 
 /Composers/Ezcan_Kemal/Karriere.sap
   TITLE: Money, Money [from the movie Cabaret]
@@ -5315,7 +5322,7 @@ COMMENT: Best known from as the title theme to the comedy TV series
 
 /Unknown/AMS/California_Dreamin.sap
   TITLE: California Dreaming
- ARTIST: Beach Boys
+ ARTIST: The Mamas & the Papas
 
 /Unknown/AMS/Cancan.sap
   TITLE: Can Can [from the Orpheus in the Underworld]
