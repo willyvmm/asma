@@ -3471,8 +3471,9 @@ COMMENT: 2nd place at Grayscale Music Competition I.
 COMMENT: 2nd place at Atari Area 24h 'Zybex' music compo.
 
 ### /Composers/Soelbrandt_Stefan #############################################
+
 /Composers/Soelbrandt_Stefan/Crillion.sap
-TITLE: Bridge Over Troubled Water [from Bridge Over Troubled Water]
+  TITLE: Bridge Over Troubled Water [from Bridge Over Troubled Water]
  ARTIST: Simon & Garfunkel
 
 ### /Composers/Stanik_Krzysztof ##############################################
