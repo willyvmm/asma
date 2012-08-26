@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1328
+#  Total number of entries: 1333
 #
 ##############################################################################S
 #
@@ -5164,8 +5164,29 @@ COMMENT: English Christmas carol.
 
 ### /Unknown/AMP #############################################################
 
+/Unknown/AMP/Bee.sap
+  TITLE: Flight of the Bumblebee [from opera The Tale of Tsar Saltan]
+ ARTIST: Nikolai Rimsky-Korsakov
+
+/Unknown/AMP/Behome_4.sap
+  TITLE: I'll Be Home for Christmas
+ ARTIST: Bing Crosby
+COMMENT: Christmas song
+
 /Unknown/AMP/Cascades.sap
   TITLE: Cascades
+ ARTIST: Scott Joplin
+
+/Unknown/AMP/Cheers.sap
+  TITLE: Where Everybody Knows Your Name [from the TV series Cheers]
+ ARTIST: Gary Portnoy & Judy Hart-Angelo, performed by Gary Portnoy
+
+/Unknown/AMP/Dont_Bring_Me_Down.sap
+  TITLE: Don't Bring Me Down
+ ARTIST: Electric Light Orchestra
+
+/Unknown/AMP/Easy.sap
+  TITLE: The Easy Winners
  ARTIST: Scott Joplin
 
 /Unknown/AMP/Eleanor_Rigby.sap
