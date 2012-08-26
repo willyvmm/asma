@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1334
+#  Total number of entries: 1336
 #
 ##############################################################################S
 #
@@ -4547,9 +4547,15 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
 /Composers/Zur_soft/Tactic.sap
 COMMENT: A good set of Amiga tune conversions: "Techno Florid",
          "Happy Sprite", "Lotus Turbo Challenge 2" etc.
+(#1)
+  TITLE: The Happy Sprite [from the Amiga SoundTracker module]
+ ARTIST: Tomas Dahlgren (Uncle Tom)
 (#4)
   TITLE: The Hootchy Kootchy Dance
  ARTIST: Sol Bloom
+(#7)
+  TITLE: Technostyle II [from the Amiga MOD module]
+ ARTIST: Xenox
 
 /Composers/Zur_soft/The_Top_3_End_Scroll.sap
   TITLE: endtheme [from the Amiga SoundTracker module]
