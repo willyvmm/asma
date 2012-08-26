@@ -1,5 +1,5 @@
 Composers/Bienias_Adam/Happy_Train_to_Kingdom_of.sap - invalid BRK instruction
-Composers/Claas_Clever/World_of_Wonders_Fantasy.sap - strange noise after song end
+Composers/CEvE-Soft/World_of_Wonders_Fantasy.sap - strange noise after song end
 Composers/Czartynski_Marcin/Fractals.sap - invalid BRK instruction
 Composers/Czartynski_Marcin/Hope.sap - invalid BRK instruction
 Composers/Czartynski_Marcin/Moscow.sap - invalid BRK instruction
