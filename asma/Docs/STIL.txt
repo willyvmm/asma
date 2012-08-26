@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1333
+#  Total number of entries: 1334
 #
 ##############################################################################S
 #
@@ -5248,6 +5248,13 @@ COMMENT: English carol.
 /Unknown/AMS/Airwolf_Theme.sap
   TITLE: Airwolf Theme [from the TV series]
  ARTIST: Sylvester Levay
+
+/Unknown/AMS/Alley_Cat.sap
+  TITLE: Omkring et Flygel,
+ ARTIST: Glen Gray
+COMMENT: Covers the "Alley Cat", also known as "Alleycat" and "The Alley Cat,"
+         is a popular instrumental song made most famous by the Danish
+         pianist and composer Bent Fabric.
 
 /Unknown/AMS/Already_Gone.sap
   TITLE: Already Gone
