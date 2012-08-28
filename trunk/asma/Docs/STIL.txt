@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1338
+#  Total number of entries: 1340
 #
 ##############################################################################S
 #
@@ -5792,6 +5792,10 @@ COMMENT: Performed by John Travolta/Olivia Newton John & cast.
   TITLE: Total Eclipse of the Heart [from Faster Than the Speed of Night]
  ARTIST: Bonnie Tyler
 
+/Unknown/AMS/Uncle_Albert.sap
+  TITLE: Uncle Albert/Admiral Halsey [from Ram]
+ ARTIST: Paul McCartney
+
 /Unknown/AMS/Uptown_Girl.sap
   TITLE: Uptown Girl [from An Innocent Man]
  ARTIST: Billy Joel
@@ -5832,12 +5836,17 @@ COMMENT: English carol
  ARTIST: The Beatles
 
 /Unknown/AMS/Why_Me_Lord.sap
-  TITLE: Why Me Lord
- ARTIST: <?>
+  TITLE: Why Me Lord [from Jesus Was a Capricorn]
+ ARTIST: Kris Kristofferson
+
+/Unknown/AMS/Wiener_Song.sap
+  TITLE: The Wiener Song
+ ARTIST: Richard Trentlage
+COMMENT: Made famous in a Oscar Mayer commercial.
 
 /Unknown/AMS/Winds_of_War.sap
   TITLE: Main Title: Love Theme [from the movie the Winds of War]
- ARTIST: Robert "Bob" Cober
+ ARTIST: Robert "Bob" Cobert
 
 /Unknown/AMS/Winter_Wonderland.sap
   TITLE: Walking in a Winter Wonderland
