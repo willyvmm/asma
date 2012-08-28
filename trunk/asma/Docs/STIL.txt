@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1346
+#  Total number of entries: 1347
 #
 ##############################################################################S
 #
@@ -4638,6 +4638,10 @@ COMMENT: "One reviewer, an eminent jazz player, said it sounded like
 /Games/Bruce_Lee.sap
   TITLE: Bruce Lee, Tune #1 [from the C64 game]
  ARTIST: John A. Fitzpatrick
+
+/Games/Carnival_Massacre.sap
+  TITLE: Over the Waves
+ ARTIST: Juventino Rosas
 
 /Games/Chimera.sap
   TITLE: Two-Part Invention No. 8, in F major (BWV 779)
