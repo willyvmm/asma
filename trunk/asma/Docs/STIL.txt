@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1337
+#  Total number of entries: 1338
 #
 ##############################################################################S
 #
@@ -2316,6 +2316,10 @@ COMMENT: Music from the game 'Dark Abbys' released by Mirage in 1993.
 /Composers/Liebich_Tomasz/Deimos.sap
 COMMENT: Music from the game 'Deimos' released by Sonix in 1993.
 
+/Composers/Liebich_Tomasz/Duksap_2.sap
+  TITLE: (Do You Have) The Force Part I
+ ARTIST: Droids
+
 /Composers/Liebich_Tomasz/Fluid_Kha_Ingame.sap
 COMMENT: Music from the game 'Fluid - Kha' released in 1993.
 
@@ -4549,14 +4553,15 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
 ### /Composers/Zur_soft ######################################################
 
 /Composers/Zur_soft/Tactic.sap
-COMMENT: A good set of Amiga tune conversions: "Techno Florid",
-         "Happy Sprite", "Lotus Turbo Challenge 2" etc.
 (#1)
   TITLE: The Happy Sprite [from the Amiga SoundTracker module]
  ARTIST: Tomas Dahlgren (Uncle Tom)
 (#4)
   TITLE: The Hootchy Kootchy Dance
  ARTIST: Sol Bloom
+(#5)
+  TITLE: jingle2 [from the Amiga game Lotus Esprit Turbo Challenge 2]
+ ARTIST: Barry Leitch
 (#7)
   TITLE: Technostyle II [from the Amiga MOD module]
  ARTIST: Xenox
