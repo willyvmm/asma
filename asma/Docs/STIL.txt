@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1341
+#  Total number of entries: 1346
 #
 ##############################################################################S
 #
@@ -104,6 +104,10 @@ COMMENT: Last Party 1998 music compo entry.
 /Composers/Bienias_Adam/Bitter_Reality_Greetings_P.sap
   TITLE: megaforce02 [from the Amiga MOD module]
  ARTIST: Heiko (Luxor)
+
+/Composers/Bienias_Adam/Bitter_Reality_Partyland_1.sap
+  TITLE: The Happy Sprite [from the Amiga SoundTracker module]
+ ARTIST: Tomas Dahlgren (Uncle Tom)
 
 /Composers/Bienias_Adam/Bitter_Reality_Rzog_Plazma.sap
   TITLE: Impact-7 [from the Amiga MOD module]
@@ -4600,6 +4604,10 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
   TITLE: The Festival Overture: The Year 1812, Op.49
  ARTIST: Pyotr Ilyitch Tchaikovsky
 
+/Games/Ataroid.sap
+  TITLE: Pulstar [from Albedo 0.39]
+ ARTIST: Vangelis
+
 /Games/Ballblaster.sap
 COMMENT: "One reviewer, an eminent jazz player, said it sounded like
          John Coltrane did it. I think that's my best compliment so far."
@@ -4795,6 +4803,11 @@ COMMENT: "PuckMan" is known outside Japan as "Pac-Man".
 (#3)
   TITLE: Noisy Pillars, Tune #3 [from the C64 game]
  ARTIST: Jeroen Tel
+
+/Games/Phantom.sap
+  TITLE: Misterioso Pizzicato
+ ARTIST: Jens Bodewalt Lampe
+COMMENT: The music was played as a background to scary scenes in the old silent movies.
 
 /Games/Ring_Der_Nibelungen_Intro.sap
   TITLE: Air [from Orchestral Suite No. 3 (BWV 1068)]
@@ -5855,6 +5868,14 @@ COMMENT: Made famous in a Oscar Mayer commercial.
 /Unknown/AMS/Winter_Wonderland.sap
   TITLE: Walking in a Winter Wonderland
  ARTIST: Felix Bernard and Richard B. Smith
+
+/Unknown/AMS/Witchy_Woman.sap
+  TITLE: Witchy Woman [from Eagles]
+ ARTIST: Eagles
+
+/Unknown/AMS/Witchy_Woman_2.sap
+  TITLE: Witchy Woman [from Eagles]
+ ARTIST: Eagles
 
 /Unknown/AMS/Wrapped_around_Your_Finger.sap
   TITLE: Wrapped Around Your Finger [from Synchronicity]
