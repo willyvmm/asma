@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1340
+#  Total number of entries: 1341
 #
 ##############################################################################S
 #
@@ -5662,6 +5662,10 @@ COMMENT: "PuckMan" is known outside Japan as "Pac-Man".
 /Unknown/AMS/Pink_Panther.sap
   TITLE: Pink Panther Theme
  ARTIST: Henry Mancini
+
+/Unknown/AMS/Pride.sap
+  TITLE: Pride (In The Name Of Love) [The Unforgettable Fire]
+ ARTIST: U2
 
 /Unknown/AMS/Puttin_on_the_Ritz.sap
   TITLE: Puttin' on the Ritz [from the musical]
