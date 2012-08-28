@@ -5836,8 +5836,8 @@ COMMENT: English carol
  ARTIST: <?>
 
 /Unknown/AMS/Winds_of_War.sap
-  TITLE: <?> [from the movie the Winds of War]
- ARTIST: Bob Cobert
+  TITLE: Main Title: Love Theme [from the movie the Winds of War]
+ ARTIST: Robert "Bob" Cober
 
 /Unknown/AMS/Winter_Wonderland.sap
   TITLE: Walking in a Winter Wonderland
