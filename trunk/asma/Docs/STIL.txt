@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1350
+#  Total number of entries: 1351
 #
 ##############################################################################S
 #
@@ -4737,6 +4737,11 @@ COMMENT: Although the C64 version was composed by Rob Hubbard, Hubbard has
 (#3)
   TITLE: Popcorn [from Music To Moog By] (0:04)
  ARTIST: Gershon Kingsley
+
+/Games/Leapster.sap
+(#2)
+  TITLE: The Entertainer
+ ARTIST: Scott Joplin
 
 /Games/Loco.sap
   TITLE: Chattanooga Choo Choo
