@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1347
+#  Total number of entries: 1349
 #
 ##############################################################################S
 #
@@ -1774,7 +1774,7 @@ COMMENT: Same as /Composers/Rosolek_Maciej/Magia_Fortuny_Ingame.sap
 
 /Composers/Karpowicz_Henryk/Polonez.sap
   TITLE: Polonez A-dur Op.40 Nr 1
- ARTIST: Fryderyk Chopin
+ ARTIST: Frédéric François Chopin
 
 /Composers/Karpowicz_Henryk/Strangers_in_the_Night.sap
   TITLE: Strangers in the Night [from Strangers in the Night]
@@ -4801,7 +4801,7 @@ COMMENT: "PuckMan" is known outside Japan as "Pac-Man".
 
 /Games/Paradise_Threat.sap
   TITLE: Polonaise in A-flat major, Op. 53
- ARTIST: Frederic Chopin
+ ARTIST: Fryderyk Chopin
 
 /Games/Perly_Szeherezady.sap
 (#3)
@@ -4812,6 +4812,11 @@ COMMENT: "PuckMan" is known outside Japan as "Pac-Man".
   TITLE: Misterioso Pizzicato
  ARTIST: Jens Bodewalt Lampe
 COMMENT: The music was played as a background to scary scenes in the old silent movies.
+
+/Games/Preppie.sap
+(#2)
+  TITLE: Funeral March [from Sonate No. 2 in B flat minor Op. 35]
+ ARTIST: Fryderyk Chopin
 
 /Games/Ring_Der_Nibelungen_Intro.sap
   TITLE: Air [from Orchestral Suite No. 3 (BWV 1068)]
@@ -4834,6 +4839,10 @@ COMMENT: Popular under name "Jingle Bells".
   TITLE: Promenade I (Pictures of an Exhibition)
  ARTIST: Modest Musorgski
 
+/Games/Spiky_Harold.sap
+  TITLE: Flight of the Bumblebee [from opera The Tale of Tsar Saltan]
+ ARTIST: Nikolai Rimsky-Korsakov
+
 /Games/Spy_Hunter.sap
   TITLE: Peter Gunn [from the TV series]
  ARTIST: Henry Mancini
@@ -4844,7 +4853,7 @@ COMMENT: This piece is a cover of the arcade version.
  ARTIST: Bob Vieira
 
 /Games/Stealth.sap
-(#2)
+(#1)
   TITLE: Allegro No.1 [from Keyboard Concerto No.1 in D minor (BWV 1052)]
  ARTIST: Johann Sebastian Bach
 
