@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1349
+#  Total number of entries: 1350
 #
 ##############################################################################S
 #
@@ -4804,7 +4804,7 @@ COMMENT: "PuckMan" is known outside Japan as "Pac-Man".
  ARTIST: Fryderyk Chopin
 
 /Games/Perly_Szeherezady.sap
-(#3)
+(#1)
   TITLE: Noisy Pillars, Tune #3 [from the C64 game]
  ARTIST: Jeroen Tel
 
@@ -4812,6 +4812,12 @@ COMMENT: "PuckMan" is known outside Japan as "Pac-Man".
   TITLE: Misterioso Pizzicato
  ARTIST: Jens Bodewalt Lampe
 COMMENT: The music was played as a background to scary scenes in the old silent movies.
+
+/GAMES/M-R/Pooyan.sid
+COMMENT: Covers the arcade version by Konami.
+(#1)
+  TITLE: Humoresque Op. 101, No. 7 in G flat major
+ ARTIST: Antonín Dvorák
 
 /Games/Preppie.sap
 (#2)
