@@ -4853,8 +4853,8 @@ COMMENT: This piece is a cover of the arcade version.
  ARTIST: Gazebo
 
 /Games/T34_The_Battle.sap
-  TITLE: Czterej pancerni i pies [from the TV series] (0:46)
- ARTIST: Adam Walaciński
+  TITLE: Ballada o pancernych [from the TV series Czterej pancerni i pies] (0:46)
+ ARTIST: Adam Walacinski (music), Agnieszka Osiecka (lyrics), performed by Edmund Fetting
 
 /Games/Tapper.sap
 (#1)
