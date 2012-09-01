@@ -3062,7 +3062,8 @@ COMMENT: 17th place at QuaST party 1996 music compo.
 
 /Composers/Quack_Ralf_Thomas/A_Tavern_in_the_Town.sap
   TITLE: There Is A Tavern In The Town
- ARTIST: <?>
+ ARTIST: Traditional
+COMMENT: An English folk song.
 
 /Composers/Quack_Ralf_Thomas/All_I_Have_to_Do_Is_Dream.sap
   TITLE: All I Have To Do Is Dream
