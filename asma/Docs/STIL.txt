@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1351
+#  Total number of entries: 1353
 #
 ##############################################################################S
 #
@@ -4578,6 +4578,10 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
   TITLE: Jack Dance [from the Amiga MOD module]
  ARTIST: Karsten Obarski
 
+/Composers/Zur_soft/The_Top_3_Part_4.sap
+  TITLE: n.s beat [from the Amiga SoundTracker module]
+ ARTIST: Tomas Dahlgren (Uncle Tom)
+
 /Composers/Zur_soft/The_Top_3_Part_8.sap
   TITLE: The Human Race, Tune #4 [from the C64 SID]
  ARTIST: Rob Hubbard
@@ -4853,6 +4857,15 @@ COMMENT: Popular under name "Jingle Bells".
 /Games/Spiky_Harold.sap
   TITLE: Flight of the Bumblebee [from opera The Tale of Tsar Saltan]
  ARTIST: Nikolai Rimsky-Korsakov
+
+/GAMES/S-Z/Spys_Demise.sid
+  TITLE: Hungarian Dance No. 5 in F♯ minor (G minor for orchestra) (0:00-1:01)
+ ARTIST: Johannes Brahms
+COMMENT: Based on the version sung Bártfai Emlék Csárdás op. 31 by  Béla Kéler.
+  TITLE: Katyusha (1:15-2:09)
+ ARTIST: Matwiej Blanter (music), Michail Isakowski (lyrics)
+  TITLE: Trepak [from The Nutcracker] (3:44-4:46)
+ ARTIST: Pyotr Ilyich Tchaikovsky
 
 /Games/Spy_Hunter.sap
   TITLE: Peter Gunn [from the TV series]
