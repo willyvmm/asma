@@ -620,7 +620,8 @@ COMMENT: This cover uses just slightly different sounds.
 
 /Composers/Dudek_Krzysztof/Dziadek.sap
   TITLE: Polka Dziadek
- ARTIST: <?>
+ ARTIST: Traditional
+COMMENT: Popular folk song. In 1971, the song was a signal Summer of Radio Programme 1 of the Polish Radio.
 
 ### /Composers/Duesterhoeft_Stephan ##########################################
 
