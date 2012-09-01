@@ -690,8 +690,8 @@ COMMENT: The intro part is cut off from this cover.
  ARTIST: Jogeir Liljedahl
 
 /Composers/Eisenhammer_Zdenek/Happy_Bars.sap
-  TITLE: 2010 [from the Amiga MOD module]
- ARTIST: <?>
+  TITLE: 2010 Survival [from the Amiga MOD module]
+ ARTIST: Jostein Dahl Gjelsvik (Trixal) & Oddgeir Hvidsten (Vortex)
 
 /Composers/Eisenhammer_Zdenek/Happy_Birthday_Fandal.sap
   TITLE: Happy Birthday
