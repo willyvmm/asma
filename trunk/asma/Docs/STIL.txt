@@ -3212,7 +3212,7 @@ COMMENT: An English folk song.
 /Composers/Quack_Ralf_Thomas/The_Wild_Rover.sap
   TITLE: The Wild Rover
  ARTIST: <?>
-COMMENT: Popular folk song.
+COMMENT: Popular Irish folk song.
 
 /Composers/Quack_Ralf_Thomas/The_Yellow_Rose_of_Texas.sap
   TITLE: The Yellow Rose of Texas
