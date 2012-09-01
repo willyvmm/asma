@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1353
+#  Total number of entries: 1354
 #
 ##############################################################################S
 #
@@ -4533,6 +4533,10 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
 /Composers/Zuegner_Alfred/In_the_Mood.sap
   TITLE: In the Mood
  ARTIST: Joe Garland
+
+/Composers/Zuegner_Alfred/When_the_Ship_Comes_in.sap
+  TITLE: When the Ship Comes In [from The Times They Are a-Changin']
+ ARTIST: Bob Dylan
 
 /Composers/Zuegner_Alfred/Wreck_of_the_Old_Ninety_Se.sap
   TITLE: Wreck of the Old 97
