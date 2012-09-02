@@ -4059,8 +4059,8 @@ COMMENT: 5th place at Shadows Party 1994 music compo.
  ARTIST: Karsten Obarski
 
 /Composers/Szpilowski_Michal/Rubicon.sap
-  TITLE: Enemies <?> [from the Amiga MOD module]
- ARTIST: <?>
+  TITLE: Iamback [from the Amiga SoundTracker module]
+ ARTIST: Morten Henriksen (Sky)
 
 /Composers/Szpilowski_Michal/Rzog_Joins_XE_Team_3.sap
   TITLE: Secret Land [from Into a Secret Land]
