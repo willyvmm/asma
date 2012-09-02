@@ -4124,8 +4124,8 @@ COMMENT: Music from the game 'Teacher Killer' released by Sikor Soft in 1994.
 COMMENT: Music from the game 'Teacher Killer' released by Sikor Soft in 1994.
 
 /Composers/Szpilowski_Michal/Tempest_2000_Blue_Level.sap
-  TITLE: Tune 4 <?> [from the Atari Jaguar game Tempest 2000]
- ARTIST: <?>
+  TITLE: Mind's Eye [from the Atari Jaguar game Tempest 2000]
+ ARTIST: Ian Howe, Alastair Lindsay and Kevin Saville
 
 /Composers/Szpilowski_Michal/Tomcat.sap
 (#1)
