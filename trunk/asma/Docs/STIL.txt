@@ -4920,10 +4920,6 @@ COMMENT: This piece is a cover of the arcade version.
 COMMENT: The notes in voice 2 at the beginning of the tune spell out "SOS" in
          Morse code (...---...).
 
-/Games/Zorro.sap
-  TITLE: Zorro [from the TV series] <?>
- ARTIST: <?>
-
 ### /Misc ####################################################################
 
 /Misc/Ave_Maria.sap
