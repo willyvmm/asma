@@ -3897,7 +3897,7 @@ COMMENT: Written by ear.
   TITLE: And Your Bird can Sing [from Revolver]
  ARTIST: The Beatles
 (#5)
-  TITLE: Bring it On! [from R.O.S.E Online (Rush On Seven Episodes)]
+  TITLE: Bring it On! [from the MMORPG game R.O.S.E Online (Rush On Seven Episodes)]
  ARTIST: <?>
 
 /Composers/Szpilowski_Michal/K_O_T_O.sap
