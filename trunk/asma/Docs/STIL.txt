@@ -5220,8 +5220,8 @@ COMMENT: English Christmas carol.
  ARTIST: Johann Sebastian Bach
 
 /Unknown/Uplywa.sap
-  TITLE: Upływa szybko życie
- ARTIST: <?>, Polish Traditional.
+  TITLE: Upływa szybko życie (Koniec roku)
+ ARTIST: Franciszek Leśniak (music & lyrics)
 
 /Unknown/Wiosna.sap
   TITLE: An die Freude [from Symphony No.9 Op.125 "Choral Symphony"] (0:12)
