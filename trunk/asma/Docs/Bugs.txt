@@ -5,8 +5,6 @@ Composers/Farkas_Felker/ABBUC_36.sap - rogue note at the beginning
 Composers/Farkas_Felker/Cool_Emotion_Heal_the_Worl.sap - rogue note at the beginning
 Composers/Farkas_Felker/Veronika_5.sap - rogue note at the beginning
 Composers/Gilmore_Adam/Arcade_Fruit_Machine_Simul.sap - subsongs missing
-Composers/Golewski_Filip/Delta.sap - invalid BRK instruction
-Composers/Golewski_Filip/King.sap - invalid BRK instruction
 Composers/Golewski_Filip/Star.sap - invalid BRK instruction
 Composers/Grayscale/Kwiatek_Grzegorz/Desastre.sap - invalid BRK instruction
 Composers/Grayscale/Kwiatek_Grzegorz/Far_Away.sap - strange sounds at 0:48
