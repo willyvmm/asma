@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1357
+#  Total number of entries: 1358
 #
 ##############################################################################S
 #
@@ -244,7 +244,13 @@ COMMENT: Commonly known as "Haenschen Klein" (German children's song) or
 
 /Composers/Brady_Jerry/Imperial_March.sap
   TITLE: The Imperial March / Darth Vader's Theme [from Star Wars Episode V]
- ARTIST: John Williams 
+ ARTIST: John Williams
+
+### /Composers/Bratt_Harry ###################################################
+
+/Composers/Bratt_Harry/March_from_Scipio.sap
+  TITLE: March from Scipio
+ ARTIST: George Frideric Handel
 
 ### /Composers/Brooke_Jason ##################################################
 
