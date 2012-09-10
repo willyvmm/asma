@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1355
+#  Total number of entries: 1357
 #
 ##############################################################################S
 #
@@ -141,6 +141,12 @@ COMMENT: 2nd place at Shadows Party 1994 music compo.
 COMMENT: Same as /Composers/Bienias_Adam/Happy_Train_to_Kingdom_of.sap with
          digitized drums.
 
+/Composers/Bienias_Adam/Hebdzie_1.sap
+(#2)
+  TITLE: The Entertainer
+ ARTIST: Scott Joplin
+COMMENT: Not a 100% cover.
+
 /Composers/Bienias_Adam/Ice_Machine.sap
   TITLE: Ice Machine
  ARTIST: Depeche Mode
@@ -234,7 +240,11 @@ COMMENT: Commonly known as "Haenschen Klein" (German children's song) or
 
 /Composers/Brady_Jerry/Soldiers_March.sap
   TITLE: Soldier's March
- ARTIST: Robert Schumann		 
+ ARTIST: Robert Schumann
+
+/Composers/Brady_Jerry/Vader.sap
+  TITLE: The Imperial March / Darth Vader's Theme [from Star Wars Episode V]
+ ARTIST: John Williams 
 
 ### /Composers/Brooke_Jason ##################################################
 
