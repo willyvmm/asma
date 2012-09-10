@@ -766,7 +766,7 @@ COMMENT: Same as /Composers/Esquivel_Sal/Blaster_Master_Level_1.sap,
          but with second POKEY support (stereo version).
 
 /Composers/Esquivel_Sal/Bubble_Bobble.sap
-  TITLE: <?> [from the arcade game Bubble Bobble]
+  TITLE: Theme [from the arcade game Bubble Bobble]
  ARTIST: Tadashi Kimijima
 
 /Composers/Esquivel_Sal/Crocketts_Theme.sap
