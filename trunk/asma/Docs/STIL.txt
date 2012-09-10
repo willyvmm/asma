@@ -522,8 +522,8 @@ COMMENT: Music from the game 'Top Secret' released by Mirage in 1993.
 COMMENT: Music starts at 0:03.
 
 /Composers/Diepenhorst_Marius/Bubble_Bobble.sap
-  TITLE: <?> [from the arcade game Bubble Bobble]
- ARTIST: Kimijima
+  TITLE: Theme [from the arcade game Bubble Bobble]
+ ARTIST: Tadashi Kimijima
 COMMENT: Covers the main theme from the arcade game.
 
 /Composers/Diepenhorst_Marius/I_Will_Survive.sap
