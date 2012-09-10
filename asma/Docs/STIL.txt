@@ -242,7 +242,7 @@ COMMENT: Commonly known as "Haenschen Klein" (German children's song) or
   TITLE: Soldier's March
  ARTIST: Robert Schumann
 
-/Composers/Brady_Jerry/Vader.sap
+/Composers/Brady_Jerry/Imperial_March.sap
   TITLE: The Imperial March / Darth Vader's Theme [from Star Wars Episode V]
  ARTIST: John Williams 
 
