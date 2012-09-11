@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1360
+#  Total number of entries: 1362
 #
 ##############################################################################S
 #
@@ -1451,6 +1451,16 @@ COMMENT: Music from the game 'Around the Planet' released by Mirage in 1994.
 
 /Composers/Grzyb_Janusz/Around_the_Planet_Intro.sap
 COMMENT: Music from the game 'Around the Planet' released by Mirage in 1994.
+
+### /Composers/Hawkins_Ron ###################################################
+
+/Composers/Hawkins_Ron/Love_Me_Tender.sap
+  TITLE: Love Me Tender
+ ARTIST: Elvis Presley
+
+/Composers/Hawkins_Ron/Loving_Her_Was_Easier.sap
+  TITLE: Lovin' Her Was Easier [from The Silver Tongued Devil and I]
+ ARTIST: Kris Kristofferson
 
 ### /Composers/Hay_Adam ######################################################
 
