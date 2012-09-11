@@ -965,14 +965,23 @@ COMMENT: Originally a C64 SID tune with POKEY routine added.
  ARTIST: <?>
 COMMENT: Originally a C64 SID tune with POKEY routine added.
 
-/Composers/Farkas_Felker/Joyride_Turn_Disk.sap
-  TITLE: Time Runner [from the C64 SID]
- ARTIST: Markus Schneider
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
 /Composers/Farkas_Felker/Joyride_Scrolls.sap
   TITLE: Squamp [from the C64 SID]
  ARTIST: Thomas E. Petersen (Laxity)
+
+/Composers/Farkas_Felker/Joyride_Turn_Disk.sap
+(#1)
+  TITLE: Time Runner, Tune #1 [from the C64 SID]
+ ARTIST: Markus Schneider
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+(#2)
+  TITLE: Time Runner, Tune #2 [from the C64 SID]
+ ARTIST: Markus Schneider
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+(#3)
+  TITLE: Time Runner, Tune #3 [from the C64 SID]
+ ARTIST: Markus Schneider
+COMMENT: Originally a C64 SID tune with POKEY routine added.
 
 /Composers/Farkas_Felker/Joyride_Twirl.sap
   TITLE: Cheeky Twins 2, Tune #3 [from the C64 game]
