@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1364
+#  Total number of entries: 1366
 #
 ##############################################################################S
 #
@@ -364,6 +364,10 @@ COMMENT: Cover of original ZX Spectrum version of "Whole" Soundtrack.
 /Composers/CEvE-Soft/World_of_Wonders_Amiga_Meg.sap
   TITLE: Heart [from Actually] (0:00-0:19)
  ARTIST: Pet Shop Boys
+  TITLE: Gimme Gimme Gimme (A Man After Midnight) [from Voulez Vous] (1:32-1:47 & 5:38-5:53)
+ ARTIST: ABBA
+  TITLE: Axel F [from the movie Beverly Hills Cop] (6:09-6:25)
+ ARTIST: Harold Faltermeyer
 
 /Composers/CEvE-Soft/World_of_Wonders_Goldrunne.sap
   TITLE: Human Race, Tune #4 [from the C64 game]
@@ -1556,6 +1560,12 @@ COMMENT: Music from the game 'Władcy Ciemności' released by L.K. Avalon in
 COMMENT: Music from the game 'Władcy Ciemności' released by L.K. Avalon in 
          1993.
 
+### /Composers/Hryn_Piotr ####################################################
+
+/Composers/Hryn_Piotr/Music_Compo_93.sap
+  TITLE: Somebody's Watching Me (0:30)
+ ARTIST: Rockwell
+
 ### /Composers/Hubbard_Rob ###################################################
 
 /Composers/Hubbard_Rob/
@@ -2688,6 +2698,10 @@ COMMENT: Same as /Composers/Martin_Chris/Approachong.sap, but with second
 /Composers/Martin_Chris/Einsteinium_01.sap
   TITLE: Einsteinium-01 [from the Amiga MOD module]
  ARTIST: Poul Peder Hestbek (Einstein)
+
+/Composers/Martin_Chris/Fairlightning.sap
+  TITLE: Wizardy, Tune #1 [from the C64 game]
+ ARTIST: Mike Alsop
 
 /Composers/Martin_Chris/Popcorn_Song.sap
   TITLE: Popcorn [from Music To Moog By]
