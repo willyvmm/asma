@@ -362,9 +362,19 @@ COMMENT: Cover of original ZX Spectrum version of "Whole" Soundtrack.
  ARTIST: Sol Bloom
 
 /Composers/CEvE-Soft/World_of_Wonders_Amiga_Meg.sap
-  TITLE: Heart [from Actually] (0:00-0:19)
+  TITLE: Heart [from Actually] (0:00-0:14)
  ARTIST: Pet Shop Boys
-  TITLE: Gimme Gimme Gimme (A Man After Midnight) [from Voulez Vous] (1:32-1:47 & 5:38-5:53)
+  TITLE: Nodisco (0:15-0:30)
+ ARTIST: Depeche Mode
+  TITLE: Gimme Gimme Gimme (A Man After Midnight) [from Voulez Vous] (1:32-1:47)
+ ARTIST: ABBA
+  TITLE: Oh L'amour [from Wonderland] (2:03-2:18)
+ ARTIST: Erasure
+  TITLE: Just Can't Get Enough [from Speak & Spell] (2:49-3:04)
+ ARTIST: Depeche Mode
+  TITLE: Photographic [from Speak & Spell] (3:20-4:17)
+ ARTIST: Depeche Mode
+  TITLE: Gimme Gimme Gimme (A Man After Midnight) [from Voulez Vous] (5:38-5:53)
  ARTIST: ABBA
   TITLE: Axel F [from the movie Beverly Hills Cop] (6:09-6:25)
  ARTIST: Harold Faltermeyer
@@ -561,8 +571,8 @@ COMMENT: Covers the main theme from the arcade game.
 ### /Composers/Dojwa_Jacek ###################################################
 
 /Composers/Dojwa_Jacek/Fairlight.sap
-  TITLE: Enlightenment: Druid II, Tune #3 [from the C64 game]
- ARTIST: David Hanlon
+  TITLE: Wizardry, Tune #1 [from the C64 game]
+ ARTIST: Mike Alsop
 
 /Composers/Dojwa_Jacek/Hydraulik.sap
 COMMENT: Music from the game 'Hydraulik' released by ASF in 1993.
@@ -3378,8 +3388,8 @@ COMMENT: 8th place at SillyVenture 2011 music compo.
  ARTIST: Tom Kramer & Alf Clausen
 
 /Composers/Rapalski_Konrad/Fairlight.sap
-  TITLE: Enlightenment: Druid II, Tune #3 [from the C64 game]
- ARTIST: David Hanlon
+  TITLE: Wizardry, Tune #1 [from the C64 game]
+ ARTIST: Mike Alsop
 
 ### /Composers/Radzikowski_Ireneusz ##########################################
 
