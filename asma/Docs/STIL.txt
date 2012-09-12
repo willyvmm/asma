@@ -4312,6 +4312,7 @@ COMMENT: Music from the game 'Streets' released by L.K. Avalon in 1993.
 ### /Composers/Takacs_Gabriel ################################################
 
 /Composers/Takacs_Gabriel/Draconus.sap
+(#1)
   TITLE: Draconus, Tune #7 (0:00-0:51)
  ARTIST: Adam Gilmore
 
