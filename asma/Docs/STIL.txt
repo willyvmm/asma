@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1366
+#  Total number of entries: 1367
 #
 ##############################################################################S
 #
@@ -4437,8 +4437,8 @@ COMMENT: Music from the game 'Terminator' released by Domain Software in 1993.
  ARTIST: Culture Beat
 
 /Composers/Vavra_Karel_and_Sedlak_Jiri/Somebody_Dance.sap
- TITLE: Somebody's Watching Me
-ARTIST: Rockwell
+  TITLE: Somebody's Watching Me
+ ARTIST: Rockwell
 COMMENT: This piece covers the version by Somebody Dance With Me by DJ Bobo.
 
 ### /Composers/Vila_Jaime ####################################################
@@ -4480,6 +4480,9 @@ COMMENT: 16th place at QuaST party 1996 music compo.
 /Composers/Vybostok_Marian/Bristly_Hedgehog_Unlimited.sap
   TITLE: No Limit [from No Limits]
  ARTIST: 2 Unlimited
+
+/Composers/Vybostok_Marian/Dynakillers.sap
+COMMENT: Music from the game 'Dynakillers' released in 1997.
 
 /Composers/Vybostok_Marian/Street_Fighter_II_Demo_4.sap
   TITLE: Katjusha
