@@ -4148,6 +4148,19 @@ COMMENT: Music from the game 'Nexus' released by Sikor Soft in 1996.
 /Composers/Szpilowski_Michal/Party_Info.sap
 COMMENT: 5th place at Shadows Party 1994 music compo.
 
+/Composers/Szpilowski_Michal/Plan_B.sap
+(#1)
+  TITLE: Get Freaky [from Electric City]
+ ARTIST: Music Instructor
+COMMENT: Partially covers the above piece.
+(#3)
+  TITLE: Protekcji Lekcja [from Reda by Night]
+ ARTIST: Oddział Zamknięty
+(#4)
+  TITLE: You’re Not Alone [from You’re Not Alone]
+ ARTIST: Olive
+COMMENT: Covers ATB version of the above.
+
 /Composers/Szpilowski_Michal/Polly.sap
   TITLE: Polly [from Nevermind]
  ARTIST: Nirvana
@@ -6040,3 +6053,4 @@ COMMENT: Made famous in a Oscar Mayer commercial.
 /Unknown/AMS/Young_Turks.sap
   TITLE: Young Turks [from Tonight I'm Yours]
  ARTIST: Rod Stewart
+
