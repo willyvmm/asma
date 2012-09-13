@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1367
+#  Total number of entries: 1373
 #
 ##############################################################################S
 #
@@ -3481,6 +3481,32 @@ COMMENT: Popular under name "Jingle Bells".
 
 /Composers/Sikorski_Pawel/Bzz.sap
 COMMENT: 11th place at Grayscale Music Competition II.
+
+### /Composers/Simon_Scott_and_Ship_Howard ###################################
+
+/Composers/Simon_Scott_and_Ship_Howard/Because.sap
+  TITLE: Because
+ ARTIST: The Beatles
+
+/Composers/Simon_Scott_and_Ship_Howard/Hey_Jude.sap
+  TITLE: Hey Jude [from the B-side of the Revolution 7" single]
+ ARTIST: The Beatles
+
+/Composers/Simon_Scott_and_Ship_Howard/Ive_Just_Seen_a_Face.sap
+  TITLE: I've Just Seen a Face [from Help!]
+ ARTIST: The Beatles
+
+/Composers/Simon_Scott_and_Ship_Howard/Scarborough_Fair.sap
+  TITLE: Scarborough Fair
+ ARTIST: Traditional
+
+/Composers/Simon_Scott_and_Ship_Howard/Time_in_a_Bottle.sap
+  TITLE: Time in a Bottle
+ ARTIST: Jim Croce
+
+/Composers/Simon_Scott_and_Ship_Howard/Yesterday.sap
+  TITLE: Yesterday [from Help!]
+ ARTIST: The Beatles
 
 ### /Composers/Skwiot_Stanislaw ##############################################
 
