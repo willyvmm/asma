@@ -3866,7 +3866,7 @@ COMMENT: Covers the C64 game version.
   TITLE: Orient Express [from Concerts in China]
  ARTIST: Jean Michel Jarre
 (#4)
-  TITLE: Ending Theme Song [from the cartoon series Mrs.Pepperpot called Spoon Obasan]
+  TITLE: Ending Theme Song [from the cartoon series Mrs. Pepperpot called Spoon Obasan]
  ARTIST: Tachio Akano (music), performed by Mari Iijima
 COMMENT: Cover of the arcade music.
 (#5)
@@ -3955,7 +3955,7 @@ COMMENT: Covers the MIDI conversion by Borgar Thorsteinsson (Oedipus).
  ARTIST: Mark Cooksey
 
 /Composers/Szpilowski_Michal/Hall_of_Rabarbadon.sap
-COMMENT: 22th place at QuaST party 1996 music compo.
+COMMENT: 22nd place at QuaST party 1996 music compo.
 
 /Composers/Szpilowski_Michal/Isora.sap
 (#1)
@@ -4152,14 +4152,13 @@ COMMENT: 5th place at Shadows Party 1994 music compo.
 (#1)
   TITLE: Get Freaky [from Electric City]
  ARTIST: Music Instructor
-COMMENT: Partially covers the above piece.
 (#3)
   TITLE: Protekcji Lekcja [from Reda by Night]
  ARTIST: Oddział Zamknięty
 (#4)
   TITLE: You’re Not Alone [from You’re Not Alone]
  ARTIST: Olive
-COMMENT: Covers ATB version of the above.
+COMMENT: Covers version performed by ATB.
 
 /Composers/Szpilowski_Michal/Polly.sap
   TITLE: Polly [from Nevermind]
