@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1373
+#  Total number of entries: 1375
 #
 ##############################################################################S
 #
@@ -3933,6 +3933,14 @@ COMMENT: 6th place at Forever Reneg8 music compo.
 /Composers/Szpilowski_Michal/Dom_w_Dolinie_Mgiel.sap
   TITLE: Dom w dolinie mgieł [from E=mc2]
  ARTIST: Marek Biliński
+
+/Composers/Szpilowski_Michal/Drac040.sap
+(#1)
+  TITLE: Sultans of Swing
+ ARTIST: Dire Straits
+(#2)
+  TITLE: Money for Nothing [from Brothers In Arms]
+ ARTIST: Dire Straits
 
 /Composers/Szpilowski_Michal/Earth_242.sap
 COMMENT: Silesian Atari Open party 1995 music compo entry.
