@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1375
+#  Total number of entries: 1376
 #
 ##############################################################################S
 #
@@ -3454,6 +3454,10 @@ COMMENT: Covers /Composers/Szpilowski_Michal/Hope.sap
 (#5)
 COMMENT: Another version of 
          /Composers/Rymorz_Waldemar/Music_Box_Demo_II_1_4.sap, tune 1.
+
+/Composers/Rymorz_Waldemar/Kombi.sap
+  TITLE: Nie ma zysku [from Nowy rozdział]
+ ARTIST: Kombi
 
 /Composers/Rymorz_Waldemar/Music_Box_Demo_II_1_4.sap
 (#1)
