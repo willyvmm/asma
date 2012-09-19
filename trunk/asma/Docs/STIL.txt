@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1376
+#  Total number of entries: 1378
 #
 ##############################################################################S
 #
@@ -982,6 +982,7 @@ COMMENT: Originally a C64 SID tune with POKEY routine added.
 /Composers/Farkas_Felker/Joyride_Scrolls.sap
   TITLE: Squamp [from the C64 SID]
  ARTIST: Thomas E. Petersen (Laxity)
+COMMENT: Originally a C64 SID tune with POKEY routine added.
 
 /Composers/Farkas_Felker/Joyride_Turn_Disk.sap
 (#1)
@@ -1136,6 +1137,19 @@ COMMENT: Last Party 1998 music compo entry.
 
 /Composers/Gora_Jakub/Return.sap
 COMMENT: Lato Ludzików 2002 music compo entry.
+
+### /Composers/Gorecki_Marek #################################################
+
+/Composers/Gorecki_Marek/Microdemo_4.sap
+  TITLE: Diggiloo Diggiley
+ ARTIST: Herreys
+COMMENT: A cover of the tune from Atari XE/XL POKEY Digiloo Digiley by Kemal Ezcan.
+
+/Composers/Gorecki_Marek/Microdemo_5.sap
+(#3)
+  TITLE: Money, Money [from the movie Cabaret]
+ ARTIST: John Kander (music), Fred Ebb (lyrics), performed Joel Grey & Liza Minnelli
+COMMENT: A cover of the tune from Atari XE/XL POKEY Karriere by Kemal Ezcan.
 
 ### /Composers/Grabowski_Pawel ###############################################
 
