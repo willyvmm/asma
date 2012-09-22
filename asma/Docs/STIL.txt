@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1381
+#  Total number of entries: 1382
 #
 ##############################################################################S
 #
@@ -1900,6 +1900,10 @@ COMMENT: 2nd place at Atari Area 24h 'Zybex' music compo.
 /Composers/Karwoth_Torsten/Bitter_Reality_Dragon_Bobs.sap
   TITLE: Stationary Ark
  ARTIST: John Mills-Cockell <?>
+
+/Composers/Karwoth_Torsten/Crystal_Hammer.sap
+  TITLE: Crystal Hammer [from the Amiga game]
+ ARTIST: Karsten Obarski
 
 /Composers/Karwoth_Torsten/FOFT.sap
   TITLE: <?> [from the Amiga game Federation of Free Traders]
