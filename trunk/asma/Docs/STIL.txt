@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1378
+#  Total number of entries: 1381
 #
 ##############################################################################S
 #
@@ -1901,6 +1901,14 @@ COMMENT: 2nd place at Atari Area 24h 'Zybex' music compo.
   TITLE: Stationary Ark
  ARTIST: John Mills-Cockell <?>
 
+/Composers/Karwoth_Torsten/FOFT.sap
+  TITLE: <?> [from the Amiga game Federation of Free Traders]
+ ARTIST: Ben Daglish
+
+/Composers/Karwoth_Torsten/FOFT.sap
+  TITLE: <?> [from the Amiga game Federation of Free Traders]
+ ARTIST: Ben Daglish
+
 ### /Composers/Kazimierczak_Leszek ###########################################
 
 /Composers/Kazimierczak_Leszek/Bad_Girl.sap
@@ -2832,6 +2840,10 @@ COMMENT: From an unknown Atari ST demo.
 /Composers/Niestegge_Stefan/Fujiama_Run.sap
   TITLE: Titles [from Chariots of Fire]
  ARTIST: Vangelis
+
+/Composers/Niestegge_Stefan/Sahara.sap
+  TITLE: Ancient Level [from the Amiga game Superfrog]
+ ARTIST: Allister Brimble
 
 ### /Composers/Numan_Daniel ##################################################
 
