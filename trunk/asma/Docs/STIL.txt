@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1383
+#  Total number of entries: 1385
 #
 ##############################################################################S
 #
@@ -71,6 +71,9 @@ COMMENT: Last Party 1998 music compo entry.
 
 ### /Composers/Berger_Dominique ##############################################
 
+/Composers/Berger_Dominique/8bitMania.sap
+COMMENT: Composed for the game iPhone/iPad Bomb On Pixel City.
+
 /Composers/Berger_Dominique/Acidjazzed_Evening.sap
   TITLE: Acidjazzed Evening [from the Amiga MOD module]
  ARTIST: Janne Suni (Tempest)
@@ -78,6 +81,9 @@ COMMENT: Last Party 1998 music compo entry.
 /Composers/Berger_Dominique/Bloe_Job.sap
   TITLE: Bloe Job [from the Amiga MOD module]
  ARTIST: Martin Iveson (Nuke)
+
+/Composers/Berger_Dominique/Cosmos_Invaders_Theme.sap
+COMMENT: Composed for the game iPhone/iPad Cosmos And Pixel Invaders.
 
 /Composers/Berger_Dominique/Impact_7.sap
   TITLE: Impact-7 [from the Amiga MOD module]
@@ -96,7 +102,7 @@ COMMENT: Last Party 1998 music compo entry.
  ARTIST: Martin Iveson (Nuke)
 
 /Composers/Berger_Dominique/Wonder_Dog.sap
-  TITLE: Wonder Dog Title [from the Amiga game]
+  TITLE: Title [from the Amiga game Wonderdog]
  ARTIST: Martin Iveson (Nuke)
 
 ### /Composers/Bienias_Adam ##################################################
