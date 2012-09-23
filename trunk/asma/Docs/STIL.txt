@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1382
+#  Total number of entries: 1383
 #
 ##############################################################################S
 #
@@ -956,6 +956,10 @@ COMMENT: Originally a C64 SID tune with POKEY routine added.
   TITLE: <?> [from the C64 SID]
  ARTIST: <?>
 COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Joyride_Intro.sap
+  TITLE: Joyride [from Joyride]
+ ARTIST: Roxette
 
 /Composers/Farkas_Felker/Joyride_Juggler.sap
   TITLE: Barricade X [from the C64 SID]
