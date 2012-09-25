@@ -3641,7 +3641,7 @@ COMMENT: 9th place at Grayscale Music Competition II.
 ### /Composers/Sterba_Radek ##################################################
 
 /Composers/Sterba_Radek/
-COMMENT: Sadly, Radek Sterba (Raster) passed away in 2011, at the age of 38.
+COMMENT: Sadly, Radek Štěrba (Raster) passed away in 2011, at the age of 38.
 
 /Composers/Sterba_Radek/Aspiration_332.sap
 COMMENT: 4th place at Forever 4 music compo.
