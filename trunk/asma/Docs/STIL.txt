@@ -72,7 +72,7 @@ COMMENT: Last Party 1998 music compo entry.
 ### /Composers/Berger_Dominique ##############################################
 
 /Composers/Berger_Dominique/8bitMania.sap
-COMMENT: Composed for the game iPhone/iPad Bomb On Pixel City.
+COMMENT: Composed for the iPhone/iPad game Bomb On Pixel City.
 
 /Composers/Berger_Dominique/Acidjazzed_Evening.sap
   TITLE: Acidjazzed Evening [from the Amiga MOD module]
@@ -83,7 +83,7 @@ COMMENT: Composed for the game iPhone/iPad Bomb On Pixel City.
  ARTIST: Martin Iveson (Nuke)
 
 /Composers/Berger_Dominique/Cosmos_Invaders_Theme.sap
-COMMENT: Composed for the game iPhone/iPad Cosmos And Pixel Invaders.
+COMMENT: Composed for the iPhone/iPad game Cosmos And Pixel Invaders.
 
 /Composers/Berger_Dominique/Impact_7.sap
   TITLE: Impact-7 [from the Amiga MOD module]
@@ -201,7 +201,7 @@ COMMENT: Same as /Composers/Bienias_Adam/Train.sap
 /Composers/Bienias_Adam/Tank.sap
   TITLE: Tank Title [from the Amiga game Future Tank]
  ARTIST: Karsten Obarski
-COMMENT: Same as /Composers/Bienias_Adam/Digital_Bonanza.sap with digitized 
+COMMENT: Same as /Composers/Bienias_Adam/Digital_Bonanza.sap with digitized
          drums.
 
 /Composers/Bienias_Adam/Rzog_Joins_XE_Team_2.sap
@@ -226,8 +226,8 @@ COMMENT: Same as /Composers/Bienias_Adam/Digital_Bonanza.sap with digitized
 
 /Composers/Bloszko_Marek/Factory_Demo.sap
   TITLE: Fahret Hin (0:00-0:10)
- ARTIST: Busching, von der Hagen
-COMMENT: Commonly known as "Haenschen Klein" (German children's song) or
+ ARTIST: Büsching, von der Hagen
+COMMENT: Commonly known as "Hänschen Klein" (German children's song) or
          "Wlazł Kotek" in Poland.
 
 ### /Composers/Brady_Jerry ###################################################
@@ -295,7 +295,7 @@ COMMENT: Commonly known as "Haenschen Klein" (German children's song) or
  ARTIST: Jean Michel Jarre
   TITLE: Oxygene 2 [from Oxygene] (0:59-2:00)
  ARTIST: Jean Michel Jarre
-   TITLE: Oxygene 4 [from Oxygene] (2:24-2:58)
+  TITLE: Oxygene 4 [from Oxygene] (2:24-2:58)
  ARTIST: Jean Michel Jarre
   TITLE: Oxygene 2 [from Oxygene] (3:02-4:03)
  ARTIST: Jean Michel Jarre
@@ -359,7 +359,7 @@ COMMENT: Lato Ludzików 2002 music compo entry. Its full name is Skisłodrom.
 /Composers/Ce_Pumpkin/W_hole.sap
   TITLE: Popcorn [from Music To Moog By] (0:12)
  ARTIST: Gershon Kingsley
-COMMENT: Cover of original ZX Spectrum version of "Whole" Soundtrack.
+COMMENT: Cover of original ZX Spectrum version of "Whole" soundtrack.
 
 ### /Composers/CEvE-Soft #####################################################
 
@@ -393,7 +393,7 @@ COMMENT: Also used in "GoldRunner" on the Atari ST.
 ### /Composers/Chamberlain_Craig #############################################
 
 /Composers/Chamberlain_Craig/Londonderry_Air.sap
-  TITLE: Londonderry Air  (National Anthem of the Northern Ireland)
+  TITLE: Londonderry Air (National Anthem of the Northern Ireland)
  ARTIST: <?>
 
 /Composers/Chamberlain_Craig/Happy_Birthday_Song.sap
@@ -423,7 +423,7 @@ COMMENT: Covers an international popular Christmas song ("Noche de paz" in
          "Cicha noc" in Polish etc.).
 
 /Composers/Checa_Funcke_Marco_Antonio/Oh_du_froehliche.sap
-  TITLE: Oh, du froehliche, oh, du selige!
+  TITLE: Oh, du fröhliche, oh, du selige!
  ARTIST: Johann Gottfried Herder
 COMMENT: Covers a popular German Christmas song.
 
@@ -501,7 +501,7 @@ COMMENT: 7th place at QuaST party 1996 music compo.
   TITLE: Dom w dolinie mgieł [from E=mc2]
  ARTIST: Marek Biliński
 
-Composers/Czartynski_Marcin/New.sap
+/Composers/Czartynski_Marcin/New.sap
 COMMENT: 13th place at QuaST party 1996 music compo.
 
 /Composers/Czartynski_Marcin/Outer_1.sap
@@ -657,7 +657,8 @@ COMMENT: This cover uses just slightly different sounds.
 /Composers/Dudek_Krzysztof/Dziadek.sap
   TITLE: Polka Dziadek
  ARTIST: Traditional
-COMMENT: Popular folk song. In 1971, the song was a signal Summer of Radio Programme 1 of the Polish Radio.
+COMMENT: Popular folk song. Since 1971 the "Summer with Radio" broadcast
+         of the Polish Radio starts with this song.
 
 ### /Composers/Duesterhoeft_Stephan ##########################################
 
@@ -706,7 +707,7 @@ COMMENT: PG is abbreviation of PseudoGrafx.
 /Composers/Eisenhammer_Zdenek/Diamondz_Congratulations.sap
   TITLE: Dunder Honung [from the Amiga MOD module]
  ARTIST: Gustaf Grefberg (Lizardking)
-COMMENT: Twice as long as the original, with added drums in the added part.
+COMMENT: Twice as long as the original, with added drums in the extra part.
 
 /Composers/Eisenhammer_Zdenek/Diamondz_Ingame.sap
   TITLE: Cyberotica [from the Amiga MOD module]
@@ -832,7 +833,7 @@ COMMENT: Same as /Composers/Esquivel_Sal/Blaster_Master_Level_1.sap,
 /Composers/Esquivel_Sal/M_U_L_E_Remix.sap
   TITLE: M.U.L.E., Tune #1
  ARTIST: Roy Glover
-CoMMENT: Used in 'Mule Wars' game by Mario Caillahuz.
+COMMENT: Used in 'Mule Wars' game by Mario Caillahuz.
 
 /Composers/Esquivel_Sal/Mega_Man_III_Title_Stereo.sap
 COMMENT: Same as /Composers/Esquivel_Sal/Mega_Man_III_Title.sap,
@@ -860,7 +861,7 @@ COMMENT: Same as /Composers/Esquivel_Sal/OutRun_Splash_Wave.sap,
 COMMENT: Covering the version arranged by Hot Butter.
 
 /Composers/Esquivel_Sal/Space_Harrier_Main_Theme.sap
-  TITLE: Main Theme [from the arcade game  Space Harrier]
+  TITLE: Main Theme [from the arcade game Space Harrier]
  ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
 
 /Composers/Esquivel_Sal/Stardust_Memories.sap
@@ -1213,7 +1214,7 @@ COMMENT: Music from the game 'Muff' released by ASF in 1992.
 /Composers/Grad_Jacek/Muff_3_Mix.sap
 COMMENT: Same as /Composers/Grad_Jacek/Muff_3.sap
 
-### /Composers/Grayscale  ####################################################
+### /Composers/Grayscale #####################################################
 
 /Composers/Grayscale/404_Error.sap
 COMMENT: 1st place at Forever 4 music compo.
@@ -1225,7 +1226,7 @@ COMMENT: Last Party 2002 music compo entry.
   TITLE: Ucieczka z tropiku [from Ucieczka do tropiku] (0:55)
  ARTIST: Marek Biliński
 COMMENT: The title translates from Polish as "Escape from the tropic zone".
-         Marek Biliński was some kind of a Polish J. M. Jarre, and had a 
+         Marek Biliński was some kind of a Polish J. M. Jarre, and had a
          string of instrumental hits back in the 80's.
 
 /Composers/Grayscale/Irish_Wood.sap
@@ -1249,7 +1250,7 @@ COMMENT: 2nd place at Intel Outside 4 music compo.
   TITLE: Ucieczka z tropiku [from Ucieczka do tropiku]
  ARTIST: Marek Biliński
 COMMENT: The title translates from Polish as "Escape from the tropic zone".
-         Marek Biliński was some kind of a Polish J. M. Jarre, and had a 
+         Marek Biliński was some kind of a Polish J. M. Jarre, and had a
          string of instrumental hits back in the 80's.
 
 /Composers/Grayscale/Kwiatek_Grzegorz/Extase.sap
@@ -1411,7 +1412,7 @@ COMMENT: Music from the game 'Orto Puzzle' released by Sikor Soft in 1997.
 COMMENT: 8th place at QuaST party 1996 music compo.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Overmind_11.sap
-COMMENT: This song only uses 2 channels (used while loading) - try to 
+COMMENT: This song uses only 2 channels (used while loading) - try to
          recognize that.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Pancerne_Trampki.sap
@@ -1506,7 +1507,7 @@ COMMENT: Music from the game 'Around the Planet' released by Mirage in 1994.
 
 /Composers/Hawkins_Ron/Wabash_Cannonball.sap
   TITLE: The Wabash Cannonball
-ARTIST: American folk song
+ ARTIST: American folk song
 
 ### /Composers/Hay_Adam ######################################################
 
@@ -1518,7 +1519,7 @@ ARTIST: American folk song
   TITLE: Alloyrun, Tune #1 [from the C64 game]
  ARTIST: Jeroen Tel
 
- /Composers/Hay_Adam/Amegas.sap
+/Composers/Hay_Adam/Amegas.sap
   TITLE: Title Tune [from the Amiga game Amegas]
  ARTIST: Karsten Obarski
 
@@ -1587,11 +1588,11 @@ COMMENT: Music from the game 'Klątwa' released by L.K. Avalon in 1992.
 COMMENT: Music from the game 'Klątwa' released by L.K. Avalon in 1992.
 
 /Composers/Holda_Leszek/Wladcy_Ciemnosci.sap
-COMMENT: Music from the game 'Władcy Ciemności' released by L.K. Avalon in 
+COMMENT: Music from the game 'Władcy Ciemności' released by L.K. Avalon in
          1993.
 
 /Composers/Holda_Leszek/Wladcy_Ciemnosci_Ingame.sap
-COMMENT: Music from the game 'Władcy Ciemności' released by L.K. Avalon in 
+COMMENT: Music from the game 'Władcy Ciemności' released by L.K. Avalon in
          1993.
 
 ### /Composers/Hryn_Piotr ####################################################
@@ -1611,11 +1612,11 @@ COMMENT: "Extirpator is unknown to me, but the tune is Sanxion, which is
          probably my favorite tune I ever wrote on the c64." (RH)
 
 /Composers/Hubbard_Rob/Jet_Set_Willy.sap
-COMMENT: "Jet Set Willy 2 was unique to the Atari and is very much in the 
+COMMENT: "Jet Set Willy 2 was unique to the Atari and is very much in the
          Jarre style." (RH)
 
 /Composers/Hubbard_Rob/International_Karate.sap
-COMMENT: "I.K. was the first tune I ever did on the Atari, which was also 
+COMMENT: "I.K. was the first tune I ever did on the Atari, which was also
          quite a challenge because of the 8bit pitch registers." (RH)
 
 /Composers/Hubbard_Rob/Warhawk.sap
@@ -1820,7 +1821,7 @@ COMMENT: Silesian Atari Open party 1995 music compo entry.
 ### /Composers/Kalinowski_Bartosz ############################################
 
 /Composers/Kalinowski_Bartosz/
-COMMENT: Sadly, Bartosz Kalinowski (Bartman) passed away in 1997, at the age 
+COMMENT: Sadly, Bartosz Kalinowski (Bartman) passed away in 1997, at the age
          of 20.
 
 /Composers/Kalinowski_Bartosz/CIS_Musicshow.sap
@@ -1977,7 +1978,7 @@ COMMENT: This is not a complete cover.
 ### /Composers/Krasuski_Jaroslaw #############################################
 
 /Composers/Krasuski_Jaroslaw/
-COMMENT: Sadly, Jaroslaw Krasuski (Jaras) passed away in 2007, at the age 
+COMMENT: Sadly, Jaroslaw Krasuski (Jaras) passed away in 2007, at the age
          of 33.
 
 /Composers/Krasuski_Jaroslaw/Bad.sap
@@ -2106,7 +2107,7 @@ COMMENT: This covers the version "Moja Muzyka" by Bayer Full.
 /Composers/Krix_Mario/Bombo.sap
   TITLE: The Hootchy Kootchy Dance
  ARTIST: Sol Bloom
-COMMENT: Covering from the C64 version game by Ben Daglish that appeared in 
+COMMENT: Covering from the C64 version game by Ben Daglish that appeared in
          the game "Bombo".
 
 /Composers/Krix_Mario/Chuck_Rock.sap
@@ -2506,7 +2507,7 @@ COMMENT: Music from the game 'Tusker' released by Mirage in 1993.
   TITLE: Ucieczka z tropiku [from Ucieczka do tropiku]
  ARTIST: Marek Biliński
 COMMENT: The title translates from Polish as "Escape from the tropic zone".
-         Marek Biliński was some kind of a Polish J. M. Jarre, and had a 
+         Marek Biliński was some kind of a Polish J. M. Jarre, and had a
          string of instrumental hits back in the 80's.
 
 /Composers/Liebich_Tomasz/Vicky_Game_Over.sap
@@ -2726,7 +2727,7 @@ COMMENT: Silesian Atari Open party 1995 music compo entry.
 ### /Composers/Martin_Chris ##################################################
 
 /Composers/Martin_Chris/Approachong_stereo.sap
-COMMENT: Same as /Composers/Martin_Chris/Approachong.sap, but with second 
+COMMENT: Same as /Composers/Martin_Chris/Approachong.sap, but with second
          POKEY support (stereo version).
 
 /Composers/Martin_Chris/Blue_Monday.sap
@@ -3492,7 +3493,7 @@ COMMENT: Covers /Composers/Szpilowski_Michal/Hope.sap
 
 /Composers/Rymorz_Waldemar/Arkanoid_II.sap
 (#5)
-COMMENT: Another version of 
+COMMENT: Another version of
          /Composers/Rymorz_Waldemar/Music_Box_Demo_II_1_4.sap, tune 1.
 
 /Composers/Rymorz_Waldemar/Kombi.sap
@@ -3501,7 +3502,7 @@ COMMENT: Another version of
 
 /Composers/Rymorz_Waldemar/Music_Box_Demo_II_1_4.sap
 (#1)
-COMMENT: Another version of 
+COMMENT: Another version of
          /Composers/Rymorz_Waldemar/Arkanoid_II.sap, tune 5.
 (#2)
   TITLE: Dance with Me [from Afternoons in Utopia]
@@ -3856,7 +3857,7 @@ COMMENT: 1st place at QuaST party 1995 music compo.
 /Composers/Swierszcz_Piotr/White_Lamp.sap
   TITLE: Greensleeves
  ARTIST: Unknown
-COMMENT: Covers a version made by Richard Munns. 2nd place at Atari Area 
+COMMENT: Covers a version made by Richard Munns. 2nd place at Atari Area
          24h 'Black Lamp' music compo.
 
 ### /Composers/Szmatola_Krzysztof ############################################
@@ -4121,7 +4122,7 @@ COMMENT: Music from the game 'Moscow 1993' released by Sikor Soft in 1994.
          performed by Andrzej Rosiewicz
 (#2)
   TITLE: Chcemy być sobą [from Biały Album]
- ARTIST: Perfect 
+ ARTIST: Perfect
 (#3)
   TITLE: Kreon [from Mental Cut]
  ARTIST: Maanam
@@ -4208,7 +4209,7 @@ COMMENT: 5th place at Shadows Party 1994 music compo.
   TITLE: Protekcji Lekcja [from Reda by Night]
  ARTIST: Oddział Zamknięty
 (#4)
-  TITLE: You’re Not Alone [from You’re Not Alone]
+  TITLE: You're Not Alone [from You're Not Alone]
  ARTIST: Olive
 COMMENT: Covers version performed by ATB.
 
@@ -4293,12 +4294,12 @@ COMMENT: Music from the game 'Teacher Killer' released by Sikor Soft in 1994.
 (#1)
   TITLE: 1943 - Battle of Midway: Level 1 [from the NES game]
  ARTIST: Yoshihiro Sakaguchi
-COMMENT: Covers Atari ST version, too.
+COMMENT: Covers Atari ST version as well.
 (#2)
   TITLE: 1943 - Battle of Midway: Level 1 Pre-Boss [from the NES game]
  ARTIST: Yoshihiro Sakaguchi
 (#3)
-  TITLE:  1943 - Battle of Midway: Mission Failure [from the NES game]
+  TITLE: 1943 - Battle of Midway: Mission Failure [from the NES game]
  ARTIST: Yoshihiro Sakaguchi
 (#4)
   TITLE: Airwolf [from the TV series], one pattern from Delta
@@ -5036,7 +5037,7 @@ COMMENT: Popular under name "Jingle Bells".
 /GAMES/S-Z/Spys_Demise.sid
   TITLE: Hungarian Dance No. 5 in F♯ minor (G minor for orchestra) (0:00-1:01)
  ARTIST: Johannes Brahms
-COMMENT: Based on the version sung Bártfai Emlék Csárdás op. 31 by  Béla Kéler.
+COMMENT: Based on the version sung Bártfai Emlék Csárdás op. 31 by Béla Kéler.
   TITLE: Katyusha (1:15-2:09)
  ARTIST: Matwiej Blanter (music), Michail Isakowski (lyrics)
   TITLE: Trepak [from The Nutcracker] (3:44-4:46)
@@ -5279,14 +5280,14 @@ COMMENT: An example of 16th century lute music.
 /Unknown/God_Save_the_Queen_1.sap
   TITLE: God Save the King/Queen (The National Anthem of the U.K.)
  ARTIST: Traditional
-COMMENT: This anthem is traditional and possibly one of the most known 
+COMMENT: This anthem is traditional and possibly one of the most known
          national anthems in the world. Each verse was written at a different
          time, ranging from the 1740s to the present day.
 
 /Unknown/God_Save_the_Queen_2.sap
   TITLE: God Save the King/Queen (The National Anthem of the U.K.)
  ARTIST: Traditional
-COMMENT: This anthem is traditional and possibly one of the most known 
+COMMENT: This anthem is traditional and possibly one of the most known
          national anthems in the world. Each verse was written at a different
          time, ranging from the 1740s to the present day.
 
@@ -5303,7 +5304,7 @@ COMMENT: This anthem is traditional and possibly one of the most known
  ARTIST: Traditional
 
 /Unknown/Ice_in_the_Sunshine.sap
-  TITLE: Ice In The Sunshine 
+  TITLE: Ice In The Sunshine
  ARTIST: Beagle Music Ltd.
 
 /Unknown/Let_It_Be.sap
@@ -5696,7 +5697,7 @@ COMMENT: Best known from as the title theme to the comedy TV series
 /Unknown/AMS/God_Save_the_Queen.sap
   TITLE: God Save the King/Queen (The National Anthem of the U.K.)
  ARTIST: Traditional
-COMMENT: This anthem is traditional and possibly one of the most known 
+COMMENT: This anthem is traditional and possibly one of the most known
          national anthems in the world. Each verse was written at a different
          time, ranging from the 1740s to the present day.
 
@@ -5713,7 +5714,7 @@ COMMENT: This anthem is traditional and possibly one of the most known
  ARTIST: Blondie
 
 /Unknown/AMS/Hello_Dolly.sap
-    TITLE: Hello Dolly [from the musical]
+  TITLE: Hello Dolly [from the musical]
  ARTIST: Jerry Herman
 
 /Unknown/AMS/Hey_Jude.sap
