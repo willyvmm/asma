@@ -174,10 +174,6 @@ COMMENT: Same as /Composers/Bienias_Adam/Train.sap
   TITLE: Jack Dance [from the Amiga MOD module]
  ARTIST: Karsten Obarski
 
-/Composers/Bienias_Adam/Little_5.sap
-  TITLE: megaforce02 [from the Amiga MOD module]
- ARTIST: Heiko (Luxor)
-
 /Composers/Bienias_Adam/Kebab_Magazine.sap
   TITLE: Brass Tune [from the Amiga SoundTracker module]
  ARTIST: Hans Arild Runde (Gladiator)
@@ -186,6 +182,10 @@ COMMENT: Same as /Composers/Bienias_Adam/Train.sap
   TITLE: lff [from the Amiga MOD module]
  ARTIST: Matthew Simmonds (4-Mat)
 
+/Composers/Bienias_Adam/Little_5.sap
+  TITLE: megaforce02 [from the Amiga MOD module]
+ ARTIST: Heiko (Luxor)
+
 /Composers/Bienias_Adam/Little_6.sap
   TITLE: Moonlight Shadow [from Crises]
  ARTIST: Mike Oldfield & Simon Philips
@@ -193,6 +193,10 @@ COMMENT: Same as /Composers/Bienias_Adam/Train.sap
 /Composers/Bienias_Adam/Moonlight_Shadow.sap
   TITLE: Moonlight Shadow [from Crises]
  ARTIST: Mike Oldfield & Simon Philips
+
+/Composers/Bienias_Adam/Rzog_Joins_XE_Team_2.sap
+  TITLE: ALF Theme [from the TV series] (00:07)
+ ARTIST: Tom Kramer & Alf Clausen
 
 /Composers/Bienias_Adam/Saturday_Demo.sap
   TITLE: Filthy Dreams [from the Amiga MOD module]
@@ -203,10 +207,6 @@ COMMENT: Same as /Composers/Bienias_Adam/Train.sap
  ARTIST: Karsten Obarski
 COMMENT: Same as /Composers/Bienias_Adam/Digital_Bonanza.sap with digitized
          drums.
-
-/Composers/Bienias_Adam/Rzog_Joins_XE_Team_2.sap
-  TITLE: ALF Theme [from the TV series] (00:07)
- ARTIST: Tom Kramer & Alf Clausen
 
 /Composers/Bienias_Adam/Techno_Florid.sap
   TITLE: Technostyle II [from the Amiga MOD module]
@@ -240,6 +240,10 @@ COMMENT: Commonly known as "Hänschen Klein" (German children's song) or
   TITLE: Für Elise
  ARTIST: Ludwig van Beethoven
 
+/Composers/Brady_Jerry/Imperial_March.sap
+  TITLE: The Imperial March / Darth Vader's Theme [from Star Wars Episode V]
+ ARTIST: John Williams
+
 /Composers/Brady_Jerry/Sabre_Dance.sap
   TITLE: Dance of the Sabres [from Gajane]
  ARTIST: Aram Ilich Khachaturian
@@ -247,10 +251,6 @@ COMMENT: Commonly known as "Hänschen Klein" (German children's song) or
 /Composers/Brady_Jerry/Soldiers_March.sap
   TITLE: Soldier's March
  ARTIST: Robert Schumann
-
-/Composers/Brady_Jerry/Imperial_March.sap
-  TITLE: The Imperial March / Darth Vader's Theme [from Star Wars Episode V]
- ARTIST: John Williams
 
 ### /Composers/Bratt_Harry ###################################################
 
@@ -309,9 +309,6 @@ COMMENT: Inspired by this music.
 
 ### /Composers/Brzezicki_Michal ##############################################
 
-/Composers/Brzezicki_Michal/Vlong.sap
-COMMENT: Music from the game 'Spy Master' released by L.K. Avalon in 1993.
-
 /Composers/Brzezicki_Michal/Cropky.sap
 COMMENT: Music from the game 'Cropky' released in 2011.
 (#1)
@@ -340,18 +337,21 @@ COMMENT: Music from the game 'Octopus' released in 2011.
 /Composers/Brzezicki_Michal/Patrol_In_the_Space.sap
 COMMENT: Music from the game 'Patrol In The Space' released in 2011.
 
+/Composers/Brzezicki_Michal/Vlong.sap
+COMMENT: Music from the game 'Spy Master' released by L.K. Avalon in 1993.
+
 ### /Composers/Ce_Pumpkin ####################################################
 
 /Composers/Ce_Pumpkin/Mindthumper.sap
 COMMENT: 8th place at Grayscale Music Competition II.
 
-/Composers/Ce_Pumpkin/Rulez_2.sap
-COMMENT: Last Party 2002 music compo entry.
-
 /Composers/Ce_Pumpkin/R0l0_5_Rulu
   TITLE: Bazuona [from the Amiga SoundTracker module]
  ARTIST: Marcus Johansson (Mopz)
 COMMENT: Based on this music.
+
+/Composers/Ce_Pumpkin/Rulez_2.sap
+COMMENT: Last Party 2002 music compo entry.
 
 /Composers/Ce_Pumpkin/Skis.sap
 COMMENT: Lato Ludzików 2002 music compo entry. Its full name is Skisłodrom.
@@ -392,15 +392,13 @@ COMMENT: Also used in "GoldRunner" on the Atari ST.
 
 ### /Composers/Chamberlain_Craig #############################################
 
-/Composers/Chamberlain_Craig/Londonderry_Air.sap
-  TITLE: Londonderry Air (National Anthem of the Northern Ireland)
- ARTIST: <?>
-
 /Composers/Chamberlain_Craig/Happy_Birthday_Song.sap
   TITLE: Happy Birthday
  ARTIST: Mildred J. Hill
 
 /Composers/Chamberlain_Craig/Londonderry_Air.sap
+  TITLE: Londonderry Air (National Anthem of the Northern Ireland)
+ ARTIST: <?>
   TITLE: Londonderry Air
  ARTIST: Danny Boy
 
@@ -422,14 +420,14 @@ COMMENT: Covers an international popular Christmas song ("Noche de paz" in
          Spanish, "Stille Nacht" in German, "Silent night" in English,
          "Cicha noc" in Polish etc.).
 
-/Composers/Checa_Funcke_Marco_Antonio/Oh_du_froehliche.sap
-  TITLE: Oh, du fröhliche, oh, du selige!
- ARTIST: Johann Gottfried Herder
-COMMENT: Covers a popular German Christmas song.
-
 /Composers/Checa_Funcke_Marco_Antonio/O_Tannenbaum.sap
   TITLE: O Tannenbaum!
  ARTIST: Traditional, A. Zarnack & Ernst Anschuetz (lyrics)
+COMMENT: Covers a popular German Christmas song.
+
+/Composers/Checa_Funcke_Marco_Antonio/Oh_du_froehliche.sap
+  TITLE: Oh, du fröhliche, oh, du selige!
+ ARTIST: Johann Gottfried Herder
 COMMENT: Covers a popular German Christmas song.
 
 ### /Composers/Chichakly_R_M #################################################
@@ -490,9 +488,6 @@ COMMENT: 1st place at SillyVenture 2000 music compo.
 
 ### /Composers/Czartynski_Marcin #############################################
 
-/Composers/Czartynski_Marcin/Hlejnia.sap
-COMMENT: 7th place at QuaST party 1996 music compo.
-
 /Composers/Czartynski_Marcin/Heretic_Crew_Limited_Dem_2.sap
   TITLE: Living on Video [from Living on Video]
  ARTIST: Trans-X
@@ -500,6 +495,9 @@ COMMENT: 7th place at QuaST party 1996 music compo.
 /Composers/Czartynski_Marcin/Heretic_Crew_Limited_Dem_3.sap
   TITLE: Dom w dolinie mgieł [from E=mc2]
  ARTIST: Marek Biliński
+
+/Composers/Czartynski_Marcin/Hlejnia.sap
+COMMENT: 7th place at QuaST party 1996 music compo.
 
 /Composers/Czartynski_Marcin/New.sap
 COMMENT: 13th place at QuaST party 1996 music compo.
@@ -519,9 +517,6 @@ COMMENT: 4th place at Shadows Party 1994 music compo.
   TITLE: Title Theme [from the cartoon series Reksio]
  ARTIST: Zenon Kowalowski
 
-/Composers/Czartynski_Marcin/Wave.sap
-COMMENT: Music from the game 'Grunwald 1410' released by L.K. Firebird in 1995.
-
 /Composers/Czartynski_Marcin/Top_Secret.sap
 COMMENT: Music from the game 'Top Secret' released by Mirage in 1993.
 
@@ -531,6 +526,9 @@ COMMENT: Music from the game 'Top Secret' released by Mirage in 1993.
 /Composers/Czartynski_Marcin/Trans_X.sap
   TITLE: Living on Video [from Living on Video]
  ARTIST: Trans-X
+
+/Composers/Czartynski_Marcin/Wave.sap
+COMMENT: Music from the game 'Grunwald 1410' released by L.K. Firebird in 1995.
 
 ### /Composers/Czlowiek_W_Atomizerze #########################################
 
@@ -882,10 +880,6 @@ COMMENT: Covering the version arranged by Hot Butter.
   TITLE: El Cumbanchero
  ARTIST: Rafael Hernández
 
-/Composers/Ezcan_Kemal/Karriere.sap
-  TITLE: Money, Money [from the movie Cabaret]
- ARTIST: John Kander (music), Fred Ebb (lyrics), performed Joel Grey & Liza Minnelli
-
 /Composers/Ezcan_Kemal/Digiloo_Digiley.sap
   TITLE: Diggiloo Diggiley
  ARTIST: Herreys
@@ -898,6 +892,17 @@ COMMENT: This song won the Eurovision Song Contest in 1984.
 /Composers/Ezcan_Kemal/Its_a_Sin.sap
   TITLE: It's a Sin [from Actually]
  ARTIST: Pet Shop Boys
+
+/Composers/Ezcan_Kemal/Karriere.sap
+  TITLE: Money, Money [from the movie Cabaret]
+ ARTIST: John Kander (music), Fred Ebb (lyrics), performed Joel Grey & Liza Minnelli
+
+### /Composers/Falton_Peter ##################################################
+
+/Composers/Falton_Peter/Banana.sap
+  TITLE: Tico-tico no fubá
+ ARTIST: Zequinha de Abreu
+COMMENT: A famous Brazilian choro tune composed in 1917.
 
 ### /Composers/Farkas_Felker #################################################
 
@@ -985,14 +990,14 @@ COMMENT: A cover of the tune from C64 SID Enigma/PHA Theme by Alain
  ARTIST: Wojciech Wojtkiewicz (Tracker)
 COMMENT: Originally a C64 SID tune with POKEY routine added.
 
-/Composers/Farkas_Felker/Joyride_Tunnel.sap
-  TITLE: <?> [from the C64 SID]
- ARTIST: <?>
-COMMENT: Originally a C64 SID tune with POKEY routine added.
-
 /Composers/Farkas_Felker/Joyride_Scrolls.sap
   TITLE: Squamp [from the C64 SID]
  ARTIST: Thomas E. Petersen (Laxity)
+COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Joyride_Tunnel.sap
+  TITLE: <?> [from the C64 SID]
+ ARTIST: <?>
 COMMENT: Originally a C64 SID tune with POKEY routine added.
 
 /Composers/Farkas_Felker/Joyride_Turn_Disk.sap
@@ -1050,13 +1055,6 @@ COMMENT: Originally a C64 SID tune with POKEY routine added.
  ARTIST: Jeroen Tel
 COMMENT: Originally a C64 SID tune with POKEY routine added.
 
-### /Composers/Falton_Peter ##################################################
-
-/Composers/Falton_Peter/Banana.sap
-  TITLE: Tico-tico no fubá
- ARTIST: Zequinha de Abreu
-COMMENT: A famous Brazilian choro tune composed in 1917.
-
 ### /Composers/Feske_Nils ####################################################
 
 /Composers/Feske_Nils/Dashed_off.sap
@@ -1069,11 +1067,6 @@ COMMENT: 2nd place at SillyVenture 2000 music compo.
   TITLE: Dorogoj dlinnoju
  ARTIST: Borisa Fomina (music), Konstantin Podrevski (lyrics)
 COMMENT: Cover version Those Were the Days, performed by Mary Hopkin.
-
-### /Composers/Garrido_Daniel ################################################
-
-/Composers/Garrido_Daniel/Los_Osos_hablan_en_Marte.sap
-COMMENT: 3rd place at Winter Chip II (Best Pokey) music compo.
 
 ### /Composers/Galinski_Adrian ###############################################
 
@@ -1113,6 +1106,11 @@ COMMENT: Music from the game 'Special Forces' released by Mirage in 1993.
 
 /Composers/Galinski_Adrian/Special_Forces_2.sap
 COMMENT: Music from the game 'Special Forces' released by Mirage in 1993.
+
+### /Composers/Garrido_Daniel ################################################
+
+/Composers/Garrido_Daniel/Los_Osos_hablan_en_Marte.sap
+COMMENT: 3rd place at Winter Chip II (Best Pokey) music compo.
 
 ### /Composers/Gilbertson_Gary ###############################################
 
@@ -1263,11 +1261,11 @@ COMMENT: 2nd place at Rush Hours 1997 music compo.
 /Composers/Grayscale/Kwiatek_Grzegorz/Goodbye.sap
   TITLE: House of the Rising Sun
 
-/Composers/Grayscale/Kwiatek_Grzegorz/Introspection.sap
-COMMENT: 7th place at QuaST party 1996 music compo.
-
 /Composers/Grayscale/Kwiatek_Grzegorz/Insanity.sap
 COMMENT: 3rd place at QuaST party 1995 music compo.
+
+/Composers/Grayscale/Kwiatek_Grzegorz/Introspection.sap
+COMMENT: 7th place at QuaST party 1996 music compo.
 
 /Composers/Grayscale/Kwiatek_Grzegorz/Maja.sap
   TITLE: Die Biene Maja [from the cartoon series]
@@ -1284,15 +1282,15 @@ COMMENT: Silesian Atari Open party 1995 music compo entry.
 /Composers/Grayscale/Kwiatek_Grzegorz/Sadness.sap
 COMMENT: Silesian Atari Open party 1995 music compo entry.
 
-/Composers/Grayscale/Kwiatek_Grzegorz/Sweet_Voice.sap
-COMMENT: 3rd place at QuaST party 1996 music compo.
-
 /Composers/Grayscale/Kwiatek_Grzegorz/So_Alone.sap
 COMMENT: Soundtrack from the demo 'Ultra' which won at Intel Outside #4 Copy
          Party in 1997.
 
 /Composers/Grayscale/Kwiatek_Grzegorz/Still_Alive.sap
 COMMENT: 3rd place at Forever 4 music compo.
+
+/Composers/Grayscale/Kwiatek_Grzegorz/Sweet_Voice.sap
+COMMENT: 3rd place at QuaST party 1996 music compo.
 
 /Composers/Grayscale/Kwiatek_Grzegorz/Toxic_Cream.sap
 COMMENT: 2nd place at QuaST party 1996 music compo.
@@ -1319,6 +1317,9 @@ COMMENT: Music from the game 'ABC' released by Sikor Soft in 1995.
 /Composers/Grayscale/Sychowicz_Lukasz/ABC_Ingame.sap
 COMMENT: Music from the game 'ABC' released by Sikor Soft in 1995.
 
+/Composers/Grayscale/Sychowicz_Lukasz/Accident.sap
+COMMENT: 2nd place at Forever 4 music compo.
+
 /Composers/Grayscale/Sychowicz_Lukasz/Ala_ma_kota.sap
   TITLE: Title Theme [from the cartoon series Reksio] (0:56-1:12)
  ARTIST: Zenon Kowalowski
@@ -1327,9 +1328,6 @@ COMMENT: Music from the game 'ABC' released by Sikor Soft in 1995.
   TITLE: Title Theme [from a cartoon series Koziołek Matołek] (1:44-1:55)
  ARTIST: Adam Markiewicz
 COMMENT: Inspired by musics from Polish cartoon series.
-
-/Composers/Grayscale/Sychowicz_Lukasz/Accident.sap
-COMMENT: 2nd place at Forever 4 music compo.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Cabil.sap
 COMMENT: 1st place at Rush Hours 1997 music compo.
@@ -1349,11 +1347,11 @@ COMMENT: 3rd place at Lato Ludzików 2002 music compo.
   TITLE: Axel F [from the movie Beverly Hills Cop]
  ARTIST: Harold Faltermeyer
 
-/Composers/Grayscale/Sychowicz_Lukasz/Gwoopie_Yes_Them.sap
-COMMENT: 1st place at Forever 6 music compo.
-
 /Composers/Grayscale/Sychowicz_Lukasz/Graba.sap
 COMMENT: Music from the game 'Ketchup' released by Sikor Soft in 1996.
+
+/Composers/Grayscale/Sychowicz_Lukasz/Gwoopie_Yes_Them.sap
+COMMENT: 1st place at Forever 6 music compo.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Hypnotic.sap
 COMMENT: 1st place at Intel Outside 4 music compo.
@@ -1611,13 +1609,13 @@ COMMENT: All of these tunes have been confirmed by Rob Hubbard to be his.
 COMMENT: "Extirpator is unknown to me, but the tune is Sanxion, which is
          probably my favorite tune I ever wrote on the c64." (RH)
 
-/Composers/Hubbard_Rob/Jet_Set_Willy.sap
-COMMENT: "Jet Set Willy 2 was unique to the Atari and is very much in the
-         Jarre style." (RH)
-
 /Composers/Hubbard_Rob/International_Karate.sap
 COMMENT: "I.K. was the first tune I ever did on the Atari, which was also
          quite a challenge because of the 8bit pitch registers." (RH)
+
+/Composers/Hubbard_Rob/Jet_Set_Willy.sap
+COMMENT: "Jet Set Willy 2 was unique to the Atari and is very much in the
+         Jarre style." (RH)
 
 /Composers/Hubbard_Rob/Warhawk.sap
 COMMENT: "Warhawk was a c64 tune originally called Proteus." (RH)
@@ -1802,10 +1800,6 @@ COMMENT: Silesian Atari Open party 1995 music compo entry.
 
 ### /Composers/Johnson_Steve #################################################
 
-/Composers/Johnson_Steve/Red_Barchetta.sap
-  TITLE: Red Barchetta
- ARTIST: Moving Pictures
-
 /Composers/Johnson_Steve/Broons_Bane.sap
   TITLE: Broon's Bane
  ARTIST: Exit Stage Left
@@ -1813,6 +1807,10 @@ COMMENT: Silesian Atari Open party 1995 music compo entry.
 /Composers/Johnson_Steve/Enemy_Within.sap
   TITLE: Enemy Within
  ARTIST: Grace Under Pressure
+
+/Composers/Johnson_Steve/Red_Barchetta.sap
+  TITLE: Red Barchetta
+ ARTIST: Moving Pictures
 
 /Composers/Johnson_Steve/Red_Sector_A.sap
   TITLE: Red Sector A
@@ -1875,11 +1873,11 @@ COMMENT: Same as /Composers/Rosolek_Maciej/Magia_Fortuny_Ingame.sap
   TITLE: Toccata [from Toccata and Fugue in D Minor (BWV 565)]
  ARTIST: Johann Sebastian Bach
 
-/Composers/Karwacki_Jakub/Lark.sap
-COMMENT: Last Party 1999 music compo entry.
-
 /Composers/Karwacki_Jakub/Geotion.sap
 COMMENT: Lato Ludzików 2000 music compo entry.
+
+/Composers/Karwacki_Jakub/Lark.sap
+COMMENT: Last Party 1999 music compo entry.
 
 /Composers/Karwacki_Jakub/Picca.sap
 COMMENT: Lato Ludzików 2000 music compo entry.
@@ -2030,10 +2028,6 @@ COMMENT: This covers the version "Moja Muzyka" by Bayer Full.
   TITLE: Runaway [from Runaway With Del Shannon]
  ARTIST: Del Shannon
 
-/Composers/Krasuski_Jaroslaw/Summer_Is_Magic.sap
-  TITLE: The Summer is Magic
- ARTIST: Playahitty
-
 /Composers/Krasuski_Jaroslaw/Saturday_Night.sap
   TITLE: Saturday Night
  ARTIST: Whigfield
@@ -2045,6 +2039,10 @@ COMMENT: This covers the version "Moja Muzyka" by Bayer Full.
 /Composers/Krasuski_Jaroslaw/Stownboy.sap
   TITLE: Smalltown Boy
  ARTIST: Bronski Beat
+
+/Composers/Krasuski_Jaroslaw/Summer_Is_Magic.sap
+  TITLE: The Summer is Magic
+ ARTIST: Playahitty
 
 /Composers/Krasuski_Jaroslaw/Sunny.sap
   TITLE: Sunny
@@ -2285,13 +2283,13 @@ COMMENT: This covers the version "Moja Muzyka" by Bayer Full.
   TITLE: Oprócz
  ARTIST: Marek Jackowski
 
-/Composers/Kuczek_Ireneusz/Please_Forgive_Me.sap
-  TITLE: Please Forgive Me
- ARTIST: Bryan Adams
-
 /Composers/Kuczek_Ireneusz/Plaza.sap
   TITLE: Spacer dziką plażą
  ARTIST: Stan Borys
+
+/Composers/Kuczek_Ireneusz/Please_Forgive_Me.sap
+  TITLE: Please Forgive Me
+ ARTIST: Bryan Adams
 
 /Composers/Kuczek_Ireneusz/Speak.sap
   TITLE: Speak Softly Love
@@ -2440,12 +2438,12 @@ COMMENT: Music from the game 'Fluid - Kha' released in 1993.
   TITLE: Draconus, Tune #3 (2:18)
  ARTIST: Adam Gilmore
 
+/Composers/Liebich_Tomasz/Hawkmoon.sap
+COMMENT: Music from the game 'Hawkmoon' released by L.K. Avalon in 1993.
+
 /Composers/Liebich_Tomasz/Hi_Alf.sap
   TITLE: Alf Theme [from the TV series]
  ARTIST: Tom Kramer & Alf Clausen
-
-/Composers/Liebich_Tomasz/Hawkmoon.sap
-COMMENT: Music from the game 'Hawkmoon' released by L.K. Avalon in 1993.
 
 /Composers/Liebich_Tomasz/Lowca.sap
 COMMENT: Music from the game 'Łowca' released by Krysal in 1993.
@@ -2533,6 +2531,9 @@ COMMENT: Music from the game 'Włóczykij' released by L.K. Avalon in 1993.
 /Composers/Lis_Piotr/Egy_Lengyel.sap
 COMMENT: 1st place at Arok Party 2012 music compo.
 
+/Composers/Lis_Piotr/Gerappaaaaaa.sap
+COMMENT: 5th place at Forever 7 music compo.
+
 /Composers/Lis_Piotr/I_Love You_True_Story.sap
 COMMENT: 2nd place at Forever 13 music compo.
 
@@ -2541,9 +2542,6 @@ COMMENT: 3rd place at Forever 9 music compo.
 
 /Composers/Lis_Piotr/Jest_Sprawa.sap
 COMMENT: 3rd place at Forever 11 music compo.
-
-/Composers/Lis_Piotr/Gerappaaaaaa.sap
-COMMENT: 5th place at Forever 7 music compo.
 
 /Composers/Lis_Piotr/Lampa.sap
 COMMENT: 2nd place at Atari Area 24h 'Black Lamp' music compo.
@@ -2789,13 +2787,13 @@ COMMENT: Same melody as /Composers/Matyasik_Krzysztof/Wolowinka.sap,
 
 ### /Composers/Michalski_Krzysztof ###########################################
 
-/Composers/Michalski_Krzysztof/Madteam_Intro.sap
-  TITLE: Moonlight Shadow [from Crises]
- ARTIST: Mike Oldfield & Simon Philips
-
 /Composers/Michalski_Krzysztof/Mac.sap
   TITLE: MacGyver Theme [from the TV series]
  ARTIST: Randy Edelman
+
+/Composers/Michalski_Krzysztof/Madteam_Intro.sap
+  TITLE: Moonlight Shadow [from Crises]
+ ARTIST: Mike Oldfield & Simon Philips
 
 ### /Composers/Mikolajczak_Pawel #############################################
 
@@ -3225,13 +3223,13 @@ COMMENT: An English folk song.
   TITLE: Hotel California [from Hotel California]
  ARTIST: The Eagles
 
-/Composers/Quack_Ralf_Thomas/Itsy_Bitsy_Teeny_Weeny.sap
-  TITLE: Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini
- ARTIST: Connie Francis
-
 /Composers/Quack_Ralf_Thomas/In_the_Mood.sap
   TITLE: In The Mood
  ARTIST: Glenn Miller Orchestra
+
+/Composers/Quack_Ralf_Thomas/Itsy_Bitsy_Teeny_Weeny.sap
+  TITLE: Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini
+ ARTIST: Connie Francis
 
 /Composers/Quack_Ralf_Thomas/Kansas_City.sap
   TITLE: Kansas City
@@ -3249,13 +3247,13 @@ COMMENT: An English folk song.
   TITLE: Marcia A La Turca
  ARTIST: Wolfgang Amadeus Mozart
 
-/Composers/Quack_Ralf_Thomas/Musicbox_Dancer.sap
-  TITLE: Music Box Dancer
- ARTIST: Frank Mills
-
 /Composers/Quack_Ralf_Thomas/Morning_Sky.sap
   TITLE: Morning Sky
  ARTIST: George Baker Selection
+
+/Composers/Quack_Ralf_Thomas/Musicbox_Dancer.sap
+  TITLE: Music Box Dancer
+ ARTIST: Frank Mills
 
 /Composers/Quack_Ralf_Thomas/Nah_Neh_Nah.sap
   TITLE: Nah Neh Nah
@@ -3347,13 +3345,13 @@ COMMENT: Published in 1853 by an author identified only as "J.K.".
   TITLE: Twist In My Sobriety
  ARTIST: Tanita Tikaram
 
-/Composers/Quack_Ralf_Thomas/Verdammt_Ich_Lieb_Dich.sap
-  TITLE: Verdammt Ich Lieb' Dich
- ARTIST: Mathias Reim
-
 /Composers/Quack_Ralf_Thomas/Unchained_Melody.sap
   TITLE: Unchained Melody
  ARTIST: Righteous Brothers
+
+/Composers/Quack_Ralf_Thomas/Verdammt_Ich_Lieb_Dich.sap
+  TITLE: Verdammt Ich Lieb' Dich
+ ARTIST: Mathias Reim
 
 /Composers/Quack_Ralf_Thomas/Voyage_Voyage.sap
   TITLE: Voyage Voyage [from Francois]
@@ -3422,16 +3420,6 @@ COMMENT: 8th place at SillyVenture 2011 music compo.
   TITLE: Co Ty mi dasz?
  ARTIST: Mig
 
-### /Composers/Rapalski_Konrad ###############################################
-
-/Composers/Rapalski_Konrad/Alf.sap
-  TITLE: ALF Theme [from the TV series]
- ARTIST: Tom Kramer & Alf Clausen
-
-/Composers/Rapalski_Konrad/Fairlight.sap
-  TITLE: Wizardry, Tune #1 [from the C64 game]
- ARTIST: Mike Alsop
-
 ### /Composers/Radzikowski_Ireneusz ##########################################
 
 /Composers/Radzikowski_Ireneusz/Another_Day_in_Paradise.sap
@@ -3453,6 +3441,16 @@ COMMENT: 8th place at SillyVenture 2011 music compo.
 /Composers/Radzikowski_Ireneusz/The_Great_Commandment.sap
   TITLE: The Great Commandment
  ARTIST: Camouflage
+
+### /Composers/Rapalski_Konrad ###############################################
+
+/Composers/Rapalski_Konrad/Alf.sap
+  TITLE: ALF Theme [from the TV series]
+ ARTIST: Tom Kramer & Alf Clausen
+
+/Composers/Rapalski_Konrad/Fairlight.sap
+  TITLE: Wizardry, Tune #1 [from the C64 game]
+ ARTIST: Mike Alsop
 
 ### /Composers/Roemer_Markus #################################################
 
@@ -3601,6 +3599,9 @@ COMMENT: 11th place at Shadows Party 1994 music compo.
 /Composers/Sledz_Slawek/Bukkake.sap
 COMMENT: 4th place at Grayscale Music Competition II.
 
+/Composers/Sledz_Slawek/DigiDigiDomba_feat_Adam_Gi.sap
+COMMENT: 2nd place at Atari Area 24h 'Zybex' music compo.
+
 /Composers/Sledz_Slawek/DM.sap
   TITLE: Enjoy The Silence [from Violator]
  ARTIST: Depeche Mode
@@ -3614,9 +3615,6 @@ COMMENT: 2nd place at Grayscale Music Competition I.
 /Composers/Sledz_Slawek/Zybex.sap
   TITLE: Zybex, Tune #4
  ARTIST: Adam Gilmore
-
-/Composers/Sledz_Slawek/DigiDigiDomba_feat_Adam_Gi.sap
-COMMENT: 2nd place at Atari Area 24h 'Zybex' music compo.
 
 ### /Composers/Soelbrandt_Stefan #############################################
 
@@ -3669,6 +3667,13 @@ COMMENT: 3rd place at Forever 12 music compo.
  ARTIST: Janek Ledecky
 COMMENT: Covers a song by a popular Czech singer.
 
+/Composers/Sterba_Radek/Flop_magazin_31_Christmas.sap
+COMMENT: Covers a popular Czech Christmas song.
+
+/Composers/Sterba_Radek/Flop_magazin_35_Beverly_Hi.sap
+  TITLE: Beverly Hills 90210 Theme [from the TV series]
+ ARTIST: John E. Davis
+
 /Composers/Sterba_Radek/Flop_magazin_51.sap
   TITLE: Fishing Junks at Sunset [from Concerts in China]
  ARTIST: Jean Michel Jarre
@@ -3680,22 +3685,15 @@ COMMENT: Covers a song by a popular Czech singer.
 /Composers/Sterba_Radek/Gear_Up.sap
 COMMENT: 2nd place at Forever Reneg8 music compo.
 
-/Composers/Sterba_Radek/Flop_magazin_31_Christmas.sap
-COMMENT: Covers a popular Czech Christmas song.
-
-/Composers/Sterba_Radek/Flop_magazin_35_Beverly_Hi.sap
-  TITLE: Beverly Hills 90210 Theme [from the TV series]
- ARTIST: John E. Davis
-
 /Composers/Sterba_Radek/Hymn_to_Aurora.sap
   TITLE: Hymn to Aurora [from the Amiga MOD module]
  ARTIST: Horace Wimp
 
-/Composers/Sterba_Radek/Im_sure.sap
-COMMENT: 1st place at Forever 9 music compo.
-
 /Composers/Sterba_Radek/ILM.sap
 COMMENT: 1st place at Forever 11 music compo.
+
+/Composers/Sterba_Radek/Im_sure.sap
+COMMENT: 1st place at Forever 9 music compo.
 
 /Composers/Sterba_Radek/It_Doesnt_Matter.sap
 COMMENT: 2nd place at Forever 6 music compo.
@@ -4070,12 +4068,12 @@ COMMENT: Music from the game 'Liga Polska' released by Sikor Soft in 1995.
  ARTIST: Rudolf Stember
 COMMENT: Covers the MIDI conversion by Borgar Thorsteinsson (Oedipus).
 
+/Composers/Szpilowski_Michal/Melted_Personality.sap
+COMMENT: 3rd place at Rush Hours 1997 music compo.
+
 /Composers/Szpilowski_Michal/Menace_Song.sap
   TITLE: Menace [from the Amiga game]
  ARTIST: Carlos del Alamo (Estrayk)
-
-/Composers/Szpilowski_Michal/Melted_Personality.sap
-COMMENT: 3rd place at Rush Hours 1997 music compo.
 
 /Composers/Szpilowski_Michal/Mission_ArSoft.sap
 (#1)
@@ -4324,15 +4322,15 @@ COMMENT: Written by ear.
 /Composers/Szpilowski_Michal/Weird_Trip.sap
 COMMENT: 3rd place at Grayscale Music Competition II.
 
-/Composers/Szpilowski_Michal/Wings_of_Death_Level_Music.sap
-  TITLE: Wings of Death - Level #1 [from the Atari ST/Amiga game Wings of Death]
- ARTIST: Jochen Hippel (Mad Max)
-COMMENT: Fast MIDI conversion
-
 /Composers/Szpilowski_Michal/Wings_of_Death_Level_2.sap
   TITLE: Wings of Death - Level #2 [from the Atari ST/Amiga game Wings of Death]
  ARTIST: Jochen Hippel (Mad Max)
 COMMENT: MIDI conversion
+
+/Composers/Szpilowski_Michal/Wings_of_Death_Level_Music.sap
+  TITLE: Wings of Death - Level #1 [from the Atari ST/Amiga game Wings of Death]
+ ARTIST: Jochen Hippel (Mad Max)
+COMMENT: Fast MIDI conversion
 
 /Composers/Szpilowski_Michal/Wiosna_Ludzikuf_End.sap
   TITLE: Title Theme [from the cartoon series Reksio]
@@ -4719,13 +4717,13 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
   TITLE: You'll be all right
  ARTIST: Johnny Cash
 
-/Composers/Zuegner_Alfred/You_re_My_Home.sap
-  TITLE: You're My Home
- ARTIST: Billy Joel
-
 /Composers/Zuegner_Alfred/You_Remembered_Me.sap
   TITLE: You Remembered Me
  ARTIST: Johnny Cash
+
+/Composers/Zuegner_Alfred/You_re_My_Home.sap
+  TITLE: You're My Home
+ ARTIST: Billy Joel
 
 ### /Composers/Zur_soft ######################################################
 
@@ -4857,10 +4855,6 @@ COMMENT: Heavily based on /Composers/Szmatola_Krzysztof/Syn_Boga_Wiatru.sap
   TITLE: Entry of the Gladiators
  ARTIST: Julius Fucik
 
-/Games/Hazard_Run.sap
-  TITLE: Dixie Land
- ARTIST: Daniel Emmett
-
 /Games/Frogger.sap
 (#5)
   TITLE: Camptown Races
@@ -4890,6 +4884,10 @@ COMMENT: Apart from covering classical music, this also covers the arcade
 /Games/Hans_Kloss.sap
   TITLE: Stawka większa niż życie [from the TV series](0:57)
  ARTIST: Jerzy Matuszkiewicz
+
+/Games/Hazard_Run.sap
+  TITLE: Dixie Land
+ ARTIST: Daniel Emmett
 
 /Games/Inferno.sap
   TITLE: The Entertainer
@@ -5729,10 +5727,6 @@ COMMENT: This anthem is traditional and possibly one of the most known
   TITLE: Hungry Like The Wolf [from Rio]
  ARTIST: Duran Duran
 
-/Unknown/AMS/Invention_no_13_2.sap
-  TITLE: Two-Part Invention No. 13, in A minor (BWV 784)
- ARTIST: Johann Sebastian Bach
-
 /Unknown/AMS/Imagine.sap
   TITLE: Imagine
  ARTIST: John Lennon
@@ -5740,6 +5734,10 @@ COMMENT: This anthem is traditional and possibly one of the most known
 /Unknown/AMS/Imperial_March.sap
   TITLE: The Imperial March / Darth Vader's Theme [from Star Wars Episode V]
  ARTIST: John Williams
+
+/Unknown/AMS/Invention_no_13_2.sap
+  TITLE: Two-Part Invention No. 13, in A minor (BWV 784)
+ ARTIST: Johann Sebastian Bach
 
 /Unknown/AMS/James_Bond_007.sap
   TITLE: James Bond Theme [from the James Bond series of movies]
