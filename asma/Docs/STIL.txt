@@ -345,7 +345,7 @@ COMMENT: Music from the game 'Spy Master' released by L.K. Avalon in 1993.
 /Composers/Ce_Pumpkin/Mindthumper.sap
 COMMENT: 8th place at Grayscale Music Competition II.
 
-/Composers/Ce_Pumpkin/R0l0_5_Rulu
+/Composers/Ce_Pumpkin/R0l0_5_Rulu.sap
   TITLE: Bazuona [from the Amiga SoundTracker module]
  ARTIST: Marcus Johansson (Mopz)
 COMMENT: Based on this music.
@@ -2352,6 +2352,11 @@ COMMENT: Last Party 2002 music compo entry.
 
 ### /Composers/Langston_Peter ################################################
 
+/Composers/Langston_Peter/Ballblaster.sap
+COMMENT: "One reviewer, an eminent jazz player, said it sounded like
+         John Coltrane did it. I think that's my best compliment so far."
+         (comment by Peter Langston)
+
 /Composers/Langston_Peter/Ballblazer.sap
 (#4)
   TITLE: Ballblaster
@@ -2641,6 +2646,9 @@ COMMENT: Music from the game 'Władca' released by Mirage in 1993.
   TITLE: The Model [from The Man Machine]
  ARTIST: Kraftwerk
 
+/Composers/Majewski_Tomasz/Escaper.sap
+COMMENT: 15th place at QuaST party 1996 music compo.
+
 /Composers/Majewski_Tomasz/Fog_in_the_Sky.sap
 COMMENT: 18th place at QuaST party 1996 music compo.
 
@@ -2659,9 +2667,6 @@ COMMENT: 18th place at QuaST party 1996 music compo.
 /Composers/Majewski_Tomasz/Reksio_Theme.sap
   TITLE: Title Theme [from the cartoon series Reksio]
  ARTIST: Zenon Kowalowski
-
-/Composers/Majewski_Tomasz/The_Escaper.sap
-COMMENT: 15th place at QuaST party 1996 music compo.
 
 ### /Composers/Makara_Grzegorz ###############################################
 
@@ -4786,11 +4791,6 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
   TITLE: Pulstar [from Albedo 0.39]
  ARTIST: Vangelis
 
-/Games/Ballblaster.sap
-COMMENT: "One reviewer, an eminent jazz player, said it sounded like
-         John Coltrane did it. I think that's my best compliment so far."
-         (comment by Peter Langston)
-
 /Games/Battle_Ships.sap
   TITLE: Battle Ships, Tune #1 [from the C64 game]
  ARTIST: Mark Cooksey
@@ -4996,7 +4996,7 @@ COMMENT: "PuckMan" is known outside Japan as "Pac-Man".
  ARTIST: Jens Bodewalt Lampe
 COMMENT: The music was played as a background to scary scenes in the old silent movies.
 
-/GAMES/M-R/Pooyan.sid
+/Games/Pooyan.sap
 COMMENT: Covers the arcade version by Konami.
 (#1)
   TITLE: Humoresque Op. 101, No. 7 in G flat major
@@ -5032,7 +5032,7 @@ COMMENT: Popular under name "Jingle Bells".
   TITLE: Flight of the Bumblebee [from opera The Tale of Tsar Saltan]
  ARTIST: Nikolai Rimsky-Korsakov
 
-/GAMES/S-Z/Spys_Demise.sid
+/Games/Spys_Demise.sap
   TITLE: Hungarian Dance No. 5 in F♯ minor (G minor for orchestra) (0:00-1:01)
  ARTIST: Johannes Brahms
 COMMENT: Based on the version sung Bártfai Emlék Csárdás op. 31 by Béla Kéler.
@@ -5624,7 +5624,7 @@ COMMENT: Best known from as the title theme to the comedy TV series
   TITLE: Dallas Theme [from the TV series]
  ARTIST: Jerrold Immel
 
-/Unknown/AMS/Dancing_in_the_Dark.sid
+/Unknown/AMS/Dancing_in_the_Dark.sap
   TITLE: Dancing In The Dark [from Born in the U.S.A.]
  ARTIST: Bruce Springsteen
 
