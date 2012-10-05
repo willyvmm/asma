@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1386
+#  Total number of entries: 1388
 #
 ##############################################################################S
 #
@@ -2053,6 +2053,10 @@ COMMENT: This covers the version "Moja Muzyka" by Bayer Full.
  ARTIST: Scott Joplin
 
 ### /Composers/Krawczyk_Adam #################################################
+
+/Composers/Krawczyk_Adam/Antic.sap
+  TITLE: Ucieczka z tropiku [from Ucieczka do tropiku] (0:42-1:58)
+ARTIST: Marek Biliński
 
 /Composers/Krawczyk_Adam/Magic_Dimension_1.sap
   TITLE: Les Mondes Engloutis [from the cartoon series]
@@ -4752,6 +4756,10 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
 (#7)
   TITLE: Technostyle II [from the Amiga MOD module]
  ARTIST: Xenox
+
+/Composers/Zur_soft/The_Top_3_Part_1.sap
+  TITLE: n.s speedo [from the Amiga SoundTracker module]
+ ARTIST: Tomas Dahlgren (Uncle Tom)
 
 /Composers/Zur_soft/The_Top_3_End_Scroll.sap
   TITLE: endtheme [from the Amiga SoundTracker module]
