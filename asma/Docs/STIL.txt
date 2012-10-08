@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1388
+#  Total number of entries: 1390
 #
 ##############################################################################S
 #
@@ -2057,6 +2057,8 @@ COMMENT: This covers the version "Moja Muzyka" by Bayer Full.
 /Composers/Krawczyk_Adam/Antic.sap
   TITLE: Ucieczka z tropiku [from Ucieczka do tropiku] (0:42-1:58)
 ARTIST: Marek Biliński
+  TITLE: Ucieczka z tropiku [from Ucieczka do tropiku] (2:45-2:59)
+ARTIST: Marek Biliński
 
 /Composers/Krawczyk_Adam/Magic_Dimension_1.sap
   TITLE: Les Mondes Engloutis [from the cartoon series]
@@ -3135,6 +3137,12 @@ COMMENT: Polish Christmas carol. The title translates from Polish as "In the
 (#2)
   TITLE: The First Time [from the 1988 single]
  ARTIST: Robin Beck
+(#4)
+  TITLE: Beat It [from Thriller]
+ ARTIST: Michael Jackson
+(#5)
+  TITLE: What a Feeling [from Flashdance]
+ ARTIST: Irene Cara
 (#8)
   TITLE: The Final Countdown [from The Final Countdown]
  ARTIST: Europe
