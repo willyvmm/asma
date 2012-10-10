@@ -5140,6 +5140,10 @@ COMMENT: Forever 2e3 music compo entry.
   TITLE: D'yer Mak'er [from Houses of the Holy]
  ARTIST: Led Zeppelin
 
+/Misc/Eleanor_Rigby.sap
+  TITLE: Eleanor Rigby [from Revolver]
+ ARTIST: The Beatles
+
 /Misc/Epileptic_Duck.sap
 COMMENT: 2nd place at Winter Chip II (Best Pokey) music compo.
 
@@ -5443,10 +5447,6 @@ COMMENT: Christmas song
 /Unknown/AMP/Easy.sap
   TITLE: The Easy Winners
  ARTIST: Scott Joplin
-
-/Unknown/AMP/Eleanor_Rigby.sap
-  TITLE: Eleanor Rigby [from Revolver]
- ARTIST: The Beatles
 
 /Unknown/AMP/Help.sap
   TITLE: Help!
