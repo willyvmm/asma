@@ -2056,9 +2056,9 @@ COMMENT: This covers the version "Moja Muzyka" by Bayer Full.
 
 /Composers/Krawczyk_Adam/Antic.sap
   TITLE: Ucieczka z tropiku [from Ucieczka do tropiku] (0:42-1:58)
-ARTIST: Marek Biliński
+ ARTIST: Marek Biliński
   TITLE: Ucieczka z tropiku [from Ucieczka do tropiku] (2:45-2:59)
-ARTIST: Marek Biliński
+ ARTIST: Marek Biliński
 
 /Composers/Krawczyk_Adam/Magic_Dimension_1.sap
   TITLE: Les Mondes Engloutis [from the cartoon series]
