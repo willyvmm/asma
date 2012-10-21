@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1390
+#  Total number of entries: 1394
 #
 ##############################################################################S
 #
@@ -4722,6 +4722,22 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
   TITLE: In the Mood
  ARTIST: Joe Garland
 
+/Composers/Zuegner_Alfred/Only_The_Good_Die_Young.sap
+  TITLE: Only the Good Die Young [from The The Stranger]
+ ARTIST: Billy Joel
+
+/Composers/Zuegner_Alfred/She_s_Always_A_Woman.sap
+  TITLE: She's Always a Woman [from The The Stranger]
+ ARTIST: Billy Joel
+
+/Composers/Zuegner_Alfred/Stranger.sap
+  TITLE: The Stranger [from The The Stranger]
+ ARTIST: Billy Joel
+
+/Composers/Zuegner_Alfred/Vienna.sap
+  TITLE: Vienna [from The The Stranger]
+ ARTIST: Billy Joel
+
 /Composers/Zuegner_Alfred/When_the_Ship_Comes_in.sap
   TITLE: When the Ship Comes In [from The Times They Are a-Changin']
  ARTIST: Bob Dylan
@@ -5509,7 +5525,7 @@ COMMENT: English carol.
  ARTIST: Glen Gray
 COMMENT: Covers the "Alley Cat", also known as "Alleycat" and "The Alley Cat,"
          is a popular instrumental song made most famous by the Danish
-         pianist and composer Bent Fabric.
+         pianist and composer Bent Fabricius-Bjerre.
 
 /Unknown/AMS/Already_Gone.sap
   TITLE: Already Gone
