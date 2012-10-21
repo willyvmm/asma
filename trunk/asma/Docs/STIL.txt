@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1394
+#  Total number of entries: 1395
 #
 ##############################################################################S
 #
@@ -1921,6 +1921,10 @@ COMMENT: 2nd place at Atari Area 24h 'Zybex' music compo.
 /Composers/Karwoth_Torsten/FOFT.sap
   TITLE: <?> [from the Amiga game Federation of Free Traders]
  ARTIST: Ben Daglish
+
+/Composers/Karwoth_Torsten/Shades.sap
+  TITLE: Stationary Ark
+ ARTIST: John Mills-Cockell <?>
 
 ### /Composers/Kazimierczak_Leszek ###########################################
 
