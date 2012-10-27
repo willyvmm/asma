@@ -4727,19 +4727,19 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
  ARTIST: Joe Garland
 
 /Composers/Zuegner_Alfred/Only_The_Good_Die_Young.sap
-  TITLE: Only the Good Die Young [from The The Stranger]
+  TITLE: Only the Good Die Young [from The Stranger]
  ARTIST: Billy Joel
 
 /Composers/Zuegner_Alfred/She_s_Always_A_Woman.sap
-  TITLE: She's Always a Woman [from The The Stranger]
+  TITLE: She's Always a Woman [from The Stranger]
  ARTIST: Billy Joel
 
 /Composers/Zuegner_Alfred/Stranger.sap
-  TITLE: The Stranger [from The The Stranger]
+  TITLE: The Stranger [from The Stranger]
  ARTIST: Billy Joel
 
 /Composers/Zuegner_Alfred/Vienna.sap
-  TITLE: Vienna [from The The Stranger]
+  TITLE: Vienna [from The Stranger]
  ARTIST: Billy Joel
 
 /Composers/Zuegner_Alfred/When_the_Ship_Comes_in.sap
