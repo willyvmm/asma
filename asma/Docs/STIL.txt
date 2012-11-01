@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1402
+#  Total number of entries: 1404
 #
 ##############################################################################S
 #
@@ -299,6 +299,11 @@ COMMENT: Commonly known as "Hänschen Klein" (German children's song) or
  ARTIST: Jean Michel Jarre
   TITLE: Oxygene 2 [from Oxygene] (3:02-4:03)
  ARTIST: Jean Michel Jarre
+
+/Composers/Bruenninski_Uwe/Uwes_Last_Demo.sap
+  TITLE: Le Rose Blu [from Mittente] (0:00-0:33)
+ ARTIST: Ciro Dammicco
+COMMENT: Covers the techno version "Tears Don't Lie" by Mark 'Oh.
 
 ### /Composers/Bryla_Krzysztof ###############################################
 
@@ -4850,6 +4855,13 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
 /Games/Alien_Ambush.sap
   TITLE: Ride of the Valkyries
  ARTIST: Richard Wagner
+
+/Games/Alley_Cat.sap
+  TITLE: Omkring et Flygel,
+ ARTIST: Glen Gray
+COMMENT: Covers the "Alley Cat", also known as "Alleycat" and "The Alley Cat,"
+         is a popular instrumental song made most famous by the Danish
+         pianist and composer Bent Fabricius-Bjerre.
 
 /Games/Astro_Chase.sap
   TITLE: The Festival Overture: The Year 1812, Op.49
