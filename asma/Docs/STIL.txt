@@ -4,7 +4,7 @@
 #  Maintained by Mariusz Rozwadowski (Ramos)
 #  Total number of entries: 1404
 #
-##############################################################################S
+##############################################################################
 #
 # ABOUT THIS VERSION OF THE STIL:
 #
