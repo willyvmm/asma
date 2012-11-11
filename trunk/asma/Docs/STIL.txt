@@ -1534,6 +1534,10 @@ COMMENT: Music from the game 'Around the Planet' released by Mirage in 1994.
   TITLE: Disco Zax [from the C64 SID]
  ARTIST: Thomas Mogensen (DRAX)
 
+/Composers/Hay_Adam/Djpvc.sap
+  TITLE: DJ Puff's Volcantic Capers, Tune #6 [from the C64 game]
+ ARTIST: Gerard Gourley
+
 /Composers/Hay_Adam/Heart_Shaped_Box.sap
   TITLE: Heart Shaped Box [from In Utero]
  ARTIST: Nirvana
