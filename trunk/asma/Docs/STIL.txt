@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1405
+#  Total number of entries: 1406
 #
 ##############################################################################
 #
@@ -2011,6 +2011,10 @@ COMMENT: Sadly, Jaroslaw Krasuski (Jaras) passed away in 2007, at the age
 /Composers/Krasuski_Jaroslaw/Dolcevita.sap
   TITLE: La Dolce Vita
  ARTIST: Ryan Paris
+
+/Composers/Krasuski_Jaroslaw/Duran_Duran.sap
+  TITLE: Lessons In Love [from Running in The Family]
+ ARTIST: Level 42
 
 /Composers/Krasuski_Jaroslaw/Ein_Zwei_Polizei.sap
   TITLE: Eins Zwei Polizei
