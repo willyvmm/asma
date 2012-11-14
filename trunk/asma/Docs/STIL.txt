@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1406
+#  Total number of entries: 1408
 #
 ##############################################################################
 #
@@ -5292,6 +5292,14 @@ COMMENT: 4th place at Winter Chip II (Best Pokey) music compo.
   TITLE: Powiedz [from Ad.4]
  ARTIST: J. Łągwa (music), K. Lenarczyk & M. Wiśniewski (lyrics), performed by
          Ich Troje.
+
+/Misc/SCMC_Demo.sap
+(#10)
+  TITLE: Popcorn [from Music To Moog By]
+ ARTIST: Gershon Kingsley
+(#12)
+  TITLE: Marchewkowe pole [from O dwóch takich, co ukradli księżyc]
+ ARTIST: Jan Borysewicz (music), Andrzej Mogielnicki (lyrics), performed by Lady Pank.
 
 /Misc/Self_Test.sap
   TITLE: Promenade - Il vecchio Castello [from Pictures at an Exhibition]
