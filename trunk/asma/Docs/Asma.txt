@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 3.5
+                                  Version 3.6
 
                            Started on August 4, 1999
-                       Last updated on February 24, 2012
+                       Last updated on December ???, 2012
 
-                    Total number of songs: 4317 (460 new)
+                    Total number of songs: 4612 (??? new)
 
 
  Introduction
@@ -32,37 +32,37 @@
 
  Statistics
  ~~~~~~~~~~
- Number of songs:           4317 (5396 including subsongs)
- Compared to HVSC:          10.5 % (HVSC r56 contains 41250 songs)
- Disk space ocupied:        25305561 bytes (excluding documents and playlist)
- Average SAP filesize:      5862 bytes
- Total playtime:            7 days 8 hours 5 minutes 46.84 seconds
- Songs with subsongs:       381
- Songs in stereo:           412
- Songs with unknown author: 425
- Number of musicians:       182
- Most active musician:      Michal Szpilowski (Miker)  (191 songs + 4
+ Number of songs:           4612 (5776 including subsongs)
+ Compared to HVSC:          ??? % (HVSC r56 contains 41250 songs)
+ Disk space ocupied:        26215006 bytes (excluding documents and playlist)
+ Average SAP filesize:      5684 bytes
+ Total playtime:            7 days 17 hours 39 minutes 37 seconds
+ Files with subsongs:       407
+ Songs in stereo:           431
+ Songs with unknown author: ???
+ Number of musicians:       ???
+ Most active musician:      Michal Szpilowski (Miker)  (201 songs + 4
                             cooperations)
  Largest SAP file:          Garfield_Part_2.sap (61559 bytes)
  Smallest SAP file:         Self_Test.sap       (172 bytes)
 
  Files with subsongs:
-  2 subsongs: 132 files
-  3 subsongs:  86 files
-  4 subsongs:  61 files
-  5 subsongs:  46 files
+  2 subsongs: 138 files
+  3 subsongs:  92 files
+  4 subsongs:  66 files
+  5 subsongs:  50 files
   6 subsongs:  22 files
-  7 subsongs:   7 files
-  8 subsongs:   8 files
-  9 subsongs:   4 files
- 10 subsongs:   5 files
+  7 subsongs:   9 files
+  8 subsongs:   9 files
+  9 subsongs:   5 files
+ 10 subsongs:   6 files
  11 subsongs:   3 files
  12 subsongs:   2 files
  13 subsongs:   1 file
  14 subsongs:   2 files
  15 subsongs:   1 file
  20 subsongs:   1 file
- Total: 1079 extra subsongs
+ Total: 1164 extra subsongs
 
 
  Help!
@@ -88,7 +88,7 @@
  Adam Bienias (SoTe of Slight)
  Marcin Dubicki (MacGyver)
  Zdenek Eisenhammer (PG)
- Piotr Fusik (0xF)
+ Piotr Fusik (0xF of Taquart)
  Michal Garbaciak (Dracon of Taquart)
  Achim Haertel
  Jaymz Julian (alih)
