@@ -32,7 +32,7 @@ Composers/Duma_Dariusz/Disco_Beat.sap
 Composers/Duma_Dariusz/Out_of_Prison.sap
 Composers/Duma_Dariusz/Rolling_World.sap
 Composers/Duma_Dariusz/Sexperience.sap
-Composers/Eisenhammer_Zdenek/Flop_Magazin_55.sap
+Composers/Eisenhammer_Zdenek/Flop_magazin_55.sap
 Composers/Ezcan_Kemal/Fire_Cracker.sap
 Composers/Falton_Peter/Break_Out.sap
 Composers/Falton_Peter/Chopp_the_Robot.sap
@@ -43,7 +43,6 @@ Composers/Feske_Nils/Memory_Vice.sap
 Composers/Garrido_Daniel/8bit_Animation_Serie.sap
 Composers/Garrido_Daniel/Blades_On.sap
 Composers/Garrido_Daniel/Chupacabras.sap
-Composers/Gilbertson_Gary/Alternate_Reality_Dungeon.sap
 Composers/Gilbertson_Gary/Alternate_Reality_D_mus_1.sap
 Composers/Gilbertson_Gary/Alternate_Reality_D_mus_2.sap
 Composers/Gilbertson_Gary/Alternate_Reality_D_mus_3.sap
@@ -54,6 +53,7 @@ Composers/Gilbertson_Gary/Alternate_Reality_D_mus_7.sap
 Composers/Gilbertson_Gary/Alternate_Reality_D_mus_8.sap
 Composers/Gilbertson_Gary/Alternate_Reality_D_mus_9.sap
 Composers/Gilbertson_Gary/Alternate_Reality_D_mus_A.sap
+Composers/Gilbertson_Gary/Alternate_Reality_Dungeon.sap
 Composers/Gorecki_Marek/Demo_First.sap
 Composers/Gorecki_Marek/Microdemo_3.sap
 Composers/Gorecki_Marek/Microdemo_4.sap
@@ -255,9 +255,9 @@ Misc/Nyan_Cat.sap
 Misc/Sonata_in_A_Major.sap
 Misc/Star_Wars.sap
 Misc/The_Sweetest_Thing.sap
+Misc/XIXE.sap
 Misc/Yellow_Rose_of_Texas.sap
 Misc/You_Cant_Play_in_My_B.sap
-Misc/XIXE.sap
 Unknown/Bach.sap
 Unknown/Bee.sap
 Unknown/Bumboog.sap
@@ -279,8 +279,8 @@ Unknown/Manger.sap
 Unknown/March.sap
 Unknown/Musbox.sap
 Unknown/No_Limit.sap
-Unknown/O_Little_Town_of_Bethlehem.sap
 Unknown/ORileys_Mine.sap
+Unknown/O_Little_Town_of_Bethlehem.sap
 Unknown/Preppie.sap
 Unknown/Range.sap
 Unknown/Ritwrong.sap
@@ -295,6 +295,6 @@ Unknown/Streets_of_London.sap
 Unknown/Sweeney.sap
 Unknown/Tblues.sap
 Unknown/Telemann.sap
-Unknown/The_Holly_and_the_Ivy.sap
+Unknown/The_Holly_and_The_Ivy.sap
 Unknown/Walzer.sap
 Unknown/Young_Ones.sap
