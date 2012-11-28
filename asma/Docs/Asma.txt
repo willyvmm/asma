@@ -17,9 +17,9 @@
                                   Version 3.6
 
                            Started on August 4, 1999
-                       Last updated on December ???, 2012
+                       Last updated on December 6, 2012
 
-                    Total number of songs: 4612 (??? new)
+                    Total number of songs: 4612 (300 new)
 
 
  Introduction
@@ -33,14 +33,14 @@
  Statistics
  ~~~~~~~~~~
  Number of songs:           4612 (5776 including subsongs)
- Compared to HVSC:          ??? % (HVSC r56 contains 41250 songs)
+ Compared to HVSC:          10.9 % (HVSC r57 contains 42212 songs)
  Disk space ocupied:        26215006 bytes (excluding documents and playlist)
  Average SAP filesize:      5684 bytes
  Total playtime:            7 days 17 hours 39 minutes 37 seconds
  Files with subsongs:       407
  Songs in stereo:           431
- Songs with unknown author: ???
- Number of musicians:       ???
+ Songs with unknown author: 476
+ Number of musicians:       202
  Most active musician:      Michal Szpilowski (Miker)  (201 songs + 4
                             cooperations)
  Largest SAP file:          Garfield_Part_2.sap (61559 bytes)
