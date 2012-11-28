@@ -1845,7 +1845,7 @@ COMMENT: Music from the game 'Kapitan Planeta' released by Mirage.
 /Composers/Kalinowski_Bartosz/Robin_Wojownik_Czasu.sap
 COMMENT: Music from the game 'Robin Wojownik Czasu' released by Avalon.
 
-/Composers/Kalinowski_Bartosz/Robin_Wojownik_Czasu_Ingame.sap
+/Composers/Kalinowski_Bartosz/Robin_Wojownik_Cz_Ingame.sap
 COMMENT: Music from the game 'Robin Wojownik Czasu' released by Avalon.
 
 /Composers/Kalinowski_Bartosz/Self_Test_1.sap
@@ -2562,7 +2562,7 @@ COMMENT: 1st place at Arok Party 2012 music compo.
 /Composers/Lis_Piotr/Gerappaaaaaa.sap
 COMMENT: 5th place at Forever 7 music compo.
 
-/Composers/Lis_Piotr/I_Love You_True_Story.sap
+/Composers/Lis_Piotr/I_Love_You_True_Story.sap
 COMMENT: 2nd place at Forever 13 music compo.
 
 /Composers/Lis_Piotr/I_Presume_Its_Funny.sap
@@ -4735,15 +4735,15 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
   TITLE: El Condor Pasa
  ARTIST: D. Robles and J. Milchberg
 
-/Composers/Zuegner_Alfred/Zuegner_Alfred/Everything_s_Alright.sap
+/Composers/Zuegner_Alfred/Everything_s_Alright.sap
   TITLE: Everything's Alright [from the musical Jesus Christ Superstar]
  ARTIST: Andrew Lloyd Webber & Tim Rice
 
-/Composers/Zuegner_Alfred/Zuegner_Alfred/Heaven_On_Their_Minds.sap
+/Composers/Zuegner_Alfred/Heaven_On_Their_Minds.sap
   TITLE: Heaven on Their Minds [from the musical Jesus Christ Superstar]
  ARTIST: Andrew Lloyd Webber & Tim Rice
- 
-/Composers/Zuegner_Alfred/Zuegner_Alfred/Hosanna.sap
+
+/Composers/Zuegner_Alfred/Hosanna.sap
   TITLE: Hosanna [from the musical Jesus Christ Superstar]
  ARTIST: Andrew Lloyd Webber & Tim Rice
 
@@ -4751,11 +4751,11 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
   TITLE: In the Mood
  ARTIST: Joe Garland
 
-/Composers/Zuegner_Alfred/Zuegner_Alfred/King_Herod_s_Song.sap
+/Composers/Zuegner_Alfred/King_Herod_s_Song.sap
   TITLE: King Herod's Song (Try it and See) [from the musical Jesus Christ Superstar]
  ARTIST: Andrew Lloyd Webber & Tim Rice
 
-/Composers/Zuegner_Alfred/Zuegner_Alfred/Last_Supper.sap
+/Composers/Zuegner_Alfred/Last_Supper.sap
   TITLE: The Last Supper [from the musical Jesus Christ Superstar]
  ARTIST: Andrew Lloyd Webber & Tim Rice
 
@@ -4763,7 +4763,7 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
   TITLE: Only the Good Die Young [from The Stranger]
  ARTIST: Billy Joel
 
-/Composers/Zuegner_Alfred/Zuegner_Alfred/Pilate_s_Dream.sap
+/Composers/Zuegner_Alfred/Pilate_s_Dream.sap
   TITLE: Pilate's Dream [from the musical Jesus Christ Superstar]
  ARTIST: Andrew Lloyd Webber & Tim Rice
 
@@ -4775,7 +4775,7 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
   TITLE: The Stranger [from The Stranger]
  ARTIST: Billy Joel
 
-/Composers/Zuegner_Alfred/Zuegner_Alfred/Superstar.sap
+/Composers/Zuegner_Alfred/Superstar.sap
   TITLE: Superstar [from the musical Jesus Christ Superstar]
  ARTIST: Andrew Lloyd Webber & Tim Rice
 
