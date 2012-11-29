@@ -1940,7 +1940,7 @@ COMMENT: 2nd place at Atari Area 24h 'Zybex' music compo.
 /Composers/Kazimierczak_Leszek/Bad_Girl.sap
 COMMENT: Silesian Atari Open 1995 music compo entry.
 
-/Composers/Kazimierczak_Leszek/Under_The_Open.sap
+/Composers/Kazimierczak_Leszek/Under_the_Open.sap
 COMMENT: Silesian Atari Open 1995 music compo entry.
 
 ### /Composers/Kidaj_Andrzej #################################################
@@ -5474,7 +5474,7 @@ COMMENT: Demonstation of the range of frequencies in 16 bit music.
   TITLE: The Great Commandment
  ARTIST: Camouflage
 
-/Unknown/The_Holly_and_the_Ivy.sap
+/Unknown/The_Holly_and_The_Ivy.sap
   TITLE: The Holly and the Ivy
  ARTIST: Traditional
 COMMENT: English Christmas carol.
