@@ -3,7 +3,7 @@ my @i = `svn log -qv -r $r:HEAD ../asma`;
 my (%a, %d);
 for (@i) {
 	if (m{^   A /trunk/asma/(\S+\.sap)(?: \(from /trunk/asma/(\S+\.sap)\))?}) {
-		$a{$1} = 1 if !$2 || delete $a{$2};
+		$a{$1} = 1, delete $d{$1} if !$2 || delete $a{$2};
 	}
 	elsif (m{^   D /trunk/asma/(\S+\.sap)}) {
 		$d{$1} = 1;
