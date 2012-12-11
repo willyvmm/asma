@@ -1845,7 +1845,7 @@ COMMENT: Music from the game 'Kapitan Planeta' released by Mirage.
 /Composers/Kalinowski_Bartosz/Robin_Wojownik_Czasu.sap
 COMMENT: Music from the game 'Robin Wojownik Czasu' released by Avalon.
 
-/Composers/Kalinowski_Bartosz/Robin_Wojownik_Cz_Ingame.sap
+/Composers/Kalinowski_Bartosz/Robin_Wojownik_Czasu_Ingam.sap
 COMMENT: Music from the game 'Robin Wojownik Czasu' released by Avalon.
 
 /Composers/Kalinowski_Bartosz/Self_Test_1.sap
