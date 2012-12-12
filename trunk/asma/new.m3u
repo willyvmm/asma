@@ -30,6 +30,7 @@ Composers/Delooze_Chris/Freaky_Factory.sap
 Composers/Delooze_Chris/War_Copter.sap
 Composers/Duma_Dariusz/Disco_Beat.sap
 Composers/Duma_Dariusz/Out_of_Prison.sap
+Composers/Duma_Dariusz/Overdrive.sap
 Composers/Duma_Dariusz/Rolling_World.sap
 Composers/Duma_Dariusz/Sexperience.sap
 Composers/Eisenhammer_Zdenek/Flop_magazin_55.sap
@@ -39,8 +40,10 @@ Composers/Falton_Peter/Chopp_the_Robot.sap
 Composers/Farkas_Felker/Blip.sap
 Composers/Farkas_Felker/Joyride_Intro.sap
 Composers/Feske_Nils/Deary.sap
+Composers/Feske_Nils/Demo_Arigato.sap
 Composers/Feske_Nils/Memory_Vice.sap
 Composers/Feske_Nils/Quickshot.sap
+Composers/Feske_Nils/RGBA.sap
 Composers/Garrido_Daniel/8bit_Animation_Serie.sap
 Composers/Garrido_Daniel/Blades_On.sap
 Composers/Garrido_Daniel/Chupacabras.sap
@@ -142,6 +145,7 @@ Composers/Radecki_Michal/Frogs.sap
 Composers/Radecki_Michal/Indie.sap
 Composers/Radecki_Michal/Indoktrynacja.sap
 Composers/Radecki_Michal/Intro_SV2k11.sap
+Composers/Radecki_Michal/Press_Play_on_Tape.sap
 Composers/Radecki_Michal/Ridiculous_Reality.sap
 Composers/Radecki_Michal/Ten_Past_Midnight.sap
 Composers/Retelle_Bob/Album_Leaf.sap
@@ -212,7 +216,10 @@ Composers/Szpilowski_Michal/Tedecujace_Starcie.sap
 Composers/Szpilowski_Michal/WAP_NIAK_Pre_Invitation.sap
 Composers/Walters_Sean/I_Just_Turned_Down.sap
 Composers/Wieczorkowski_Bartlomiej/Back_to_the_Scene.sap
+Composers/Wieczorkowski_Bartlomiej/Boogie_Nights.sap
+Composers/Wieczorkowski_Bartlomiej/Boogie_Nights_Credits.sap
 Composers/Wieczorkowski_Bartlomiej/Chain_Factory.sap
+Composers/Wieczorkowski_Bartlomiej/Old_School.sap
 Composers/Wieczorkowski_Bartlomiej/Tigers_Dream.sap
 Composers/Witkiewicz_Dariusz/UB.sap
 Games/Alien_Busters.sap
@@ -260,6 +267,7 @@ Misc/Jogging_Olympics_2016.sap
 Misc/Lost_in_a_Forest.sap
 Misc/Making_Love.sap
 Misc/Nyan_Cat.sap
+Misc/Pani_Basia_z_Klatki_B.sap
 Misc/Sonata_in_A_Major.sap
 Misc/Star_Wars.sap
 Misc/The_Sweetest_Thing.sap
