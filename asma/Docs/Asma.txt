@@ -14,10 +14,10 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 3.6
+                                  Version 4.0
 
                            Started on August 4, 1999
-                       Last updated on December ??, 2012
+                       Last updated on December 22, 2012
 
                      Total number of songs: 4629 (314 new)
 
@@ -27,7 +27,7 @@
  Welcome to the biggest collection of the POKEY-based Atari XL/XE music.
  The outfit of the whole collection was inspired by the HVSC collection (with 
  some differences). I hope you'll like this collection. To get in touch with 
- me, see the "Contact" section of this document.
+ us, see the "Contact" section of this document.
 
 
  Statistics
@@ -67,14 +67,13 @@
 
  Help!
  ~~~~~
- As you can see, there are lots of songs in the 'Unsorted' directory. If
+ As you can see, there are lots of songs in the 'Unknown' directory. If
  you can provide us with any missing information about any song (who did it, 
  where does it come from, when was it composed), please let us know
  immediately so that we can complete the information about the song in ASMA
  (and move it to the appropriate directory). We would welcome if you sent us
  also the binary file (or an ATR/XFD disk image) with the original piece of
- software with that song. Mail any such information to pg@pinknet.cz. Our aim
- is to completely annihilate the unrecognized songs.
+ software with that song.
 
 
  For contributors
@@ -117,9 +116,6 @@
 
  Contact
  ~~~~~~~
- E-mail:                pg@pinknet.cz
- ICQ:                   66411804
+ E-mail:                asma@scene.pl
  Homepage:              http://asma.atari.org
- Czech mirror:          http://www.milar.name/asma
- Polish mirror:         http://atariarea.krap.pl/asma
  Exotica search engine: http://www.exotica.org.uk/wiki/Special:ASMA
