@@ -33,7 +33,7 @@ Unknown - 18
 <?> - Rentgen - Poland
 <?> - Strobe - Sweden
 <?> - XLent - Poland
-Armijo, Richard J. Armijo - Kulor - USA
+Armijo, Richard J. - Kulor - USA
 Badkowski, Marek - Bac - Poland
 Banas, Pawel - Zilq - Poland
 Banaszkiewicz, Marcin - Banas - Poland
@@ -49,7 +49,6 @@ Brooke, Jason C. - United Kingdom (?)
 Bruenninski, Uwe - Hu-Soft - Germany
 Bryla, Krzysztof - Woppie, Foster - Poland
 Brzezicki, Michal - Caruso - Poland
-CEvE-Soft (Christoph Ebner von Eschenbach) - Germany
 Chamberlain, Craig - (?)
 Checa Funcke, Marco Antonio - Peru
 Chichakly, R. M. - (?)
@@ -62,19 +61,20 @@ Czartynski, Marcin - Cedyn - Poland
 Daglish, Ben - United Kingdom
 Delooze, Chris - (?)
 Diaz, Esteban - IDK - Chile
-Diepenhorst Marius - Inspiration Soft - Netherlands
+Diepenhorst, Marius - Inspiration Soft - Netherlands
 Dojwa, Jacek - Poland
 Drozdowski, Marek - Marucha - Poland
 Dudek, Krzysztof - Xxl - Poland
-Duesterhoeft, Stephan - Benjy - Germany
 Duesterhoeft, Christian - Buddy - Germany
+Duesterhoeft, Stephan - Benjy - Germany
 Duma, Dariusz - Dhor - Poland
 Eisenhammer, Zdenek - PG, PseudoGrafx - Czech Republic
+von Eschenbach, Christoph Ebner - CEvE-Soft - Germany
 Esquivel, Sal - Kjmann - USA
 Ezcan, Kemal - KE-SOFT - Germany
-Feske, Nils - 505 - Germany
-Farkas, Felker - Hungary
 Falton, Peter - France
+Farkas, Felker - Hungary
+Feske, Nils - 505 - Germany
 Galinski, Adrian - Daxey - Poland
 Garrido, Daniel - ui - Argentina
 Gilbertson, Gary - USA
@@ -110,9 +110,9 @@ Karwoth, Torsten - Germany
 Kazimierczak, Leszek - Mr. MB - Poland
 Kidaj, Andrzej - Andy - Poland
 Kociuba, Dariusz - Sherlock - Poland
-Krix, Mario - Emkay - Germany
 Krasuski, Jaroslaw - Jaras - Poland
 Krawczyk, Adam - Poland
+Krix, Mario - Emkay - Germany
 Kucharski, Konrad - Kuchara - Poland
 Kucisz, Tomasz - VLX - Poland
 Kuczek, Konrad - Poland
@@ -175,7 +175,7 @@ Rapalski, Konrad - Scorpio - Poland
 Retelle, Bob - (?)
 Ristau, Chuck - (?)
 Roemer, Markus - R.I.K - Germany
-Rogers Charles - Chip Champion - USA
+Rogers, Charles - Chip Champion - USA
 Rosolek, Maciej - Sound Vixen - Poland
 Roszkowski, Marek - Marcys - Poland
 Rymorz, Waldemar - Poland
@@ -187,8 +187,8 @@ Selinger, Bartek - Poland
 Selinger, Pawel - Poland
 Sikorski, Pawel - Sikor - Poland
 Simon, Scott & Ship, Howard - (?)
-Skwiot, Stanislaw - Stanley - Poland
 Skrzypek, Tomasz - Bloomer - Poland
+Skwiot, Stanislaw - Stanley - Poland
 Sledz, Slawek - Slaves - Poland
 Sniegon, Daniel - Poland
 Soelbrandt, Stefan - Germany
