@@ -1,8 +1,8 @@
-Known Atari composers and handles                                 Feb 24 2012
+Known Atari composers and handles                                 Dec 12 2012
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This list contains only composers who have at least 3 songs in ASMA
 collection. The composers are sorted in ABC order according to their surnames
-(if known, otherwise by their handles). There are 202 composers in this list.
+(if known, otherwise by their handles). There are 204 composers in this list.
 
 Argentina - 1
 Canada - 1
@@ -14,7 +14,7 @@ Germany - 20
 Hungary - 1
 Netherlands - 3
 Peru - 1
-Poland - 115
+Poland - 117
 Slovakia - 8
 Sweden - 1
 United Kingdom - 4
@@ -202,6 +202,7 @@ Sychowicz, Lukasz - X-Ray - Poland
 Szczesniak, Konrad - Poland
 Szczesniak, Maciek - Macioo$, Warp - Poland
 Szczygiel, Andrzej - Poland
+Szerniewicz, Robert - sOnar - Poland
 Szmatola, Krzysztof - Thor - Poland
 Szpilowski, Michal - Miker - Poland
 Szurgot, Robert - Casper - Poland
@@ -219,6 +220,7 @@ Wasiel, Bartek - BeWu - Poland
 Wasilewski, Dariusz - Trener - Poland
 Whittaker, David - Germany
 Wiatr, Przemyslaw - Profi - Poland
+Wieczorkowski, Bartlomiej - Wieczor - Poland
 Wisniewski, Mateusz - Born - Poland
 Witkiewicz, Dariusz - Flash - Poland
 Witkowski, Przemyslaw - Poland

@@ -40,6 +40,7 @@ Composers/Farkas_Felker/Blip.sap
 Composers/Farkas_Felker/Joyride_Intro.sap
 Composers/Feske_Nils/Deary.sap
 Composers/Feske_Nils/Memory_Vice.sap
+Composers/Feske_Nils/Quickshot.sap
 Composers/Garrido_Daniel/8bit_Animation_Serie.sap
 Composers/Garrido_Daniel/Blades_On.sap
 Composers/Garrido_Daniel/Chupacabras.sap
@@ -94,6 +95,7 @@ Composers/Higgins_Robert/Six_Little_Preludes_no_5.sap
 Composers/Higgins_Robert/Six_Little_Preludes_no_6.sap
 Composers/Higgins_Robert/Two_Part_Invention_no_14.sap
 Composers/Higgins_Robert/Two_Part_Invention_no_8.sap
+Composers/Iwaszko_Krystian/SN3.sap
 Composers/Jaakkola_Juha/Summer_Breeze.sap
 Composers/Jaakkola_Juha/Winter_Escape.sap
 Composers/Kalinowski_Bartosz/Self_Test_1.sap
@@ -137,9 +139,11 @@ Composers/Portelli_Jim/We_Will_Rock_You.sap
 Composers/Radecki_Michal/Cosmic_Voyage.sap
 Composers/Radecki_Michal/Error_in_Line_10.sap
 Composers/Radecki_Michal/Frogs.sap
+Composers/Radecki_Michal/Indie.sap
 Composers/Radecki_Michal/Indoktrynacja.sap
 Composers/Radecki_Michal/Intro_SV2k11.sap
 Composers/Radecki_Michal/Ridiculous_Reality.sap
+Composers/Radecki_Michal/Ten_Past_Midnight.sap
 Composers/Retelle_Bob/Album_Leaf.sap
 Composers/Retelle_Bob/Gladiators.sap
 Composers/Retelle_Bob/Jesu_Joy_of_Mans.sap
@@ -194,6 +198,8 @@ Composers/Sterba_Radek/Toothed.sap
 Composers/Strobe/Drillwrench.sap
 Composers/Stuermer_Armin/Jinks.sap
 Composers/Stuermer_Armin/Tales_of_Dragons_and_Cav.sap
+Composers/Szerniewicz_Robert/Bijatyka_na_Straganie.sap
+Composers/Szerniewicz_Robert/Siekiery.sap
 Composers/Szpilowski_Michal/Blekitne_Nimfy.sap
 Composers/Szpilowski_Michal/Diabelska_Pomylka.sap
 Composers/Szpilowski_Michal/Endtro.sap
@@ -205,6 +211,9 @@ Composers/Szpilowski_Michal/Space_Ace_mini_mix.sap
 Composers/Szpilowski_Michal/Tedecujace_Starcie.sap
 Composers/Szpilowski_Michal/WAP_NIAK_Pre_Invitation.sap
 Composers/Walters_Sean/I_Just_Turned_Down.sap
+Composers/Wieczorkowski_Bartlomiej/Back_to_the_Scene.sap
+Composers/Wieczorkowski_Bartlomiej/Chain_Factory.sap
+Composers/Wieczorkowski_Bartlomiej/Tigers_Dream.sap
 Composers/Witkiewicz_Dariusz/UB.sap
 Games/Alien_Busters.sap
 Games/Archon_II.sap
