@@ -19,7 +19,7 @@
                            Started on August 4, 1999
                        Last updated on December 22, 2012
 
-                     Total number of songs: 4629 (314 new)
+                     Total number of songs: 4630 (315 new)
 
 
  Introduction
@@ -32,13 +32,13 @@
 
  Statistics
  ~~~~~~~~~~
- Number of songs:           4629 (5793 including subsongs)
+ Number of songs:           4630 (5794 including subsongs)
  Compared to HVSC:          11.0 % (HVSC r57 contains 42212 songs)
- Disk space ocupied:        26326625 bytes (excluding documents and playlist)
+ Disk space ocupied:        26332050 bytes (excluding documents and playlist)
  Average SAP filesize:      5687 bytes
- Total playtime:            7 days 18 hours 20 minutes 33 seconds
+ Total playtime:            7 days 18 hours 29 minutes 51 seconds
  Files with subsongs:       407
- Songs in stereo:           440
+ Songs in stereo:           441
  Songs with unknown author: 476
  Number of musicians:       204
  Most active musician:      Michal Szpilowski (Miker)  (201 songs + 4
