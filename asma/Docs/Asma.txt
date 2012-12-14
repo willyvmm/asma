@@ -40,7 +40,7 @@
  Files with subsongs:       407
  Songs in stereo:           441
  Songs with unknown author: 476
- Number of musicians:       204
+ Number of musicians:       210
  Most active musician:      Michal Szpilowski (Miker)  (201 songs + 4
                             cooperations)
  Largest SAP file:          Garfield_Part_2.sap (61559 bytes)
