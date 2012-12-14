@@ -2,25 +2,25 @@ Known Atari composers and handles                                 Dec 12 2012
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This list contains only composers who have at least 3 songs in ASMA
 collection. The composers are sorted in ABC order according to their surnames
-(if known, otherwise by their handles). There are 204 composers in this list.
+(if known, otherwise by their handles). There are 210 composers in this list.
 
 Argentina - 1
 Canada - 1
 Chile - 2
-Czech Republic - 9
+Czech Republic - 10
 Finland - 1
 France - 2
 Germany - 20
 Hungary - 1
 Netherlands - 3
 Peru - 1
-Poland - 117
+Poland - 118
 Slovakia - 8
 Sweden - 1
 United Kingdom - 4
 United Kingdom (?) - 5
 USA - 10
-Unknown - 18
+Unknown - 22
 
 <?> - Anal-lysator - Poland
 <?> - Anti-Cheat - USA
@@ -40,6 +40,7 @@ Banaszkiewicz, Marcin - Banas - Poland
 Banaszkiewicz, Michal - Hugo - Poland
 Bankowski, Krzysztof - sEXTOn - Poland
 Berger, Dominique - StaxX - France
+Bernasek, Jiri - Bewesoft - Czech Republic
 Bienias, Adam - SoTe - Poland
 Billyard, Adam - United Kingdom (?)
 Bloszko, Marek - Markus - Poland
@@ -82,7 +83,7 @@ Gilmore, Adam - United Kingdom
 Gmurek, Konrad - KeyG - Poland
 Godlewski, Artur - Antic - Poland
 Goff, Mark - captainmarmalad - USA
-Golewski Filip, - Zoltar X, Lockay - Poland
+Golewski, Filip - Zoltar X, Lockay - Poland
 Gora, Jakub - Cubes - Poland
 Gorecki, Marek - EGR Genral Programming - Poland
 Grabowski, Pawel - Poland
@@ -115,7 +116,7 @@ Krawczyk, Adam - Poland
 Krix, Mario - Emkay - Germany
 Kucharski, Konrad - Kuchara - Poland
 Kucisz, Tomasz - VLX - Poland
-Kuczek, Konrad - Poland
+Kuczek, Ireneusz - Poland
 Kulinski, Grzegorz - QLX - Poland
 Kwiatek, Grzegorz - Greg - Poland
 Lajciak, Pavol - pL79, Flame - Slovakia
@@ -144,12 +145,14 @@ Martin, Aleksander - Alex - Poland
 Martin, Chris - Cybernoid - USA
 Matoga, Adrian - Epi - Poland
 Matyasik, Krzysztof - Mateoos - Poland
+Mauchly, Bill - (?)
 Michalski, Krzysztof - KAMMSoft - Poland
 Mikolajczak, Pawel - Poland
 Mrozowski, Robert - Poland
 Munns, Richard - United Kingdom (?)
 Murray, Chris - (?)
 Nabialek, Dawid - Dave - Poland
+Nedved, Vojtech - Nooly - (?)
 Niestegge, Stefan - Beetle - Germany
 Numan, Daniel - Zbx Virus - Poland
 Oglodek, Marek - Koala - Poland
@@ -166,6 +169,7 @@ Podedworny, Wojtek - Ferro - Poland
 Polak, Krzysztof - Poland
 Poorten, Ivo van - The Gatekeeper - (?)
 Portelli, Jim - (?)
+Potter, Mike - (?)
 Przybyszewski, Krzysztof - Bloody Butcher - Poland
 Pucinski, Rafal - Dex - Poland
 Quack, Ralf Thomas - Germany
@@ -185,8 +189,9 @@ Schmidt, Karsten - Chip Special Software - Germany
 Sedlak, Jiri - Czech Republic
 Selinger, Bartek - Poland
 Selinger, Pawel - Poland
+Ship, Howard - (?)
 Sikorski, Pawel - Sikor - Poland
-Simon, Scott & Ship, Howard - (?)
+Simon, Scott - (?)
 Skrzypek, Tomasz - Bloomer - Poland
 Skwiot, Stanislaw - Stanley - Poland
 Sledz, Slawek - Slaves - Poland
@@ -224,5 +229,6 @@ Wieczorkowski, Bartlomiej - Wieczor - Poland
 Wisniewski, Mateusz - Born - Poland
 Witkiewicz, Dariusz - Flash - Poland
 Witkowski, Przemyslaw - Poland
+Zaborowski, Robert - Poland
 Zagiba, Richard - Slovakia
 Zuegner, Alfred - (?)
