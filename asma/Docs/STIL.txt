@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1408
+#  Total number of entries: 1411
 #
 ##############################################################################
 #
@@ -3868,6 +3868,16 @@ COMMENT: Music from the game 'Grunwald 1410' released by Fire Bird in 1995.
 COMMENT: Music from the game 'Grunwald 1410' released by Fire Bird in 1995.
 
 /Composers/Swierszcz_Piotr/Resal.sap
+/Composers/Swierszcz_Piotr/Resal.sap
+(#1)
+  TITLE: Alcatraz [from Desert Island]
+ ARTIST: Cusco
+(#2)
+  TITLE: Fourth Rendez-Vous [from Rendez-Vous]
+ ARTIST: Jean Michel Jarre
+(#4)
+  TITLE: Another Day in Paradise
+ ARTIST: Phil Collins
 (#5)
    NAME: Seaside
 
