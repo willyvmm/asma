@@ -553,30 +553,6 @@ COMMENT: Music from the game 'Grunwald 1410' released by L.K. Firebird in 1995.
   TITLE: Computer Weekend
  ARTIST: Jean Michel Jarre
 
-### /Composers/Diepenhorst_Marius ############################################
-
-/Composers/Diepenhorst_Marius/Alfred_J_Kwak.sap
-  TITLE: Ik ben vandaag zo vrolijk [from the cartoon series Alfred Jodocus Kwak]
- ARTIST: Herman Van Veen
-COMMENT: Music starts at 0:03.
-
-/Composers/Diepenhorst_Marius/Bubble_Bobble.sap
-  TITLE: Theme [from the arcade game Bubble Bobble]
- ARTIST: Tadashi Kimijima
-COMMENT: Covers the main theme from the arcade game.
-
-/Composers/Diepenhorst_Marius/I_Will_Survive.sap
-  TITLE: I Will Survive
- ARTIST: Gloria Gaynor
-
-/Composers/Diepenhorst_Marius/Monkey_Island_and_Saints.sap
-(#1)
-  TITLE: Introduction [from the game The Secret of Monkey Island]
- ARTIST: Michael Z. Land, Barney Jones, Andy Newell, Patrick Mundy
-(#2)
-  TITLE: When the Saints Go Marching In
- ARTIST: American gospel hymn.
-
 ### /Composers/Dojwa_Jacek ###################################################
 
 /Composers/Dojwa_Jacek/Fairlight.sap
@@ -2859,6 +2835,30 @@ COMMENT: Music from the game 'Zbir' released by Mirage in 1993.
 /Composers/Munns_Richard/Black_Lamp_Ingame.sap
   TITLE: Greensleeves
  ARTIST: Unknown
+
+### /Composers/MusicMarius ###################################################
+
+/Composers/MusicMarius/Alfred_J_Kwak.sap
+  TITLE: Ik ben vandaag zo vrolijk [from the cartoon series Alfred Jodocus Kwak]
+ ARTIST: Herman Van Veen
+COMMENT: Music starts at 0:03.
+
+/Composers/MusicMarius/Bubble_Bobble.sap
+  TITLE: Theme [from the arcade game Bubble Bobble]
+ ARTIST: Tadashi Kimijima
+COMMENT: Covers the main theme from the arcade game.
+
+/Composers/MusicMarius/I_Will_Survive.sap
+  TITLE: I Will Survive
+ ARTIST: Gloria Gaynor
+
+/Composers/MusicMarius/Monkey_Island_and_Saints.sap
+(#1)
+  TITLE: Introduction [from the game The Secret of Monkey Island]
+ ARTIST: Michael Z. Land, Barney Jones, Andy Newell, Patrick Mundy
+(#2)
+  TITLE: When the Saints Go Marching In
+ ARTIST: American gospel hymn.
 
 ### /Composers/Nabialek_Dawid ################################################
 
