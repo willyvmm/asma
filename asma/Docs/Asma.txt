@@ -14,7 +14,7 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 4.0
+                                  Version 3.6
 
                            Started on August 4, 1999
                        Last updated on December 22, 2012
@@ -32,11 +32,11 @@
 
  Statistics
  ~~~~~~~~~~
- Number of songs:           4630 (5794 including subsongs)
+ Number of songs:           4630 (5795 including subsongs)
  Compared to HVSC:          11.0 % (HVSC r57 contains 42212 songs)
- Disk space ocupied:        26332050 bytes (excluding documents and playlist)
- Average SAP filesize:      5687 bytes
- Total playtime:            7 days 18 hours 29 minutes 51 seconds
+ Disk space ocupied:        26317431 bytes (excluding documents and playlist)
+ Average SAP filesize:      5684 bytes
+ Total playtime:            7 days 18 hours 33 minutes 33 seconds
  Files with subsongs:       407
  Songs in stereo:           441
  Songs with unknown author: 476
@@ -52,8 +52,8 @@
   4 subsongs:  66 files
   5 subsongs:  50 files
   6 subsongs:  22 files
-  7 subsongs:   9 files
-  8 subsongs:   9 files
+  7 subsongs:   8 files
+  8 subsongs:  10 files
   9 subsongs:   5 files
  10 subsongs:   6 files
  11 subsongs:   3 files
@@ -62,7 +62,7 @@
  14 subsongs:   2 files
  15 subsongs:   1 file
  20 subsongs:   1 file
- Total: 1164 extra subsongs
+ Total: 1165 extra subsongs
 
 
  Help!
@@ -118,4 +118,5 @@
  ~~~~~~~
  E-mail:                asma@scene.pl
  Homepage:              http://asma.atari.org
+ Czech mirror:          http://asma.atariportal.cz
  Exotica search engine: http://www.exotica.org.uk/wiki/Special:ASMA
