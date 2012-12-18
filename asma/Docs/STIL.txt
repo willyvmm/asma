@@ -2,7 +2,7 @@
 #
 #  STIL v3.5 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1411
+#  Total number of entries: 1413
 #
 ##############################################################################
 #
@@ -3868,13 +3868,15 @@ COMMENT: Music from the game 'Grunwald 1410' released by Fire Bird in 1995.
 COMMENT: Music from the game 'Grunwald 1410' released by Fire Bird in 1995.
 
 /Composers/Swierszcz_Piotr/Resal.sap
-/Composers/Swierszcz_Piotr/Resal.sap
 (#1)
   TITLE: Alcatraz [from Desert Island]
  ARTIST: Cusco
 (#2)
   TITLE: Fourth Rendez-Vous [from Rendez-Vous]
  ARTIST: Jean Michel Jarre
+(#3)
+  TITLE: Enola Gay [from Organisation]
+ ARTIST: Orchestral Manoeuvres in the Dark (OMD)
 (#4)
   TITLE: Another Day in Paradise
  ARTIST: Phil Collins
@@ -5209,6 +5211,10 @@ COMMENT: 5th place at Grayscale Music Competition II.
 
 /Misc/Desease.sap
 COMMENT: Forever 2e3 music compo entry.
+
+/Misc/Do_You_See_the_Light.sap
+  TITLE: Do You See The Light (Looking For)
+ ARTIST: Snap!
 
 /Misc/Downtown.sap
   TITLE: Downtown
