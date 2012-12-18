@@ -12,7 +12,7 @@ Finland - 1
 France - 2
 Germany - 20
 Hungary - 1
-Netherlands - 3
+Netherlands - 2
 Peru - 1
 Poland - 118
 Slovakia - 8
@@ -20,7 +20,7 @@ Sweden - 1
 United Kingdom - 4
 United Kingdom (?) - 5
 USA - 10
-Unknown - 22
+Unknown - 23
 
 <?> - Anal-lysator - Poland
 <?> - Anti-Cheat - USA
@@ -28,7 +28,7 @@ Unknown - 22
 <?> - Claas Clever - Germany
 <?> - Czlowiek W Atomizerze - Poland
 <?> - Mister Beep - Poland
-<?> - MusicMarius - Netherlands
+<?> - MusicMarius - (?)
 <?> - null1024 - Canada
 <?> - Panopticum - Poland
 <?> - Rentgen - Poland
