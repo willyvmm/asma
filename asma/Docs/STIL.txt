@@ -1,6 +1,6 @@
 ﻿##############################################################################
 #
-#  STIL v3.5 - SAP Tune Information List
+#  STIL v3.6 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
 #  Total number of entries: 1413
 #
