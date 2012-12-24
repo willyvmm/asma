@@ -1,0 +1,234 @@
+Known Atari composers and handles                                 Dec 12 2012
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This list contains only composers who have at least 3 songs in ASMA
+collection. The composers are sorted in ABC order according to their surnames
+(if known, otherwise by their handles). There are 210 composers in this list.
+
+Argentina - 1
+Canada - 1
+Chile - 2
+Czech Republic - 10
+Finland - 1
+France - 2
+Germany - 20
+Hungary - 1
+Netherlands - 2
+Peru - 1
+Poland - 118
+Slovakia - 8
+Sweden - 1
+United Kingdom - 4
+United Kingdom (?) - 5
+USA - 10
+Unknown - 23
+
+<?> - Anal-lysator - Poland
+<?> - Anti-Cheat - USA
+<?> - Ce-Pumpkin - Poland
+<?> - Claas Clever - Germany
+<?> - Czlowiek W Atomizerze - Poland
+<?> - Mister Beep - Poland
+<?> - MusicMarius - (?)
+<?> - null1024 - Canada
+<?> - Panopticum - Poland
+<?> - Rentgen - Poland
+<?> - Strobe - Sweden
+<?> - XLent - Poland
+Armijo, Richard J. - Kulor - USA
+Badkowski, Marek - Bac - Poland
+Banas, Pawel - Zilq - Poland
+Banaszkiewicz, Marcin - Banas - Poland
+Banaszkiewicz, Michal - Hugo - Poland
+Bankowski, Krzysztof - sEXTOn - Poland
+Berger, Dominique - StaxX - France
+Bernasek, Jiri - Bewesoft - Czech Republic
+Bienias, Adam - SoTe - Poland
+Billyard, Adam - United Kingdom (?)
+Bloszko, Marek - Markus - Poland
+Brady, Jerry - (?)
+Bratt, Harry - (?)
+Brooke, Jason C. - United Kingdom (?)
+Bruenninski, Uwe - Hu-Soft - Germany
+Bryla, Krzysztof - Woppie, Foster - Poland
+Brzezicki, Michal - Caruso - Poland
+Chamberlain, Craig - (?)
+Checa Funcke, Marco Antonio - Peru
+Chichakly, R. M. - (?)
+Cierkonski, Michal - Morgoth - Poland
+Cieslewicz, Tomasz - TDC - Poland
+Cornelius, Orall - United Kingdom (?)
+Crockford, Douglas - USA
+Cybruch, Ryszard - Seabrush - Poland
+Czartynski, Marcin - Cedyn - Poland
+Daglish, Ben - United Kingdom
+Delooze, Chris - (?)
+Diaz, Esteban - IDK - Chile
+Dojwa, Jacek - Poland
+Drozdowski, Marek - Marucha - Poland
+Dudek, Krzysztof - Xxl - Poland
+Duesterhoeft, Christian - Buddy - Germany
+Duesterhoeft, Stephan - Benjy - Germany
+Duma, Dariusz - Dhor - Poland
+Eisenhammer, Zdenek - PG, PseudoGrafx - Czech Republic
+von Eschenbach, Christoph Ebner - CEvE-Soft - Germany
+Esquivel, Sal - Kjmann - USA
+Ezcan, Kemal - KE-SOFT - Germany
+Falton, Peter - France
+Farkas, Felker - Hungary
+Feske, Nils - 505 - Germany
+Galinski, Adrian - Daxey - Poland
+Garrido, Daniel - ui - Argentina
+Gilbertson, Gary - USA
+Gilmore, Adam - United Kingdom
+Gmurek, Konrad - KeyG - Poland
+Godlewski, Artur - Antic - Poland
+Goff, Mark - captainmarmalad - USA
+Golewski, Filip - Zoltar X, Lockay - Poland
+Gora, Jakub - Cubes - Poland
+Gorecki, Marek - EGR Genral Programming - Poland
+Grabowski, Pawel - Poland
+Grad, Jacek - Tabu - Poland
+Grzyb, Janusz - Poland
+Gwozdziej, Mirek - Zur-soft 1/2 - Poland
+Hawkins, Ron - (?)
+Hay, Adam - Sack - United Kingdom
+Higgins, Robert - (?)
+Holda, Leszek - Poland
+Hryn, Piotr - Ramzes - Poland
+Hubbard, Rob - United Kingdom
+Hudak, Matej - Elan - Slovakia
+Huntington, Glenys - United Kingdom (?)
+Husak, Jakub - Poland
+Iwaszko, Krystian - Pinokio - Poland
+Jaakkola, Juha - Warlord - Finland
+Jacob, Uwe - Modi-soft - Germany
+Jastrzemski, Marcin - Fatman - Poland
+Johnson, Steve - (?)
+Kalinowski, Bartosz - Bartman - Poland
+Karpowicz, Henryk - Poland
+Karwacki, Jakub - Yezus - Poland
+Karwoth, Torsten - Germany
+Kazimierczak, Leszek - Mr. MB - Poland
+Kidaj, Andrzej - Andy - Poland
+Kociuba, Dariusz - Sherlock - Poland
+Krasuski, Jaroslaw - Jaras - Poland
+Krawczyk, Adam - Poland
+Krix, Mario - Emkay - Germany
+Kucharski, Konrad - Kuchara - Poland
+Kucisz, Tomasz - VLX - Poland
+Kuczek, Ireneusz - Poland
+Kulinski, Grzegorz - QLX - Poland
+Kwiatek, Grzegorz - Greg - Poland
+Lajciak, Pavol - pL79, Flame - Slovakia
+Langston, Peter - USA
+Lashower, Stephen - (?)
+Lehky, Jaroslav - Jaran - Czech Republic
+Lepkowski, Michal - Josh - Poland
+Lewandowski, Marcin - Jaskier - Poland
+Lewandowski, Tomasz - Levi - Poland
+Libic, Ladislav - Lac-Soft - Slovakia
+Liebich, Tomasz - Poland
+Lis, Marcin - Poland
+Lis, Piotr - Lisu - Poland
+Loos, Uwe - Germany
+Luberda, Michal - Poland
+Lusth, John - (?)
+Luszcz, Tomasz - Poland
+Maderanek, Peter - Baron Semedy - Slovakia
+Majchrzak, Marcin - Soldier, Major - Poland
+Majewski, Jerzy - Zur-soft 2/2 - Poland
+Majewski, Tomasz - Mayonez - Poland
+Makara, Grzegorz - Poland
+Makowski, Robert - Gutek - Poland
+Maris, John - The Missing Link - Netherlands
+Martin, Aleksander - Alex - Poland
+Martin, Chris - Cybernoid - USA
+Matoga, Adrian - Epi - Poland
+Matyasik, Krzysztof - Mateoos - Poland
+Mauchly, Bill - (?)
+Michalski, Krzysztof - KAMMSoft - Poland
+Mikolajczak, Pawel - Poland
+Mrozowski, Robert - Poland
+Munns, Richard - United Kingdom (?)
+Murray, Chris - (?)
+Nabialek, Dawid - Dave - Poland
+Nedved, Vojtech - Nooly - (?)
+Niestegge, Stefan - Beetle - Germany
+Numan, Daniel - Zbx Virus - Poland
+Oglodek, Marek - Koala - Poland
+Oscadal, Filip - Fred Brooker - Czech Republic
+Padula, Jaroslaw - Solo - Poland
+Palicka, Vratislav - Czech Republic
+Pasek, Marek - Poland
+Pasiecznik, Michal - Pasiu - Poland
+Pelc, Janusz - Poland
+Pesout, Marek - Poison - Czech Republic
+Pieczko, Szymon - Sim Piko - Poland
+Piscol, Juergen - Germany
+Podedworny, Wojtek - Ferro - Poland
+Polak, Krzysztof - Poland
+Poorten, Ivo van - The Gatekeeper - (?)
+Portelli, Jim - (?)
+Potter, Mike - (?)
+Przybyszewski, Krzysztof - Bloody Butcher - Poland
+Pucinski, Rafal - Dex - Poland
+Quack, Ralf Thomas - Germany
+Radecki, Michal - stRing, Tehno - Poland
+Radzikowski, Ireneusz - Jager - Poland
+Rapalski, Konrad - Scorpio - Poland
+Retelle, Bob - (?)
+Ristau, Chuck - (?)
+Roemer, Markus - R.I.K - Germany
+Rogers, Charles - Chip Champion - USA
+Rosolek, Maciej - Sound Vixen - Poland
+Roszkowski, Marek - Marcys - Poland
+Rymorz, Waldemar - Poland
+Sasik, Marek - Imaic - Slovakia
+Scarim, Nicholas - (?)
+Schmidt, Karsten - Chip Special Software - Germany
+Sedlak, Jiri - Czech Republic
+Selinger, Bartek - Poland
+Selinger, Pawel - Poland
+Ship, Howard - (?)
+Sikorski, Pawel - Sikor - Poland
+Simon, Scott - (?)
+Skrzypek, Tomasz - Bloomer - Poland
+Skwiot, Stanislaw - Stanley - Poland
+Sledz, Slawek - Slaves - Poland
+Sniegon, Daniel - Poland
+Soelbrandt, Stefan - Germany
+Sporka, Adam - AdamJ - Czech Republic
+Stanik, Krzysztof - Sukkor Benoth - Poland
+Sterba, Radek - Raster - Czech Republic
+Strzelec, Pawel - Poland
+Stuermer, Armin - Germany
+Swierszcz, Piotr - Tatqoo, Samurai - Poland
+Sychowicz, Lukasz - X-Ray - Poland
+Szczesniak, Konrad - Poland
+Szczesniak, Maciek - Macioo$, Warp - Poland
+Szczygiel, Andrzej - Poland
+Szerniewicz, Robert - sOnar - Poland
+Szmatola, Krzysztof - Thor - Poland
+Szpilowski, Michal - Miker - Poland
+Szurgot, Robert - Casper - Poland
+Szymczuk, Daniel - Lorien - Poland
+Takacs, Gabriel - GMX - Slovakia
+Tegethoff, Sven - Gnome Design - Germany
+Trokowicz, Bartolomiej - Poland
+Vavra, Karel - Czech Republic
+Verdaasdonk, Robert - Fox-1 - Netherlands
+Vila, Jaime - JIMPACK - Chile
+Vogt, Dariusz - DJ V - Poland
+Vybostok, Marian - Goldmaster - Slovakia
+Walters, Sean - B00daw - USA
+Wasiel, Bartek - BeWu - Poland
+Wasilewski, Dariusz - Trener - Poland
+Whittaker, David - Germany
+Wiatr, Przemyslaw - Profi - Poland
+Wieczorkowski, Bartlomiej - Wieczor - Poland
+Wisniewski, Mateusz - Born - Poland
+Witkiewicz, Dariusz - Flash - Poland
+Witkowski, Przemyslaw - Poland
+Zaborowski, Robert - Poland
+Zagiba, Richard - Slovakia
+Zuegner, Alfred - (?)
