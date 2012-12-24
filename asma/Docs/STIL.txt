@@ -3938,6 +3938,10 @@ COMMENT: Composed using Chaos Music Composer 4 times/VBL.
 /Composers/Szpilowski_Michal/Baracco.sap
 COMMENT: Composed using Chaos Music Composer 4 times/VBL.
 
+/Composers/Szpilowski_Michal/Bioptronid.sap
+  TITLE: Noisy Pillars, Tune #2 [from the C64 SID]
+ ARTIST: Jeroen Tel
+
 /Composers/Szpilowski_Michal/Blekitne_Nimfy.sap
 (#1)
   TITLE: Błękitne Nimfy [from Ogród Króla Świtu]
@@ -4236,10 +4240,6 @@ COMMENT: Music from the game 'Nexus' released by Sikor Soft in 1996.
   TITLE: Lost Patrol Theme [from the Amiga game]
  ARTIST: Chris Glaister
 COMMENT: Music from the game 'Nexus' released by Sikor Soft in 1996.
-
-/Composers/Szpilowski_Michal/Noisy_Pillars.sap
-  TITLE: Noisy Pillars, Tune #2 [from the C64 SID]
- ARTIST: Jeroen Tel
 
 /Composers/Szpilowski_Michal/Ocean_Detox.sap
 (#5)
