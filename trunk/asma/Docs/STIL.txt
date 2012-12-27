@@ -4982,7 +4982,7 @@ COMMENT: Apart from covering classical music, this also covers the arcade
  ARTIST: Johann Sebastian Bach
 
 /Games/Hans_Kloss.sap
-  TITLE: Stawka większa niż życie [from the TV series](0:57)
+  TITLE: Stawka większa niż życie [from the TV series] (0:38)
  ARTIST: Jerzy Matuszkiewicz
 
 /Games/Hazard_Run.sap
@@ -4998,7 +4998,7 @@ COMMENT: Apart from covering classical music, this also covers the arcade
  ARTIST: Monty Norman
 
 /Games/King_of_Killers.sap
-  TITLE: Axel F [from the movie Beverly Hills Cop](0:30)
+  TITLE: Axel F [from the movie Beverly Hills Cop] (0:30)
  ARTIST: Harold Faltermeyer
 COMMENT: This is not cover.
 
@@ -5359,7 +5359,7 @@ COMMENT: This song is converted from a C64 production made by Censor Design.
  ARTIST: Johann Sebastian Bach
 
 /Unknown/Bach_Mix.sap
-  TITLE: Rondo alla turca [from Piano Sonata No.11 A major KV 331](0:07)
+  TITLE: Rondo alla turca [from Piano Sonata No.11 A major KV 331] (0:07)
  ARTIST: Wolfgang Amadeus Mozart
 
 /Unknown/Buli.sap
