@@ -4743,13 +4743,23 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
 
 ### /Composers/Zuegner_Alfred ################################################
 
+/Composers/Zuegner_Alfred/America.sap
+  TITLE: America [from Bookends]
+ ARTIST: Simon & Garfunkel
+
+/Composers/Zuegner_Alfred/Cecilia.sap
+   TITLE: Cecilia [from Bridge Over Troubled Water]
+ ARTIST: Simon & Garfunkel
+
 /Composers/Zuegner_Alfred/El_Condor_Pasa.sap
   TITLE: El Condor Pasa
  ARTIST: D. Robles and J. Milchberg
 
 /Composers/Zuegner_Alfred/Everything_s_Alright.sap
-  TITLE: Everything's Alright [from the musical Jesus Christ Superstar]
- ARTIST: Andrew Lloyd Webber & Tim Rice
+   TITLE: Cecilia [from Parsley, Sage, Rosemary, and Thyme]
+ ARTIST: Simon & Garfunkel
+
+/Composers/Zuegner_Alfred/For_Emily_whenever_I_may_f.sap
 
 /Composers/Zuegner_Alfred/Heaven_On_Their_Minds.sap
   TITLE: Heaven on Their Minds [from the musical Jesus Christ Superstar]
