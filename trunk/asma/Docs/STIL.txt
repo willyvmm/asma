@@ -4748,7 +4748,7 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
  ARTIST: Simon & Garfunkel
 
 /Composers/Zuegner_Alfred/Cecilia.sap
-   TITLE: Cecilia [from Bridge Over Troubled Water]
+  TITLE: Cecilia [from Bridge Over Troubled Water]
  ARTIST: Simon & Garfunkel
 
 /Composers/Zuegner_Alfred/El_Condor_Pasa.sap
@@ -4760,7 +4760,7 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
  ARTIST: Andrew Lloyd Webber & Tim Rice
 
 /Composers/Zuegner_Alfred/For_Emily_whenever_I_may_f.sap
-   TITLE: For Emily, Whenever I May Find Her [from Parsley, Sage, Rosemary, and Thyme]
+  TITLE: For Emily, Whenever I May Find Her [from Parsley, Sage, Rosemary, and Thyme]
  ARTIST: Simon & Garfunkel
 
 /Composers/Zuegner_Alfred/Heaven_On_Their_Minds.sap
@@ -4768,7 +4768,7 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
  ARTIST: Andrew Lloyd Webber & Tim Rice
 
 /Composers/Zuegner_Alfred/Homeward_Bound.sap
-   TITLE: Homeward_Bound [from Parsley, Sage, Rosemary, and Thyme]
+  TITLE: Homeward_Bound [from Parsley, Sage, Rosemary, and Thyme]
  ARTIST: Simon & Garfunkel
 
 /Composers/Zuegner_Alfred/Hosanna.sap
@@ -4792,7 +4792,7 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
  ARTIST: Andrew Lloyd Webber & Tim Rice
 
 /Composers/Zuegner_Alfred/Last_Supper.sap
-  TITLE: The Last Supper [from the musical Jesus Christ Superstar]
+ TITLE: The Last Supper [from the musical Jesus Christ Superstar]
  ARTIST: Andrew Lloyd Webber & Tim Rice
 
 /Composers/Zuegner_Alfred/Only_The_Good_Die_Young.sap
@@ -4870,13 +4870,13 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
   TITLE: Technostyle II [from the Amiga MOD module]
  ARTIST: Xenox
 
+/Composers/Zur_soft/The_Top_3_Part_1.sap
+  TITLE: endtheme [from the Amiga SoundTracker module]
+ ARTIST: Tomas Dahlgren (Uncle Tom)
+
 /Composers/Zur_soft/The_Top_3_End_Scroll.sap
   TITLE: endtheme [from the Amiga SoundTracker module]
  ARTIST: Karsten Obarski
-
-/Composers/Zur_soft/The_Top_3_Part_1.sap
-  TITLE: n.s speedo [from the Amiga SoundTracker module]
- ARTIST: Tomas Dahlgren (Uncle Tom)
 
 /Composers/Zur_soft/The_Top_3_Part_3.sap
   TITLE: Jack Dance [from the Amiga MOD module]
@@ -5030,7 +5030,7 @@ COMMENT: Apart from covering classical music, this also covers the arcade
  ARTIST: Monty Norman
 
 /Games/King_of_Killers.sap
-  TITLE: Axel F [from the movie Beverly Hills Cop] (0:30)
+  TITLE: Axel F [from the movie Beverly Hills Cop] (0:30) 
  ARTIST: Harold Faltermeyer
 COMMENT: This is not cover.
 
