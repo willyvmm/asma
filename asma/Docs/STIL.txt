@@ -2,7 +2,7 @@
 #
 #  STIL v3.6 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1407
+#  Total number of entries: 1415
 #
 ##############################################################################
 #
@@ -4756,22 +4756,36 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
  ARTIST: D. Robles and J. Milchberg
 
 /Composers/Zuegner_Alfred/Everything_s_Alright.sap
-   TITLE: Cecilia [from Parsley, Sage, Rosemary, and Thyme]
- ARTIST: Simon & Garfunkel
+  TITLE: Everything's Alright [from the musical Jesus Christ Superstar]
+ ARTIST: Andrew Lloyd Webber & Tim Rice
 
 /Composers/Zuegner_Alfred/For_Emily_whenever_I_may_f.sap
+   TITLE: For Emily, Whenever I May Find Her [from Parsley, Sage, Rosemary, and Thyme]
+ ARTIST: Simon & Garfunkel
 
 /Composers/Zuegner_Alfred/Heaven_On_Their_Minds.sap
   TITLE: Heaven on Their Minds [from the musical Jesus Christ Superstar]
  ARTIST: Andrew Lloyd Webber & Tim Rice
 
+/Composers/Zuegner_Alfred/Homeward_Bound.sap
+   TITLE: Homeward_Bound [from Parsley, Sage, Rosemary, and Thyme]
+ ARTIST: Simon & Garfunkel
+
 /Composers/Zuegner_Alfred/Hosanna.sap
   TITLE: Hosanna [from the musical Jesus Christ Superstar]
  ARTIST: Andrew Lloyd Webber & Tim Rice
 
+/Composers/Zuegner_Alfred/I_Am_a_Rock.sap
+  TITLE: I_Am A Rock [from Sounds of Silence]
+ ARTIST: Simon & Garfunkel
+
 /Composers/Zuegner_Alfred/In_the_Mood.sap
   TITLE: In the Mood
  ARTIST: Joe Garland
+
+/Composers/Zuegner_Alfred/Kathy_s_Song.sap
+  TITLE: Kathy's Song [from Sounds of Silence]
+ ARTIST: Simon & Garfunkel
 
 /Composers/Zuegner_Alfred/King_Herod_s_Song.sap
   TITLE: King Herod's Song (Try it and See) [from the musical Jesus Christ Superstar]
@@ -4789,9 +4803,17 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
   TITLE: Pilate's Dream [from the musical Jesus Christ Superstar]
  ARTIST: Andrew Lloyd Webber & Tim Rice
 
+/Composers/Zuegner_Alfred/Scarborough_Fair.sap
+  TITLE: Scarborough Fair/Canticle [from Sounds of Silence]
+ ARTIST: Simon & Garfunkel
+
 /Composers/Zuegner_Alfred/She_s_Always_A_Woman.sap
   TITLE: She's Always a Woman [from The Stranger]
  ARTIST: Billy Joel
+
+/Composers/Zuegner_Alfred/Sound_of_Silence.sap
+  TITLE: The Sound of Silence [from Parsley, Sage, Rosemary, and Thyme]
+ ARTIST: Simon & Garfunkel
 
 /Composers/Zuegner_Alfred/Stranger.sap
   TITLE: The Stranger [from The Stranger]
@@ -4992,7 +5014,7 @@ COMMENT: Apart from covering classical music, this also covers the arcade
  ARTIST: Johann Sebastian Bach
 
 /Games/Hans_Kloss.sap
-  TITLE: Stawka większa niż życie [from the TV series] (0:38)
+  TITLE: Stawka większa niż życie [from the TV series](0:57)
  ARTIST: Jerzy Matuszkiewicz
 
 /Games/Hazard_Run.sap
@@ -5008,7 +5030,7 @@ COMMENT: Apart from covering classical music, this also covers the arcade
  ARTIST: Monty Norman
 
 /Games/King_of_Killers.sap
-  TITLE: Axel F [from the movie Beverly Hills Cop] (0:30)
+  TITLE: Axel F [from the movie Beverly Hills Cop](0:30)
  ARTIST: Harold Faltermeyer
 COMMENT: This is not cover.
 
@@ -5369,7 +5391,7 @@ COMMENT: This song is converted from a C64 production made by Censor Design.
  ARTIST: Johann Sebastian Bach
 
 /Unknown/Bach_Mix.sap
-  TITLE: Rondo alla turca [from Piano Sonata No.11 A major KV 331] (0:07)
+  TITLE: Rondo alla turca [from Piano Sonata No.11 A major KV 331](0:07)
  ARTIST: Wolfgang Amadeus Mozart
 
 /Unknown/Buli.sap
