@@ -4759,7 +4759,7 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
   TITLE: Everything's Alright [from the musical Jesus Christ Superstar]
  ARTIST: Andrew Lloyd Webber & Tim Rice
 
-/Composers/Zuegner_Alfred/For_Emily_whenever_I_may_f.sap
+/Composers/Zuegner_Alfred/For_Emily_Whenever_I_May_F.sap
   TITLE: For Emily, Whenever I May Find Her [from Parsley, Sage, Rosemary, and Thyme]
  ARTIST: Simon & Garfunkel
 
@@ -4792,7 +4792,7 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
  ARTIST: Andrew Lloyd Webber & Tim Rice
 
 /Composers/Zuegner_Alfred/Last_Supper.sap
- TITLE: The Last Supper [from the musical Jesus Christ Superstar]
+  TITLE: The Last Supper [from the musical Jesus Christ Superstar]
  ARTIST: Andrew Lloyd Webber & Tim Rice
 
 /Composers/Zuegner_Alfred/Only_The_Good_Die_Young.sap
@@ -5030,7 +5030,7 @@ COMMENT: Apart from covering classical music, this also covers the arcade
  ARTIST: Monty Norman
 
 /Games/King_of_Killers.sap
-  TITLE: Axel F [from the movie Beverly Hills Cop] (0:30) 
+  TITLE: Axel F [from the movie Beverly Hills Cop] (0:30)
  ARTIST: Harold Faltermeyer
 COMMENT: This is not cover.
 
