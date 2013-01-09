@@ -1,7 +1,6 @@
 Composers/Eisenhammer_Zdenek/Deus_Ex_Machina.sap - strange noise after song end
 Composers/Farkas_Felker/ABBUC_36.sap - rogue note at the beginning
 Composers/Gilmore_Adam/Arcade_Fruit_Machine_Simul.sap - subsongs missing
-Composers/Grayscale/Kwiatek_Grzegorz/Far_Away.sap - strange sounds at 0:48
 Composers/Husak_Jakub/Schlecht_Korrekt.sap - missing few notes at the beginning
 Composers/Liebich_Tomasz/Master_Head_Winner.sap - song doesn't play the first note (drum)
 Games/Schreckenstein.sap - invalid BRK instruction
