@@ -7,5 +7,15 @@ Kemal Ezcan
 Filip Oscadal (Fred Brooker)
 Replugged, Microx ingame songs
 
-Classic games
-Aztec Challenge 1982, Donkey Kong, Donkey Kong Junior, Henry's House, Mr. Do's Castles, Pole Position, Q*bert, Quadron, etc.
+*** Classic games: ***
+
+- Donkey Kong
+- Donkey Kong Junior
+- Henry's House
+- Mr. Do's Castles
+- Pole Position
+- Q*bert
+- Quadron
+- The Eliminator (music by Steve Coleman)
+- Raid Over Moscow (music by Steve Coleman)
+
