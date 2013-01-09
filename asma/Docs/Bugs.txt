@@ -1,4 +1,3 @@
-Composers/CEvE-Soft/World_of_Wonders_Fantasy.sap - strange noise after song end
 Composers/Eisenhammer_Zdenek/Deus_Ex_Machina.sap - strange noise after song end
 Composers/Farkas_Felker/ABBUC_36.sap - rogue note at the beginning
 Composers/Gilmore_Adam/Arcade_Fruit_Machine_Simul.sap - subsongs missing
