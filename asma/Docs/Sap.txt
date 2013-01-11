@@ -19,7 +19,7 @@ Concept
 -------
 The SAP format contains the original data and code used to playback the Atari music. SAP players actually run the program contained in the SAP file on an emulated or real (sapemu) 6502 processor. The program controls the POKEY chip, which generates the sound.
 Identical method is used with platforms other than Atari, for example the SID format for the C64 music.
-Important advantages of SAP over, let’s say, MP3, are that SAP files are very small (about 5 KB on average) and play more accurately as new players improve their emulation. The downside is that SAP files are generally hard to create. Creating SAP files from Atari software is called ripping and requires knowledge of the 6502 assembly language. On the other hand, Atari music in popular formats such as CMC or RMT can be easily converted to SAP (and back) using ASAP.
+Important advantages of SAP over, let's say, MP3, are that SAP files are very small (about 5 KB on average) and play more accurately as new players improve their emulation. The downside is that SAP files are generally hard to create. Creating SAP files from Atari software is called ripping and requires knowledge of the 6502 assembly language. On the other hand, Atari music in popular formats such as CMC or RMT can be easily converted to SAP (and back) using ASAP.
 One SAP file may contain multiple independent tunes - these are called "subsongs". For example, several songs from one game may be ripped into one SAP file. Over 90% SAP files contain just one song. Unfortunately many audio players do not support the concept of multiple subsongs per file.
 
 File Naming Conventions
@@ -102,7 +102,7 @@ TYPE
     Player type. The argument should be one uppercase letter: B, C, D or S. See below for an explanation.
 
 FASTPLAY
-    Number of scanlines between calls of the player routine. A scanline is defined to be 114 Atari clock cycles. FASTPLAY defaults to one frame: 312 scanlines for PAL (about 50 Hz), 262 for NTSC (about 60 Hz). Most songs don’t include this tag. Common values are 156 (twice per frame), 104 (three times per frame) and 78 (four times per frame). ASAP 3.0.0 and above supports FASTPLAY up to 32767. Other SAP players may limit the value to 312.
+    Number of scanlines between calls of the player routine. A scanline is defined to be 114 Atari clock cycles. FASTPLAY defaults to one frame: 312 scanlines for PAL (about 50 Hz), 262 for NTSC (about 60 Hz). Most songs don't include this tag. Common values are 156 (twice per frame), 104 (three times per frame) and 78 (four times per frame). ASAP 3.0.0 and above supports FASTPLAY up to 32767. Other SAP players may limit the value to 312.
 
 INIT
     Hexadecimal address of a 6502 routine that initializes the player. Required for player types B, D and S. Invalid for type C. The address should be specified as four uppercase hexadecimal digits, although players usually forgive lowercase and fewer digits.
@@ -156,7 +156,7 @@ Memory map:
     D500-D5FF - reserved for cartridge, do not use.
     D600-D6FF - COVOX chip if enabled via the COVOX tag (ASAP only). The COVOX consists of four unsigned 8-bit DACs: 0 and 3 for the left channel, 1 and 2 for the right channel.
     D700-D7FF - reserved for expansions, do not use.
-    D800-FFFF - RAM. FFFE/FFFF is 6502’s interrupt vector for POKEY timer interrupts.
+    D800-FFFF - RAM. FFFE/FFFF is 6502's interrupt vector for POKEY timer interrupts.
 
 Timing: The main clock is 1773447 Hz (PAL) or 1789772.5 Hz (NTSC). There are 114 cycles per scanline, including 9 cycles memory refresh not available for the 6502 - same as in the Atari with ANTIC DMA disabled completely. WSYNC and VCOUNT registers may be used for delays. Note that some SAP players reset VCOUNT at the FASTPLAY rate instead of every frame.
 
