@@ -2,7 +2,7 @@
 #
 #  STIL v3.6 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1419
+#  Total number of entries: 1420
 #
 ##############################################################################
 #
@@ -905,6 +905,10 @@ COMMENT: It is very likely that all tunes made by Farkas Felker are directly
   TITLE: Disco Zax [from the C64 SID]
  ARTIST: Thomas Mogensen (DRAX)
 COMMENT: Originally a C64 SID tune with POKEY routine added.
+
+/Composers/Farkas_Felker/Blip.sap
+  TITLE: Introtune 1 [from the C64 SID]
+ ARTIST: Tomas Danko
 
 /Composers/Farkas_Felker/Cool_Emotion_Chessboard.sap
   TITLE: Shape [from the C64 SID]
