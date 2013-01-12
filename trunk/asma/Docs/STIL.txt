@@ -2,7 +2,7 @@
 #
 #  STIL v3.6 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1420
+#  Total number of entries: 1425
 #
 ##############################################################################
 #
@@ -1150,6 +1150,11 @@ COMMENT: Lato Ludzików 2002 music compo entry.
 COMMENT: A cover of the tune from Atari XE/XL POKEY Digiloo Digiley by Kemal Ezcan.
 
 /Composers/Gorecki_Marek/Microdemo_5.sap
+#4
+  TITLE: Chattanooga Choo Choo
+ ARTIST: Glenn Miller and his Orchestra
+
+/Composers/Gorecki_Marek/Microdemo_5.sap
 (#3)
   TITLE: Money, Money [from the movie Cabaret]
  ARTIST: John Kander (music), Fred Ebb (lyrics), performed Joel Grey & Liza Minnelli
@@ -1476,6 +1481,8 @@ COMMENT: Cover the version by Martin Galway from game C64 Rastan, Tune #2.
 ### /Composers/Grzyb_Janusz ##################################################
 
 /Composers/Grzyb_Janusz/Around_the_Planet.sap
+  TITLE: Smalltown Boy [from The Age of Consent]
+ ARTIST: Bronski Beat
 COMMENT: Music from the game 'Around the Planet' released by Mirage in 1994.
 
 /Composers/Grzyb_Janusz/Around_the_Planet_Ingame.sap
@@ -2620,6 +2627,16 @@ COMMENT: Music from the game 'U235' released by L.K. Avalon in 1992.
   TITLE: Last Ninja 2 (Central Park Loader) [from the C64 game]
  ARTIST: Matt Gray
 COMMENT: Music from the game 'U235' released by L.K. Avalon in 1992.
+
+### /Composers/Lusth_John ####################################################
+
+/Composers/Lusth_John/Humoreske.sap
+  TITLE: Humoresque Op. 101 No. 7
+ ARTIST: Glenn Miller and his Orchestra
+
+/Lusth_John/Humoresque.sap
+  TITLE: Humoresque Op. 101 No. 7
+ ARTIST: Glenn Miller and his Orchestra
 
 ### /Composers/Luszcz_Tomasz #################################################
 
@@ -4075,6 +4092,10 @@ COMMENT: Silesian Atari Open party 1995 music compo entry.
  ARTIST: Jochen Hippel
 COMMENT: Covers the MIDI conversion by Borgar Thorsteinsson (Oedipus).
 
+/Composers/Szpilowski_Michal/Endtro.sap
+  TITLE: You're Not Alone
+ ARTIST: Olive
+
 /Composers/Szpilowski_Michal/Endtheme.sap
   TITLE: End Theme [from the Amiga Soundtracker module]
  ARTIST: Karsten Obarski
@@ -5502,6 +5523,10 @@ COMMENT: Present also in "Fortress Underground" game, no author credited.
   TITLE: El Condor Pasa
  ARTIST: D. Robles and J. Milchberg
 COMMENT: This is not a complete cover.
+
+/Unknown/NATO.sap
+  TITLE: Disco Zax [from the C64 SID]
+ ARTIST: Thomas Mogensen (DRAX)
 
 /Unknown/No_Limit.sap
   TITLE: No Limit [from No Limits]
