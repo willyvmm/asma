@@ -2,7 +2,7 @@
 #
 #  STIL v3.6 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1415
+#  Total number of entries: 1419
 #
 ##############################################################################
 #
@@ -182,6 +182,10 @@ COMMENT: Same as /Composers/Bienias_Adam/Train.sap
   TITLE: lff [from the Amiga MOD module]
  ARTIST: Matthew Simmonds (4-Mat)
 
+/Composers/Bienias_Adam/Little_4.sap
+  TITLE: Cybernoid II, Title [from the C64 game]
+ ARTIST: Jeroen Tel
+ 
 /Composers/Bienias_Adam/Little_5.sap
   TITLE: megaforce02 [from the Amiga MOD module]
  ARTIST: Heiko (Luxor)
@@ -3491,6 +3495,20 @@ COMMENT: 8th place at SillyVenture 2011 music compo.
 /Composers/Rapalski_Konrad/Fairlight.sap
   TITLE: Wizardry, Tune #1 [from the C64 game]
  ARTIST: Mike Alsop
+
+### /Composers/Ristau_Chuck ##################################################
+
+/Composers/Ristau_Chuck/Come_Together.sap
+  TITLE: Come Together [from Abbey Road]
+ ARTIST: The Beatles
+ 
+/Composers/Ristau_Chuck/Mash.sap
+  TITLE: Theme from M*A*S*H (Suicide Is Painless) [from the movie]
+ ARTIST: Johnny Mandel
+ 
+/Composers/Ristau_Chuck/Nights_in_White_Satin.sap
+  TITLE: Nights in White Satin [from Days of Future Passed]
+ ARTIST: The Moody Blues
 
 ### /Composers/Roemer_Markus #################################################
 
