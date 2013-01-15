@@ -185,7 +185,7 @@ COMMENT: Same as /Composers/Bienias_Adam/Train.sap
 /Composers/Bienias_Adam/Little_4.sap
   TITLE: Cybernoid II, Title [from the C64 game]
  ARTIST: Jeroen Tel
- 
+
 /Composers/Bienias_Adam/Little_5.sap
   TITLE: megaforce02 [from the Amiga MOD module]
  ARTIST: Heiko (Luxor)
@@ -2634,7 +2634,7 @@ COMMENT: Music from the game 'U235' released by L.K. Avalon in 1992.
   TITLE: Humoresque Op. 101 No. 7
  ARTIST: Antonín Dvořák
 
-/Lusth_John/Humoresque.sap
+/Composers/Lusth_John/Humoresque.sap
   TITLE: Humoresque Op. 101 No. 7
  ARTIST: Antonín Dvořák
 
@@ -3522,11 +3522,11 @@ COMMENT: 8th place at SillyVenture 2011 music compo.
 /Composers/Ristau_Chuck/Come_Together.sap
   TITLE: Come Together [from Abbey Road]
  ARTIST: The Beatles
- 
+
 /Composers/Ristau_Chuck/Mash.sap
   TITLE: Theme from M*A*S*H (Suicide Is Painless) [from the movie]
  ARTIST: Johnny Mandel
- 
+
 /Composers/Ristau_Chuck/Nights_in_White_Satin.sap
   TITLE: Nights in White Satin [from Days of Future Passed]
  ARTIST: The Moody Blues
