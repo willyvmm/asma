@@ -975,7 +975,7 @@ COMMENT: Originally a C64 SID tune with POKEY routine added.
 
 /Composers/Farkas_Felker/Joyride_Landscape.sap
   TITLE: Musiklinjen [from the Amiga MOD module]
- ARTIST: Jimmy Fredriksson (Firefox) & Robert Osterbergh (ex. Robert Ling) (Tip)
+ ARTIST: Jimmy Fredriksson (Firefox) & Robert Österbergh (ex. Robert Ling) (Tip)
 COMMENT: A cover of the tune from C64 SID Enigma/PHA Theme by Alain
          Hertenstein (Iron Cat). Originally a C64 SID tune with POKEY routine
          added.
@@ -3740,7 +3740,7 @@ COMMENT: 4th place at Forever 4 music compo.
 
 /Composers/Sterba_Radek/Enigma_part_2.sap
   TITLE: Musiklinjen [from the Amiga MOD module]
- ARTIST: Jimmy Fredriksson (Firefox) & Robert Osterbergh (Tip)
+ ARTIST: Jimmy Fredriksson (Firefox) & Robert Österbergh (Tip)
 
 /Composers/Sterba_Radek/Fasc_in_Action.sap
 COMMENT: 3rd place at Forever 12 music compo.
@@ -4469,7 +4469,7 @@ COMMENT: 2nd place at Atari Area 24h 'Zybex' music compo.
 
 /Composers/Szurgot_Robert/Pentagram_4_Echoing.sap
   TITLE: Echoing [from the Amiga MOD module]
- ARTIST: Christof Muehlan (Banana)
+ ARTIST: Christof Mühlan (Banana)
 
 /Composers/Szurgot_Robert/Pentagram_4_Moonlight.sap
   TITLE: Moonlight Shadow [from Crises]
@@ -4617,7 +4617,7 @@ COMMENT: Music from the game 'Terminator' released by Domain Software in 1993.
  ARTIST: Saltarello
 (#2)
   TITLE: Echoing [from the Amiga MOD module]
- ARTIST: Christof Muehlan (Banana)
+ ARTIST: Christof Mühlan (Banana)
 
 ### /Composers/Vavra_Karel_and_Sedlak_Jiri ###################################
 
