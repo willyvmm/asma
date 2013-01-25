@@ -19,6 +19,16 @@ Replugged, Microx ingame songs
 - The Institute
 - Into The Eagle's Nest
 - Mr. Do's Castles
+- N.Y.C. The Big Apple
+- Nastrahy Velkomesta
+- Nautilus
+- Naval Battle
+- Necromancer
+- New Rally-X
+- Night Mare 2
+- Nightmares
+- Nordic Ski
+- Nuclear Adventure or The North Base
 - OF
 - Olde Gold
 - Olympia
@@ -37,6 +47,8 @@ Replugged, Microx ingame songs
 - Questron (BASIC)
 - Raid Over Moscow (music by Steve Coleman)
 - The Eliminator (music by Steve Coleman)
+- The Neverending Story
+- The Nine Treasures of Crystal Cluster
 - Ultima III
 - Unicorn Horn
 - United States Adventure
@@ -52,3 +64,10 @@ Replugged, Microx ingame songs
 - Vigilant
 - Voyage To Home
 - Vu 5259
+- Xari Arena
+- Xtal
+- Zand's Labyrinth
+- Zarka
+- Zenji
+- Z-Force
+- Zone X
