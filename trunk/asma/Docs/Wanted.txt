@@ -9,6 +9,9 @@ Replugged, Microx ingame songs
 
 *** Classic games: ***
 
+- Enigmatix
+- Erosion
+- Evader
 - Donkey Kong
 - Donkey Kong Junior
 - Henry's House
@@ -16,6 +19,13 @@ Replugged, Microx ingame songs
 - Icky Squishy
 - Im Namen des Koenigs
 - Immobilo
+- Jaw Breaker
+- Jawbreaker
+- Jumper 2
+- Jumpman
+- Jumpman Junior
+- JunkYard Racing
+- Jupiter Mission 1999
 - The Institute
 - Into The Eagle's Nest
 - Mr. Do's Castles
@@ -62,8 +72,6 @@ Replugged, Microx ingame songs
 - Videogame
 - Videostop (v1)
 - Vigilant
-- Voyage To Home
 - Vu 5259
 - Xari Arena
 - Xtal
-
