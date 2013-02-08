@@ -14,7 +14,26 @@ Replugged, Microx ingame songs
 - Evader
 - Donkey Kong
 - Donkey Kong Junior
+- H2O
+- Halftime Battlin' Bands
+- The Halley Project
+- Hardhat Willy
+- Harnafratz 1: Das Buch der Zeit
+- Head On
+- Heathcliff Fun With Spelling
+- Help!!!
 - Henry's House
+- Hickory Dickory Dock
+- Highway Duel
+- Hijack!
+- Homer's Honey Craze
+- Homonimos
+- Hopper (v1)
+- House Of Usher
+- Humpty Dumpty
+- Hunter
+- Hyperball
+- Hypnotic Land
 - Ice (v1)
 - Icky Squishy
 - Im Namen des Koenigs
@@ -72,6 +91,5 @@ Replugged, Microx ingame songs
 - Videogame
 - Videostop (v1)
 - Vigilant
-- Vu 5259
 - Xari Arena
 - Xtal
