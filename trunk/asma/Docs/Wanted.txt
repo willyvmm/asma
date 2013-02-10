@@ -45,6 +45,13 @@ Replugged, Microx ingame songs
 - Jumpman Junior
 - JunkYard Racing
 - Jupiter Mission 1999
+- Kaiser
+- Kaiser II
+- Kangaroo
+- Karateka
+- Kissin' Kousins
+- Knicker-Bockers
+- Kolorest
 - The Institute
 - Into The Eagle's Nest
 - Mr. Do's Castles
@@ -91,5 +98,11 @@ Replugged, Microx ingame songs
 - Videogame
 - Videostop (v1)
 - Vigilant
+- Whiz Kid
+- Who Dares Wins II
+- Whomper Stomper
+- Wille
+- Winter Events
+- Wustoy's
 - Xari Arena
 - Xtal
