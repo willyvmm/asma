@@ -9,14 +9,29 @@ Replugged, Microx ingame songs
 
 *** Classic games: ***
 
+- Donkey Kong
+- Donkey Kong Junior
 - Enigmatix
 - Erosion
 - Evader
-- Donkey Kong
-- Donkey Kong Junior
+- Fidget
+- Fiffikus
+- Final Legacy
+- Flak
+- Flapper
+- Floyd Of The Jungle
+- Fury
+- F.R.E.E.
+- Gangway
+- Gemstone Warrior
+- Gem'y
+- Genetic Drift
+- Geo
+- Ghastly Night
+- Ghost
+- Goodcode's Cavern
 - H2O
 - Halftime Battlin' Bands
-- The Halley Project
 - Hardhat Willy
 - Harnafratz 1: Das Buch der Zeit
 - Head On
@@ -38,6 +53,7 @@ Replugged, Microx ingame songs
 - Icky Squishy
 - Im Namen des Koenigs
 - Immobilo
+- Into The Eagle's Nest
 - Jaw Breaker
 - Jawbreaker
 - Jumper 2
@@ -52,8 +68,13 @@ Replugged, Microx ingame songs
 - Kissin' Kousins
 - Knicker-Bockers
 - Kolorest
-- The Institute
-- Into The Eagle's Nest
+- Labby Of Death
+- Labirynt
+- Landscape
+- Lapis Philosophorum
+- Lazer Type
+- Let's Bubble!
+- Lord Of Darkness
 - Mr. Do's Castles
 - N.Y.C. The Big Apple
 - Nastrahy Velkomesta
@@ -71,7 +92,6 @@ Replugged, Microx ingame songs
 - Omidor
 - Onyx
 - Orb (v1)
-- The Orb of Zarramier
 - Ortografia (v1)
 - Othello II
 - Oxygene
@@ -79,12 +99,16 @@ Replugged, Microx ingame songs
 - Q*bert
 - Quadron
 - Quarxon
-- The Quest Of The Space Beagle (BASIC)
 - Questron (BASIC)
 - Raid Over Moscow (music by Steve Coleman)
 - The Eliminator (music by Steve Coleman)
+- The Halley Project
+- The Glasnost Game!
+- The Institute
 - The Neverending Story
 - The Nine Treasures of Crystal Cluster
+- The Orb of Zarramier
+- The Quest Of The Space Beagle (BASIC)
 - Ultima III
 - Unicorn Horn
 - United States Adventure
