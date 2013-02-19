@@ -2,7 +2,7 @@
 #
 #  STIL v3.6 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1425
+#  Total number of entries: 1426
 #
 ##############################################################################
 #
@@ -5188,6 +5188,10 @@ COMMENT: Covers the arcade version by Konami.
   TITLE: Funeral March [from Sonate No. 2 in B flat minor Op. 35]
  ARTIST: Fryderyk Chopin
 
+/Games/Quadron.sap
+  TITLE: Close To Me [from Disintegration]
+ ARTIST: The Cure
+ 
 /Games/Ring_Der_Nibelungen_Intro.sap
   TITLE: Air [from Orchestral Suite No. 3 (BWV 1068)]
  ARTIST: Johann Sebastian Bach
