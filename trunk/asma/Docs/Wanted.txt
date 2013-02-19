@@ -9,8 +9,31 @@ Replugged, Microx ingame songs
 
 *** Classic games: ***
 
+- Dark Chambers
+- Dark Star
+- Dash
+- Dawn Raider
+- Decision In The Desert
+- Deflektor
+- Desmond's Dungeon
+- Desert Falcon
+- Despatch Rider
+- Destroyer Warship
+- Destrukszon Flower
+- Dianes
+- Die Zeitmaschine II: Die Rueckkehr
+- Die Zeitmaschine III: Die Ausserirdischen
+- Digout
+- Dog Daze Deluxe
 - Donkey Kong
 - Donkey Kong Junior
+- Dr. Seuss Fix-Up The Mix-Up Puzzler
+- Dragonriders of Pern
+- Drelbs
+- Duch (v2)
+- Ducks Ahoy!
+- Dungeons, Dragons and Other Perils
+- D-Bug
 - Enigmatix
 - Erosion
 - Evader
@@ -100,7 +123,16 @@ Replugged, Microx ingame songs
 - Quadron
 - Quarxon
 - Questron (BASIC)
+- Racing Destruction Set
+- Raid Over Libya
 - Raid Over Moscow (music by Steve Coleman)
+- Rat Race
+- Relax
+- Rescue On Fractalus!
+- Return of Heracles
+- Ringmaster
+- Run For The Money
+- The Dallas Quest
 - The Eliminator (music by Steve Coleman)
 - The Halley Project
 - The Glasnost Game!
