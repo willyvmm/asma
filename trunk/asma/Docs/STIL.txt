@@ -5189,7 +5189,7 @@ COMMENT: Covers the arcade version by Konami.
  ARTIST: Fryderyk Chopin
 
 /Games/Quadron.sap
-  TITLE: Close To Me [from Disintegration]
+  TITLE: Close To Me [from The Head on the Door]
  ARTIST: The Cure
  
 /Games/Ring_Der_Nibelungen_Intro.sap
