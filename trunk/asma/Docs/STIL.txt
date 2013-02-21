@@ -1063,6 +1063,12 @@ COMMENT: 2nd place at SillyVenture 2000 music compo.
  ARTIST: Borisa Fomina (music), Konstantin Podrevski (lyrics)
 COMMENT: Cover version Those Were the Days, performed by Mary Hopkin.
 
+### /Composers/Foerst_Kai ####################################################
+
+/Composers/Foerst_Kai/Downtown.sap
+  TITLE: Downtown
+ ARTIST: Petula Clark
+
 ### /Composers/Galinski_Adrian ###############################################
 
 /Composers/Galinski_Adrian/
@@ -5300,10 +5306,6 @@ COMMENT: Forever 2e3 music compo entry.
 /Misc/Do_You_See_the_Light.sap
   TITLE: Do You See The Light (Looking For)
  ARTIST: Snap!
-
-/Misc/Downtown.sap
-  TITLE: Downtown
- ARTIST: Petula Clark
 
 /Misc/Dyer_Maker.sap
   TITLE: D'yer Mak'er [from Houses of the Holy]
