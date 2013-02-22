@@ -10,7 +10,7 @@ Chile - 2
 Czech Republic - 10
 Finland - 1
 France - 2
-Germany - 20
+Germany - 22
 Hungary - 1
 Netherlands - 3
 Mexico - 1
@@ -21,7 +21,7 @@ Sweden - 1
 United Kingdom - 4
 United Kingdom (?) - 5
 USA - 10
-Unknown - 23
+Unknown - 22
 
 <?> - Anal-lysator - Poland
 <?> - Anti-Cheat - USA
@@ -78,7 +78,7 @@ Ezcan, Kemal - KE-SOFT - Germany
 Falton, Peter - France
 Farkas, Felker - Hungary
 Feske, Nils - 505 - Germany
-Foerst, Kai - (?)
+Foerst, Kai - Germany (?)
 Galinski, Adrian - Daxey - Poland
 Garrido, Daniel - ui - Argentina
 Gilbertson, Gary - USA
@@ -229,6 +229,7 @@ Wasilewski, Dariusz - Trener - Poland
 Whittaker, David - Germany
 Wiatr, Przemyslaw - Profi - Poland
 Wieczorkowski, Bartlomiej - Wieczor - Poland
+Wiegmann, Stefan - Germany
 Wisniewski, Mateusz - Born - Poland
 Witkiewicz, Dariusz - Flash - Poland
 Witkowski, Przemyslaw - Poland
