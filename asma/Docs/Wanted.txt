@@ -25,8 +25,6 @@ Replugged, Microx ingame songs
 - Die Zeitmaschine III: Die Ausserirdischen
 - Digout
 - Dog Daze Deluxe
-- Donkey Kong
-- Donkey Kong Junior
 - Dr. Seuss Fix-Up The Mix-Up Puzzler
 - Dragonriders of Pern
 - Drelbs
@@ -60,7 +58,6 @@ Replugged, Microx ingame songs
 - Head On
 - Heathcliff Fun With Spelling
 - Help!!!
-- Henry's House
 - Hickory Dickory Dock
 - Highway Duel
 - Hijack!
@@ -98,7 +95,6 @@ Replugged, Microx ingame songs
 - Lazer Type
 - Let's Bubble!
 - Lord Of Darkness
-- Mr. Do's Castles
 - N.Y.C. The Big Apple
 - Nastrahy Velkomesta
 - Nautilus
@@ -119,8 +115,33 @@ Replugged, Microx ingame songs
 - Othello II
 - Oxygene
 - Ozzy's Orchard
+- P.O.W.
+- Party Quiz
+- Paver
+- Pengo
+- Pensate
+- Phantasie
+- Pharaoh's Pyramid
+- Phoenix Lair
+- Picnic Paranoia
+- Pie Man
+- Pinhead
+- Piper
+- Pirates Of The Barbary Coast
+- Planet Attack
+- Platoon
+- Plattermania
+- Playful Professor Math Tutor
+- Plop
+- Pogo Joe
+- Pogoman
+- Popeye
+- Pro Mountain Bike Simulator (title music)
+- Protector (Mastertronic)
+- Puzzle Panic
+- Puzzlito
+- Pyramidos
 - Q*bert
-- Quadron
 - Quarxon
 - Questron (BASIC)
 - Racing Destruction Set
@@ -131,6 +152,15 @@ Replugged, Microx ingame songs
 - Return of Heracles
 - Ringmaster
 - Run For The Money
+- T.N.T. Terror!
+- Taam
+- Tanium
+- Tank Commander
+- Tarkus And The Crystal Of Fear
+- Tarkus And The Orbs Of Doom
+- Telefon Terror
+- Temple Of Apshai Trilogy
+- Tetricize
 - The Dallas Quest
 - The Halley Project
 - The Glasnost Game!
@@ -139,6 +169,30 @@ Replugged, Microx ingame songs
 - The Nine Treasures of Crystal Cluster
 - The Orb of Zarramier
 - The Quest Of The Space Beagle (BASIC)
+- The Trivia Arcade
+- The Tylenol Factory
+- Theatre Europe
+- Thinx
+- Thrust
+- Thunderfox
+- Tigris
+- TKKG Nr.:2
+- Tonk In The Land Of Buddy-Bots
+- Topographie Deutschland
+- Topographie Europa
+- Topographie Welt
+- Topper
+- Touchdown Football
+- Tower Toppler
+- The Towns of Oz
+- Trailer
+- Train Dispatcher
+- Trains
+- Tricky Tracks
+- Trivia Quest
+- Tron - The Race!
+- Twerps
+- Twirlybird
 - Ultima III
 - Unicorn Horn
 - United States Adventure
