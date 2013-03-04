@@ -1,5 +1,4 @@
 Composers/Eisenhammer_Zdenek/Deus_Ex_Machina.sap - strange noise after song end
-Composers/Foest_Kai - vs AUTHOR "Kai Foerst"
 Composers/Gilmore_Adam/Arcade_Fruit_Machine_Simul.sap - subsongs missing
 Composers/Husak_Jakub/Schlecht_Korrekt.sap - missing few notes at the beginning
 Composers/Krasuski_Jaroslaw/Mojamuz.sap - duplicate of Composers/Kuczek_Ireneusz/Moja_Muzyka.sap
