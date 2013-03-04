@@ -2,7 +2,7 @@
 #
 #  STIL v3.6 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1426
+#  Total number of entries: 1427
 #
 ##############################################################################
 #
@@ -4737,6 +4737,12 @@ COMMENT: This music is also present in the game Buckaneer by Mastertronic.
          Whittaker's permission, because the programmers of that game credited
          this tune to themselves.
 
+### /Composers/Wiegmann_Stefan ###############################################
+
+/Composers/Wiegmann_Stefan/Quadron.sap
+  TITLE: Close To Me [from The Head on the Door]
+ ARTIST: The Cure
+ 
 ### /Composers/Wisniewski_Mateusz ############################################
 
 /Composers/Wisniewski_Mateusz/High_Tide.sap
@@ -5088,6 +5094,11 @@ COMMENT: Apart from covering classical music, this also covers the arcade
   TITLE: James Bond Theme [from the James Bond series of movies]
  ARTIST: Monty Norman
 
+/Games/Kampfstern_Galactica.sap
+(#1)
+  TITLE: Cherish
+ ARTIST: Kool and the Gang
+
 /Games/King_of_Killers.sap
   TITLE: Axel F [from the movie Beverly Hills Cop] (0:30)
  ARTIST: Harold Faltermeyer
@@ -5194,10 +5205,6 @@ COMMENT: Covers the arcade version by Konami.
   TITLE: Funeral March [from Sonate No. 2 in B flat minor Op. 35]
  ARTIST: Fryderyk Chopin
 
-/Games/Quadron.sap
-  TITLE: Close To Me [from The Head on the Door]
- ARTIST: The Cure
- 
 /Games/Ring_Der_Nibelungen_Intro.sap
   TITLE: Air [from Orchestral Suite No. 3 (BWV 1068)]
  ARTIST: Johann Sebastian Bach
