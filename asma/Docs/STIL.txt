@@ -2,7 +2,7 @@
 #
 #  STIL v3.6 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1426
+#  Total number of entries: 1427
 #
 ##############################################################################
 #
@@ -3773,6 +3773,10 @@ COMMENT: Covers a popular Czech Christmas song.
 
 /Composers/Sterba_Radek/Gear_Up.sap
 COMMENT: 2nd place at Forever Reneg8 music compo.
+
+/Composers/Sterba_Radek/Gem_x.sap
+  TITLE: Gem'X [from the Amiga game]
+ ARTIST: Chris Hülsbeck
 
 /Composers/Sterba_Radek/Hymn_to_Aurora.sap
   TITLE: Hymn to Aurora [from the Amiga MOD module]
