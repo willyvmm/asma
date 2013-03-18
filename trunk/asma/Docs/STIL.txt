@@ -2,7 +2,7 @@
 #
 #  STIL v3.6 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1427
+#  Total number of entries: 1431
 #
 ##############################################################################
 #
@@ -1335,6 +1335,10 @@ COMMENT: 2nd place at Forever 4 music compo.
  ARTIST: Adam Markiewicz
 COMMENT: Inspired by musics from Polish cartoon series.
 
+/Composers/Grayscale/Sychowicz_Lukasz/Boremloza.sap
+COMMENT: Soundtrack from the demo 'Numen' which won at the Lato Ludzików
+         Copy Party in 2002.
+
 /Composers/Grayscale/Sychowicz_Lukasz/Cabil.sap
 COMMENT: 1st place at Rush Hours 1997 music compo.
 
@@ -1342,6 +1346,10 @@ COMMENT: 1st place at Rush Hours 1997 music compo.
   TITLE: Greensleeves
  ARTIST: Unknown
 COMMENT: 3rd place at Atari Area 24h 'Black Lamp' music compo.
+
+/Composers/Grayscale/Sychowicz_Lukasz/Drab.sap
+COMMENT: Soundtrack from the one-kilobyte intro which won at the Forever Party
+         in 2003.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Draka.sap
 COMMENT: Inspired by /Composers/Adam_Gilmore/Draconus.sap
@@ -1370,6 +1378,10 @@ COMMENT: 4th place at QuaST party 1996 music compo.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Komar.sap
 COMMENT: 2nd place at Lato Ludzików 2002 music compo.
+
+/Composers/Grayscale/Sychowicz_Lukasz/Look_Around.sap
+COMMENT: Soundtrack from the one-kilobyte intro which won at the Forever Party
+         in 2013.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Magic_of_Words_1.sap
 COMMENT: Music from the game 'Magic of Words' released by Sikor Soft in 1996.
@@ -1445,6 +1457,10 @@ COMMENT: 5th place at Forever 12 music compo.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Shake_Your_Ass.sap
 COMMENT: 1st place at Forever Reneg8 music compo.
+
+/Composers/Grayscale/Sychowicz_Lukasz/Siekacz.sap
+COMMENT: Soundtrack from the note to the demo 'Numen' which won
+         at the Lato Ludzików Copy Party in 2002.
 
 /Composers/Grayscale/Sychowicz_Lukasz/Swift_Ray.sap
 COMMENT: 3rd place at Forever 5 music compo.
