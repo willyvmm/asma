@@ -3,12 +3,97 @@ binaries):
 
 Kemal Ezcan
 (any songs)
+ 0 Grad Nord,  Antquest,  Ashido,  Atlantis,  Atomic Gnom,  Bomb,  Bomber Jack,
+ Bros,  Castle Mania,  Chromatics,  Cultivation,  Digout,  Donald,  Drag,  Dredis,
+ Escape from Earth,  Fire,  Hotel,  Jumpin' Spider,  Jupiter Lander,  Lasermaze,
+ Monster Hunt,  Oblitroid,  Pungo,  Pungoland,  Shit,  Ski Weltcup,  Sogon,
+ Spider (demo),  Spider,  Super Miner,  Tecno-Ninja,  The Brundles,
+ The Laser Robot,  Time Bandit,  Tinory Quest,  Tobot,  Tobot Part I,
+ Vektor,  Zador,  Zebu-Land
 
 Filip Oscadal (Fred Brooker)
 Replugged, Microx ingame songs
 
 *** Classic games: ***
 
+- Abracadabra!
+- Abraxas Adventure #1 - Assault on the Astral Rift
+- Ace Of Aces
+- A.D. 2044 Sexmisja
+- Adebar
+- Admirandus
+- Advanced Pinball Simulator
+- Airball
+- Air Rescue
+- Air Rescue I
+- Akcie A Tovarny
+- Alf In The Color Caves
+- Ali Baba And The Fourty Thieves
+- Alien Encounter
+- Alp Man
+- Amnesia
+- Amphibian!
+- Arkaneth II
+- Atalan The Snake 0.2
+- Atari Olympics
+- Atomix
+- B.L.O.U.D.
+- Baa Baa Black Sheep
+- Balla-Balla
+- Barnyard Blaster
+- Baseball (conversion from 5200)
+- Baseball (Inhome Software)
+- Batman
+- Beach Landing
+- Beneath Apple Manor
+- BeWeSoft's Race
+- Blazer II
+- Blue-Print
+- Bomb Down
+- Bop'n Wrestle
+- BR-032 Constellation
+- Brainstorm II
+- Brik Bat
+- Bumperball
+- Bumpomov's Dogs
+- Bundesligatabelle
+- Burgers!
+- Busy Baby
+- Cameleon
+- Can't Quit
+- Canyon Climber (beta)
+- Canyon Climber (Datasoft)
+- Casino World
+- Castles and Keys
+- Caterpiggle
+- Cave Crisis
+- Caveman II - Caves of Osum
+- Centurion Defender of Rome
+- Chatterbee
+- Choplifter!
+- Chopper Rescue
+- Cimex Rex
+- Citadel Warrior
+- Clipper
+- Cohen's Towers
+- Combat Chess
+- Combat Leader
+- Computer War
+- Conflict in Vietnam
+- Contagion
+- Cosmic Hero
+- Cosmic Pirate (music by The Orange Spoon)
+- Countdown (Synapse Software)
+- Count Down (Micro Value)
+- Crazy Ed
+- Crazy Quader
+- Crime Buster
+- Crisis Mountain
+- Crownland (preview)
+- Crusade in Europe
+- Crypt Of The Undead
+- Cygnus X1
+- Cyrtabor
 - Dash
 - Dawn Raider
 - Desmond's Dungeon
@@ -90,6 +175,32 @@ Replugged, Microx ingame songs
 - Lazer Type
 - Let's Bubble!
 - Lord Of Darkness
+- Mad Marbles
+- Mad Stone
+- Mail Order Monsters
+- Maniac Miner
+- Maszyna Czasu
+- Match Racer
+- Math Mileage
+- Maxi Golf
+- Mental Age (demo, music: Joe Ripper)
+- Mickey in the Great Outdoors
+- Mighty Jill Off
+- Mike's Slot-Machine Version II
+- Mission (Homecomputer)
+- Mission On Thunderhead
+- Mission Zircon
+- Mogul Maniac
+- Moonbase (playable demo)
+- Mouskattack
+- Movie Musical Madness
+- Mózgprocesor
+- Mr. Bear
+- Multi-Dash
+- Murder On The Zinderneuf
+- Mystix Teil 1 - Das Motel
+- Mystix Teil 2 - Das Strandhaus
+- Mythos
 - N.Y.C. The Big Apple
 - Nastrahy Velkomesta
 - Nautilus
@@ -130,6 +241,7 @@ Replugged, Microx ingame songs
 - Plop
 - Pogo Joe
 - Pogoman
+- Pondering about Max's (4 sections: The Dream, P.A.M., Barroom Brawl, Finis)
 - Popeye
 - Pro Mountain Bike Simulator (title music)
 - Protector (Mastertronic)
@@ -147,6 +259,47 @@ Replugged, Microx ingame songs
 - Return of Heracles
 - Ringmaster
 - Run For The Money
+- Saracen
+- Sea Falcon IV
+- Sea Fighter
+- Seahorses (Sea Horse Hide'n Seek)
+- Sereamis
+- Sherlock Holmes
+- Shoot'em Up (Rino Marketing)
+- Show Down
+- Showdown Hockey!
+- Sidewinder
+- Silicon
+- Silly Planter
+- Skateboard
+- Ski King
+- Skinhead Story (3 parts)
+- Sky Blazer (NTSC only)
+- Sky Scraper
+- Skywriter (Milliken)
+- Slime
+- Slot Trivia
+- Smasher
+- Smuffies' World
+- Space Bumpers
+- Space Cowboy
+- Space Goon Spelling
+- Spare Change
+- Spark Bugs
+- Speed - Puzzle
+- Spelldiver
+- Sprong
+- Star Fleet
+- Star League Baseball
+- Star Wars (Zeppelin Games)
+- Stargunner
+- Storyline
+- Strange Land
+- Summer Games
+- Super Huey
+- Superman - The Game
+- Superman III
+- Surf's Up
 - T.N.T. Terror!
 - Taam
 - Tanium
@@ -156,6 +309,10 @@ Replugged, Microx ingame songs
 - Telefon Terror
 - Temple Of Apshai Trilogy
 - Tetricize
+- The ABC of CPR
+- The Adventures of Dr. Jones
+- The Bean Machine
+- The Cavern of Death
 - The Dallas Quest
 - The Halley Project
 - The Glasnost Game!
@@ -164,6 +321,8 @@ Replugged, Microx ingame songs
 - The Nine Treasures of Crystal Cluster
 - The Orb of Zarramier
 - The Quest Of The Space Beagle (BASIC)
+- The Scrolls of Abadon
+- The Spy Strikes Back!
 - The Trivia Arcade
 - The Tylenol Factory
 - Theatre Europe
@@ -171,6 +330,7 @@ Replugged, Microx ingame songs
 - Thrust
 - Thunderfox
 - Tigris
+- Timezone (coding done by JAC!)
 - TKKG Nr.:2
 - Tonk In The Land Of Buddy-Bots
 - Topographie Deutschland
