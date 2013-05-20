@@ -1,0 +1,121 @@
+
+asma-anteroom\module\UNCERTAIN\David Spilka (Datri)\cmc\..
+A shared uncertain for all files in the folder is similarity to ASMA sap (or any orginal music not sap'ed yet).
+My propose (marok) is if similarity sap exists decide what to do next with the module - because that's not 'one way traffic', if it not exists it's more clear and the door to ASMA collection is basically open.
+
+
+00a874ac.frish_2.cmc
+sim? - unknown
+
+
+002f1b3e.lemmings_intro2.cmc
+sim? - unknown
+
+
+003c8b41.nhl_3.cmc
+sim? - unknown
+
+
+004b5b53.worms.cmc
+sim? - unknown
+
+
+006c9673.brutal_karate.cmc
+sim? - unknown
+
+
+008fc699.info_demo_2.cmc
+sim? - yes, http://asma.atari.org/asma/Composers/Kalinowski_Bartosz/Sweet_Illusions_Effects_2.sap
+marok: I need some more comparisions but my first thought when I have matched them - no.
+
+
+009f1fa5.info_demo_3.cmc
+sim? - unknown
+
+
+0010bb1d.panther2_story.cmc
+sim? - unknown
+
+
+0010f815.fire.cmc
+sim? - unknown
+
+
+0010ff17.sleeper.cmc
+sim? - unknown
+
+
+0018cd1e.fly_demo.cmc
+sim? - unknown
+
+
+0068a173.lemmings.cmc
+sim? - unknown
+
+
+00100a1d.frish_1.(Ques-lastPatternCorrupted).cmc
+sim? - unknown
+marok: I think is a chance (but I'm not sure) the last pattern is cut, but it's not 'big' problem in this one, I suppose.
+
+
+00498c4e.pyromania_demo.cmc
+sim? - unknown
+
+
+00100819.xfiles.cmc
+sim? - unknown
+
+
+00102814.techtips1.cmc
+sim? - unknown
+
+
+00108417.playboy.cmc
+sim? - unknown
+
+
+00108716.panther2_intro.cmc
+sim? - unknown
+
+
+00204527.birth.cmc
+sim? - unknown
+
+
+00504454.viewer.cmc
+sim? - unknown
+
+
+00895390.pyromania.cmc
+sim? - yes, http://asma.atari.org/asma/Composers/Takacs_Gabriel/Draconus.sap
+marok: I'd see this remix in ASMA (quite different than orginal and nice).
+
+
+---
+
+*\asma-anteroom\sap\..
+
+
+Arcade_Fruit_Machine.TIME_MISS.sap
+ok?
+
+
+Desert_Falcon.TIME_MISS.sap, Desert_Falcon.TIME_SHORT-WARNING.sap
+marok: seems to me (as I hear it) there is clipped sound in all short subsongs in sap with declares TIME done (*_TIME_SHORT-WARNING).
+
+
+Dr_Seuss.TIME_MISS.sap, Dr_Seuss.TIME_SHORT-WARNING.sap
+case Desert_Falcon.*.sap
+
+
+Dragonriders_of_Perm.TIME_MISS.sap, *.TIME_SHORT-WARNING.sap, *.TIME_MISS__SUBSONGS_OVER(5,7,9).sap, *.TIME_SHORT-WARNING__SUBSONGS_OVER(5,7,9).sap
+case Desert_Falcon.*.sap plus problem of subsongs not used in game at two additional saps (*__SUBSONG_OVER)
+marok: this particular case with overtime subsongs is quite ease, because these are unattractive and two of them also extremly short, but in general I think, not used subsongs in game should be considered to sap (this one title is delivered as an example only).
+
+
+Drelbs.EXTRACT_SFX_1.sap, Drelbs.EXTRACT_SFX_2.sap
+eventually can join specific sap but is rather questionable it is worth for.
+
+
+Teenage_Mutant_Ninja_Turtles.sap
+ok?
