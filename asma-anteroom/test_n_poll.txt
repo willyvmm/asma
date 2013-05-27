@@ -117,5 +117,10 @@ Drelbs.EXTRACT_SFX_1.sap, Drelbs.EXTRACT_SFX_2.sap
 eventually can join specific sap but is rather questionable it is worth for.
 
 
+Ducks_Ahoy.TIME_SHORT-WARNING.sap, Ducks_Ahoy.MUSIC_ONLY.sap
+not sure which of these two choose to ASMA (short subsongs are doubtly interesting)
+
+
 Teenage_Mutant_Ninja_Turtles.sap
 ok?
+
