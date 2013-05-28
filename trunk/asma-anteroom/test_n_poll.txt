@@ -100,6 +100,12 @@ Arcade_Fruit_Machine.TIME_MISS.sap
 ok?
 
 
+D-Bug.TIME_MISS.sap
+it's too complicate for pure rip to me, main problem is i hear it's bit diffrent sounds than in game - flatter? - (i don't really know why)
+beside subs.2&3 which are expected to sound diffrent (due $d20a in play)
+subs.6-8 haven't detected in game and because music in the prod are composited i had to guess them (i have matched 5 components to 3 songs)
+
+
 Desert_Falcon.TIME_MISS.sap, Desert_Falcon.TIME_SHORT-WARNING.sap
 marok: seems to me (as I hear it) there is clipped sound in all short subsongs in sap with declares TIME done (*_TIME_SHORT-WARNING).
 
@@ -119,12 +125,6 @@ eventually can join specific sap but is rather questionable it is worth for.
 
 Ducks_Ahoy.TIME_SHORT-WARNING.sap, Ducks_Ahoy.MUSIC_ONLY.sap
 not sure which of these two choose to ASMA (short subsongs are doubtly interesting)
-
-
-D-Bug.TIME_MISS.sap
-it's too complicate for pure rip to me, main problem is i hear it's bit diffrent sounds than in game - flatter? - (i don't really know why)
-beside subs.2&3 which are expected to sound diffrent (due $d20a in play)
-subs.6-8 haven't detected in game and because music in the prod are composited i had to guess them (i have matched 5 components to 3 songs)
 
 
 Teenage_Mutant_Ninja_Turtles.sap
