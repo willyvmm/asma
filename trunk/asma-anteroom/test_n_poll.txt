@@ -127,6 +127,18 @@ Ducks_Ahoy.TIME_SHORT-WARNING.sap, Ducks_Ahoy.MUSIC_ONLY.sap
 not sure which of these two choose to ASMA (short subsongs are doubtly interesting)
 
 
+Fidget.SUBSONGS_INCLUDE(1).sap
+alternative version with additional subsong (can eventually replace current asma-version)
+
+
+Floyd_of_the_Jungle.MUSIC_ONLY.sap, *.TIME_MISS.sap, *.TIME_SHORT-WARNING.sap
+task of version to choose to asma (*TIME_MISS.sap not counts for it)
+
+
+Gangway.TIME_SHORT-WARNING.sap
+ok (mean to asma with it)? or reduce subsongs? (all or which of them)
+
+
 Teenage_Mutant_Ninja_Turtles.sap
 ok?
 
