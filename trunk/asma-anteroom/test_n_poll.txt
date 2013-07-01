@@ -138,6 +138,14 @@ task of version to choose to asma (*TIME_MISS.sap not counts for it)
 Gangway.TIME_SHORT-WARNING.sap
 ok (mean to asma with it)? or reduce subsongs? (all or which of them)
 
+Ice.sap
+A music quality doubt.
+
+Into_the_Eagles_Nest.sap
+A music quality doubt.
+
+Jawbreaker.sap
+Not too short nor fairly interesting?
 
 Teenage_Mutant_Ninja_Turtles.sap
 ok?
