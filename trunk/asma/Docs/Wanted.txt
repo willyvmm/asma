@@ -103,6 +103,8 @@ Replugged, Microx ingame songs
 - D-Bug
 - Fiffikus
 - Goodcode's Cavern
+- Gothic I - Der Aeonen Wechsel
+- Graf von Baerenstein
 - Harnafratz 1: Das Buch der Zeit
 - Hypnotic Land
 - Jumper 2
@@ -110,6 +112,7 @@ Replugged, Microx ingame songs
 - Jupiter Mission 1999
 - Kaiser II
 - Kolorest
+- Labirynt
 - Let's Bubble!
 - Lord Of Darkness
 - Mad Marbles
