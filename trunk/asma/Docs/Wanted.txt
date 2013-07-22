@@ -115,11 +115,7 @@ Replugged, Microx ingame songs
 - Labirynt
 - Let's Bubble!
 - Lord Of Darkness
-- Mad Marbles
-- Mad Stone
-- Mail Order Monsters
 - Maniac Miner
-- Match Racer
 - Math Mileage
 - Maxi Golf
 - Mental Age (demo, music: Joe Ripper)
@@ -199,7 +195,6 @@ Replugged, Microx ingame songs
 - Run For The Money
 - Saracen
 - Sea Falcon IV
-- Sea Fighter
 - Seahorses (Sea Horse Hide'n Seek)
 - Sereamis
 - Sherlock Holmes
