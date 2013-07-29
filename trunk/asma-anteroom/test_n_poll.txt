@@ -1,3 +1,16 @@
+asma-anteroom\module\
+
+00304b37.MMMG_soft_demo.Bitwy_Morskie(Marek Goderski(MMMG),1992).cmc
+A music quality doubt.
+
+
+000cff13.MMMG_soft_demo.#CENSORED#(Marek Goderski(MMMG),1992).cmc
+I'm explaining used fraze #CENSORED# here - it's about original name of this module (very long, but what importante, highly controversial IMO).
+This module (I don't know the reason, but I do wonder) is not able to be heared directly by ASAP as a regular cmc module (but CMC play it without problem).
+Beside of those, a music quality doubt is signaled.
+
+
+---
 
 asma-anteroom\module\UNCERTAIN\David Spilka (Datri)\cmc\..
 A shared uncertain for all files in the folder is similarity to ASMA sap (or any orginal music not sap'ed yet).
@@ -93,7 +106,13 @@ marok: I'd see this remix in ASMA (quite different than orginal and nice).
 
 ---
 
-*\asma-anteroom\sap\..
+\asma-anteroom\sap\..
+
+[marok: the clipped sound in saps with the extension (*_TIME_SHORT-WARNING) are solved and clean now (so they are now erased).]
+
+
+Adalmar_*.sap
+10 songs - all from conversion, I guess. Not sure all of them are worth to be included to the ASMA (due music quality compared to orginal and a significant size).
 
 
 Arcade_Fruit_Machine.TIME_MISS.sap
@@ -106,16 +125,16 @@ beside subs.2&3 which are expected to sound diffrent (due $d20a in play)
 subs.6-8 haven't detected in game and because music in the prod are composited i had to guess them (i have matched 5 components to 3 songs)
 
 
-Desert_Falcon.TIME_MISS.sap, Desert_Falcon.TIME_SHORT-WARNING.sap
-marok: seems to me (as I hear it) there is clipped sound in all short subsongs in sap with declares TIME done (*_TIME_SHORT-WARNING).
+Desert_Falcon.sap
+Question about existing subsongs.
 
 
-Dr_Seuss.TIME_MISS.sap, Dr_Seuss.TIME_SHORT-WARNING.sap
-case Desert_Falcon.*.sap
+Dr_Seuss.sap
+Question about existing subsongs.
 
 
-Dragonriders_of_Perm.TIME_MISS.sap, *.TIME_SHORT-WARNING.sap, *.TIME_MISS__SUBSONGS_OVER(5,7,9).sap, *.TIME_SHORT-WARNING__SUBSONGS_OVER(5,7,9).sap
-case Desert_Falcon.*.sap plus problem of subsongs not used in game at two additional saps (*__SUBSONG_OVER)
+Dragonriders_of_Perm.sap, *.SUBSONGS_OVER(5,7,9).sap
+Problem of subsongs not used in game at additional sap (*.SUBSONG_OVER)
 marok: this particular case with overtime subsongs is quite ease, because these are unattractive and two of them also extremly short, but in general I think, not used subsongs in game should be considered to sap (this one title is delivered as an example only).
 
 
@@ -123,7 +142,7 @@ Drelbs.EXTRACT_SFX_1.sap, Drelbs.EXTRACT_SFX_2.sap
 eventually can join specific sap but is rather questionable it is worth for.
 
 
-Ducks_Ahoy.TIME_SHORT-WARNING.sap, Ducks_Ahoy.MUSIC_ONLY.sap
+Ducks_Ahoy.sap, Ducks_Ahoy.MUSIC_ONLY.sap
 not sure which of these two choose to ASMA (short subsongs are doubtly interesting)
 
 
@@ -131,24 +150,34 @@ Fidget.SUBSONGS_INCLUDE(1).sap
 alternative version with additional subsong (can eventually replace current asma-version)
 
 
-Floyd_of_the_Jungle.MUSIC_ONLY.sap, *.TIME_MISS.sap, *.TIME_SHORT-WARNING.sap
-task of version to choose to asma (*TIME_MISS.sap not counts for it)
+Floyd_of_the_Jungle.sap, Floyd_of_the_Jungle.MUSIC_ONLY.sap
+A waiting for decision of choise between versions.
 
 
-Gangway.TIME_SHORT-WARNING.sap
-ok (mean to asma with it)? or reduce subsongs? (all or which of them)
+Gangway.sap
+Question about existing subsongs.
+
 
 Ice.sap
 A music quality doubt.
 
+
 Into_the_Eagles_Nest.sap
 A music quality doubt.
+
 
 Jawbreaker.sap
 Not too short nor fairly interesting?
 
+
 Kangaroo.sap
 Music's duration is very short, additional in the production there is one more if I'm correct (even shorter) piece of music (either not sfx) not contained in the sap.
+
+
+Mission_die.sap
+In the production this music sounds diffrent but is also quite buggy in my opinion (eg loop causes Async in melody by shifting two parts in relationship to each other).
+In the sap it is corrected, but I must mention not all music is taken (I miss some).
+
 
 Teenage_Mutant_Ninja_Turtles.sap
 ok?
