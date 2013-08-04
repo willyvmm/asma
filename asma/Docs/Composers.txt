@@ -2,7 +2,7 @@ Known Atari composers and handles                                 Dec 12 2012
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This list contains only composers who have at least 3 songs in ASMA
 collection. The composers are sorted in ABC order according to their surnames
-(if known, otherwise by their handles). There are 213 composers in this list.
+(if known, otherwise by their handles). There are 214 composers in this list.
 
 Argentina - 1
 Canada - 1
@@ -19,7 +19,7 @@ Poland - 118
 Slovakia - 8
 Sweden - 1
 United Kingdom - 4
-United Kingdom (?) - 5
+United Kingdom (?) - 6
 USA - 10
 Unknown - 24
 
@@ -107,6 +107,7 @@ Iwaszko, Krystian - Pinokio - Poland
 Jaakkola, Juha - Warlord - Finland
 Jacob, Uwe - Modi-soft - Germany
 Jastrzemski, Marcin - Fatman - Poland
+Johnston, Stephen - Fearofdark - United Kingdom (?)
 Johnson, Steve - (?)
 Kalinowski, Bartosz - Bartman - Poland
 Karpowicz, Henryk - Poland
