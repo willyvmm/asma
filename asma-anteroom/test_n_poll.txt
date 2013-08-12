@@ -119,6 +119,11 @@ Arcade_Fruit_Machine.TIME_MISS.sap
 ok?
 
 
+Bugrunner.TIME_MISS.sap
+Very quiet sound of music.
+Play 2. or 3. subsong leads to play 1. subsong after it's end.
+
+
 D-Bug.TIME_MISS.sap
 it's too complicate for pure rip to me, main problem is i hear it's bit diffrent sounds than in game - flatter? - (i don't really know why)
 beside subs.2&3 which are expected to sound diffrent (due $d20a in play)
