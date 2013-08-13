@@ -6,8 +6,7 @@ A music quality doubt.
 
 000cff13.MMMG_soft_demo.#CENSORED#(Marek Goderski(MMMG),1992).cmc
 I'm explaining used fraze #CENSORED# here - it's about original name of this module (very long, but what importante, highly controversial IMO).
-This module (I don't know the reason, but I do wonder) is not able to be heared directly by ASAP as a regular cmc module (but CMC play it without problem).
-Beside of those, a music quality doubt is signaled.
+A music quality (a little rather) doubt.
 
 
 ---
@@ -108,8 +107,6 @@ marok: I'd see this remix in ASMA (quite different than orginal and nice).
 
 \asma-anteroom\sap\..
 
-[marok: the clipped sound in saps with the extension (*_TIME_SHORT-WARNING) are solved and clean now (so they are now erased).]
-
 
 Adalmar_*.sap
 10 songs - all from conversion, I guess. Not sure all of them are worth to be included to the ASMA (due music quality compared to orginal and a significant size).
@@ -187,3 +184,11 @@ In the sap it is corrected, but I must mention not all music is taken (I miss so
 Teenage_Mutant_Ninja_Turtles.sap
 ok?
 
+
+--
+
+\asma-anteroom\sap\Mr_Beep\..
+
+
+All sap files here are from "Beep'em All 3". They have corrected time indications now.
+Should or not be placed in ASMA?
