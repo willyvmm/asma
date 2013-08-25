@@ -3137,6 +3137,11 @@ COMMENT: Covers Hypnosis' disco version, from the album "Hypnosis".
   TITLE: Main Title [from the Amiga game Turrican 2]
  ARTIST: Chris Huelsbeck
 
+### /Composers/Petruzela_Tomas ###############################################
+
+/Composers/Petruzela_Tomas/Flatfish.sap
+COMMENT: 6th place at Forever 5 music compo.
+
 ### /Composers/Piscol_Juergen ################################################
 
 /Composers/Piscol_Juergen/Adagio_Cantabile_and_Rondo.sap
@@ -4762,7 +4767,7 @@ COMMENT: This music is also present in the game Buckaneer by Mastertronic.
 /Composers/Wiegmann_Stefan/Quadron.sap
   TITLE: Close To Me [from The Head on the Door]
  ARTIST: The Cure
- 
+
 ### /Composers/Wisniewski_Mateusz ############################################
 
 /Composers/Wisniewski_Mateusz/High_Tide.sap
@@ -5352,9 +5357,6 @@ COMMENT: 2nd place at Winter Chip II (Best Pokey) music compo.
 /Misc/Final_Fantasy_Prelude.sap
   TITLE: The Prelude [from Final Fantasy IV Piano Collections]
  ARTIST: Nobuo Uematsu
-
-/Misc/Flatfish.sap
-COMMENT: 6th place at Forever 5 music compo.
 
 /Misc/Huhi.sap
 COMMENT: 6th place at Winter Chip II (Best Pokey) music compo.
