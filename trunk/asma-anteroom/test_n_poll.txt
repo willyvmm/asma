@@ -176,6 +176,11 @@ Kangaroo.sap
 Music's duration is very short, additional in the production there is one more if I'm correct (even shorter) piece of music (either not sfx) not contained in the sap.
 
 
+Liken_My_Atari.TIME_MISS.sap
+On the end of music after a long silence it's loop, but then chanells plays a bit shifted to each other, so it's need to be solved.
+File is large because graphics data is inside music data. (I don't know i will be able to remove it.)
+
+
 Mission_die.sap
 In the production this music sounds diffrent but is also quite buggy in my opinion (eg loop causes Async in melody by shifting two parts in relationship to each other).
 In the sap it is corrected, but I must mention not all music is taken (I miss some).
