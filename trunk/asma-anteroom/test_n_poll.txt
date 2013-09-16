@@ -108,10 +108,6 @@ marok: I'd see this remix in ASMA (quite different than orginal and nice).
 \asma-anteroom\sap\..
 
 
-Adalmar_*.sap
-10 songs - all from conversion, I guess. Not sure all of them are worth to be included to the ASMA (due music quality compared to orginal and a significant size).
-
-
 Arcade_Fruit_Machine.TIME_MISS.sap
 ok?
 
@@ -128,35 +124,43 @@ subs.6-8 haven't detected in game and because music in the prod are composited i
 
 
 Desert_Falcon.sap
-Question about existing subsongs.
+Question about existing subsongs. MOVED INTO ASMA NOW.
 
 
 Dr_Seuss.sap
-Question about existing subsongs.
+Question about existing subsongs. MOVED INTO ASMA NOW.
 
 
-Dragonriders_of_Perm.sap, *.SUBSONGS_OVER(5,7,9).sap
-Problem of subsongs not used in game at additional sap (*.SUBSONG_OVER)
-marok: this particular case with overtime subsongs is quite ease, because these are unattractive and two of them also extremly short, but in general I think, not used subsongs in game should be considered to sap (this one title is delivered as an example only).
+Dragonriders_of_Perm.sap
+Question about existing subsongs. MOVED INTO ASMA NOW.
+
+
+Dragonriders_of_Perm.SUBSONGS_OVER(5,7,9).sap
+Problem of subsongs not used in game at *.SUBSONG_OVER
+marok: this particular case with overtime subsongs is quite ease, because these are unattractive and two of them also extremly short, but in general I think, not used subsongs in game should be considered to sap (this one title is delivered as an EXAMPLE ONLY).
 
 
 Drelbs.EXTRACT_SFX_1.sap, Drelbs.EXTRACT_SFX_2.sap
-eventually can join specific sap but is rather questionable it is worth for.
+Eventually can join specific sap but is rather questionable it is worth for.
 
 
-Ducks_Ahoy.sap, Ducks_Ahoy.MUSIC_ONLY.sap
-not sure which of these two choose to ASMA (short subsongs are doubtly interesting)
+Ducks_Ahoy.sap
+Question about existing subsongs. MOVED INTO ASMA NOW.
+
+
+Ducks_Ahoy.MUSIC_ONLY.sap
+Alternative version.
 
 
 Fidget.SUBSONGS_INCLUDE(1).sap
-alternative version with additional subsong (can eventually replace current asma-version)
+Alternative version with additional subsong (can eventually replace current asma-version)
 
 
-Floyd_of_the_Jungle.sap, Floyd_of_the_Jungle.MUSIC_ONLY.sap
-A waiting for decision of choise between versions.
+Floyd_of_the_Jungle.ALL_SOUND.sap, Floyd_of_the_Jungle.MUSIC_ONLY.sap
+Waiting for decision of choise between versions.
 
 
-Gangway.sap
+Gangway.ALL_SOUND.sap
 Question about existing subsongs.
 
 
@@ -169,7 +173,7 @@ A music quality doubt.
 
 
 Jawbreaker.sap
-Not too short nor fairly interesting?
+Not too short nor fairly interesting? MOVED INTO ASMA NOW. (Positive opinion)
 
 
 Kangaroo.sap
@@ -183,6 +187,10 @@ In the sap it is corrected, but I must mention not all music is taken (I miss so
 
 Olde_Gold.sap
 A music quality doubt.
+
+
+Return_of_Heracles.ALL_SOUND.sap
+Question about existing subsongs.
 
 
 Teenage_Mutant_Ninja_Turtles.sap
