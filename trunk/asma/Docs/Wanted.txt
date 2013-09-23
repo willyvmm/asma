@@ -6,7 +6,7 @@ Kemal Ezcan
  0 Grad Nord,  Antquest,  Ashido,  Atlantis,  Atomic Gnom,  Bomb,  Bomber Jack,
  Bros,  Castle Mania,  Chromatics,  Cultivation,  Digout,  Donald,  Drag,  Dredis,
  Escape from Earth,  Fire,  Hotel,  Jumpin' Spider,  Jupiter Lander,  Lasermaze,
- Monster Hunt,  Oblitroid,  Pungo,  Pungoland,  Shit,  Ski Weltcup,  Sogon,
+ Monster Hunt,  Oblitroid,  Pungo,  Pungoland,  Shit,  Sogon,
  Spider (demo),  Spider,  Super Miner,  Tecno-Ninja,  The Brundles,
  The Laser Robot,  Time Bandit,  Tinory Quest,  Tobot,  Tobot Part I,
  Vektor,  Zador,  Zebu-Land
@@ -133,21 +133,15 @@ Replugged, Microx ingame songs
 - Puzzle Panic (IF, missing songs)
 - Pyramidos
 - Racing Destruction Set
-- Ringmaster
-- Run For The Money
-- Saracen
 - Sea Falcon IV
-- Seahorses (Sea Horse Hide'n Seek)
-- Sereamis
 - Sherlock Holmes
-- Shoot'em Up (Rino Marketing)
-- Show Down
 - Showdown Hockey!
 - Sidewinder
 - Silicon
 - Silly Planter
 - Skateboard
 - Ski King
+- Ski Weltcup
 - Skinhead Story (3 parts)
 - Sky Blazer (NTSC only)
 - Sky Scraper

@@ -193,6 +193,10 @@ Return_of_Heracles.ALL_SOUND.sap
 Question about existing subsongs.
 
 
+Seahorses.ALL_SOUND.sap
+Alternative version. Questionable subsongs.
+
+
 Teenage_Mutant_Ninja_Turtles.sap
 ok?
 
