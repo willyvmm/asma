@@ -11,8 +11,6 @@ Kemal Ezcan
  The Laser Robot,  Time Bandit,  Tinory Quest,  Tobot,  Tobot Part I,
  Vektor,  Zador,  Zebu-Land
 
-Filip Oscadal (Fred Brooker)
-Replugged, Microx ingame songs
 
 *** Classic games: ***
 
@@ -23,6 +21,7 @@ Replugged, Microx ingame songs
 - Adebar
 - Admirandus
 - Advanced Pinball Simulator
+- Agent USA
 - Airball
 - Air Rescue
 - Air Rescue I
@@ -72,6 +71,7 @@ Replugged, Microx ingame songs
 - Choplifter!
 - Chopper Rescue
 - Cimex Rex
+- Circo Bianco
 - Citadel Warrior
 - Clipper
 - Cohen's Towers
@@ -126,6 +126,7 @@ Replugged, Microx ingame songs
 - Ortografia (v1)
 - Othello II
 - Pharaoh's Pyramid
+- Plantation
 - Platoon
 - Pogo Joe
 - Pondering about Max's (4 sections: The Dream, P.A.M., Barroom Brawl, Finis)
@@ -133,6 +134,7 @@ Replugged, Microx ingame songs
 - Puzzle Panic (IF, missing songs)
 - Pyramidos
 - Racing Destruction Set
+- Rock 'n' Rhythm
 - Sea Falcon IV
 - Sherlock Holmes
 - Silly Planter
@@ -157,6 +159,7 @@ Replugged, Microx ingame songs
 - Star League Baseball
 - Star Wars (Zeppelin Games)
 - Stargunner
+- Story Machine
 - Storyline
 - Strange Land
 - Summer Games
@@ -194,6 +197,8 @@ Replugged, Microx ingame songs
 - Thrust
 - Tigris
 - Timezone (coding done by JAC!)
+- Tinka's Mazes
+- Tink's Adventure
 - TKKG Nr.:2
 - Tonk In The Land Of Buddy-Bots
 - Topographie Deutschland
@@ -209,6 +214,7 @@ Replugged, Microx ingame songs
 - Tricky Tracks
 - Trivia Quest
 - Tron - The Race!
+- Tuk Goes to Town
 - Twerps
 - Twirlybird
 - Ultima III
@@ -229,6 +235,7 @@ Replugged, Microx ingame songs
 - Whomper Stomper
 - Wille
 - Winter Events
+- Word Flyer
 - Wustoy's
 - Xari Arena
 - Xtal
