@@ -11,7 +11,7 @@ A music quality (a little rather) doubt.
 
 ---
 
-asma-anteroom\module\UNCERTAIN\David Spilka (Datri)\cmc\..
+asma-anteroom\module\UNCERTAIN\..
 A shared uncertain for all files in the folder is similarity to ASMA sap (or any orginal music not sap'ed yet).
 My propose (marok) is if similarity sap exists decide what to do next with the module - because that's not 'one way traffic', if it not exists it's more clear and the door to ASMA collection is basically open.
 
