@@ -11,6 +11,11 @@ Composers/Buettner_Falk/Mystix_Teil_1_music_3.sap
 Composers/Buettner_Falk/Pussytalk.sap
 Composers/Chema64/Megameng_II.sap
 Composers/Chema64/Dubtrip.sap
+Composers/Cornelius_Orall/Sidewinder.sap
+Composers/Cornelius_Orall/Thunderfox.sap
+Composers/Dramczyk_Bartlomiej/Hard_Core_Test.sap
+Composers/Dramczyk_Bartlomiej/Level_One.sap
+Composers/Dramczyk_Bartlomiej/Static_Stasis.sap
 Composers/Eisenhammer_Zdenek/Just_Be_Happy.sap
 Composers/Eisenhammer_Zdenek/New_Direction.sap
 Composers/Eisenhammer_Zdenek/Rolltris.sap
@@ -34,15 +39,21 @@ Composers/Gretzschel_Dieter/Rondo_alla_Turca.sap
 Composers/Jaakkola_Juha/Chain_Reaction.sap
 Composers/Johnston_Stephen/Compo_of _Epic_Proportions.sap
 Composers/Johnston_Stephen/Day_the_Sun_Exploded.sap
+Composers/Husak_Jakub/Radioactivity.sap
 Composers/Krix_Mario/Alloy.sap
 Composers/Krix_Mario/Speedway_One.sap
 Composers/Kucisz_Tomasz/Wielblady_2.sap
+Composers/Lis_Piotr/Cantaloopatari.sap
 Composers/Lis_Piotr/Chip_Spring_Tune.sap
 Composers/Lis_Piotr/Factorizer.sap
 Composers/Lis_Piotr/Let_Me_See_You_Dance.sap
 Composers/Lis_Piotr/We_Are_Brothers_in_Atrs.sap
 Composers/Nedved_Vojtech/Citoplazma.sap
 Composers/null1024/Spacebend.sap
+Composers/Oscadal_Filip/Jean_Michael_Jarre.sap
+Composers/Oscadal_Filip/Microx.sap
+Composers/Oscadal_Filip/Skinhead_Story.sap
+Composers/Oscadal_Filip/Skinhead_Story_Demo.sap
 Composers/Petrik_Alan/Atari_Style.sap
 Composers/Petrik_Alan/Rasterizer.sap
 Composers/Petruzela_Tomas/Viva_Las_Vegas.sap
@@ -56,7 +67,13 @@ Composers/Radecki_Michal/Hunt_Intro.sap
 Composers/Radecki_Michal/Hunt_Picture.sap
 Composers/Rogers_Charles/Is_Lounge_Theta_6.sap
 Composers/Rogers_Charles/Quest_For_Cool.sap
+Composers/Spielmans_Martin/Sea_Fighter.sap
+Composers/Sterba_Radek/Fluid_Chessboard.sap
 Composers/Sterba_Radek/Head_On.sap
+Composers/Stuermer_Armin/Tales_of_Dragons_and_Cav.sap
+Composers/Szpilowski_Michal/Druid.sap
+Composers/Szpilowski_Michal/Soccer_Pong.sap
+Composers/Szpilowski_Michal/There_Are_Many_Sheep_in_Outer_M.sap
 Composers/Top_Odin/Ghastly_Night.sap
 Composers/Wieczorkowski_Bartlomiej/Old_School_VBXE.sap
 Composers/Wieczorkowski_Bartlomiej/RoboType.sap
@@ -209,4 +226,5 @@ Misc/Relax_Kaleidoscope.sap
 Misc/Wall_of_Fuzz.sap
 Unknown/Forever_Young.sap
 Unknown/Funky_softsynth.sap
+Unknown/Music_Painter.sap
 Unknown/Ode_an_die_Freude.sap
