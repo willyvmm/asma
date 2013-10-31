@@ -21,9 +21,6 @@ Composers/Feske_Nils/Helicops_title.sap
 Composers/Feske_Nils/Metri.sap
 Composers/Feske_Nils/Revision.sap
 Composers/Foerst_Kai/Zarka.sap
-Composers/Jaakkola_Juha/Chain_Reaction.sap
-Composers/Johnston_Stephen/Compo_of _Epic_Proportions.sap
-Composers/Johnston_Stephen/Day_the_Sun_Exploded.sap
 Composers/Garrido_Daniel/Pixel_Kabum.sap
 Composers/Gilbertson_Gary/Airstrike.sap
 Composers/Gilbertson_Gary/Altreality.sap
@@ -34,6 +31,10 @@ Composers/Gilbertson_Gary/Robotman.sap
 Composers/Gretzschel_Dieter/Mozart_KV_331_Thema_1_Satz.sap
 Composers/Gretzschel_Dieter/Petit_Prelude.sap
 Composers/Gretzschel_Dieter/Rondo_alla_Turca.sap
+Composers/Jaakkola_Juha/Chain_Reaction.sap
+Composers/Johnston_Stephen/Compo_of _Epic_Proportions.sap
+Composers/Johnston_Stephen/Day_the_Sun_Exploded.sap
+Composers/Krix_Mario/Alloy.sap
 Composers/Krix_Mario/Speedway_One.sap
 Composers/Kucisz_Tomasz/Wielblady_2.sap
 Composers/Lis_Piotr/Chip_Spring_Tune.sap
@@ -49,6 +50,7 @@ Composers/Radecki_Michal/Assembloids_XE.sap
 Composers/Radecki_Michal/Far_Away.sap
 Composers/Radecki_Michal/Deathchase_XE_Game.sap
 Composers/Radecki_Michal/Deathchase_XE_Intro.sap
+Composers/Radecki_Michal/Deathchase_XE_Loading.sap
 Composers/Radecki_Michal/Hunt_Game.sap
 Composers/Radecki_Michal/Hunt_Intro.sap
 Composers/Radecki_Michal/Hunt_Picture.sap
@@ -72,6 +74,7 @@ Games/Despatch_Rider.sap
 Games/Dog_Daze_Deluxe.sap
 Games/Donkey_Kong.sap
 Games/Donkey_Kong_Junior.sap
+Games/Dragonriders_of_Perm.sap
 Games/Drelbs.sap
 Games/Enigmatix.sap
 Games/Erosion.sap
@@ -104,6 +107,7 @@ Games/Im_Namen_des_Koenigs.sap
 Games/Immobilo.sap
 Games/Inferno.sap
 Games/Jaw_Breaker_2.sap
+Games/Jawbreaker.sap
 Games/Jumpman.sap
 Games/Jumpman_Junior.sap
 Games/Kaiser.sap
@@ -142,6 +146,7 @@ Games/Nightmares.sap
 Games/Nordic_Ski.sap
 Games/Omidor.sap
 Games/Oxygene.sap
+Games/Ozzys_Orchard.sap
 Games/P_O_W_.sap
 Games/Paver.sap
 Games/Pengo.sap
@@ -155,8 +160,34 @@ Games/Planet_Attack.sap
 Games/Plattermania.sap
 Games/Playful_Professor.sap
 Games/Plop.sap
+Games/Pogoman.sap
 Games/Pole_Position.sap
+Games/Popeye.sap
+Games/Puzzle_Panic.sap
+Games/Puzzlito.sap
+Games/Q_Bert.sap
+Games/Quarxon.sap
+Games/Questron.sap
+Games/Rat_Race.sap
+Games/Rescue_on_Fractalus.sap
+Games/Ringmaster.sap
+Games/Rock_n_Rhythm.sap
+Games/Run_for_the_Money.sap
+Games/Saracen.sap
 Games/Sea_Fighter.sap
+Games/Seahorses.sap
+Games/Sereamis.sap
+Games/Shoot_em_Up.sap
+Games/Show_Down.sap
+Games/Showdown_Hockey.sap
+Games/Silicon.sap
+Games/Skateboard.sap
+Games/Sky_Blazer.sap
+Games/Skywriter.sap
+Games/Slime.sap
+Games/Smasher.sap
+Games/Star_Wars.sap
+Games/Storyline.sap
 Games/Trailblazer.sap
 Games/Unicum.sap
 Games/X_8.sap
