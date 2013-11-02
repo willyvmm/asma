@@ -88,7 +88,6 @@ Kemal Ezcan
 - Crazy Quader
 - Crime Buster
 - Crisis Mountain
-- Crownland (preview)
 - Crusade in Europe
 - Crypt Of The Undead
 - Cygnus X1
@@ -142,9 +141,6 @@ Kemal Ezcan
 - Slot Trivia
 - Smuffies' World
 - Space Goon Spelling
-- Spare Change
-- Spark Bugs
-- Speed - Puzzle
 - Spelldiver
 - Sprong
 - Star Fleet
