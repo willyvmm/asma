@@ -1,12 +1,7 @@
 asma-anteroom\module\
 
-00304b37.MMMG_soft_demo.Bitwy_Morskie(Marek Goderski(MMMG),1992).cmc
-A music quality doubt.
-
-
-000cff13.MMMG_soft_demo.#CENSORED#(Marek Goderski(MMMG),1992).cmc
-I'm explaining used fraze #CENSORED# here - it's about original name of this module (very long, but what importante, highly controversial IMO).
-A music quality (a little rather) doubt.
+0097869e.(Adam Bienias (SoTe)).mpt
+Adam Bienias is the author? Name, date?
 
 
 ---
@@ -123,18 +118,6 @@ beside subs.2&3 which are expected to sound diffrent (due $d20a in play)
 subs.6-8 haven't detected in game and because music in the prod are composited i had to guess them (i have matched 5 components to 3 songs)
 
 
-Desert_Falcon.sap
-Question about existing subsongs. MOVED INTO ASMA NOW.
-
-
-Dr_Seuss.sap
-Question about existing subsongs. MOVED INTO ASMA NOW.
-
-
-Dragonriders_of_Perm.sap
-Question about existing subsongs. MOVED INTO ASMA NOW.
-
-
 Dragonriders_of_Perm.SUBSONGS_OVER(5,7,9).sap
 Problem of subsongs not used in game at *.SUBSONG_OVER
 marok: this particular case with overtime subsongs is quite ease, because these are unattractive and two of them also extremly short, but in general I think, not used subsongs in game should be considered to sap (this one title is delivered as an EXAMPLE ONLY).
@@ -156,49 +139,16 @@ Fidget.SUBSONGS_INCLUDE(1).sap
 Alternative version with additional subsong (can eventually replace current asma-version)
 
 
-Floyd_of_the_Jungle.ALL_SOUND.sap, Floyd_of_the_Jungle.MUSIC_ONLY.sap
-Waiting for decision of choise between versions.
-
-
-Gangway.ALL_SOUND.sap
-Question about existing subsongs.
-
-
-Ice.sap
-A music quality doubt.
-
-
-Into_the_Eagles_Nest.sap
-A music quality doubt.
-
-
-Jawbreaker.sap
-Not too short nor fairly interesting? MOVED INTO ASMA NOW. (Positive opinion)
-
-
-Kangaroo.sap
-Music's duration is very short, additional in the production there is one more if I'm correct (even shorter) piece of music (either not sfx) not contained in the sap.
-
-
-Mission_die.sap
-In the production this music sounds diffrent but is also quite buggy in my opinion (eg loop causes Async in melody by shifting two parts in relationship to each other).
-In the sap it is corrected, but I must mention not all music is taken (I miss some).
-
-
-Olde_Gold.sap
-A music quality doubt.
-
-
-Return_of_Heracles.ALL_SOUND.sap
-Question about existing subsongs.
+Floyd_of_the_Jungle.MUSIC_ONLY.sap
+Alternative versions.
 
 
 Seahorses.ALL_SOUND.sap
 Alternative version. Questionable subsongs.
 
 
-Stargunner.sap
-A music quality doubt.
+Spark_Bugs.sap
+Really bad.
 
 
 Teenage_Mutant_Ninja_Turtles.sap
@@ -206,9 +156,3 @@ ok?
 
 
 --
-
-\asma-anteroom\sap\Mr_Beep\..
-
-
-All sap files here are from "Beep'em All 3". They have corrected time indications now.
-Should or not be placed in ASMA?
