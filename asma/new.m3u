@@ -31,6 +31,7 @@ Composers/Feske_Nils/Fireworks.sap
 Composers/Feske_Nils/Frantic.sap
 Composers/Feske_Nils/Helicops_title.sap
 Composers/Feske_Nils/Metri.sap
+Composers/Feske_Nils/Nightlore.sap
 Composers/Feske_Nils/Revision.sap
 Composers/Foerst_Kai/Zarka.sap
 Composers/Garrido_Daniel/Pixel_Kabum.sap
@@ -40,6 +41,7 @@ Composers/Gilbertson_Gary/Cosmic.sap
 Composers/Gilbertson_Gary/Liken_My_Atari.sap
 Composers/Gilbertson_Gary/Recondocheckerboard.sap
 Composers/Gilbertson_Gary/Robotman.sap
+Composers/Grayscale/Wasiel_Bartek/Triple_Threat.sap
 Composers/Gretzschel_Dieter/Mozart_KV_331_Thema_1_Satz.sap
 Composers/Gretzschel_Dieter/Petit_Prelude.sap
 Composers/Gretzschel_Dieter/Rondo_alla_Turca.sap
@@ -90,15 +92,18 @@ Composers/Petrik_Alan/Squeeker_3.sap
 Composers/Petrik_Alan/Squeeker_4.sap
 Composers/Petruzela_Tomas/Viva_Las_Vegas.sap
 Composers/Radecki_Michal/Assembloids_XE.sap
-Composers/Radecki_Michal/Far_Away.sap
 Composers/Radecki_Michal/Deathchase_XE_Game.sap
 Composers/Radecki_Michal/Deathchase_XE_Intro.sap
 Composers/Radecki_Michal/Deathchase_XE_Loading.sap
+Composers/Radecki_Michal/Desire.sap
+Composers/Radecki_Michal/Far_Away.sap
+Composers/Radecki_Michal/Fresh_Meat.sap
 Composers/Radecki_Michal/Hunt_Game.sap
 Composers/Radecki_Michal/Hunt_Intro.sap
 Composers/Radecki_Michal/Hunt_Picture.sap
 Composers/Radecki_Michal/Kiki_Pong.sap
 Composers/Radecki_Michal/Too_Silly.sap
+Composers/Radecki_Michal/We_Are_Retro.sap
 Composers/Rogers_Charles/Is_Lounge_Theta_6.sap
 Composers/Rogers_Charles/Quest_For_Cool.sap
 Composers/Spielmans_Martin/Sea_Fighter.sap
@@ -273,6 +278,7 @@ Misc/Afrikan_Drummer_Team.sap
 Misc/Artificial_Stars.sap
 Misc/Bitwy_Morskie.sap
 Misc/Electronic.sap
+Misc/Fastfunk.sap
 Misc/Forever_or_Never.sap
 Misc/Meanwhile_in_Pokeyland.sap
 Misc/Mutable.sap
@@ -280,6 +286,7 @@ Misc/Noname_MMMG.sap
 Misc/Over_the_Rainbow.sap
 Misc/Push_Up.sap
 Misc/Relax_Kaleidoscope.sap
+Misc/So_Serious_Demo.sap
 Misc/Wall_of_Fuzz.sap
 Misc/What_Is_Love.sap
 Unknown/Forever_Young.sap
