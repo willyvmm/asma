@@ -22,6 +22,8 @@ Composers/Cornelius_Orall/Thunderfox.sap
 Composers/Dramczyk_Bartlomiej/Hard_Core_Test.sap
 Composers/Dramczyk_Bartlomiej/Level_One.sap
 Composers/Dramczyk_Bartlomiej/Static_Stasis.sap
+Composers/Dramczyk_Bartlomiej/Sweet_Happens.sap
+Composers/Duma_Dariusz/Moment_of_Stop.sap
 Composers/Eisenhammer_Zdenek/Just_Be_Happy.sap
 Composers/Eisenhammer_Zdenek/New_Direction.sap
 Composers/Eisenhammer_Zdenek/Rolltris_Game.sap
@@ -41,23 +43,28 @@ Composers/Gilbertson_Gary/Cosmic.sap
 Composers/Gilbertson_Gary/Liken_My_Atari.sap
 Composers/Gilbertson_Gary/Recondocheckerboard.sap
 Composers/Gilbertson_Gary/Robotman.sap
+Composers/Grayscale/Wasiel_Bartek/Heavy_Traffic.sap
+Composers/Grayscale/Wasiel_Bartek/Illusive.sap
 Composers/Grayscale/Wasiel_Bartek/Triple_Threat.sap
 Composers/Gretzschel_Dieter/Mozart_KV_331_Thema_1_Satz.sap
 Composers/Gretzschel_Dieter/Petit_Prelude.sap
 Composers/Gretzschel_Dieter/Rondo_alla_Turca.sap
+Composers/Husak_Jakub/Mylotremylaza.sap
+Composers/Husak_Jakub/Radioactivity.sap
 Composers/Irrlicht_Project/Another_Music_Studio_Hit.sap
 Composers/Irrlicht_Project/No_Summer_for_Antipodes.sap
 Composers/Jaakkola_Juha/Chain_Reaction.sap
 Composers/Johnston_Stephen/Compo_of _Epic_Proportions.sap
 Composers/Johnston_Stephen/Day_the_Sun_Exploded.sap
-Composers/Husak_Jakub/Radioactivity.sap
 Composers/Krix_Mario/Alloy.sap
 Composers/Krix_Mario/Speedway_One.sap
 Composers/Kucisz_Tomasz/Wielblady_2.sap
+Composers/Lis_Piotr/Amaze_Me.sap
 Composers/Lis_Piotr/Cantaloopatari.sap
 Composers/Lis_Piotr/Chip_Spring_Tune.sap
 Composers/Lis_Piotr/Factorizer.sap
 Composers/Lis_Piotr/Let_Me_See_You_Dance.sap
+Composers/Lis_Piotr/Silly_Denture.sap
 Composers/Lis_Piotr/We_Are_Brothers_in_Atrs.sap
 Composers/Mister_Beep/1_bit_Chase.sap
 Composers/Mister_Beep/A_Thousand_Furious_Bees.sap
@@ -96,6 +103,7 @@ Composers/Radecki_Michal/Deathchase_XE_Game.sap
 Composers/Radecki_Michal/Deathchase_XE_Intro.sap
 Composers/Radecki_Michal/Deathchase_XE_Loading.sap
 Composers/Radecki_Michal/Desire.sap
+Composers/Radecki_Michal/Energy.sap
 Composers/Radecki_Michal/Far_Away.sap
 Composers/Radecki_Michal/Fresh_Meat.sap
 Composers/Radecki_Michal/Hunt_Game.sap
@@ -277,6 +285,7 @@ Games/Zone_X.sap
 Misc/Afrikan_Drummer_Team.sap
 Misc/Artificial_Stars.sap
 Misc/Bitwy_Morskie.sap
+Misc/Chip_Chop.sid
 Misc/Electronic.sap
 Misc/Fastfunk.sap
 Misc/Forever_or_Never.sap
@@ -287,6 +296,7 @@ Misc/Over_the_Rainbow.sap
 Misc/Push_Up.sap
 Misc/Relax_Kaleidoscope.sap
 Misc/So_Serious_Demo.sap
+Misc/Surprise_2.sap
 Misc/Wall_of_Fuzz.sap
 Misc/What_Is_Love.sap
 Unknown/Forever_Young.sap
