@@ -103,8 +103,8 @@ marok: I'd see this remix in ASMA (quite different than orginal and nice).
 \asma-anteroom\sap\..
 
 
-Arcade_Fruit_Machine.TIME_MISS.sap
-ok?
+Arcade_Fruit_Machine.sap
+Please test it (some very short sub-musics).
 
 
 Bugrunner.TIME_MISS.sap
