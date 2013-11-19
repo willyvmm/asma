@@ -53,6 +53,9 @@ Composers/Gretzschel_Dieter/Rondo_alla_Turca.sap
 Composers/Husak_Jakub/Mylotremylaza.sap
 Composers/Husak_Jakub/Radioactivity.sap
 Composers/Irrlicht_Project/Another_Music_Studio_Hit.sap
+Composers/Irrlicht_Project/Endgames.sap
+Composers/Irrlicht_Project/LZTEK2.sap 
+ Composers/Irrlicht_Project/Marodeurs_Rag.sap
 Composers/Irrlicht_Project/No_Summer_for_Antipodes.sap
 Composers/Jaakkola_Juha/Chain_Reaction.sap
 Composers/Johnston_Stephen/Compo_of _Epic_Proportions.sap
@@ -68,22 +71,31 @@ Composers/Lis_Piotr/Let_Me_See_You_Dance.sap
 Composers/Lis_Piotr/Silly_Denture.sap
 Composers/Lis_Piotr/We_Are_Brothers_in_Atrs.sap
 Composers/Mister_Beep/1_bit_Chase.sap
+Composers/Mister_Beep/1_bit_Synthetic.sap 
+Composers/Mister_Beep/1_bit_Synthetic_II.sap
 Composers/Mister_Beep/A_Thousand_Furious_Bees.sap
 Composers/Mister_Beep/Binary_Universe.sap
 Composers/Mister_Beep/File_Not_Found.sap
+Composers/Mister_Beep/Galactic_Cursing.sap
+Composers/Mister_Beep/Game_is_Over.sap
 Composers/Mister_Beep/Horaces_Adventure.sap
 Composers/Mister_Beep/In_the_Mystic_Woods.sap
 Composers/Mister_Beep/Insanity.sap
 Composers/Mister_Beep/Massive_Implosion.sap
+Composers/Mister_Beep/Ninth_Fighter_Ship.sap
+Composers/Mister_Beep/Nuthouse.sap
 Composers/Mister_Beep/Pacman_will_Eat_You_Alive.sap
+Composers/Mister_Beep/Powermetal_1.sap 
+Composers/Mister_Beep/Powermetal_2.sap
 Composers/Mister_Beep/Psionic_Activity.sap
 Composers/Mister_Beep/Reductio_ad_Nihilum.sap
 Composers/Mister_Beep/Save_the_Kingdom.sap
 Composers/Mister_Beep/Single_Jingle.sap
+Composers/Mister_Beep/Slowing_Down_the_Chaos.sap
 Composers/Mister_Beep/Sonido_Electronico.sap
 Composers/Mister_Beep/Spring_is_Coming.sap
-Composers/Mister_Beep/The_Game_is_Over.sap
-Composers/Mister_Beep/The_Ninth_Fighter_Ship.sap
+Composers/Mister_Beep/Stone_Circle_of_Devil.sap
+Composers/Mister_Beep/Tritone_and_Mermaind.sap
 Composers/Mister_Beep/Where_ is_Volume_Control.sap
 Composers/Mister_Beep/White_Hot_Iron.sap
 Composers/Nedved_Vojtech/Citoplazma.sap
@@ -119,6 +131,8 @@ Composers/Rogers_Charles/Quest_For_Cool.sap
 Composers/Spielmans_Martin/Sea_Fighter.sap
 Composers/Sterba_Radek/Fluid_Chessboard.sap
 Composers/Sterba_Radek/Head_On.sap
+Composers/Strobe/Droid.sap 
+ Composers/Strobe/Scylla.sap
 Composers/Stuermer_Armin/Mikes_Slot_Machine_II.sap
 Composers/Stuermer_Armin/Tales_of_Dragons_and_Cav.sap
 Composers/Szpilowski_Michal/Druid.sap
@@ -290,6 +304,7 @@ Misc/Bitwy_Morskie.sap
 Misc/Chip_Chop.sid
 Misc/Electronic.sap
 Misc/Forever_or_Never.sap
+Misc/Levels_of_Doom.sap
 Misc/Meanwhile_in_Pokeyland.sap
 Misc/Mutable.sap
 Misc/Noname_MMMG.sap
@@ -299,6 +314,7 @@ Misc/Relax_Kaleidoscope.sap
 Misc/So_Serious_Demo.sap
 Misc/Surprise.sap
 Misc/Surprise_2.sap
+Misc/Tritona_Explodarium.sap
 Misc/Wall_of_Fuzz.sap
 Misc/What_Is_Love.sap
 Unknown/Forever_Young.sap
