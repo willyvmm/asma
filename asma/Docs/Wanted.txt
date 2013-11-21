@@ -15,7 +15,6 @@ Kemal Ezcan
 *** Classic games: ***
 
 - Ace Of Aces
-- A.D. 2044 Sexmisja
 - Adebar
 - Admirandus
 - Advanced Pinball Simulator
@@ -139,7 +138,6 @@ Kemal Ezcan
 - Slot Trivia
 - Smuffies' World
 - Space Goon Spelling
-- Spelldiver
 - Sprong
 - Star Fleet
 - Star League Baseball
