@@ -2,7 +2,7 @@ Known Atari composers and handles                                 Dec 12 2012
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This list contains only composers who have at least 3 songs in ASMA
 collection. The composers are sorted in ABC order according to their surnames
-(if known, otherwise by their handles). There are 218 composers in this list.
+(if known, otherwise by their handles). There are 219 composers in this list.
 
 Argentina - 1
 Canada - 1
@@ -20,7 +20,7 @@ Slovakia - 8
 Sweden - 1
 United Kingdom - 4
 United Kingdom (?) - 6
-USA - 10
+USA - 11
 Unknown - 24
 
 <?> - Anal-lysator - Poland
@@ -205,6 +205,7 @@ Skrzypek, Tomasz - Bloomer - Poland
 Skwiot, Stanislaw - Stanley - Poland
 Sledz, Slawek - Slaves - Poland
 Sniegon, Daniel - Poland
+Snyder, Tom - USA
 Soelbrandt, Stefan - Germany
 Spielmans, Martin - Spueli Soft - (?)
 Sporka, Adam - AdamJ - Czech Republic
