@@ -107,6 +107,10 @@ AD_2044_Sexmisja.ALL_SOUND__TIME_MISS.sap
 Alt. version.
 
 
+Advanced_Pinball_Simulator.ALL_SOUND__TIME_MISS.sap
+Needs some extra work on it (maybe size optimalization or at least solve ending part of subsongs). Also there are very-very similar subsongs in sap and one doublet.
+
+
 Arcade_Fruit_Machine.sap
 Please test it (some very short sub-musics).
 
