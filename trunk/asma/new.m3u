@@ -56,7 +56,7 @@ Composers/Husak_Jakub/Radioactivity.sap
 Composers/Irrlicht_Project/Another_Music_Studio_Hit.sap
 Composers/Irrlicht_Project/Endgames.sap
 Composers/Irrlicht_Project/LZTEK2.sap
- Composers/Irrlicht_Project/Marodeurs_Rag.sap
+Composers/Irrlicht_Project/Marodeurs_Rag.sap
 Composers/Irrlicht_Project/No_Summer_for_Antipodes.sap
 Composers/Jaakkola_Juha/Chain_Reaction.sap
 Composers/Johnston_Stephen/Compo_of _Epic_Proportions.sap
@@ -133,7 +133,7 @@ Composers/Spielmans_Martin/Sea_Fighter.sap
 Composers/Sterba_Radek/Fluid_Chessboard.sap
 Composers/Sterba_Radek/Head_On.sap
 Composers/Strobe/Droid.sap 
- Composers/Strobe/Scylla.sap
+Composers/Strobe/Scylla.sap
 Composers/Stuermer_Armin/Mikes_Slot_Machine_II.sap
 Composers/Stuermer_Armin/Tales_of_Dragons_and_Cav.sap
 Composers/Snyder_Tom/Agent_USA.sap
@@ -158,6 +158,10 @@ Composers/Wiegmann_Stefan/Quadron.sap
 Composers/Wisniewski_Mateusz/Crownland.sap
 Composers/Wisniewski_Mateusz/Crownland_preview.sap
 Games/Abracadabra.sap
+Games/Airball.sap
+Games/Ali_Baba_and_the_40_Thieves.sap
+Games/Air_Rescue.sap
+Games/Air_Rescue_I.sap
 Games/Assault_on_the_Astral_Rift.sap
 Games/Asteroidz.sap
 Games/Balloon.sap
@@ -296,6 +300,7 @@ Games/Sky_Blazer.sap
 Games/Skywriter.sap
 Games/Slime.sap
 Games/Smasher.sap
+Games/Snake.sap
 Games/Space_Bumpers.sap
 Games/Space_Cowboy.sap
 Games/Spare_Change.sap
