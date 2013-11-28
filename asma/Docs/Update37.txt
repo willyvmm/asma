@@ -4,7 +4,7 @@ Date: Dec 06, 2013
 These rips together with the original ASMA collection will make version 3.7
 of the ASMA (out of version 3.6).
 
-Number of new tunes: 365
+Number of new tunes: 366
 Credits fixes: 27
 Better/bugfixed rips: 216
 Removed files: 7
@@ -333,6 +333,7 @@ Games/Rescue_on_Fractalus.sap
 Games/Return_of_Heracles.sap
 Games/Ringmaster.sap
 Games/Rock_n_Rhythm.sap
+Games/Roxblox.sap
 Games/Run_for_the_Money.sap
 Games/Saracen.sap
 Games/Sea_Fighter.sap
