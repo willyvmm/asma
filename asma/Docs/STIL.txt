@@ -1,8 +1,8 @@
 ﻿##############################################################################
 #
-#  STIL v3.6 - SAP Tune Information List
+#  STIL v3.7 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1431
+#  Total number of entries: 1500
 #
 ##############################################################################
 #
@@ -144,7 +144,7 @@ COMMENT: Music starts at 0:04.
 COMMENT: 2nd place at Shadows Party 1994 music compo.
 
 /Composers/Bienias_Adam/Happy_Train_to_Kin_Sampled.sap
-COMMENT: Same as /Composers/Bienias_Adam/Happy_Train_to_Kingdom_of.sap with
+COMMENT: Same as /Composers/Bienias_Adam/Happy_Train_to_Kingdom_ofsapwith
          digitized drums.
 
 /Composers/Bienias_Adam/Hebdzie_1.sap
@@ -209,7 +209,7 @@ COMMENT: Same as /Composers/Bienias_Adam/Train.sap
 /Composers/Bienias_Adam/Tank.sap
   TITLE: Tank Title [from the Amiga game Future Tank]
  ARTIST: Karsten Obarski
-COMMENT: Same as /Composers/Bienias_Adam/Digital_Bonanza.sap with digitized
+COMMENT: Same as /Composers/Bienias_Adam/Digital_Bonanzasapwith digitized
          drums.
 
 /Composers/Bienias_Adam/Techno_Florid.sap
@@ -221,6 +221,10 @@ COMMENT: Same as /Composers/Bienias_Adam/Digital_Bonanza.sap with digitized
  ARTIST: Edvin Fladen (Random Voice)
 
 ### /Composers/Billyard_Adam #################################################
+
+/Composers/Billyard_Adam/Elektra_Glide.sap
+  TITLE: Elektra Glide
+ ARTIST: Yekao
 
 /Composers/Billyard_Adam/Henri.sap
   TITLE: Two-Part Invention No.13, in A minor (BWV 784)
@@ -349,6 +353,16 @@ COMMENT: Music from the game 'Patrol In The Space' released in 2011.
 /Composers/Brzezicki_Michal/Vlong.sap
 COMMENT: Music from the game 'Spy Master' released by L.K. Avalon in 1993.
 
+### /Composers/Buettner_Falk #################################################
+
+/Composers/Buettner_Falk/Alf.sap
+  TITLE: ALF Theme [from the TV series]
+ ARTIST: Tom Kramer & Alf Clausen
+
+/Composers/Buettner_Falk/Demons_Revenge.sap
+  TITLE: demons revenge (1) [from the Amiga SoundTracker module]
+ ARTIST: Number One
+
 ### /Composers/Ce_Pumpkin ####################################################
 
 /Composers/Ce_Pumpkin/Mindthumper.sap
@@ -407,8 +421,6 @@ COMMENT: Also used in "GoldRunner" on the Atari ST.
 
 /Composers/Chamberlain_Craig/Londonderry_Air.sap
   TITLE: Londonderry Air (National Anthem of the Northern Ireland)
- ARTIST: <?>
-  TITLE: Londonderry Air
  ARTIST: Danny Boy
 
 /Composers/Chamberlain_Craig/Musette.sap
@@ -1204,6 +1216,8 @@ COMMENT: Music from the game 'Fatum' released by ASF in 1993.
 COMMENT: Music from the game 'Fatum' released by ASF in 1993.
 
 /Composers/Grad_Jacek/Fatum_Intro.sap
+  TITLE: the rose [from the Amiga SoundTracker module]
+ ARTIST: Jonny Longkalsong (Arcane)
 COMMENT: Music from the game 'Fatum' released by ASF in 1993.
 
 /Composers/Grad_Jacek/Muff_1.sap
@@ -1500,6 +1514,12 @@ COMMENT: Cover the version by Martin Galway from game C64 Rastan, Tune #2.
   TITLE: Zybex, Tune #4
  ARTIST: Adam Gilmore
 
+### /Composers/Gretzschel_Dieter #############################################
+
+/Composers/Gretzschel_Dieter/Rondo_alla_Turca.sap
+  TITLE: Rondo alla turca [from Piano Sonata No. 11 A major KV 331]
+ ARTIST: Wolfgang Amadeus Mozart
+
 ### /Composers/Grzyb_Janusz ##################################################
 
 /Composers/Grzyb_Janusz/Around_the_Planet.sap
@@ -1726,6 +1746,10 @@ COMMENT: Music from the game 'Problem Jasia' released by Mirage in 1992.
 
 /Composers/Husak_Jakub/Problem_Jasia_Title.sap
 COMMENT: Music from the game 'Problem Jasia' released by Mirage in 1992.
+
+/Composers/Husak_Jakub/Radioactivity.sap
+  TITLE: Radioactivity [from Radio-Activity]
+ ARTIST: Kraftwerk
 
 /Composers/Husak_Jakub/Raszyn_1809.sap
 COMMENT: Music from the game 'Raszyn 1809' released by Mirage in 1992.
@@ -2249,7 +2273,7 @@ COMMENT: This tune covers the UB40 cover.
 
 /Composers/Kuczek_Ireneusz/Emmanuel.sap
   TITLE: Emmanuelle Theme [from the movie]
- ARTIST: Pierre Bachelet
+ ARTIST: Hervé Roy (music), Pierre Bachelet (music,lyrics & song)
 
 /Composers/Kuczek_Ireneusz/Every_Breath_You_Take.sap
   TITLE: Every Breath You Take [from Synchronicity]
@@ -3098,6 +3122,10 @@ COMMENT: One of the demo songs that came with Chaos Music Composer.
 
 ### /Composers/Pesout_Marek ##################################################
 
+/Composers/Pesout_Marek/12th_Warrior.sap
+  TITLE: 12th Warrior [from the Amiga MOD module]
+ ARTIST: Bjorn Lynne (Dr.Awesome)
+
 /Composers/Pesout_Marek/Alphaville.sap
   TITLE: Big in Japan [from Forever Young]
  ARTIST: Alphaville
@@ -3112,6 +3140,10 @@ COMMENT: Same as /Composers/Pesout_Marek/Alphaville.sap,
   TITLE: Blade Runner (End Titles) [from the movie]
  ARTIST: Vangelis
 
+/Composers/Pesout_Marek/Countdown.sap
+  TITLE: Final Countdown
+ ARTIST: Torsten Gellrich
+
 /Composers/Pesout_Marek/Desert_Dream_Part_2.sap
   TITLE: checknobankh [from the Amiga MOD module]
  ARTIST: Anders Emil Hansen (Merge)
@@ -3119,10 +3151,23 @@ COMMENT: Same as /Composers/Pesout_Marek/Alphaville.sap,
 /Composers/Pesout_Marek/Golden_Axe.sap
   TITLE: Wilderness [from the arcade game Golden Axe]
  ARTIST: SEGA Sound Team
+COMMENT: This SID covers the version by Jeroen Tel.
+
+/Composers/Pesout_Marek/Gotham_City_Cathedral.sap
+  TITLE: Gotham City Cathedral [from the C64 game Batman, the Movie]
+ ARTIST: Matthew Cannon
 
 /Composers/Pesout_Marek/James_Bond.sap
   TITLE: James Bond Theme [from the James Bond series of movies]
  ARTIST: Monty Norman
+
+/Composers/Pesout_Marek/Lotus_The_Ultimate_Challen.sap
+  TITLE: Lotus3 [from the Amiga game Lotus III: The Ultimate Challenge]
+ ARTIST: Patrick Phelan
+
+/Composers/Pesout_Marek/Morning_Coffe.sap
+  TITLE: <?>
+ ARTIST: Daft Punk
 
 /Composers/Pesout_Marek/Popcorn.sap
   TITLE: Popcorn [from Music To Moog By]
@@ -3133,21 +3178,46 @@ COMMENT: Same as /Composers/Pesout_Marek/Alphaville.sap,
  ARTIST: Vangelis
 COMMENT: Covers Hypnosis' disco version, from the album "Hypnosis".
 
+/Composers/Pesout_Marek/Second_Reality.sap
+  TITLE: Second Reality (Part 2) [from the PC demo "Second Reality"]
+ ARTIST: Jonne Valtonen (Purple Motion)
+
+ /Composers/Pesout_Marek/Switch_OFF_The_City.sap
+  TITLE: <?>
+ ARTIST: Harold Faltermeyer
+
+/Composers/Pesout_Marek/The_Pursuit_of_Vikings.sap
+  TITLE: The Pursuit of Vikings
+ ARTIST: Amon Amarth
+
 /Composers/Pesout_Marek/Turrican_2.sap
   TITLE: Main Title [from the Amiga game Turrican 2]
  ARTIST: Chris Huelsbeck
+
+/Composers/Pesout_Marek/Warhawk.sap
+  TITLE: The Unknown Planet [from Space Experience](0:00)
+ ARTIST: John Keating
+  TITLE: Space Agent [from Space Experience](0:41)
+ ARTIST: John Keating
+  TITLE: The Unknown Planet [from Space Experience](0:53-1:16)
+ ARTIST: John Keating
+COMMENT: Cover from the C64 game Warhawk, tune #1 by Rob Hubbard.
 
 ### /Composers/Petruzela_Tomas ###############################################
 
 /Composers/Petruzela_Tomas/Flatfish.sap
 COMMENT: 6th place at Forever 5 music compo.
 
+/Composers/Petruzela_Tomas/Viva_Las_Vegas.sap
+  TITLE: Viva Las Vegas
+ ARTIST: Elvis Presley
+
 ### /Composers/Piscol_Juergen ################################################
 
 /Composers/Piscol_Juergen/Adagio_Cantabile_and_Rondo.sap
-  TITLE: Piano Sonata No. 8, Op. 13 "Sonata Pathétique", 2nd Movement, Adagio cantabile (0:00-0:42)
+  TITLE: Piano Sonata No.8, Op.13 "Sonata Pathétique", 2nd Movement, Adagio cantabile (0:00-0:42)
  ARTIST: Ludwig van Beethoven
-  TITLE: Piano Sonata No. 8, Op. 13 "Sonata Pathétique", 3rd Movement, Rondo Allegro (0:43-1:06)
+  TITLE: Piano Sonata No.8, Op.13 "Sonata Pathétique", 3rd Movement, Rondo Allegro (0:43-1:06)
  ARTIST: Ludwig van Beethoven
 
 /Composers/Piscol_Juergen/Last_Rumba.sap
@@ -3190,19 +3260,19 @@ COMMENT: Polish Christmas carol.
 /Composers/Polak_Krzysztof/Przybiezeli_do_Betlejem.sap
   TITLE: Przybieżeli do Betlejem
  ARTIST: Traditional
-COMMENT: Polish Christmas carol. The title translates from Polish as "They
+COMMENT: Polish Christmas carol.The title translates from Polish as "They
          Hastened to Bethlehem".
 
 /Composers/Polak_Krzysztof/Wsrod_Nocnej_Ciszy.sap
   TITLE: Wśrod Nocnej Ciszy
  ARTIST: Traditional
-COMMENT: Polish Christmas carol. The title translates from Polish as "In the
+COMMENT: Polish Christmas carol.The title translates from Polish as "In the
          Stillness of the night".
 
 ### /Composers/Poorten_Ivo ###################################################
 
 /Composers/Poorten_Ivo/Hi_Guys.sap
-  TITLE: Symphony No. 40, First Movement
+  TITLE: Symphony No.40, First Movement
  ARTIST: Wolfgang Amadeus Mozart
 
 /Composers/Poorten_Ivo/Stichting_Pokey_Expo_Demo.sap
@@ -3360,7 +3430,7 @@ COMMENT: An English folk song.
  ARTIST: The Beatles
 
 /Composers/Quack_Ralf_Thomas/Ode_an_die_Freude.sap
-  TITLE: An die Freude [from Symphony No. 9 in D minor, Op. 125 "Choral"]
+  TITLE: An die Freude [from Symphony No.9 in D minor, Op.125 "Choral"]
  ARTIST: Ludwig van Beethoven
 
 /Composers/Quack_Ralf_Thomas/Oh_Carol.sap
@@ -3524,7 +3594,7 @@ COMMENT: 8th place at SillyVenture 2011 music compo.
 
 /Composers/Radzikowski_Ireneusz/PuzIntro.sap
   TITLE: Snow Blind [from the Amiga MOD module]
- ARTIST: Björn Lynne (Dr. Awesome)
+ ARTIST: Björn Lynne (Dr.Awesome)
 
 /Composers/Radzikowski_Ireneusz/Terra_Titanic_96.sap
   TITLE: Terra Titanic [from 120 Grad]
@@ -3685,9 +3755,9 @@ COMMENT: 11th place at Grayscale Music Competition II.
   TITLE: Hit The Road Jack
  ARTIST: Ray Charles
 (#2)
-  TITLE: Main Title [from the TV series Dziewczyna i chlopak] (0:00-1:17)
+  TITLE: Main Title [from the TV series Dziewczyna i chlopak](0:00-1:17)
  ARTIST: Waldemar Kazanecki
-  TITLE: Dom w dolinie mgieł [from E=mc2] (1:49-5:04)
+  TITLE: Dom w dolinie mgieł [from E=mc2](1:49-5:04)
  ARTIST: Marek Biliński
 
 /Composers/Skwiot_Stanislaw/Roxette.sap
@@ -3736,6 +3806,12 @@ COMMENT: 2nd place at Grayscale Music Competition I.
   TITLE: Bridge Over Troubled Water [from Bridge Over Troubled Water]
  ARTIST: Simon & Garfunkel
 
+### /Composers/Spielmans_Martin ##############################################
+
+/Composers/Spielmans_Martin/Sea_Fighter.sap
+  TITLE: Stand by Me [from Don't Play That Song!]
+ ARTIST: Ben E.King (written by Ben E.King, Jerry Leiber, Mike Stoller)
+
 ### /Composers/Stanik_Krzysztof ##############################################
 
 /Composers/Stanik_Krzysztof/Ble_ble_ble.sap
@@ -3782,7 +3858,7 @@ COMMENT: Covers a popular Czech Christmas song.
 
 /Composers/Sterba_Radek/Flop_magazin_35_Beverly_Hi.sap
   TITLE: Beverly Hills 90210 Theme [from the TV series]
- ARTIST: John E. Davis
+ ARTIST: John E.Davis
 
 /Composers/Sterba_Radek/Flop_magazin_51.sap
   TITLE: Fishing Junks at Sunset [from Concerts in China]
@@ -3935,7 +4011,7 @@ COMMENT: 2nd place at Grayscale Music Competition II.
 COMMENT: Covering the version arranged by Hot Butter.
 
 /Composers/Swierszcz_Piotr/Ramaja.sap
-  TITLE: Main Title [from the TV series Janosik] (0:57)
+  TITLE: Main Title [from the TV series Janosik](0:57)
  ARTIST: Jerzy Matuszkiewicz
 
 /Composers/Swierszcz_Piotr/Rebellion_Battle.sap
@@ -3981,7 +4057,7 @@ COMMENT: 1st place at QuaST party 1995 music compo.
 /Composers/Swierszcz_Piotr/White_Lamp.sap
   TITLE: Greensleeves
  ARTIST: Unknown
-COMMENT: Covers a version made by Richard Munns. 2nd place at Atari Area
+COMMENT: Covers a version made by Richard Munns.2nd place at Atari Area
          24h 'Black Lamp' music compo.
 
 ### /Composers/Szmatola_Krzysztof ############################################
@@ -3993,7 +4069,7 @@ COMMENT: Covers a version made by Richard Munns. 2nd place at Atari Area
 ### /Composers/Szpilowski_Michal #############################################
 
 /Composers/Szpilowski_Michal/48h.sap
-COMMENT: Soundtrack from intro by LaResistance. Winner of Głuchołazy 2010 demo
+COMMENT: Soundtrack from intro by LaResistance.Winner of Głuchołazy 2010 demo
          compo.
 
 /Composers/Szpilowski_Michal/7_Gates_of_Jambala.sap
@@ -4039,7 +4115,7 @@ COMMENT: Covers the C64 game version.
   TITLE: Orient Express [from Concerts in China]
  ARTIST: Jean Michel Jarre
 (#4)
-  TITLE: Ending Theme Song [from the cartoon series Mrs. Pepperpot called Spoon Obasan]
+  TITLE: Ending Theme Song [from the cartoon series Mrs.Pepperpot called Spoon Obasan]
  ARTIST: Tachio Akano (music), performed by Mari Iijima
 COMMENT: Cover of the arcade music.
 (#5)
@@ -4067,7 +4143,7 @@ COMMENT: QuaST party 1995 music compo entry.
 COMMENT: 1st place at QuaST party 1998 music compo.
 
 /Composers/Szpilowski_Michal/Cherry_Rave_Experimental.sap
-  TITLE: Powiedz [from Ad. 4]
+  TITLE: Powiedz [from Ad.4]
  ARTIST: Ich Troje
 
 /Composers/Szpilowski_Michal/Chopin_2010.sap
@@ -4404,7 +4480,7 @@ COMMENT: Grzybsoniada 2007 music compo entry.
 
 /Composers/Szpilowski_Michal/Snow_Ball.sap
   TITLE: Snowblind [from the Amiga MOD module]
- ARTIST: Bjorn Lynne (Dr. Awesome)
+ ARTIST: Bjorn Lynne (Dr.Awesome)
 
 /Composers/Szpilowski_Michal/Song_12.sap
 COMMENT: Composed using Chaos Music Composer 4 times/VBL.
@@ -4417,6 +4493,10 @@ COMMENT: Music from the game 'Teacher Killer' released by Sikor Soft in 1994.
 
 /Composers/Szpilowski_Michal/Teacher_Killer_Intro.sap
 COMMENT: Music from the game 'Teacher Killer' released by Sikor Soft in 1994.
+
+/Composers/Szpilowski_Michal/Tedecujace_Starcie.sap
+  TITLE: Night Flight [from the Amiga MOD module]
+ ARTIST: Jimmy Fredriksson (Firefox)
 
 /Composers/Szpilowski_Michal/Tempest_2000_Blue_Level.sap
   TITLE: Mind's Eye [from the Atari Jaguar game Tempest 2000]
@@ -4478,7 +4558,7 @@ COMMENT: Polish Christmas carol.
 /Composers/Szpilowski_Michal/Yie_Ar_Kung_Fu.sap
 COMMENT: This covers the version by Martin Galway on the C64.
          MIDI Conversions, except GAME OVER and LEVEL START tunes
-         (these were written by ear). Default tune is not used in the latest
+         (these were written by ear).Default tune is not used in the latest
          version of the game.
   TITLE: <?> [from the arcade game Yie Ar Kung Fu]
  ARTIST: Miki Higashino
@@ -4509,28 +4589,28 @@ COMMENT: 2nd place at Atari Area 24h 'Zybex' music compo.
 ### /Composers/Szymczuk_Daniel ###############################################
 
 /Composers/Szymczuk_Daniel/Darkness_Hour.sap
-COMMENT: Music from the game 'Darkness Hour' released by L.K. Avalon in 1992.
+COMMENT: Music from the game 'Darkness Hour' released by L.K.Avalon in 1992.
 
 /Composers/Szymczuk_Daniel/Darkness_Hour_End.sap
-COMMENT: Music from the game 'Darkness Hour' released by L.K. Avalon in 1992.
+COMMENT: Music from the game 'Darkness Hour' released by L.K.Avalon in 1992.
 
 /Composers/Szymczuk_Daniel/Darkness_Hour_Ingame.sap
-COMMENT: Music from the game 'Darkness Hour' released by L.K. Avalon in 1992.
+COMMENT: Music from the game 'Darkness Hour' released by L.K.Avalon in 1992.
 
 /Composers/Szymczuk_Daniel/Honky_Ingame.sap
-COMMENT: Music from the game 'Honky' released by L.K. Avalon in 1993.
+COMMENT: Music from the game 'Honky' released by L.K.Avalon in 1993.
 
 /Composers/Szymczuk_Daniel/Loriens_Tomb.sap
-COMMENT: Music from the game 'Lorien's Tomb' released by L.K. Avalon in 1992.
+COMMENT: Music from the game 'Lorien's Tomb' released by L.K.Avalon in 1992.
 
 /Composers/Szymczuk_Daniel/Loriens_Tomb_Game_Over.sap
-COMMENT: Music from the game 'Lorien's Tomb' released by L.K. Avalon in 1992.
+COMMENT: Music from the game 'Lorien's Tomb' released by L.K.Avalon in 1992.
 
 /Composers/Szymczuk_Daniel/Streets.sap
-COMMENT: Music from the game 'Streets' released by L.K. Avalon in 1993.
+COMMENT: Music from the game 'Streets' released by L.K.Avalon in 1993.
 
 /Composers/Szymczuk_Daniel/Streets_Ingame.sap
-COMMENT: Music from the game 'Streets' released by L.K. Avalon in 1993.
+COMMENT: Music from the game 'Streets' released by L.K.Avalon in 1993.
 
 ### /Composers/Takacs_Gabriel ################################################
 
@@ -4549,22 +4629,24 @@ COMMENT: "Entry in the annual Abbuc demo competition (can't remember the year)
          held at the 'Hobbytronic' Computer Fair in Dortmund, Germany.
          The song is an adaption of a popular tune from the Commodore C64.
          It's such a crappy rendition because this is a LOADER music, and you
-         can only use two voices while loading from floppy. The demo
-         (not this particular tune) won first price. Uses custom player
+         can only use two voices while loading from floppy.The demo
+         (not this particular tune) won first price.Uses custom player
          routines." (ST)
 
 /Composers/Tegethoff_Sven/ABBUC_21_1.sap
   TITLE: Commando, Tune #2 [from the C64 game]
  ARTIST: Rob Hubbard
-COMMENT: "The second loader music from the same demo. This is an equally
+COMMENT: "The second loader music from the same demo.This is an equally
          crappy rendition of the High Score theme from the C64 game
-         'Commando'. The demo (not this particular tune) won first price.
+         'Commando'.The demo (not this particular tune) won first price.
          Uses custom player routines." (ST)
 
 /Composers/Tegethoff_Sven/ABBUC_21_2.sap
+  TITLE: Scroll It Up! [from the C64 SID]
+ ARTIST: Jeroen Tel
 COMMENT: "Another entry in the annual ABBUC demo competition (can't remember
          the year) held at the 'Hobbytronic' Computer Fair in Dortmund,
-         Germany. The demo (not this particular tune) won first price. Written
+         Germany.The demo (not this particular tune) won first price.Written
          using 'The Black Magic Composer'.
 
 /Composers/Tegethoff_Sven/Dance.sap
@@ -4573,25 +4655,25 @@ COMMENT: "Another entry in the annual ABBUC demo competition (can't remember
 
 /Composers/Tegethoff_Sven/Opus_X.sap
 COMMENT: "Entry in the annual ABBUC demo competition 1990 held at the
-         'Hobbytronic' Computer Fair in Dortmund, Germany. Written using 'The
-         Black Magic Composer' with Digi-Drums. Drums were blatantly ripped
+         'Hobbytronic' Computer Fair in Dortmund, Germany.Written using 'The
+         Black Magic Composer' with Digi-Drums.Drums were blatantly ripped
          from various Chris Huelsbeck modules :)" (ST)
 
 /Composers/Tegethoff_Sven/Pulse.sap
 COMMENT: "Another entry in the annual ABBUC demo competition (can't remember
          the year) held at the 'Hobbytronic' Computer Fair in Dortmund,
-         Germany. Written using 'The Black Magic Composer' with Digi-Drums.
+         Germany.Written using 'The Black Magic Composer' with Digi-Drums.
          Drums were blatantly ripped from various Chris Huelsbeck modules :)"
          (ST)
 
 /Composers/Tegethoff_Sven/The_Top_2_2.sap
-COMMENT: "This song was part of the same ABBUC Demo like ABBUC_20_1.sap and
-         ABBUC_21_2.sap. The complete demo (not this particular tune) won
-         first price. The tune was ripped and re-used by some Czech demo crew
-         in a demo called 'the top'. But I forgive them, because they gave me
+COMMENT: "This song was part of the same ABBUC Demo like ABBUC_20_1sapand
+         ABBUC_21_2.sap.The complete demo (not this particular tune) won
+         first price.The tune was ripped and re-used by some Czech demo crew
+         in a demo called 'the top'.But I forgive them, because they gave me
          the proper credits :) Makes heavy uses of the very few modulations
-         the atari sound chip allowed for. Written using 'The Black Magic
-         Composer' with Digi-Drums. Drums were blatantly ripped from various
+         the atari sound chip allowed for.Written using 'The Black Magic
+         Composer' with Digi-Drums.Drums were blatantly ripped from various
          Chris Huelsbeck modules :)" (ST)
          Sven is wrong here, The Top demos were produced in Poland.
 
@@ -4657,7 +4739,7 @@ COMMENT: Music from the game 'Terminator' released by Domain Software in 1993.
  ARTIST: Ace of Base
 
 /Composers/Vavra_Karel_and_Sedlak_Jiri/Mr_Vain.sap
-  TITLE: Mr. Vain [from Serenity]
+  TITLE: Mr.Vain [from Serenity]
  ARTIST: Culture Beat
 
 /Composers/Vavra_Karel_and_Sedlak_Jiri/Somebody_Dance.sap
@@ -4710,7 +4792,7 @@ COMMENT: Music from the game 'Dynakillers' released in 1997.
 
 /Composers/Vybostok_Marian/Street_Fighter_II_Demo_4.sap
   TITLE: Katjusha
- ARTIST: Matvei Blanter & M. Isakovski
+ ARTIST: Matvei Blanter & M.Isakovski
 
 /Composers/Vybostok_Marian/Wanted_Part_2.sap
 (#1)
@@ -4727,7 +4809,7 @@ COMMENT: Music from the game 'Dynakillers' released in 1997.
 
 /Composers/Vybostok_Marian/Wanted_Part_4_Summer.sap
   TITLE: Summer Nights [from the musical Grease]
- ARTIST: J. Jacobs
+ ARTIST: J.Jacobs
 COMMENT: Performed by John Travolta/Olivia Newton John & cast.
          Not a 100% cover, but very heavily inspired.
 
@@ -4742,7 +4824,7 @@ COMMENT: Same melody as /Composers/Wasilewski_Dariusz/Buu.sap,
 /Composers/Wasilewski_Dariusz/Koto.sap
   TITLE: I Like Chopin
  ARTIST: Gazebo
-COMMENT: Covers parts of above title. Erroneously named.
+COMMENT: Covers parts of above title.Erroneously named.
 
 /Composers/Wasilewski_Dariusz/No_Limits.sap
   TITLE: No Limit [from No Limits]
@@ -4758,7 +4840,7 @@ COMMENT: Covers parts of above title. Erroneously named.
 /Composers/Whittaker_David/Panther.sap
 COMMENT: This music is also present in the game Buckaneer by Mastertronic.
          Whittaker used the same music in an Amiga game called SideWinder as
-         loader tune. Also used in the game "Linewars", most probably without
+         loader tune.Also used in the game "Linewars", most probably without
          Whittaker's permission, because the programmers of that game credited
          this tune to themselves.
 
@@ -4785,13 +4867,13 @@ COMMENT: 20th place at QuaST party 1996 music compo.
 ### /Composers/Witkowski_Przemyslaw ##########################################
 
 /Composers/Witkowski_Przemyslaw/Adax.sap
-COMMENT: Music from the game 'Adax' released by L.K. Avalon in 1992.
+COMMENT: Music from the game 'Adax' released by L.K.Avalon in 1992.
 
 /Composers/Witkowski_Przemyslaw/Adax_Ingame.sap
-COMMENT: Music from the game 'Adax' released by L.K. Avalon in 1992.
+COMMENT: Music from the game 'Adax' released by L.K.Avalon in 1992.
 
 /Composers/Witkowski_Przemyslaw/Upior.sap
-COMMENT: Music from the game 'Upiór' released by L.K. Avalon in 1992.
+COMMENT: Music from the game 'Upiór' released by L.K.Avalon in 1992.
 
 ### /Composers/XLent #########################################################
 
@@ -4837,13 +4919,17 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
   TITLE: America [from Bookends]
  ARTIST: Simon & Garfunkel
 
+/Composers/Zuegner_Alfred/Baby_Driver.sap
+  TITLE: Baby Driver [from Bridge Over Troubled Water]
+ ARTIST: Simon & Garfunkel
+
 /Composers/Zuegner_Alfred/Cecilia.sap
   TITLE: Cecilia [from Bridge Over Troubled Water]
  ARTIST: Simon & Garfunkel
 
 /Composers/Zuegner_Alfred/El_Condor_Pasa.sap
   TITLE: El Condor Pasa
- ARTIST: D. Robles and J. Milchberg
+ ARTIST: D.Robles and J.Milchberg
 
 /Composers/Zuegner_Alfred/Everything_s_Alright.sap
   TITLE: Everything's Alright [from the musical Jesus Christ Superstar]
@@ -4856,6 +4942,10 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
 /Composers/Zuegner_Alfred/Heaven_On_Their_Minds.sap
   TITLE: Heaven on Their Minds [from the musical Jesus Christ Superstar]
  ARTIST: Andrew Lloyd Webber & Tim Rice
+
+/Composers/Zuegner_Alfred/Hey_Schoolgirl.sap
+  TITLE: Hey School Girl
+ ARTIST: Simon & Garfunkel
 
 /Composers/Zuegner_Alfred/Homeward_Bound.sap
   TITLE: Homeward_Bound [from Parsley, Sage, Rosemary, and Thyme]
@@ -4885,6 +4975,10 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
   TITLE: The Last Supper [from the musical Jesus Christ Superstar]
  ARTIST: Andrew Lloyd Webber & Tim Rice
 
+/Composers/Zuegner_Alfred/My_Life.sap
+  TITLE: My Life [from 52nd Street]
+ ARTIST: Billy Joel
+
 /Composers/Zuegner_Alfred/Only_The_Good_Die_Young.sap
   TITLE: Only the Good Die Young [from The Stranger]
  ARTIST: Billy Joel
@@ -4892,6 +4986,10 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
 /Composers/Zuegner_Alfred/Pilate_s_Dream.sap
   TITLE: Pilate's Dream [from the musical Jesus Christ Superstar]
  ARTIST: Andrew Lloyd Webber & Tim Rice
+
+/Composers/Zuegner_Alfred/Say_Goodbye_to_Hollywood.sap
+  TITLE: Say Goodbye to Hollywood [from Songs in the Attic]
+ ARTIST: Billy Joel
 
 /Composers/Zuegner_Alfred/Scarborough_Fair.sap
   TITLE: Scarborough Fair/Canticle [from Sounds of Silence]
@@ -4905,6 +5003,11 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
   TITLE: The Sound of Silence [from Parsley, Sage, Rosemary, and Thyme]
  ARTIST: Simon & Garfunkel
 
+/Composers/Zuegner_Alfred/Stille_Nacht_heilige_Nacht.sap
+  TITLE: Stille Nacht! Heilige Nacht!
+ ARTIST: Joseph Mohr (lyrics), Franz Xaver Gruber (music)
+COMMENT: A Christmas song also known as "Silent Night".
+
 /Composers/Zuegner_Alfred/Stranger.sap
   TITLE: The Stranger [from The Stranger]
  ARTIST: Billy Joel
@@ -4912,6 +5015,10 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
 /Composers/Zuegner_Alfred/Superstar.sap
   TITLE: Superstar [from the musical Jesus Christ Superstar]
  ARTIST: Andrew Lloyd Webber & Tim Rice
+
+/Composers/Zuegner_Alfred/Understand_Your_Man.sap
+  TITLE: Understand Your Man [from I Walk the Line]
+ ARTIST: Johnny Cash
 
 /Composers/Zuegner_Alfred/Vienna.sap
   TITLE: Vienna [from The Stranger]
@@ -4923,7 +5030,7 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
 
 /Composers/Zuegner_Alfred/Wreck_of_the_Old_Ninety_Se.sap
   TITLE: Wreck of the Old 97
- ARTIST: G. B. Grayson & Henry Whitter
+ ARTIST: G.B.Grayson & Henry Whitter
 
 /Composers/Zuegner_Alfred/You_Are_What_I_Need.sap
   TITLE: You Are What I Want
@@ -4994,6 +5101,10 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
   TITLE: Action Biker, Tune #1 [from the C64 game]
  ARTIST: Rob Hubbard
 
+/Games/Air_Rescue.sap
+  TITLE: Axel F [from the movie Beverly Hills Cop]
+ ARTIST: Harold Faltermeyer
+
 /Games/Alien_Ambush.sap
   TITLE: Ride of the Valkyries
  ARTIST: Richard Wagner
@@ -5037,15 +5148,24 @@ COMMENT: Covers the "Alley Cat", also known as "Alleycat" and "The Alley Cat,"
 
 /Games/Bruce_Lee.sap
   TITLE: Bruce Lee, Tune #1 [from the C64 game]
- ARTIST: John A. Fitzpatrick
+ ARTIST: John A.Fitzpatrick
 
 /Games/Carnival_Massacre.sap
   TITLE: Over the Waves
  ARTIST: Juventino Rosas
 
 /Games/Chimera.sap
-  TITLE: Two-Part Invention No. 8, in F major (BWV 779)
+  TITLE: Two-Part Invention No.8, in F major (BWV 779)
  ARTIST: Johann Sebastian Bach
+
+/Games/Commando.sap
+(#1)
+  TITLE: Commando, Tune #1 [from the C64 SID]
+ ARTIST: Rob Hubbard
+
+/Games/Deflektor.sap
+  TITLE: Deflektor [from the C64 game]
+ ARTIST: Ben Daglish
 
 /Games/Deneb.sap
 (#2)
@@ -5059,6 +5179,9 @@ COMMENT: Covers the "Alley Cat", also known as "Alleycat" and "The Alley Cat,"
 (#3)
   TITLE: Ententanz
  ARTIST: Werner Thomas
+
+/Games/Donkey_Kong.sap
+COMMENT: All tunes and jingles cover the arcade version.
 
 /Games/Dziedzictwo_Gigantow.sap
   TITLE: Syn Boga Wiatru [from the Atari XE/XL POKEY]
@@ -5083,7 +5206,7 @@ COMMENT: Heavily based on /Composers/Szmatola_Krzysztof/Syn_Boga_Wiatru.sap
  ARTIST: Stephen Foster
 (#6)
   TITLE: Yankee Doodle
- ARTIST: Traditional, Dr. Richard Schuckburgh (lyrics)
+ ARTIST: Traditional, Dr.Richard Schuckburgh (lyrics)
 
 /Games/Ghostbusters.sap
   TITLE: Ghostbusters [from the movie]
@@ -5104,12 +5227,16 @@ COMMENT: Apart from covering classical music, this also covers the arcade
  ARTIST: Johann Sebastian Bach
 
 /Games/Hans_Kloss.sap
-  TITLE: Stawka większa niż życie [from the TV series] (0:38)
+  TITLE: Stawka większa niż życie [from the TV series](0:38)
  ARTIST: Jerzy Matuszkiewicz
 
 /Games/Hazard_Run.sap
   TITLE: Dixie Land
  ARTIST: Daniel Emmett
+
+/Games/Henrys_House.sap
+  TITLE: Rule Britannia
+ ARTIST: Thomas Arne & James Thompson
 
 /Games/Inferno.sap
   TITLE: The Entertainer
@@ -5119,13 +5246,23 @@ COMMENT: Apart from covering classical music, this also covers the arcade
   TITLE: James Bond Theme [from the James Bond series of movies]
  ARTIST: Monty Norman
 
+/Games/Jumpman.sid
+(#11)
+  TITLE: Funeral March [from Sonate No.2 in B flat minor Op.35]
+ ARTIST: Frédéric François Chopin
+
+/Games/Jumpman_Junior.sap
+(#2)
+  TITLE: Funeral March [from Sonate No.2 in B flat minor Op.35]
+ ARTIST: Frédéric François Chopin
+
 /Games/Kampfstern_Galactica.sap
 (#1)
   TITLE: Cherish
  ARTIST: Kool and the Gang
 
 /Games/King_of_Killers.sap
-  TITLE: Axel F [from the movie Beverly Hills Cop] (0:30)
+  TITLE: Axel F [from the movie Beverly Hills Cop](0:30)
  ARTIST: Harold Faltermeyer
 COMMENT: This is not cover.
 
@@ -5140,7 +5277,7 @@ COMMENT: Although the C64 version was composed by Rob Hubbard, Hubbard has
   TITLE: Can Can [from the Orpheus in the Underworld]
  ARTIST: Jacques Offenbach
 (#3)
-  TITLE: Popcorn [from Music To Moog By] (0:04)
+  TITLE: Popcorn [from Music To Moog By](0:04)
  ARTIST: Gershon Kingsley
 
 /Games/Leapster.sap
@@ -5160,6 +5297,14 @@ COMMENT: Although the C64 version was composed by Rob Hubbard, Hubbard has
 /Games/Master_of_the_Lamps.sap
 COMMENT: Russel Lieblich sadly passed away in 2005, at the age of 51.
 
+/Games/Mental_Age_Demo.sap
+(#1)
+  TITLE: A Brutal Party [from the C64 SID]
+ ARTIST: Matthias Hartung (The Syndrom)
+(#2)
+  TITLE: Boneless [from the C64 SID]
+ ARTIST: Thomas Mogensen (DRAX)
+
 /Games/Montezumas_Revenge.sap
 (#1)
   TITLE: Spanish Flea
@@ -5171,25 +5316,35 @@ COMMENT: Covers the arcade version.
 
 /Games/Mountain_King.sap
 (#1)
-  TITLE: In the Hall of the Mountain King [from Peer Gynt] (2:10-2:27)
+  TITLE: In the Hall of the Mountain King [from Peer Gynt](2:10-2:27)
  ARTIST: Edvard Grieg
 (#2)
   TITLE: Anitra's Dance [from Peer Gynt]
  ARTIST: Edvard Grieg
 (#3)
-  TITLE: In the Hall of the Mountain King [from Peer Gynt] (2:10-2:27)
+  TITLE: In the Hall of the Mountain King [from Peer Gynt](2:10-2:27)
  ARTIST: Edvard Grieg
 (#4)
-  TITLE: In the Hall of the Mountain King [from Peer Gynt] (2:10-2:27)
+  TITLE: In the Hall of the Mountain King [from Peer Gynt](2:10-2:27)
  ARTIST: Edvard Grieg
 
 /Games/Mouse_Trap.sap
   TITLE: Golliwogg's Cakewalk
  ARTIST: Claude Debussy
 
+/Games/Mythos.sap
+(#5)
+  TITLE: Funeral March [from Sonate No.2 in B flat minor Op.35]
+ ARTIST: Frédéric François Chopin
+
 /Games/Nadral.sap
   TITLE: The Entertainer
  ARTIST: Scott Joplin
+
+/Games/Naval_Battle.sap
+  TITLE: What Shall We Do with the Drunken Sailor
+ ARTIST: Traditional
+COMMENT: English shanty.
 
 /Games/Nemos_Vault.sap
 (#1)
@@ -5206,7 +5361,7 @@ COMMENT: Covers the arcade version.
 COMMENT: "PuckMan" is known outside Japan as "Pac-Man".
 
 /Games/Paradise_Threat.sap
-  TITLE: Polonaise in A-flat major, Op. 53
+  TITLE: Polonaise in A-flat major, Op.53
  ARTIST: Fryderyk Chopin
 
 /Games/Perly_Szeherezady.sap
@@ -5219,19 +5374,36 @@ COMMENT: "PuckMan" is known outside Japan as "Pac-Man".
  ARTIST: Jens Bodewalt Lampe
 COMMENT: The music was played as a background to scary scenes in the old silent movies.
 
+/Games/Pitfall_II.sap
+  TITLE: Pitfall II - Lost Caverns [from the Atari 2600 game]
+ ARTIST: David Crane
+
+/Games/Planet_Attack.sap
+  TITLE: Axel F [from the movie Beverly Hills Cop]
+ ARTIST: Harold Faltermeyer
+
+/Games/Plattermania.sap
+  TITLE: Entry of the Gladiators
+ ARTIST: Julius Fucik
+
 /Games/Pooyan.sap
 COMMENT: Covers the arcade version by Konami.
 (#1)
-  TITLE: Humoresque Op. 101, No. 7 in G flat major
+  TITLE: Humoresque Op.101, No.7 in G flat major
  ARTIST: Antonín Dvorák
+
+/Games/Popeye.sap
+(#3)
+  TITLE: Popeye Theme Song [from the TV series Popeye]
+ ARTIST: Sammy Lerner
 
 /Games/Preppie.sap
 (#2)
-  TITLE: Funeral March [from Sonate No. 2 in B flat minor Op. 35]
+  TITLE: Funeral March [from Sonate No.2 in B flat minor Op.35]
  ARTIST: Fryderyk Chopin
 
 /Games/Ring_Der_Nibelungen_Intro.sap
-  TITLE: Air [from Orchestral Suite No. 3 (BWV 1068)]
+  TITLE: Air [from Orchestral Suite No.3 (BWV 1068)]
  ARTIST: Johann Sebastian Bach
 
 /Games/Shamus.sap
@@ -5256,12 +5428,12 @@ COMMENT: Popular under name "Jingle Bells".
  ARTIST: Nikolai Rimsky-Korsakov
 
 /Games/Spys_Demise.sap
-  TITLE: Hungarian Dance No. 5 in F♯ minor (G minor for orchestra) (0:00-1:01)
+  TITLE: Hungarian Dance No.5 in F♯ minor (G minor for orchestra) (0:00-1:01)
  ARTIST: Johannes Brahms
-COMMENT: Based on the version sung Bártfai Emlék Csárdás op. 31 by Béla Kéler.
+COMMENT: Based on the version sung Bártfai Emlék Csárdás op.31 by Béla Kéler.
   TITLE: Katyusha (1:15-2:09)
  ARTIST: Matwiej Blanter (music), Michail Isakowski (lyrics)
-  TITLE: Trepak [from The Nutcracker] (3:44-4:46)
+  TITLE: Trepak [from The Nutcracker](3:44-4:46)
  ARTIST: Pyotr Ilyich Tchaikovsky
 
 /Games/Spy_Hunter.sap
@@ -5270,8 +5442,12 @@ COMMENT: Based on the version sung Bártfai Emlék Csárdás op. 31 by Béla Ké
 COMMENT: This piece is a cover of the arcade version.
 
 /Games/Star_Raiders_II.sap
-  TITLE: G.I. Joe, Tune #4 [from the C64 game]
+  TITLE: G.I.Joe, Tune #4 [from the C64 game]
  ARTIST: Bob Vieira
+
+/Games/Star_Wars.sap
+  TITLE: Main Title [from all the Star Wars movies]
+ ARTIST: John Williams
 
 /Games/Stealth.sap
 (#1)
@@ -5283,13 +5459,13 @@ COMMENT: This piece is a cover of the arcade version.
  ARTIST: Gazebo
 
 /Games/T34_The_Battle.sap
-  TITLE: Ballada o pancernych [from the TV series Czterej pancerni i pies] (0:46)
+  TITLE: Ballada o pancernych [from the TV series Czterej pancerni i pies](0:46)
  ARTIST: Adam Walacinski (music), Agnieszka Osiecka (lyrics), performed by Edmund Fetting
 
 /Games/Tapper.sap
 (#1)
   TITLE: Oh Susanna
- ARTIST: Stephen C. Foster
+ ARTIST: Stephen C.Foster
 
 /Games/Taxicab_Hill.sap
 (#6)
@@ -5315,15 +5491,35 @@ COMMENT: The notes in voice 2 at the beginning of the tune spell out "SOS" in
 
 /Misc/Ave_Maria.sap
   TITLE: Ave Maria
- ARTIST: Johanna S. Bacha & Charlesa Gounoda
+ ARTIST: Johanna S.Bacha & Charlesa Gounoda
+
+/Misc/Bajm.sap
+  TITLE: <?>
+ ARTIST: Bajm
 
 /Misc/Beams_of_Light.sap
   TITLE: Beams of Light [from the Amiga MOD module]
  ARTIST: Tor Bernhard Gausen (Walkman)
 
+/Misc/Blowin_in_the_Wind.sap
+  TITLE: Blowin' in the Wind [from The Freewheelin' Bob Dylan]
+ ARTIST: Bob Dylan
+
 /Misc/Bolero.sap
   TITLE: Bolero
  ARTIST: Maurice Ravel
+
+/Misc/Cantata.sap
+  TITLE: Du wahrer Gott und Davids Sohn, BWV 23
+ ARTIST: Johann Sebastian Bach
+
+/Misc/Darling_Nellie_Grey.sap
+  TITLE: Darling Nelly Gray
+ ARTIST: Benjamin Hanby
+
+/Misc/Darling_Nellie_Grey.sap
+  TITLE: Death Rides a Horse [from the movie]
+ ARTIST: Ennio Morricone
 
 /Misc/Das_Teufel.sap
   TITLE: Das Boot [from the movie]
@@ -5385,10 +5581,14 @@ COMMENT: Last Party 1998 music compo entry.
 COMMENT: Also known as Nyan Cat Song, one of the most famous internet memes.
 
 /Misc/Ogloszenie.sap
-  TITLE: Main Title [from the TV series Janosik] (0:23-0:45)
+  TITLE: Main Title [from the TV series Janosik](0:23-0:45)
  ARTIST: Jerzy Matuszkiewicz
-  TITLE: Main Title [from the TV series Janosik] (1:09-1:33)
+  TITLE: Main Title [from the TV series Janosik](1:09-1:33)
  ARTIST: Jerzy Matuszkiewicz
+
+/Misc/Over_the_Rainbow.sap
+  TITLE: Over The Rainbow [from the movie The Wizard of Oz]
+ ARTIST: Harold Arlen (music), E.Y.Harburg (lyrics), performed by Judy Garland
 
 /Misc/Pizza_Margerita_Suxx.sap
 COMMENT: Lato Ludzików 2000 music compo entry.
@@ -5403,14 +5603,14 @@ COMMENT: Lato Ludzików 2000 music compo entry.
 
 /Misc/Pytaj.sap
   TITLE: Nie pytaj o Polskę
- ARTIST: Obywatel G. C.
+ ARTIST: Obywatel G.C.
 
 /Misc/Ray_of_Hope_Plasma.sap
   TITLE: Title Tune [from the Amiga game Amegas]
  ARTIST: Karsten Obarski
 
 /Misc/Reksio_2001.sap
-  TITLE: Title Theme [from the cartoon series Reksio] (0:07-0:30)
+  TITLE: Title Theme [from the cartoon series Reksio](0:07-0:30)
  ARTIST: Zenon Kowalowski
 
 /Misc/Rhapsody_in_Blue.sap
@@ -5422,7 +5622,7 @@ COMMENT: 4th place at Winter Chip II (Best Pokey) music compo.
 
 /Misc/Say_Why.sap
   TITLE: Powiedz [from Ad.4]
- ARTIST: J. Łągwa (music), K. Lenarczyk & M. Wiśniewski (lyrics), performed by
+ ARTIST: J.Łągwa (music), K.Lenarczyk & M.Wiśniewski (lyrics), performed by
          Ich Troje.
 
 /Misc/SCMC_Demo.sap
@@ -5442,6 +5642,10 @@ COMMENT: Atari XL/XE official audio-visual test tune.
   TITLE: Le Quattro Stagioni, Op.8 No.1 "La primavera" (Allegro)
  ARTIST: Antonio Vivaldi
 
+/Misc/Star_Wars.sap
+  TITLE: Main Title [from all the Star Wars movies]
+ ARTIST: John Williams
+
 /Misc/Strangers_in_the_Night.sap
   TITLE: Strangers in The Night
  ARTIST: Frank Sinatra
@@ -5452,6 +5656,14 @@ COMMENT: Lato Ludzików 2001 music compo entry.
 /Misc/The_Top_2_Digi_Part.sap
 COMMENT: This song is converted from a C64 production made by Censor Design.
 
+/Misc/Traces_of_Love.sap
+  TITLE: Traces of Love [from Miscellaneous]
+ ARTIST: The Classics IV
+
+/Misc/What_Is_Love.sap
+  TITLE: What Is Love
+ ARTIST: Haddaway
+
 /Misc/Windows95_1.sap
   TITLE: National Anthem of the Soviet Union
  ARTIST: Aleksandr Aleksandrov
@@ -5459,6 +5671,10 @@ COMMENT: This song is converted from a C64 production made by Censor Design.
 /Misc/Windows95_2.sap
   TITLE: Crystal Hammer [from the Amiga game]
  ARTIST: Karsten Obarski
+
+/Misc/Yellow_Rose_of_Texas.sap
+  TITLE: The Yellow Rose of Texas
+ ARTIST: J.K.
 
 ### /Unknown #################################################################
 
@@ -5475,7 +5691,7 @@ COMMENT: This song is converted from a C64 production made by Censor Design.
  ARTIST: Johann Sebastian Bach
 
 /Unknown/Bach_Mix.sap
-  TITLE: Rondo alla turca [from Piano Sonata No.11 A major KV 331] (0:07)
+  TITLE: Rondo alla turca [from Piano Sonata No.11 A major KV 331](0:07)
  ARTIST: Wolfgang Amadeus Mozart
 
 /Unknown/Buli.sap
@@ -5487,7 +5703,7 @@ COMMENT: This song is converted from a C64 production made by Censor Design.
  ARTIST: Carlos Fernandez
 
 /Unknown/Dajana.sap
-  TITLE: Adiana
+  TITLE: Dajana
  ARTIST: Paul Anka
 
 /Unknown/Fable.sap
@@ -5507,14 +5723,14 @@ COMMENT: An example of 16th century lute music.
   TITLE: God Save the King/Queen (The National Anthem of the U.K.)
  ARTIST: Traditional
 COMMENT: This anthem is traditional and possibly one of the most known
-         national anthems in the world. Each verse was written at a different
+         national anthems in the world.Each verse was written at a different
          time, ranging from the 1740s to the present day.
 
 /Unknown/God_Save_the_Queen_2.sap
   TITLE: God Save the King/Queen (The National Anthem of the U.K.)
  ARTIST: Traditional
 COMMENT: This anthem is traditional and possibly one of the most known
-         national anthems in the world. Each verse was written at a different
+         national anthems in the world.Each verse was written at a different
          time, ranging from the 1740s to the present day.
 
 /Unknown/Hawkeye.sap
@@ -5552,7 +5768,7 @@ COMMENT: Present also in "Fortress Underground" game, no author credited.
 
 /Unknown/Music2.sap
   TITLE: El Condor Pasa
- ARTIST: D. Robles and J. Milchberg
+ ARTIST: D.Robles and J.Milchberg
 COMMENT: This is not a complete cover.
 
 /Unknown/NATO.sap
@@ -5562,6 +5778,10 @@ COMMENT: This is not a complete cover.
 /Unknown/No_Limit.sap
   TITLE: No Limit [from No Limits]
  ARTIST: 2 Unlimited
+
+/Unknown/Ode_an_die_Freude.sap
+  TITLE: An die Freude [from Symphony No.9 in D minor, Op.125 "Choral"]
+ ARTIST: Ludwig van Beethoven
 
 /Unknown/Oxygen_4.sap
   TITLE: Oxygene 4 [from Oxygene]
@@ -5581,6 +5801,10 @@ COMMENT: Demonstation of the range of frequencies in 16 bit music.
 /Unknown/Rudolph_the_Red_Nosed_R.sap
   TITLE: Rudolph The Red Nosed Reindeer
  ARTIST: Johnny Marks
+
+/Unknown/Sing_Hosanna.sap
+  TITLE: Give Me Joy in My Heart (Sing Hosanna)
+ ARTIST: Geoff Kingston
 
 /Unknown/Sorella.sap
   TITLE: La Sorella
@@ -5620,7 +5844,7 @@ COMMENT: English Christmas carol.
  ARTIST: Franciszek Leśniak (music & lyrics)
 
 /Unknown/Wiosna.sap
-  TITLE: An die Freude [from Symphony No.9 Op.125 "Choral Symphony"] (0:12)
+  TITLE: An die Freude [from Symphony No.9 Op.125 "Choral Symphony"](0:12)
  ARTIST: Ludwig van Beethoven
   TITLE: W murowanej piwnicy (0:57)
  ARTIST: Polish folk traditional
@@ -5685,12 +5909,16 @@ COMMENT: English carol.
  ARTIST: Queen
 
 /Unknown/AMS/A_Little_Help_from_My_Frie.sap
-  TITLE: With A Little Help From My Friends [from Sgt. Pepper's Lonely...]
+  TITLE: With A Little Help From My Friends [from Sgt.Pepper's Lonely...]
  ARTIST: The Beatles
 
 /Unknown/AMS/A_Team.sap
   TITLE: The A-Team [from the TV series]
  ARTIST: Pete Carpenter & Mike Post
+
+/Unknown/AMS/A_Time_for_Us.sap
+  TITLE: A Time for Us Theme song [from the movie Romeo & Juliet (1968)]
+ ARTIST: Nino Rota
 
 /Unknown/AMS/Abracadabra.sap
   TITLE: Abracadabra
@@ -5767,8 +5995,12 @@ COMMENT: Often referred to as Ave Maria.
  ARTIST: Henry Mancini
 
 /Unknown/AMS/Back_in_the_USSR.sap
-  TITLE: Back in the U.S.S.R. [from The Beatles]
+  TITLE: Back in the U.S.S.R.[from The Beatles]
  ARTIST: The Beatles
+
+/Unknown/AMS/Bad_Moon_Rising.sap
+  TITLE: Bad Moon Rising[from Green River]
+ ARTIST: Creedence Clearwater Revival
 
 /Unknown/AMS/Beat_It.sap
   TITLE: Beat It [from Thriller]
@@ -5777,6 +6009,10 @@ COMMENT: Often referred to as Ave Maria.
 /Unknown/AMS/Beat_It_2.sap
   TITLE: Beat It [from Thriller]
  ARTIST: Michael Jackson
+
+/Unknown/AMS/Bee_Fly.sap
+  TITLE: Flight of the Bumblebee [from opera The Tale of Tsar Saltan]
+ ARTIST: Nikolai Rimsky-Korsakov
 
 /Unknown/AMS/Benny_Hill.sap
   TITLE: Yakety Sax [from Yakety Sax]
@@ -5808,6 +6044,11 @@ COMMENT: Best known from as the title theme to the comedy TV series
   TITLE: Brother Louie [from Ready For Romance]
  ARTIST: Modern Talking
 
+/Unknown/AMS/Bumble_Bug.sap
+  TITLE: Flight of the Bumblebee [from opera The Tale of Tsar Saltan]
+ ARTIST: Nikolai Rimsky-Korsakov
+COMMENT: Covers the "Bumble Boogie" version by Bumble B. and the Stingers.
+
 /Unknown/AMS/California_Dreamin.sap
   TITLE: California Dreaming
  ARTIST: The Mamas & the Papas
@@ -5816,6 +6057,14 @@ COMMENT: Best known from as the title theme to the comedy TV series
   TITLE: Can Can [from the Orpheus in the Underworld]
  ARTIST: Jacques Offenbach
 
+/Unknown/AMS/Cats_in_the_Cradle.sap
+  TITLE: Cat's in the Cradle [from Verities & Balderdash]
+ ARTIST: Harry Chapin
+
+/Unknown/AMS/Cecilia.sap
+  TITLE: Cecilia [from Bridge over Troubled Water]
+ ARTIST: Symon & Garfunkel
+
 /Unknown/AMS/Chariots_of_Fire.sap
   TITLE: Titles [from the movie Chariots of Fire]
  ARTIST: Vangelis
@@ -5823,7 +6072,7 @@ COMMENT: Best known from as the title theme to the comedy TV series
 /Unknown/AMS/Chariots_of_Fire_2.sap
   TITLE: Titles [from the movie Chariots of Fire]
  ARTIST: Vangelis
-
+ 
 /Unknown/AMS/Chattanooga_Choo_Choo.sap
   TITLE: Chattanooga Choo Choo
  ARTIST: Glenn Miller Orchestra
@@ -5868,6 +6117,10 @@ COMMENT: Best known from as the title theme to the comedy TV series
   TITLE: Dynasty Theme [from the TV series]
  ARTIST: Bill Conti
 
+/Unknown/AMS/Ebony_and_Ivory.sap
+  TITLE: Ebony and Ivory [from Tug of War]
+ ARTIST: Paul McCartney & Stevie Wonder
+
 /Unknown/AMS/Eleanor_Rigby.sap
   TITLE: Eleanor Rigby [from Revolver]
  ARTIST: The Beatles
@@ -5896,6 +6149,10 @@ COMMENT: Best known from as the title theme to the comedy TV series
   TITLE: Eye of the Tiger [from the movie Rocky III]
  ARTIST: Survivor
 
+/Unknown/AMS/Fernando.sap
+  TITLE: Fernando
+ ARTIST: Abba
+
 /Unknown/AMS/For_Elise.sap
   TITLE: Für Elise
  ARTIST: Ludwig van Beethoven
@@ -5920,12 +6177,16 @@ COMMENT: Best known from as the title theme to the comedy TV series
   TITLE: God Save the King/Queen (The National Anthem of the U.K.)
  ARTIST: Traditional
 COMMENT: This anthem is traditional and possibly one of the most known
-         national anthems in the world. Each verse was written at a different
+         national anthems in the world.Each verse was written at a different
          time, ranging from the 1740s to the present day.
 
 /Unknown/AMS/Green_Sleeves.sap
   TITLE: Greensleeves
  ARTIST: Unknown
+
+/Unknown/AMS/Girls_Just_Wanna_Have_Fun.sap
+  TITLE: Girls Just Wanna Have Fun [from She's So Unusual]
+ ARTIST: Cyndi Lauper
 
 /Unknown/AMS/Hallelujah.sap
   TITLE: Hallelujah (from Messiah, HWV 56)
@@ -5951,6 +6212,26 @@ COMMENT: This anthem is traditional and possibly one of the most known
   TITLE: Hungry Like The Wolf [from Rio]
  ARTIST: Duran Duran
 
+/Unknown/AMS/I_Am_a_Believer.sap
+  TITLE: I'm a Believer [from More of the Monkees]
+ ARTIST: The Monkees
+
+/Unknown/AMS/I_Am_the_Walrus.sap
+  TITLE: I Am the Walrus
+ ARTIST: The Beatles
+
+/Unknown/AMS/I_Just_Call_to_Say_I_Love.sap
+  TITLE: I Just Call to Say I Love You [from The Woman in Red]
+ ARTIST: Stevie Wonder
+
+/Unknown/AMS/I_Walk_the_Line.sap
+  TITLE: I Walk the Line
+ ARTIST: Johnny Cash
+
+/Unknown/AMS/I_Want_to_Hold_Your_Hand.sap
+  TITLE: I Want to Hold Your Hand
+ ARTIST: The Beatles
+
 /Unknown/AMS/Imagine.sap
   TITLE: Imagine
  ARTIST: John Lennon
@@ -5959,8 +6240,16 @@ COMMENT: This anthem is traditional and possibly one of the most known
   TITLE: The Imperial March / Darth Vader's Theme [from Star Wars Episode V]
  ARTIST: John Williams
 
+/Unknown/AMS/Imperial_March_2.sap
+  TITLE: The Imperial March / Darth Vader's Theme [from Star Wars Episode V]
+ ARTIST: John Williams
+
+/Unknown/AMS/In_the_Mood.sap
+  TITLE: In the Mood
+ ARTIST: Joe Garland
+
 /Unknown/AMS/Invention_no_13_2.sap
-  TITLE: Two-Part Invention No. 13, in A minor (BWV 784)
+  TITLE: Two-Part Invention No.13, in A minor (BWV 784)
  ARTIST: Johann Sebastian Bach
 
 /Unknown/AMS/James_Bond_007.sap
@@ -6107,6 +6396,14 @@ COMMENT: "PuckMan" is known outside Japan as "Pac-Man".
   TITLE: Pink Panther Theme
  ARTIST: Henry Mancini
 
+/Unknown/AMS/Popeye.sap
+  TITLE: Popeye Theme Song [from the TV series Popeye]
+ ARTIST: Sammy Lerner
+
+/Unknown/AMS/Power_of_Love.sap
+  TITLE: The Power of Love [from the movie Back to the Future]
+ ARTIST: Huey Lewis and The News
+
 /Unknown/AMS/Pride.sap
   TITLE: Pride (In The Name Of Love) [The Unforgettable Fire]
  ARTIST: U2
@@ -6125,7 +6422,7 @@ COMMENT: "PuckMan" is known outside Japan as "Pac-Man".
 
 /Unknown/AMS/Santa_Claus_Is_Coming_to.sap
   TITLE: Santa Claus Is Coming To Town
- ARTIST: J. Fred. Coots
+ ARTIST: J.Fred.Coots
 
 /Unknown/AMS/Say_Say_Say.sap
   TITLE: Say Say Say
@@ -6157,7 +6454,7 @@ COMMENT: "PuckMan" is known outside Japan as "Pac-Man".
 
 /Unknown/AMS/Spanish_Harlem.sap
   TITLE: Spanish Harlem
- ARTIST: Ben E. King
+ ARTIST: Ben E.King
 
 /Unknown/AMS/Stairway_to_Heaven.sap
   TITLE: Stairway To Heaven [from Led Zeppelin IV: Four Symbols]
@@ -6185,11 +6482,11 @@ COMMENT: "PuckMan" is known outside Japan as "Pac-Man".
 
 /Unknown/AMS/Summer_Nights.sap
   TITLE: Summer Nights [from the musical Grease]
- ARTIST: J. Jacobs
+ ARTIST: J.Jacobs
 COMMENT: Performed by John Travolta/Olivia Newton John & cast.
 
 /Unknown/AMS/Surf_in_USA.sap
-  TITLE: Surfin' U.S.A. [from Surfin' USA]
+  TITLE: Surfin' U.S.A.[from Surfin' USA]
  ARTIST: Beach Boys
 
 /Unknown/AMS/Sweet_Dreams.sap
@@ -6222,7 +6519,7 @@ COMMENT: Performed by John Travolta/Olivia Newton John & cast.
 
 /Unknown/AMS/Tie_a_Yellow_Ribbon_Round.sap
   TITLE: Tie A Yellow Ribbon 'Round The Ole Oak Tree
- ARTIST: Dawn featuring Tony Orlando (written by Irwin Levine & L. Russell Brown)
+ ARTIST: Dawn featuring Tony Orlando (written by Irwin Levine & L.Russell Brown)
 
 /Unknown/AMS/Time_After_Time.sap
   TITLE: Time After Time
@@ -6280,7 +6577,7 @@ COMMENT: English carol
  ARTIST: Irene Cara
 
 /Unknown/AMS/When_Im_64.sap
-  TITLE: When I'm 64 [from Sgt. Pepper's Lonely Hearts Club Band]
+  TITLE: When I'm 64 [from Sgt.Pepper's Lonely Hearts Club Band]
  ARTIST: The Beatles
 
 /Unknown/AMS/Why_Me_Lord.sap
@@ -6298,7 +6595,7 @@ COMMENT: Made famous in a Oscar Mayer commercial.
 
 /Unknown/AMS/Winter_Wonderland.sap
   TITLE: Walking in a Winter Wonderland
- ARTIST: Felix Bernard and Richard B. Smith
+ ARTIST: Felix Bernard and Richard B.Smith
 
 /Unknown/AMS/Witchy_Woman.sap
   TITLE: Witchy Woman [from Eagles]
@@ -6314,7 +6611,7 @@ COMMENT: Made famous in a Oscar Mayer commercial.
 
 /Unknown/AMS/Yankee_Doodle.sap
   TITLE: Yankee Doodle
- ARTIST: Traditional, Dr. Richard Schuckburgh (lyrics)
+ ARTIST: Traditional, Dr.Richard Schuckburgh (lyrics)
 
 /Unknown/AMS/Yellow_Submarine.sap
   TITLE: Yellow Submarine
