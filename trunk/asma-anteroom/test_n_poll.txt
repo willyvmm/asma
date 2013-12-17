@@ -172,4 +172,14 @@ Teenage_Mutant_Ninja_Turtles.sap
 ok?
 
 
+Trident_double_mode.sap
+Sap retracted.
+Plays well in cms' double mode, opposed to 'Trident' in Author's folder.
+
+
+Who_1.sap
+Sap retracted.
+Almost doublet with 'Composers\Pesout_Marek\Czech_Sound_1.sap'
+
+
 --
