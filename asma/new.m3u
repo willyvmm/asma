@@ -122,7 +122,8 @@ Composers/Pesout_Marek/12th_Warrior.sap
 Composers/Pesout_Marek/A_Man_In_White_Suit.sap
 Composers/Pesout_Marek/A_Type.sap
 Composers/Pesout_Marek/Analog_Apocalypse.sap 
-Composers/Pesout_Marek/Binary_Obsession.sap 
+Composers/Pesout_Marek/Binary_Obsession.sap
+Composers/Pesout_Marek/Blade_Runner_Stereo.sap
 Composers/Pesout_Marek/Clerics_of_Tetragrammaton.sap
 Composers/Pesout_Marek/Cyber_City_Online.sap 
 Composers/Pesout_Marek/Cyber_King_is_Back.sap
@@ -147,6 +148,7 @@ Composers/Pesout_Marek/My_Throne.sap
 Composers/Pesout_Marek/New_Age_Has_Just_Begun.sap
 Composers/Pesout_Marek/Not_without_incident.sap
 Composers/Pesout_Marek/Oilgame_Deluxe.sap
+Composers/Pesout_Marek/Old_Gremlin.sap
 Composers/Pesout_Marek/Parallel_Worlds_Are_Lost.sap
 Composers/Pesout_Marek/Poisons_Heart_Stopped_Beat.sa
 Composers/Pesout_Marek/Prototype.sap
@@ -193,7 +195,6 @@ Composers/Sporka_Adam/Five_Fifty_Five.sap
 Composers/Sporka_Adam/Grimlock_Warriors_Pacific.sap
 Composers/Sporka_Adam/Scarborough_Fair_Bitgaetton.sap
 Composers/Sporka_Adam/Things_Are_Happening.sap
-Composers/Sterba_Radek/Fluid_Chessboard.sap
 Composers/Sterba_Radek/Head_On.sap
 Composers/Strobe/Droid.sap 
 Composers/Strobe/Scylla.sap
@@ -228,7 +229,6 @@ Games/Assault_on_the_Astral_Rift.sap
 Games/Asteroidz.sap
 Games/Balloon.sap
 Games/Battle_Eagle.sap
-Games/Canyon_Climber.sap
 Games/Commando.sap
 Games/Dark_Chambers.sap
 Games/Dark_Star.sap
@@ -276,7 +276,6 @@ Games/Ice.sap
 Games/Icky_Squishy.sap
 Games/Im_Namen_des_Koenigs.sap
 Games/Immobilo.sap
-Games/Inferno.sap
 Games/Into_the_Eagles_Nest.sap
 Games/Jaw_Breaker_2.sap
 Games/Jawbreaker.sap
@@ -370,7 +369,6 @@ Games/Speed_Puzzle.sap
 Games/Star_Wars.sap
 Games/Stargunner.sap
 Games/Storyline.sap
-Games/Trailblazer.sap
 Games/Unicum.sap
 Games/X_8.sap
 Games/Xirius_Defect.sap
