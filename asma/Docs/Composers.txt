@@ -7,7 +7,7 @@ collection. The composers are sorted in ABC order according to their surnames
 Argentina - 1
 Canada - 1
 Chile - 2
-Czech Republic - 12
+Czech Republic - 13
 Finland - 1
 France - 2
 Germany - 26
@@ -18,9 +18,9 @@ Peru - 1
 Poland - 122
 Slovakia - 8
 Sweden - 1
-United Kingdom - 11
-USA - 11
-Unknown - 22
+United Kingdom - 13
+USA - 15
+Unknown - 15
 
 <?> - Anal-lysator - Poland
 <?> - Anti-Cheat - USA
@@ -56,18 +56,18 @@ Bryla, Krzysztof - Woppie, Foster - Poland
 Brzeski, Michal - Michu, MCH - Poland
 Brzezicki, Michal - Caruso - Poland
 Buettner, Falk - Germany
-Chamberlain, Craig - (?)
+Chamberlain, Craig - USA
 Checa Funcke, Marco Antonio - Peru
 Chichakly, R. M. - (?)
 Cierkonski, Michal - Morgoth - Poland
 Cieslewicz, Tomasz - TDC - Poland
-Coleman, Steve - (?)
+Coleman, Steve - USA
 Cornelius, Orall - United Kingdom (?)
 Crockford, Douglas - USA
 Cybruch, Ryszard - Seabrush - Poland
 Czartynski, Marcin - Cedyn - Poland
 Daglish, Ben - United Kingdom
-Delooze, Chris - (?)
+Delooze, Chris - United Kingdom (?)
 Diaz, Esteban - IDK - Chile
 Dojwa, Jacek - Poland
 Dombek, Krzysztof - Poland
@@ -157,14 +157,14 @@ Martin, Aleksander - Alex - Poland
 Martin, Chris - Cybernoid - USA
 Matoga, Adrian - Epi - Poland
 Matyasik, Krzysztof - Mateoos - Poland
-Mauchly, Bill - (?)
+Mauchly, Bill - USA
 Michalski, Krzysztof - KAMMSoft - Poland
 Mikolajczak, Pawel - Poland
 Mrozowski, Robert - Poland
 Munns, Richard - United Kingdom (?)
-Murray, Chris - (?)
+Murray, Chris - United Kingdom (?)
 Nabialek, Dawid - Dave - Poland
-Nedved, Vojtech - Nooly - (?)
+Nedved, Vojtech - Nooly - Czech Republic
 Niestegge, Stefan - Beetle - Germany
 Numan, Daniel - Zbx Virus - Poland
 Oglodek, Marek - Koala - Poland
@@ -198,7 +198,7 @@ Rosolek, Maciej - Sound Vixen - Poland
 Roszkowski, Marek - Marcys - Poland
 Rymorz, Waldemar - Poland
 Sasik, Marcel - Imaic - Slovakia
-Scarim, Nicholas - (?)
+Scarim, Nicholas - USA
 Schmidt, Karsten - Chip Special Software - Germany
 Sedlak, Jiri - Czech Republic
 Selinger, Bartek - Top Odin 1/3 - Poland
