@@ -14,12 +14,12 @@
                        ~~~      ~~~     ~~~     ~~~       ~~~ ~~~      ~~~
 
                             Atari SAP Music Archive
-                                  Version 3.6
+                                  Version 3.7
 
                            Started on August 4, 1999
                        Last updated on December 23, 2013
 
-                     Total number of songs: 4630 (315 new)
+                     Total number of songs: 5015 (399 new)
 
 
  Introduction
@@ -32,16 +32,16 @@
 
  Statistics
  ~~~~~~~~~~
- Number of songs:           5016 (6603 including subsongs)
- Compared to HVSC:          11,43 % (HVSC r59 contains 43856 songs)
- Disk space ocupied:        26317431 bytes (excluding documents and playlist)
+ Number of songs:           5015 (6602 including subsongs)
+ Compared to HVSC:          11.4 % (HVSC r59 contains 43856 songs)
+ Disk space ocupied:        3499008 bytes (excluding documents and playlist)
  Average SAP filesize:      5684 bytes
- Total playtime:            8 days 7 hours 02 minutes 40 seconds
+ Total playtime:            8 days 7 hours 03 minutes 48 seconds
  Files with subsongs:       493
- Songs in stereo:           517
+ Songs in stereo:           512
  Songs with unknown author: 540
- Number of musicians:       219
- Most active musician:      Michal Szpilowski (Miker)  (207 songs + 4
+ Number of musicians:       227
+ Most active musician:      Michal Szpilowski (Miker)  (364 songs + 5
                             cooperations)
  Largest SAP file:          Garfield_Part_2.sap (61559 bytes)
  Smallest SAP file:         Self_Test.sap       (172 bytes)
