@@ -33,7 +33,7 @@
  Statistics
  ~~~~~~~~~~
  Number of songs:           5015 (6602 including subsongs)
- Compared to HVSC:          11.4 % (HVSC r59 contains 43856 songs)
+ Compared to HVSC:          11.2 % (HVSC r60 contains 44670 songs)
  Disk space ocupied:        27992548 bytes (excluding documents and playlist)
  Average SAP filesize:      5581 bytes
  Total playtime:            8 days 7 hours 03 minutes 48 seconds
