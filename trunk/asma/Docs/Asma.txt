@@ -17,9 +17,9 @@
                                   Version 3.7
 
                            Started on August 4, 1999
-                       Last updated on December 22, 2013
+                       Last updated on December 23, 2013
 
-                     Total number of songs: 5015 (399 new)
+                     Total number of songs: 5016 (400 new)
 
 
  Introduction
@@ -32,11 +32,11 @@
 
  Statistics
  ~~~~~~~~~~
- Number of songs:           5015 (6602 including subsongs)
+ Number of songs:           5016 (6603 including subsongs)
  Compared to HVSC:          11.2 % (HVSC r60 contains 44670 songs)
- Disk space ocupied:        27992548 bytes (excluding documents and playlist)
+ Disk space ocupied:        27997429 bytes (excluding documents and playlist)
  Average SAP filesize:      5582 bytes
- Total playtime:            8 days 7 hours 03 minutes 53 seconds
+ Total playtime:            8 days 7 hours 05 minutes 28 seconds
  Files with subsongs:       493
  Songs in stereo:           512
  Songs with unknown author: 540
