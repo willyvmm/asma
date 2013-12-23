@@ -2,7 +2,7 @@
 #
 #  STIL v3.7 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1543
+#  Total number of entries: 1542
 #
 ##############################################################################
 #
@@ -1678,35 +1678,35 @@ COMMENT: The Atari version was made by Adam, with tweaks made by Sean.
 
 /Composers/Higgins_Robert/Six_Little_Preludes_no_1.sap
   TITLE: Little Prelude in C major, BWV 933
-ARTIST: Johann Sebastian Bach
+ ARTIST: Johann Sebastian Bach
 
 /Composers/Higgins_Robert/Six_Little_Preludes_no_2.sap
   TITLE: Little Prelude in C minor, BWV 934
-ARTIST: Johann Sebastian Bach
+ ARTIST: Johann Sebastian Bach
 
 /Composers/Higgins_Robert/Six_Little_Preludes_no_3.sap
   TITLE: Little Prelude in D minor, BWV 935
-ARTIST: Johann Sebastian Bach
+ ARTIST: Johann Sebastian Bach
 
 /Composers/Higgins_Robert/Six_Little_Preludes_no_4.sap
   TITLE: Little Prelude in D major, BWV 936
-ARTIST: Johann Sebastian Bach
+ ARTIST: Johann Sebastian Bach
 
 /Composers/Higgins_Robert/Six_Little_Preludes_no_5.sap
   TITLE: Little Prelude in E major, BWV 937
-ARTIST: Johann Sebastian Bach
+ ARTIST: Johann Sebastian Bach
 
 /Composers/Higgins_Robert/Six_Little_Preludes_no_6.sap
   TITLE: Little Prelude in E minor, BWV 938
-ARTIST: Johann Sebastian Bach
+ ARTIST: Johann Sebastian Bach
 
 /Composers/Higgins_Robert/Two_Part_Invention_no_14.sap
   TITLE: Two Part Invention No. 14 in B Flat Major, BWV 785
-ARTIST: Johann Sebastian Bach
+ ARTIST: Johann Sebastian Bach
 
 /Composers/Higgins_Robert/Two_Part_Invention_no_8.sap
   TITLE: Two Part Invention No. 8 in F Major, BWV 779
-ARTIST: Johann Sebastian Bach
+ ARTIST: Johann Sebastian Bach
 
 ### /Composers/Holda_Leszek ##################################################
 
@@ -3061,6 +3061,12 @@ COMMENT: Music from the game 'Zbir' released by Mirage in 1993.
   TITLE: Greensleeves
  ARTIST: Unknown
 
+### /Composers/Murray_Chris ##################################################
+
+/Composers/Murray_Chris/Henrys_House.sap
+  TITLE: Rule Britannia
+ ARTIST: Thomas Arne & James Thompson
+
 ### /Composers/MusicMarius ###################################################
 
 /Composers/MusicMarius/Alfred_J_Kwak.sap
@@ -3334,7 +3340,7 @@ COMMENT: Covers Hypnosis' disco version, from the album "Hypnosis".
   TITLE: Second Reality (Part 2) [from the PC demo "Second Reality"]
  ARTIST: Jonne Valtonen (Purple Motion)
 
- /Composers/Pesout_Marek/Switch_OFF_The_City.sap
+/Composers/Pesout_Marek/Switch_OFF_The_City.sap
   TITLE: <?>
  ARTIST: Harold Faltermeyer
 
@@ -5394,10 +5400,6 @@ COMMENT: Apart from covering classical music, this also covers the arcade
   TITLE: Dixie Land
  ARTIST: Daniel Emmett
 
-/Games/Henrys_House.sap
-  TITLE: Rule Britannia
- ARTIST: Thomas Arne & James Thompson
-
 /Games/Inferno.sap
   TITLE: The Entertainer
  ARTIST: Scott Joplin
@@ -5406,7 +5408,7 @@ COMMENT: Apart from covering classical music, this also covers the arcade
   TITLE: James Bond Theme [from the James Bond series of movies]
  ARTIST: Monty Norman
 
-/Games/Jumpman.sid
+/Games/Jumpman.sap
 (#11)
   TITLE: Funeral March [from Sonate No.2 in B flat minor Op.35]
  ARTIST: Fryderyk Chopin
@@ -6254,7 +6256,7 @@ COMMENT: Covers the "Bumble Boogie" version by Bumble B. and the Stingers.
 /Unknown/AMS/Chariots_of_Fire_2.sap
   TITLE: Titles [from the movie Chariots of Fire]
  ARTIST: Vangelis
- 
+
 /Unknown/AMS/Chattanooga_Choo_Choo.sap
   TITLE: Chattanooga Choo Choo
  ARTIST: Glenn Miller Orchestra
