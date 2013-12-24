@@ -5668,7 +5668,7 @@ COMMENT: The notes in voice 2 at the beginning of the tune spell out "SOS" in
   TITLE: Darling Nelly Gray
  ARTIST: Benjamin Hanby
 
-/Misc/Darling_Nellie_Grey.sap
+/Misc/Death_Rides_a_Horse.sap
   TITLE: Death Rides a Horse [from the movie]
  ARTIST: Ennio Morricone
 
