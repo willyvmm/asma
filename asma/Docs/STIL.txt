@@ -1785,13 +1785,9 @@ COMMENT: Music from the game 'Barbarian' released by L.K. Avalon in 1993.
  ARTIST: Mark Cooksey
 
 /Composers/Husak_Jakub/Do_You_Want_to_Dance_With.sap
-  TITLE: Do You Want to Dance with Me?
+  TITLE: Do You Want to Dance with Me? [from Afternoons in Utopia]
  ARTIST: Alphaville
 COMMENT: Made using The Software Synthesizer "Softsynth".
-
-/Composers/Husak_Jakub/Do_You_Want_to_Dance_With.sap
-  TITLE: Dance with Me [from Afternoons in Utopia]
- ARTIST: Alphaville
 
 /Composers/Husak_Jakub/Duch.sap
 COMMENT: Music from the game 'Duch' released by Mirage in 1992.
@@ -2065,10 +2061,6 @@ COMMENT: 2nd place at Atari Area 24h 'Zybex' music compo.
 /Composers/Karwoth_Torsten/Crystal_Hammer.sap
   TITLE: Crystal Hammer [from the Amiga game]
  ARTIST: Karsten Obarski
-
-/Composers/Karwoth_Torsten/FOFT.sap
-  TITLE: <?> [from the Amiga game Federation of Free Traders]
- ARTIST: Ben Daglish
 
 /Composers/Karwoth_Torsten/FOFT.sap
   TITLE: <?> [from the Amiga game Federation of Free Traders]
@@ -2800,10 +2792,6 @@ COMMENT: Music from the game 'U235' released by L.K. Avalon in 1992.
   TITLE: Mein Herrs [from the musical Cabaret]
  ARTIST: John Kander (music), Fred Ebb(lyrics), performed Liza Minnelli
 
-/Composers/Lusth_John/With_a_Little_Bit.sap
-  TITLE: With a Little Bit of Luck [from movie My Fair Lady]
- ARTIST: Frederick Loewe
-
 /Composers/Lusth_John/Scherherezade.sap
   TITLE: Scherherezade, Op. 35
  ARTIST: Nikolai Rimsky-Korsakov
@@ -2994,13 +2982,13 @@ COMMENT: Won first place at the Grayscale Compo 2004 music competition.
 
 ### /Composers/Matyasik_Krzysztof ############################################
 
-/Composers/Matyasik_Krzysztof/Atak_serca.sap
+/Composers/Matyasik_Krzysztof/Atak_Serca.sap
 COMMENT: Last Party 1998 music compo entry.
 
 /Composers/Matyasik_Krzysztof/Padaczka.sap
 COMMENT: Last Party 1998 music compo entry.
 
-/Composers/Matyasik_Krzysztof/Rak_mozgu.sap
+/Composers/Matyasik_Krzysztof/Rak_Mozgu.sap
 COMMENT: Last Party 1998 music compo entry.
 
 /Composers/Matyasik_Krzysztof/Self_Test.sap
@@ -4943,9 +4931,6 @@ COMMENT: This piece covers the version by Somebody Dance With Me by DJ Bobo.
 
 /Composers/Vogt_Dariusz/Music_1.sap
 COMMENT: 12th place at QuaST party 1996 music compo.
-
-/Composers/Vogt_Dariusz/Music_1.sap
-COMMENT: 16th place at QuaST party 1996 music compo.
 
 ### /Composers/Vybostok_Marian ###############################################
 
