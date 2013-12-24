@@ -1184,7 +1184,7 @@ COMMENT: Lato Ludzików 2002 music compo entry.
 COMMENT: A cover of the tune from Atari XE/XL POKEY Digiloo Digiley by Kemal Ezcan.
 
 /Composers/Gorecki_Marek/Microdemo_5.sap
-#4
+(#4)
   TITLE: Chattanooga Choo Choo
  ARTIST: Glenn Miller and his Orchestra
 
