@@ -2774,7 +2774,7 @@ COMMENT: Music from the game 'U235' released by L.K. Avalon in 1992.
 
 /Composers/Lusth_John/Cabaret.sap
   TITLE: Cabaret [from the musical Cabaret]
- ARTIST: John Kander (music), Fred Ebb(lyrics), performed Liza Minnelli
+ ARTIST: John Kander (music), Fred Ebb (lyrics), performed Liza Minnelli
 
 /Composers/Lusth_John/Gambler.sap
   TITLE: The Gambler [from Gambler]
@@ -2790,7 +2790,7 @@ COMMENT: Music from the game 'U235' released by L.K. Avalon in 1992.
 
 /Composers/Lusth_John/Mein_Herr.sap
   TITLE: Mein Herrs [from the musical Cabaret]
- ARTIST: John Kander (music), Fred Ebb(lyrics), performed Liza Minnelli
+ ARTIST: John Kander (music), Fred Ebb (lyrics), performed Liza Minnelli
 
 /Composers/Lusth_John/Scherherezade.sap
   TITLE: Scherherezade, Op. 35
@@ -2798,7 +2798,7 @@ COMMENT: Music from the game 'U235' released by L.K. Avalon in 1992.
 
 /Composers/Lusth_John/Tomorrow_Belongs.sap
   TITLE: Tomorrow Belongs [from the musical Cabaret]
- ARTIST: John Kander (music), Fred Ebb(lyrics), performed Liza Minnelli
+ ARTIST: John Kander (music), Fred Ebb (lyrics), performed Liza Minnelli
 
 /Composers/Lusth_John/William_Tell.sap
   TITLE: William Tell Overture: Final [from opera William Tell]
