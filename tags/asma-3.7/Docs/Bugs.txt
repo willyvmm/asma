@@ -1,0 +1,5 @@
+Composers/Eisenhammer_Zdenek/Deus_Ex_Machina.sap - strange noise after song end (?)
+Composers/Krasuski_Jaroslaw/Mojamuz.sap - duplicate of Composers/Kuczek_Ireneusz/Moja_Muzyka.sap
+Games/Diamonds.sap - bad rip
+Games/Schreckenstein.sap - invalid BRK instruction
+Unknown/Harold_II_Crack_Music.sap - bad rip of Herbert II crack intro
