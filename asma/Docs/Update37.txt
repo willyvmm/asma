@@ -1,5 +1,5 @@
 ASMA Update #37
-Date: Dec 23, 2013
+Date: Dec 30, 2013
 
 These rips together with the original ASMA collection will make version 3.7
 of the ASMA (out of version 3.6).
