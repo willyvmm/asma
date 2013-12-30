@@ -2,7 +2,7 @@
 #
 #  STIL v3.7 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1537
+#  Total number of entries: 1569
 #
 ##############################################################################
 #
@@ -144,7 +144,7 @@ COMMENT: Music starts at 0:04.
 COMMENT: 2nd place at Shadows Party 1994 music compo.
 
 /Composers/Bienias_Adam/Happy_Train_to_Kin_Sampled.sap
-COMMENT: Same as /Composers/Bienias_Adam/Happy_Train_to_Kingdom_ofsapwith
+COMMENT: Same as /Composers/Bienias_Adam/Happy_Train_to_Kingdom_of.sap with
          digitized drums.
 
 /Composers/Bienias_Adam/Hebdzie_1.sap
@@ -209,7 +209,7 @@ COMMENT: Same as /Composers/Bienias_Adam/Train.sap
 /Composers/Bienias_Adam/Tank.sap
   TITLE: Tank Title [from the Amiga game Future Tank]
  ARTIST: Karsten Obarski
-COMMENT: Same as /Composers/Bienias_Adam/Digital_Bonanzasapwith digitized
+COMMENT: Same as /Composers/Bienias_Adam/Digital_Bonanza.sap with digitized
          drums.
 
 /Composers/Bienias_Adam/Techno_Florid.sap
@@ -715,7 +715,7 @@ COMMENT: PG is abbreviation of PseudoGrafx.
 
 /Composers/Eisenhammer_Zdenek/Deus_Ex_Machina.sap
   TITLE: Hard Track [from the C64 SID]
- ARTIST: Søren Lund (Jeff)
+ ARTIST: Sřren Lund (Jeff)
 
 /Composers/Eisenhammer_Zdenek/Diamondz_Congratulations.sap
   TITLE: Dunder Honung [from the Amiga MOD module]
@@ -738,6 +738,10 @@ COMMENT: The intro part is cut off from this cover.
 /Composers/Eisenhammer_Zdenek/Flop_magazin_54.sap
   TITLE: Beetlemusic [from the Amiga MOD module]
  ARTIST: Jogeir Liljedahl
+
+/Composers/Eisenhammer_Zdenek/Grand_Prix_Circuit.sap
+  TITLE: Grand Prix Circuit, Tune #2 [from the C64 game]
+ ARTIST: Kris Hatlelid
 
 /Composers/Eisenhammer_Zdenek/Happy_Bars.sap
   TITLE: 2010 Survival [from the Amiga MOD module]
@@ -771,13 +775,21 @@ COMMENT: Covers a version made by Jogeir Liljedahl on the Amiga.
 /Composers/Eisenhammer_Zdenek/Phase_08.sap
 COMMENT: 2nd place at Forever 11 music compo.
 
+/Composers/Eisenhammer_Zdenek/Radixex.sap
+  TITLE: One Horse Open Sleigh (0:00-0:08)
+ ARTIST: James Lord Pierpont
+
 /Composers/Eisenhammer_Zdenek/Spellbound_Partial_Version.sap
   TITLE: Spellbound, Tune #1 [from the C64 game]
  ARTIST: Rob Hubbard
 
+/Composers/Eisenhammer_Zdenek/Turrican_2_Freedom.sap
+  TITLE: Freedom [from the Amiga game Turrican II]
+ ARTIST: Chris Hülsbeck
+
 /Composers/Eisenhammer_Zdenek/Turrican_2_Level_1_Traps.sap
-  TITLE: Turrican 2 - World 1, Tune #3 [from the Amiga game Turrican 2]
- ARTIST: Chris Huelsbeck
+  TITLE: The Traps [from the Amiga game Turrican II]
+ ARTIST: Chris Hülsbeck
 
 /Composers/Eisenhammer_Zdenek/Visitors.sap
   TITLE: Navstevnici [from the TV series]
@@ -839,6 +851,10 @@ COMMENT: Same as /Composers/Esquivel_Sal/Blaster_Master_Level_1.sap,
   TITLE: Fletch Theme [from the movie Fletch]
  ARTIST: Harold Faltermeyer
 
+/Composers/Esquivel_Sal/Frogger.sap
+COMMENT: Several classical tunes, converted from the arcade. This is the first
+         game ever that has used background music.
+
 /Composers/Esquivel_Sal/M_U_L_E.sap
   TITLE: M.U.L.E., Tune #1
  ARTIST: Roy Glover
@@ -848,33 +864,119 @@ COMMENT: Same as /Composers/Esquivel_Sal/Blaster_Master_Level_1.sap,
  ARTIST: Roy Glover
 COMMENT: Used in 'Mule Wars' game by Mario Caillahuz.
 
+/Composers/Esquivel_Sal/Mega_Man_III_Sparkman.sap
+  TITLE: Title [from the NES game Mega Man 3]
+ ARTIST: Yasuaki Fujita
+
+/Composers/Esquivel_Sal/Mega_Man_III_Title.sap
+  TITLE: Sparkman Stage [from the NES game Mega Man 3]
+ ARTIST: Yasuaki Fujita
+
 /Composers/Esquivel_Sal/Mega_Man_III_Title_Stereo.sap
+  TITLE: Sparkman Stage [from the NES game Mega Man 3]
+ ARTIST: Yasuaki Fujita
 COMMENT: Same as /Composers/Esquivel_Sal/Mega_Man_III_Title.sap,
-         but with second POKEY support (stereo version).
+         but with second POKEY support (stereo version)
+
+/Composers/Esquivel_Sal/Obliterator.sap
+  TITLE: Title [from the Amiga game Obliterator]
+ ARTIST: <?>
 
 /Composers/Esquivel_Sal/Obliterator_Stereo.sap
-COMMENT: Same as /Composers/Esquivel_Sal/Obliterator.sap,
-         but with second POKEY support (stereo version).
+  TITLE: Title [from the Amiga game Obliterator]
+ ARTIST: <?>
+COMMENT: Same as /Composers/Esquivel_Sal/Mega_Man_III_Title.sap,
+         but with second POKEY support (stereo version)
+
+/Composers/Esquivel_Sal/OutRun_Last_Wave_High_Scor.sap
+  TITLE: Last Wave [from the arcade game Out Run]
+ ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
 
 /Composers/Esquivel_Sal/OutRun_Magical_Sound_Sho_S.sap
+  TITLE: Last Wave [from the arcade game Out Run]
+ ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
 COMMENT: Same as /Composers/Esquivel_Sal/OutRun_Magical_Sound_Showe.sap,
-         but with second POKEY support (stereo version).
+         but with second POKEY support (stereo version)
+
+/Composers/Esquivel_Sal/OutRun_Magical_Sound_Sho_Showe.sap
+  TITLE: Last Wave [from the arcade game Out Run]
+ ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
+
+/Composers/Esquivel_Sal/Outrun_Passing_Breeze.sap
+  TITLE: Passing Breeze [from the arcade game Out Run]
+ ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
 
 /Composers/Esquivel_Sal/Outrun_Passing_Breeze_Ster.sap
+  TITLE: Passing Breeze [from the arcade game Out Run]
+ ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
 COMMENT: Same as /Composers/Esquivel_Sal/Outrun_Passing_Breeze.sap,
-         but with second POKEY support (stereo version).
+         but with second POKEY support (stereo version)
+
+/Composers/Esquivel_Sal/OutRun_Splash_Wave.sap
+  TITLE: Splash Wave [from the arcade game Out Run]
+ ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
 
 /Composers/Esquivel_Sal/OutRun_Splash_Wave_Stereo.sap
+  TITLE: Splash Wave [from the arcade game Out Run]
+ ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
 COMMENT: Same as /Composers/Esquivel_Sal/OutRun_Splash_Wave.sap,
-         but with second POKEY support (stereo version).
+         but with second POKEY support (stereo version)
 
 /Composers/Esquivel_Sal/Popcorn_Hot_Butter.sap
   TITLE: Popcorn [from Music To Moog By]
  ARTIST: Gershon Kingsley
 COMMENT: Covering the version arranged by Hot Butter.
 
+/Composers/Esquivel_Sal/Space_Harrier_Game_Over.sap
+  TITLE: Game Over [from the arcade game Space Harrier]
+ ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
+
+/Composers/Esquivel_Sal/Space_Harrier_Godarni.sap
+  TITLE: Godarni [from the arcade game Space Harrier]
+ ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
+
+/Composers/Esquivel_Sal/Space_Harrier_Ida.sap
+  TITLE: Ida [from the arcade game Space Harrier]
+ ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
+
+/Composers/Esquivel_Sal/Space_Harrier_Intro.sap
+  TITLE: Intro [from the arcade game Space Harrier]
+ ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
+
+/Composers/Esquivel_Sal/Space_Harrier_Lakeside_Mem.sap
+  TITLE: Lake Side Memory [from the arcade game Space Harrier]
+ ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
+
 /Composers/Esquivel_Sal/Space_Harrier_Main_Theme.sap
   TITLE: Main Theme [from the arcade game Space Harrier]
+ ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
+
+/Composers/Esquivel_Sal/Space_Harrier_Squilla.sap
+  TITLE: Squilla [from the arcade game Space Harrier]
+ ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
+
+/Composers/Esquivel_Sal/Space_Harrier_Stanray.sap
+  TITLE: Stanray [from the arcade game Space Harrier]
+ ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
+
+/Composers/Esquivel_Sal/Space_Harrier_Syrua.sap
+  TITLE: Syrua [from the arcade game Space Harrier]
+ ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
+
+/Composers/Esquivel_Sal/Space_Harrier_Uriah.sap
+  TITLE: Uriah [from the arcade game Space Harrier]
+ ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
+
+/Composers/Esquivel_Sal/Space_Harrier_Valda.sap
+  TITLE: Valda [from the arcade game Space Harrier]
+ ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
+
+/Composers/Esquivel_Sal/Space_Harrier_White_Summer.sap
+  TITLE: White Summer [from the arcade game Space Harrier]
+ ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
+
+/Composers/Esquivel_Sal/Space_Harrier_Wiwi_Jumbo.sap
+  TITLE: Wiwi Jumbo [from the arcade game Space Harrier]
  ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
 
 /Composers/Esquivel_Sal/Stardust_Memories.sap
@@ -885,9 +987,15 @@ COMMENT: Covering the version arranged by Hot Butter.
   TITLE: Trans Atlantic [from the Amiga MOD module]
  ARTIST: Gustaf Grefberg (Lizardking)
 
+/Composers/Esquivel_Sal/Unreal_Superhero_3.sap
+  TITLE: Unreal Superhero 3 [from the Amiga MOD module]
+ ARTIST: Raphaël Quercy (Kenet) & Christophe Résigné (Rez)
+
 /Composers/Esquivel_Sal/Unreal_Superhero_3_Stereo.sap
   TITLE: Unreal Superhero 3 [from the XM module]
  ARTIST: Christophe Résigné (Rez) & Raphaël Quercy (Kenet)
+COMMENT: Same as /Composers/Esquivel_Sal/Unreal_Superhero_3.sap,
+         but with second POKEY support (stereo version)
 
 ### /Composers/Ezcan_Kemal ###################################################
 
@@ -1145,6 +1253,12 @@ COMMENT: 3rd place at Winter Chip II (Best Pokey) music compo.
 
 /Composers/Gilbertson_Gary/Alternate_Reality_City_Dan.sap
 COMMENT: This tune takes 34 seconds to start.
+
+/Composers/Gilbertson_Gary/Alternate_Reality_City_Int.sap
+COMMENT: This tune takes 8 seconds to start.
+
+/Composers/Gilbertson_Gary/Alternate_Reality_City_T_W.sap
+COMMENT: This tune takes 12 seconds to start.
 
 ### /Composers/Golewski_Filip ################################################
 
@@ -1658,6 +1772,10 @@ COMMENT: The Atari version was made by Adam, with tweaks made by Sean.
   TITLE: Margie (My Little Margie)
  ARTIST: Con Conrad & J. Russel Robinson (music), Benny Davis (lyrics)
 
+/Composers/Higgins_Robert/Courante.sap
+  TITLE: Courante from Terpsichore
+ ARTIST: Michael Praetorius
+
 /Composers/Higgins_Robert/From_the_Well.sap
   TITLE: Prelude No. 2 in C minor [from Well-Tempered Clavier I (BWV 847)]
  ARTIST: Johann Sebastian Bach
@@ -1673,6 +1791,14 @@ COMMENT: The Atari version was made by Adam, with tweaks made by Sean.
 /Composers/Higgins_Robert/Maple_Leaf_Rag.sap
   TITLE: Maple Leaf Rag
  ARTIST: Scott Joplin
+
+/Composers/Higgins_Robert/March_of_the_Wooden.sap
+  TITLE: March of the Wooden Soldiers
+ ARTIST: Leon Jessel
+
+/Composers/Higgins_Robert/Rigaudon.sap
+  TITLE: Henry Purcell
+ ARTIST: Leon Jessel
 
 /Composers/Higgins_Robert/Six_Little_Preludes_no_1.sap
   TITLE: Little Prelude in C major, BWV 933
@@ -2092,7 +2218,15 @@ COMMENT: Silesian Atari Open 1995 music compo entry.
 
 /Composers/Kidaj_Andrzej/Blinki.sap
 (#1)
-  TITLE: Blinky's Scary School, Tune #1 [from the Atari game]
+  TITLE: Blinky's Scary School, Tune #1 [from the C64 game]
+ ARTIST: Adam Gilmore
+
+/Composers/Kidaj_Andrzej/Draconus_And_Zybex.sap
+(#1)
+  TITLE: Draconus, Tune #3 [from the C64 game]
+ ARTIST: Adam Gilmore
+(#2)
+  TITLE: Zybex, Tune #1 [from the C64 game]
  ARTIST: Adam Gilmore
 
 /Composers/Kidaj_Andrzej/Johnny_Intro.sap
@@ -2504,7 +2638,7 @@ COMMENT: Last Party 2002 music compo entry.
 
 /Composers/Lajciak_Pavol/R_Type.sap
   TITLE: R-Type [from the C64 game]
- ARTIST: Chris Huelsbeck
+ ARTIST: Chris Hülsbeck
 
 ### /Composers/Langston_Peter ################################################
 
@@ -2520,6 +2654,16 @@ COMMENT: "One reviewer, an eminent jazz player, said it sounded like
 (#5)
   TITLE: Ballblaster
  ARTIST: Peter Langston
+
+### /Composers/Lashower_Stephen ##############################################
+
+/Composers/Lashower_Stephen/Come_Sail_Away_With_Me.sap
+  TITLE: Come Sail Away [from The Grand Illusion]
+ ARTIST: Styx
+
+/Composers/Lashower_Stephen/Munsters.sap
+  TITLE: The Munsters Theme [from the movie]
+ ARTIST: Jack Marshall
 
 ### /Composers/Lehky_Jaroslav ################################################
 
@@ -2785,6 +2929,7 @@ COMMENT: Music from the game 'U235' released by L.K. Avalon in 1992.
 /Composers/Lusth_John/Humoresque.sap
   TITLE: Humoresque Op. 101 No. 7
  ARTIST: Antonín Dvořák
+COMMENT: Arrangement version is by Denes Agay.
 
 /Composers/Lusth_John/Mein_Herr.sap
   TITLE: Mein Herrs [from the musical Cabaret]
@@ -2935,8 +3080,8 @@ COMMENT: Silesian Atari Open party 1995 music compo entry.
 COMMENT: Same as /Composers/Martin_Chris/Approachong.sap, but with second
          POKEY support (stereo version).
 
-/Composers/Martin_Chris/Auld_Lang_Syne.sap
-COMMENT: Same as /Composers/Martin_Chris/Auld_Lang_Syne_8.sap,
+/Composers/Martin_Chris/Auld_Lang_Syne_8.sap
+COMMENT: Same as /Composers/Martin_Chris/Auld_Lang_Syne.sap,
          but with second POKEY support (stereo version).
 
 /Composers/Martin_Chris/Blue_Monday.sap
@@ -4817,7 +4962,7 @@ COMMENT: "Another entry in the annual ABBUC demo competition (can't remember
          (ST)
 
 /Composers/Tegethoff_Sven/The_Top_2_2.sap
-COMMENT: "This song was part of the same ABBUC Demo like ABBUC_20_1sapand
+COMMENT: "This song was part of the same ABBUC Demo like ABBUC_20_1.sap and
          ABBUC_21_2.sap.The complete demo (not this particular tune) won
          first price.The tune was ripped and re-used by some Czech demo crew
          in a demo called 'the top'.But I forgive them, because they gave me
@@ -5664,16 +5809,16 @@ COMMENT: The notes in voice 2 at the beginning of the tune spell out "SOS" in
   TITLE: Darling Nelly Gray
  ARTIST: Benjamin Hanby
 
-/Misc/Death_Rides_a_Horse.sap
-  TITLE: Death Rides a Horse [from the movie]
- ARTIST: Ennio Morricone
-
 /Misc/Das_Teufel.sap
   TITLE: Das Boot [from the movie]
  ARTIST: Klaus Doldinger
 
 /Misc/Deadline.sap
 COMMENT: 5th place at Grayscale Music Competition II.
+
+/Misc/Death_Rides_a_Horse.sap
+  TITLE: Death Rides a Horse [from the movie]
+ ARTIST: Ennio Morricone
 
 /Misc/Desease.sap
 COMMENT: Forever 2e3 music compo entry.
