@@ -3811,8 +3811,7 @@ COMMENT: Covers /Composers/Szpilowski_Michal/Hope.sap
 
 /Composers/Rymorz_Waldemar/Arkanoid_II.sap
 (#5)
-COMMENT: Another version of
-         /Composers/Rymorz_Waldemar/Music_Box_Demo_II_1_4.sap, tune 1.
+COMMENT: Another version of /Composers/Rymorz_Waldemar/Music_Box_Demo_II_1_4.sap, tune 1.
 
 /Composers/Rymorz_Waldemar/Kombi.sap
   TITLE: Nie ma zysku [from Nowy rozdział]
@@ -3820,8 +3819,7 @@ COMMENT: Another version of
 
 /Composers/Rymorz_Waldemar/Music_Box_Demo_II_1_4.sap
 (#1)
-COMMENT: Another version of
-         /Composers/Rymorz_Waldemar/Arkanoid_II.sap, tune 5.
+COMMENT: Another version of /Composers/Rymorz_Waldemar/Arkanoid_II.sap, tune 5.
 (#2)
   TITLE: Dance with Me [from Afternoons in Utopia]
  ARTIST: Alphaville
