@@ -455,7 +455,7 @@ COMMENT: Covers an international popular Christmas song ("Noche de paz" in
 
 /Composers/Checa_Funcke_Marco_Antonio/O_Tannenbaum.sap
   TITLE: O Tannenbaum!
- ARTIST: Traditional, A. Zarnack & Ernst Anschuetz (lyrics)
+ ARTIST: Traditional, A. Zarnack & Ernst Anschütz (lyrics)
 COMMENT: Covers a popular German Christmas song.
 
 /Composers/Checa_Funcke_Marco_Antonio/Oh_du_froehliche.sap
@@ -693,7 +693,7 @@ COMMENT: Popular folk song. Since 1971 the "Summer with Radio" broadcast
 
 /Composers/Duesterhoeft_Stephan/Hobbytronic_89_4.sap
   TITLE: The Great Giana Sisters, Tune #5 [from the C64 game]
- ARTIST: Chris Huelsbeck
+ ARTIST: Chris Hülsbeck
 
 ### /Composers/Duma_Dariusz ##################################################
 
@@ -715,7 +715,7 @@ COMMENT: PG is abbreviation of PseudoGrafx.
 
 /Composers/Eisenhammer_Zdenek/Deus_Ex_Machina.sap
   TITLE: Hard Track [from the C64 SID]
- ARTIST: Sřren Lund (Jeff)
+ ARTIST: Søren Lund (Jeff)
 
 /Composers/Eisenhammer_Zdenek/Diamondz_Congratulations.sap
   TITLE: Dunder Honung [from the Amiga MOD module]
@@ -1053,7 +1053,7 @@ COMMENT: Originally a C64 SID tune with POKEY routine added.
 
 /Composers/Farkas_Felker/Cool_Emotion_End.sap
   TITLE: Gammeldaws [from the C64 SID]
- ARTIST: Sřren Lund (Jeff)
+ ARTIST: Søren Lund (Jeff)
 COMMENT: Originally a C64 SID tune with POKEY routine added.
 
 /Composers/Farkas_Felker/Cool_Emotion_First_Part.sap
@@ -1173,7 +1173,7 @@ COMMENT: Originally a C64 SID tune with POKEY routine added.
 
 /Composers/Farkas_Felker/Veronika_5.sap
   TITLE: Hollywood Poker Pro, Tune #1 [from the C64 game]
- ARTIST: Chris Huelsbeck
+ ARTIST: Chris Hülsbeck
 COMMENT: Originally a C64 SID tune with POKEY routine added.
 
 /Composers/Farkas_Felker/Veronika_6.sap
@@ -2044,7 +2044,7 @@ COMMENT: 1st place at Atari Area 24h 'Zybex' music compo.
 ### /Composers/Jacob_Uwe #####################################################
 
 /Composers/Jacob_Uwe/Es_ist_fuer_uns.sap
-  TITLE: Es ist fuer uns eine Zeit angekommen
+  TITLE: Es ist für uns eine Zeit angekommen
  ARTIST: <?>
 COMMENT: Traditional German Christmas song.
 
@@ -2068,7 +2068,7 @@ COMMENT: Silesian Atari Open party 1995 music compo entry.
 
 /Composers/Jastrzemski_Marcin/Giana_Sisters_Remix.sap
   TITLE: The Great Giana Sisters [from the C64 game]
- ARTIST: Chris Huelsbeck
+ ARTIST: Chris Hülsbeck
 
 ### /Composers/Johnson_Steve #################################################
 
@@ -2412,7 +2412,7 @@ COMMENT: Covering from the C64 version game by Ben Daglish that appeared in
 
 /Composers/Krix_Mario/Giana_Sisters.sap
   TITLE: The Great Giana Sisters, Tune #2 [from the C64 game]
- ARTIST: Chris Huelsbeck
+ ARTIST: Chris Hülsbeck
 
 /Composers/Krix_Mario/Greensleeves.sap
   TITLE: Greensleeves
@@ -3481,7 +3481,7 @@ COMMENT: Covers Hypnosis' disco version, from the album "Hypnosis".
 
 /Composers/Pesout_Marek/Turrican_2.sap
   TITLE: Main Title [from the Amiga game Turrican 2]
- ARTIST: Chris Huelsbeck
+ ARTIST: Chris Hülsbeck
 
 /Composers/Pesout_Marek/Warhawk.sap
   TITLE: The Unknown Planet [from Space Experience](0:00)
@@ -4223,7 +4223,7 @@ COMMENT: 5th place at Forever 5 music compo.
 
 /Composers/Sterba_Radek/Turrican_2_Experiment.sap
   TITLE: Turrican 2 - World 1, Tune #1 [from the Amiga game Turrican 2]
- ARTIST: Chris Huelsbeck
+ ARTIST: Chris Hülsbeck
 COMMENT: Covers only a part of it.
 
 /Composers/Sterba_Radek/Two_Years_Ago.sap
@@ -4952,13 +4952,13 @@ COMMENT: "Another entry in the annual ABBUC demo competition (can't remember
 COMMENT: "Entry in the annual ABBUC demo competition 1990 held at the
          'Hobbytronic' Computer Fair in Dortmund, Germany.Written using 'The
          Black Magic Composer' with Digi-Drums.Drums were blatantly ripped
-         from various Chris Huelsbeck modules :)" (ST)
+         from various Chris Hülsbeck modules :)" (ST)
 
 /Composers/Tegethoff_Sven/Pulse.sap
 COMMENT: "Another entry in the annual ABBUC demo competition (can't remember
          the year) held at the 'Hobbytronic' Computer Fair in Dortmund,
          Germany.Written using 'The Black Magic Composer' with Digi-Drums.
-         Drums were blatantly ripped from various Chris Huelsbeck modules :)"
+         Drums were blatantly ripped from various Chris Hülsbeck modules :)"
          (ST)
 
 /Composers/Tegethoff_Sven/The_Top_2_2.sap
@@ -4969,7 +4969,7 @@ COMMENT: "This song was part of the same ABBUC Demo like ABBUC_20_1.sap and
          the proper credits :) Makes heavy uses of the very few modulations
          the atari sound chip allowed for.Written using 'The Black Magic
          Composer' with Digi-Drums.Drums were blatantly ripped from various
-         Chris Huelsbeck modules :)" (ST)
+         Chris Hülsbeck modules :)" (ST)
          Sven is wrong here, The Top demos were produced in Poland.
 
 ### /Composers/Top_Odin ######################################################
