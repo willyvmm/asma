@@ -898,7 +898,7 @@ COMMENT: Same as /Composers/Esquivel_Sal/Mega_Man_III_Title.sap,
 COMMENT: Same as /Composers/Esquivel_Sal/OutRun_Magical_Sound_Showe.sap,
          but with second POKEY support (stereo version)
 
-/Composers/Esquivel_Sal/OutRun_Magical_Sound_Sho_Showe.sap
+/Composers/Esquivel_Sal/OutRun_Magical_Sound_Showe.sap
   TITLE: Last Wave [from the arcade game Out Run]
  ARTIST: Hiroshi Miyauchi (Hiro/SEGA Sound Team)
 
