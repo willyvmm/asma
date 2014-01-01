@@ -2,7 +2,7 @@
 #
 #  STIL v3.7 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1569
+#  Total number of entries: 1574
 #
 ##############################################################################
 #
@@ -419,6 +419,8 @@ COMMENT: Cover of original ZX Spectrum version of "Whole" soundtrack.
  ARTIST: ABBA
   TITLE: Axel F [from the movie Beverly Hills Cop](6:09-6:25)
  ARTIST: Harold Faltermeyer
+COMMENT: Possibly a conversion attempt of the Amiga SoundTracker module
+"Papermix" by Enno & FDT.
 
 /Composers/CEvE-Soft/World_of_Wonders_Goldrunne.sap
   TITLE: Human Race, Tune #4 [from the C64 game]
@@ -778,6 +780,15 @@ COMMENT: 2nd place at Forever 11 music compo.
 /Composers/Eisenhammer_Zdenek/Radixex.sap
   TITLE: One Horse Open Sleigh (0:00-0:08)
  ARTIST: James Lord Pierpont
+
+/Composers/Eisenhammer_Zdenek/Rolltris_Game.sap
+  TITLE: beyond music [from the Amiga MOD module]
+ ARTIST: Markus Kaarlonen (Captain)
+
+/Composers/Eisenhammer_Zdenek/Rolltris_Intro.sap
+(#1)
+  TITLE: jazzberry juice.edit [from the Amiga MOD module]
+ ARTIST: Reed Richards (Reed)
 
 /Composers/Eisenhammer_Zdenek/Spellbound_Partial_Version.sap
   TITLE: Spellbound, Tune #1 [from the C64 game]
@@ -2367,6 +2378,10 @@ COMMENT: This covers the version "Moja Muzyka" by Bayer Full.
 /Composers/Krix_Mario/Acidjazzed_Evening.sap
   TITLE: Acidjazzed Evening [from the Amiga MOD module]
  ARTIST: Janne Suni (Tempest)
+
+/Composers/Krix_Mario/Alloy.sap
+  TITLE: The Alibi, Tune #1 [from the C64 game]
+ ARTIST: Jeroen Tel
 
 /Composers/Krix_Mario/Alloy_Run.sap
   TITLE: Alloyrun, Tune #1 [from the C64 game]
@@ -5526,6 +5541,10 @@ COMMENT: Apart from covering classical music, this also covers the arcade
   TITLE: Dixie Land
  ARTIST: Daniel Emmett
 
+/Games/Help.sap
+  TITLE: Help!
+ ARTIST: The Beatles
+
 /Games/Inferno.sap
   TITLE: The Entertainer
  ARTIST: Scott Joplin
@@ -5533,6 +5552,10 @@ COMMENT: Apart from covering classical music, this also covers the arcade
 /Games/James_Bond.sap
   TITLE: James Bond Theme [from the James Bond series of movies]
  ARTIST: Monty Norman
+
+/Games/Jigsaws.sap
+  TITLE: String Quintet in E major, Op. 11, No. 5 3rd Movement. Minuetto, Trio (A major)
+ ARTIST: Luigi Boccherini
 
 /Games/Jumpman.sap
 (#11)
@@ -5621,6 +5644,9 @@ COMMENT: Covers the arcade version.
  ARTIST: Claude Debussy
 
 /Games/Mythos.sap
+(#4)
+  TITLE: Gnomus [from Pictures at an Exhibition]
+ ARTIST: Carlos Fernandez
 (#5)
   TITLE: Funeral March [from Sonate No.2 in B flat minor Op.35]
  ARTIST: Fryderyk Chopin
