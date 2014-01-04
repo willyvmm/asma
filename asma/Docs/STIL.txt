@@ -2,7 +2,7 @@
 #
 #  STIL v3.7 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1576
+#  Total number of entries: 1577
 #
 ##############################################################################
 #
@@ -5796,6 +5796,10 @@ COMMENT: This piece is a cover of the arcade version.
 /Games/William_Tell.sap
   TITLE: Wilhelm Tell Overture
  ARTIST: Gioacchino Antonio Rossini
+
+/Games/X_8.sap
+  TITLE: World 1 [from the Amiga game Ruff 'n' Tumble]
+ ARTIST: Jason Page
 
 /Games/Zeppelin.sap
 COMMENT: The notes in voice 2 at the beginning of the tune spell out "SOS" in
