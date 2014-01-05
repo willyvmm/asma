@@ -2,7 +2,7 @@
 #
 #  STIL v3.7 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1577
+#  Total number of entries: 1587
 #
 ##############################################################################
 #
@@ -354,6 +354,14 @@ COMMENT: Music from the game 'Patrol In The Space' released in 2011.
 COMMENT: Music from the game 'Spy Master' released by L.K. Avalon in 1993.
 
 ### /Composers/Buettner_Falk #################################################
+
+/Composers/Buettner_Falk/Adalmar_Bootup.sap
+  TITLE: bootup [from the Amiga game Lotus Turbo Challenge II]
+ ARTIST: Barry Leitch
+
+/Composers/Buettner_Falk/Adalmar_Huntmoon.sap
+  TITLE: Hunter's Moon, Tune #3  [from the C64 SID]
+ ARTIST: Matt Gray
 
 /Composers/Buettner_Falk/Alf.sap
   TITLE: ALF Theme [from the TV series]
@@ -2380,7 +2388,7 @@ COMMENT: This covers the version "Moja Muzyka" by Bayer Full.
  ARTIST: Janne Suni (Tempest)
 
 /Composers/Krix_Mario/Alloy.sap
-  TITLE: The Alibi, Tune #1 [from the C64 game]
+  TITLE: Alloyrun - Title tune [from the C64 game]
  ARTIST: Jeroen Tel
 
 /Composers/Krix_Mario/Alloy_Run.sap
@@ -3507,6 +3515,20 @@ COMMENT: Covers Hypnosis' disco version, from the album "Hypnosis".
  ARTIST: John Keating
 COMMENT: Cover from the C64 game Warhawk, tune #1 by Rob Hubbard.
 
+### /Composers/Petrik_Alan ###################################################
+
+/Composers/Petrik_Alan/Robots.sap
+  TITLE: Die Roboter (The Robots) [from The Man Machine (Die Mensch-Maschine)]
+ ARTIST: Kraftwerk
+
+/Composers/Potter_Mike/Nautilus.sap
+  TITLE: Song of the Volga Boatmen
+ ARTIST: Traditional
+
+/Composers/Petrik_Alan/Squeeker_4.sap
+  TITLE: Oxygene (Part IV) [from Oxygene]
+ ARTIST: Jean Michel Jarre
+ 
 ### /Composers/Petruzela_Tomas ###############################################
 
 /Composers/Petruzela_Tomas/Flatfish.sap
@@ -5515,6 +5537,10 @@ COMMENT: Heavily based on /Composers/Szmatola_Krzysztof/Syn_Boga_Wiatru.sap
   TITLE: Yankee Doodle
  ARTIST: Traditional, Dr.Richard Schuckburgh (lyrics)
 
+/Games/Gemstone_Warrior.sap
+  TITLE: Prelude No. 6 in D Minor [from Well-tempered Clavier I (BWV 851)]
+ ARTIST: Johann Sebastian Bach
+
 /Games/Ghostbusters.sap
   TITLE: Ghostbusters [from the movie]
  ARTIST: Ray Parker, Jr.
@@ -5544,6 +5570,10 @@ COMMENT: Apart from covering classical music, this also covers the arcade
 /Games/Help.sap
   TITLE: Help!
  ARTIST: The Beatles
+
+/Games/Highway_Duel.sap
+  TITLE: Toccata [from Toccata and Fugue in D Minor (BWV 565)]
+ ARTIST: Johann Sebastian Bach
 
 /Games/Inferno.sap
   TITLE: The Entertainer
@@ -5576,6 +5606,10 @@ COMMENT: Apart from covering classical music, this also covers the arcade
   TITLE: Axel F [from the movie Beverly Hills Cop](0:30)
  ARTIST: Harold Faltermeyer
 COMMENT: This is not cover.
+
+/Games/Kissin_Kousins.sap
+  TITLE: Finale, March Of The Swiss Soldiers [ from Overture to the opera William Tell]
+ ARTIST: Gioachino Rossini
 
 /Games/Last_V8.sap
   TITLE: The Last V8, Tune #1 [from the C64 game]
@@ -5616,6 +5650,10 @@ COMMENT: Russel Lieblich sadly passed away in 2005, at the age of 51.
   TITLE: Boneless [from the C64 SID]
  ARTIST: Thomas Mogensen (DRAX)
 
+/Games/Mission_Zircon.sap
+  TITLE: Bridal Chorus (Treulich geführt) [from opera Lohengrin]
+ ARTIST: Richard Wagner
+
 /Games/Montezumas_Revenge.sap
 (#1)
   TITLE: Spanish Flea
@@ -5646,7 +5684,7 @@ COMMENT: Covers the arcade version.
 /Games/Mythos.sap
 (#4)
   TITLE: Gnomus [from Pictures at an Exhibition]
- ARTIST: Carlos Fernandez
+ ARTIST: Modest Mussorgsky
 (#5)
   TITLE: Funeral March [from Sonate No.2 in B flat minor Op.35]
  ARTIST: Fryderyk Chopin
@@ -5762,6 +5800,10 @@ COMMENT: This piece is a cover of the arcade version.
 /Games/Star_Wars.sap
   TITLE: Main Title [from all the Star Wars movies]
  ARTIST: John Williams
+
+/Games/Stargunner.sap
+  TITLE: Fugue [from Toccata and Fugue in D Minor (BWV 565)]
+ ARTIST: Johann Sebastian Bach
 
 /Games/Stealth.sap
 (#1)
