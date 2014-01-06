@@ -1,8 +1,8 @@
-﻿##############################################################################
+##############################################################################
 #
-#  STIL v3.7 - SAP Tune Information List
+#  STIL v3.8 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1587
+#  Total number of entries: 1598
 #
 ##############################################################################
 #
@@ -749,6 +749,14 @@ COMMENT: The intro part is cut off from this cover.
   TITLE: Beetlemusic [from the Amiga MOD module]
  ARTIST: Jogeir Liljedahl
 
+/Composers/Eisenhammer_Zdenek/Flop_magazin_55.sap
+  TITLE: Polyester [from the Amiga MOD module]
+ ARTIST: Radix
+
+/Composers/Eisenhammer_Zdenek/Flop_magazin_56.sap
+  TITLE: Wish Me Luck [from the Amiga MOD module]
+ ARTIST: Martin Wall (Mantronix)
+
 /Composers/Eisenhammer_Zdenek/Grand_Prix_Circuit.sap
   TITLE: Grand Prix Circuit, Tune #2 [from the C64 game]
  ARTIST: Kris Hatlelid
@@ -765,10 +773,15 @@ COMMENT: Covers a version made by Jogeir Liljedahl on the Amiga.
 /Composers/Eisenhammer_Zdenek/Jingle_Bells.sap
   TITLE: One Horse Open Sleigh
  ARTIST: James Lord Pierpont
+COMMENT: Covers a version made by Martin Nordell (Makrone) on the Amiga.
 
 /Composers/Eisenhammer_Zdenek/Jozin_z_bazin.sap
   TITLE: Jozin z bazin
  ARTIST: Ivan Mladek (music), performed by Banjo Band
+
+/Composers/Eisenhammer_Zdenek/Kaviar.sap
+  TITLE: Kaviar [from the Amiga MOD module]
+ ARTIST: Erno Zalka (Ern0)
 
 /Composers/Eisenhammer_Zdenek/Krakout.sap
   TITLE: Krakout, Tune #1 [from the C64 game]
@@ -778,14 +791,33 @@ COMMENT: Covers a version made by Jogeir Liljedahl on the Amiga.
   TITLE: fin [from the Amiga game Lotus III: The Ultimate Challenge]
  ARTIST: Patrick Phelan
 
+/Composers/Eisenhammer_Zdenek/Mashed_Turtles.sap
+  TITLE: Zoolrave [from the Amiga game Zool]
+ ARTIST: Patrick Phelan
+
 /Composers/Eisenhammer_Zdenek/Mind_Blast_Ingame.sap
   TITLE: Stardust Memories [from the Amiga MOD module]
  ARTIST: Volker Tripp (Jester)
 
+/Composers/Eisenhammer_Zdenek/Mind_Blast_Congratulatios.sap
+  TITLE: Against Time [from the Amiga MOD module]
+ ARTIST: Gustaf Grefberg (Lizardking)
+
+/Composers/Eisenhammer_Zdenek/Mind_Blast_Title.sap
+  TITLE: Strangled Mind [from the Amiga MOD module]
+ ARTIST: Radix
+
 /Composers/Eisenhammer_Zdenek/Phase_08.sap
 COMMENT: 2nd place at Forever 11 music compo.
 
+/Composers/Eisenhammer_Zdenek/Quest_for_Elvis.sap
+  TITLE: Living Next Door to Alice
+ ARTIST: New World
+COMMENT: Covers the version arranged by Smokie
+
 /Composers/Eisenhammer_Zdenek/Radixex.sap
+  TITLE: Radix Extra Bjelle 2
+ ARTIST: Radix
   TITLE: One Horse Open Sleigh (0:00-0:08)
  ARTIST: James Lord Pierpont
 
@@ -802,6 +834,26 @@ COMMENT: 2nd place at Forever 11 music compo.
   TITLE: Spellbound, Tune #1 [from the C64 game]
  ARTIST: Rob Hubbard
 
+/Composers/Eisenhammer_Zdenek/Somewhere.sap
+  TITLE: Somewhere [from the Amiga MOD module]
+ ARTIST: Sami Vuorensola (Equalizer)
+
+/Composers/Eisenhammer_Zdenek/Summerdays.sap
+  TITLE: Summerdays [from the Amiga MOD module]
+ ARTIST: Radix
+
+/Composers/Eisenhammer_Zdenek/Swapz_Hall_of_Fame.sap
+  TITLE: Hammastahna [from the Amiga MOD module]
+ ARTIST: Radix
+
+/Composers/Eisenhammer_Zdenek/Swapz_Ingame.sap
+  TITLE: Happy Sundays [from the Amiga MOD module]
+ ARTIST: Radix
+
+/Composers/Eisenhammer_Zdenek/Swapz_Title.sap
+  TITLE: Brainless 3 [from the Amiga MOD module]
+ ARTIST: Radix
+
 /Composers/Eisenhammer_Zdenek/Turrican_2_Freedom.sap
   TITLE: Freedom [from the Amiga game Turrican II]
  ARTIST: Chris Hülsbeck
@@ -814,6 +866,11 @@ COMMENT: 2nd place at Forever 11 music compo.
   TITLE: Navstevnici [from the TV series]
  ARTIST: Karel Svoboda
 COMMENT: Covers a version made by Lars Hutzelmann (The Blue Ninja) on the C64.
+
+
+/Composers/Eisenhammer_Zdenek/Xmas_Mix.sap
+  TITLE: Grapevine7 [from the Amiga MOD module]
+ ARTIST: Jonathan Scarliffe (Spirit)
 
 /Composers/Eisenhammer_Zdenek/We_re_the_Devils.sap
   TITLE: We're the Devils [from the Amiga MOD module]
