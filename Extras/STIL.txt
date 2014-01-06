@@ -8,7 +8,7 @@
 
 ### /Extras/Alt_Versions/Unsorted ############################################
 
-/Extras/Alt_Versions/Unsorted/AD_2044_Sexmisja_alt1.sap
+/Alt_Versions/Unsorted/AD_2044_Sexmisja_alt1.sap
 COMMENT: All sfx from game in subsongs.
 
 /Alt_Versions/Unsorted/Ducks_Ahoy_alt1.sap
