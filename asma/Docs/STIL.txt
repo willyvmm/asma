@@ -428,7 +428,7 @@ COMMENT: Cover of original ZX Spectrum version of "Whole" soundtrack.
   TITLE: Axel F [from the movie Beverly Hills Cop](6:09-6:25)
  ARTIST: Harold Faltermeyer
 COMMENT: Possibly a conversion attempt of the Amiga SoundTracker module
-"Papermix" by Enno & FDT.
+         "Papermix" by Enno & FDT.
 
 /Composers/CEvE-Soft/World_of_Wonders_Goldrunne.sap
   TITLE: Human Race, Tune #4 [from the C64 game]
@@ -799,7 +799,7 @@ COMMENT: Covers a version made by Martin Nordell (Makrone) on the Amiga.
   TITLE: Stardust Memories [from the Amiga MOD module]
  ARTIST: Volker Tripp (Jester)
 
-/Composers/Eisenhammer_Zdenek/Mind_Blast_Congratulatios.sap
+/Composers/Eisenhammer_Zdenek/Mind_Blast_Congratulations.sap
   TITLE: Against Time [from the Amiga MOD module]
  ARTIST: Gustaf Grefberg (Lizardking)
 
@@ -3585,7 +3585,7 @@ COMMENT: Cover from the C64 game Warhawk, tune #1 by Rob Hubbard.
 /Composers/Petrik_Alan/Squeeker_4.sap
   TITLE: Oxygene (Part IV) [from Oxygene]
  ARTIST: Jean Michel Jarre
- 
+
 ### /Composers/Petruzela_Tomas ###############################################
 
 /Composers/Petruzela_Tomas/Flatfish.sap
@@ -6126,7 +6126,7 @@ COMMENT: This song is converted from a C64 production made by Censor Design.
  ARTIST: Wolfgang Amadeus Mozart
 COMMENT: A Turkish march or marcia alla turca is a march
          written by a classical composer in the Turkish styl.
- 
+
 /Unknown/Bee.sap
   TITLE: Flight of the Bumblebee [from opera The Tale of Tsar Saltan]
  ARTIST: Nikolai Rimsky-Korsakov
