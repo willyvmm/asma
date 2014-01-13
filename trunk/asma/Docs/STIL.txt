@@ -2,7 +2,7 @@
 #
 #  STIL v3.8 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1599
+#  Total number of entries: 1603
 #
 ##############################################################################
 #
@@ -5536,6 +5536,10 @@ COMMENT: Covers the "Alley Cat", also known as "Alleycat" and "The Alley Cat,"
   TITLE: Rydeen [from Solid State Survivor]
  ARTIST: Yellow Magic Orchestra (YMO)
 
+/Games/Canyon_Climber.sap
+  TITLE: Prelude No. 2 in C minor [from Well-tempered Clavier I (BWV 847)]
+ ARTIST: Johann Sebastian Bach
+
 /Games/Carnival_Massacre.sap
   TITLE: Over the Waves
  ARTIST: Juventino Rosas
@@ -5581,6 +5585,10 @@ COMMENT: Heavily based on /Composers/Szmatola_Krzysztof/Syn_Boga_Wiatru.sap
 /Games/Emil_Hilf.sap
   TITLE: Popcorn [from Music To Moog By]
  ARTIST: Gershon Kingsley
+
+/Games/Fidget.sap
+  TITLE: Bourrée [from Lute Suite in E minor, BWV 996]
+ ARTIST: Johann Sebastian Bach
 
 /Games/Flip_and_Flop.sap
   TITLE: Entry of the Gladiators
@@ -5707,7 +5715,12 @@ COMMENT: Russel Lieblich sadly passed away in 2005, at the age of 51.
   TITLE: Boneless [from the C64 SID]
  ARTIST: Thomas Mogensen (DRAX)
 
+/Games/Mission_on_Thunderhead.sap
+  TITLE: Symphony No. 40 in G minor (KV 550) - 1st movement, Molto allegro
+ ARTIST: Wolfgang Amadeus Mozart
+
 /Games/Mission_Zircon.sap
+(#2)
   TITLE: Bridal Chorus (Treulich geführt) [from opera Lohengrin]
  ARTIST: Richard Wagner
 
@@ -5748,6 +5761,10 @@ COMMENT: Covers the arcade version.
 
 /Games/Nadral.sap
   TITLE: The Entertainer
+ ARTIST: Scott Joplin
+
+/Games/Nadral_Next_Level.sap
+  TITLE: Palm Leaf Rag
  ARTIST: Scott Joplin
 
 /Games/Naval_Battle.sap
