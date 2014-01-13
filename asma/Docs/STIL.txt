@@ -2,7 +2,7 @@
 #
 #  STIL v3.8 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1598
+#  Total number of entries: 1599
 #
 ##############################################################################
 #
@@ -5974,6 +5974,11 @@ COMMENT: 2nd place at Winter Chip II (Best Pokey) music compo.
 /Misc/Final_Fantasy_Prelude.sap
   TITLE: The Prelude [from Final Fantasy IV Piano Collections]
  ARTIST: Nobuo Uematsu
+
+/Misc/Grass_Slideshow_Intro.sap
+  TITLE: Second Reality (Part 2) [from the PC demo "Second Reality"](0:00-1:01)
+ ARTIST: Jonne Valtonen (Purple Motion)
+COMMENT: Uses only a fraction of the original song.
 
 /Misc/Huhi.sap
 COMMENT: 6th place at Winter Chip II (Best Pokey) music compo.
