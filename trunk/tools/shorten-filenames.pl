@@ -16,7 +16,7 @@ sub process_dir($) {
 		my $l = "$d/$e";
 		my $s = uc $e;
 		$s =~ y/-_//d;
-		my ($f, $x) = $s =~ /^([0-9A-Z]+)(\.[0-9A-Z]+)?$/ or die "$l: illegal filename\n";
+		my ($f, $x) = $s =~ /^([0-9A-Z]+)(\.[0-9A-Z]{1,3})?$/ or die "$l: illegal filename\n";
 		$f = substr($f, 0, $n);
 		my $c = 1;
 		while ($h{$f.$x}++) {
