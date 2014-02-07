@@ -3857,7 +3857,7 @@ COMMENT: An English folk song.
  ARTIST: Traditional
 
 /Composers/Quack_Ralf_Thomas/The_Sound_of_Silence.sap
-  TITLE: The Sound of Silence [from Sounds of Silence]
+  TITLE: The Sound of Silence [from The Sound of Silence & Wednesday morning 3am]
  ARTIST: Simon & Garfunkel
 
 /Composers/Quack_Ralf_Thomas/The_Wild_Rover.sap
@@ -4097,8 +4097,8 @@ COMMENT: 11th place at Grayscale Music Competition II.
  ARTIST: The Beatles
 
 /Composers/Simon_Scott_and_Ship_Howard/Scarborough_Fair.sap
-  TITLE: Scarborough Fair
- ARTIST: Traditional
+  TITLE: Scarborough Fair / Canticle [from Parsley, Sage, Rosemary & Thyme]
+ ARTIST: Simon & Garfunkel
 
 /Composers/Simon_Scott_and_Ship_Howard/Time_in_a_Bottle.sap
   TITLE: Time in a Bottle
@@ -5348,6 +5348,8 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
 /Composers/Zuegner_Alfred/In_the_Mood.sap
   TITLE: In the Mood
  ARTIST: Joe Garland
+COMMENT: Later made famous by The Glenn Miller Orchestra as Glenn Miller had
+         bought the song from Joe Garland.
 
 /Composers/Zuegner_Alfred/Kathy_s_Song.sap
   TITLE: Kathy's Song [from Sounds of Silence]
@@ -5378,7 +5380,7 @@ COMMENT: Same melody as /Composers/Pelc_Janusz/Fred.sap
  ARTIST: Billy Joel
 
 /Composers/Zuegner_Alfred/Scarborough_Fair.sap
-  TITLE: Scarborough Fair/Canticle [from Sounds of Silence]
+  TITLE: Scarborough Fair / Canticle [from Parsley, Sage, Rosemary & Thyme]
  ARTIST: Simon & Garfunkel
 
 /Composers/Zuegner_Alfred/She_s_Always_A_Woman.sap
@@ -6526,7 +6528,7 @@ COMMENT: Covers the "Bumble Boogie" version by Bumble B. and the Stingers.
 
 /Unknown/AMS/Cecilia.sap
   TITLE: Cecilia [from Bridge over Troubled Water]
- ARTIST: Symon & Garfunkel
+ ARTIST: Simon & Garfunkel
 
 /Unknown/AMS/Chariots_of_Fire.sap
   TITLE: Titles [from the movie Chariots of Fire]
@@ -6739,6 +6741,8 @@ COMMENT: Popular under name "Jingle Bells".
 /Unknown/AMS/Layla.sap
   TITLE: Layla [from Layla and Other Assorted Love Songs]
  ARTIST: Derek and the Dominoes
+COMMENT: The song was composed by Eric Clapton, who had been a member and
+         founder of Derek and the Dominoes.
 
 /Unknown/AMS/Let_It_Be.sap
   TITLE: Let It Be [from Let It Be]
@@ -6892,8 +6896,8 @@ COMMENT: "PuckMan" is known outside Japan as "Pac-Man".
  ARTIST: Paul McCartney & Michael Jackson
 
 /Unknown/AMS/Scarborough_Fair.sap
-  TITLE: Scarborough Fair
- ARTIST: Traditional
+  TITLE: Scarborough Fair / Canticle [from Parsley, Sage, Rosemary & Thyme]
+ ARTIST: Simon & Garfunkel
 
 /Unknown/AMS/She_Loves_You.sap
   TITLE: She Loves You [from The Beatles' Second Album]
