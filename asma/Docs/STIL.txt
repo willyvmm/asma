@@ -120,7 +120,7 @@ COMMENT: Composed for the iPhone/iPad game Cosmos And Pixel Invaders.
  ARTIST: Frédéric Motte (Moby)
 
 /Composers/Bienias_Adam/Crazy.sap
-  TITLE: Crazy
+  TITLE: She Drives Me Craz [from The Raw and the Cooked]
  ARTIST: Fine Young Cannibals
 
 /Composers/Bienias_Adam/Digital_Bonanza.sap
@@ -154,7 +154,7 @@ COMMENT: Same as /Composers/Bienias_Adam/Happy_Train_to_Kingdom_of.sap with
 COMMENT: Not a 100% cover.
 
 /Composers/Bienias_Adam/Ice_Machine.sap
-  TITLE: Ice Machine
+  TITLE: Ice Machine [from Speak & Spell]
  ARTIST: Depeche Mode
 
 /Composers/Bienias_Adam/Invitro_Orneta_95.sap
@@ -582,7 +582,7 @@ COMMENT: Music from the game 'Grunwald 1410' released by L.K. Firebird in 1995.
 ### /Composers/Czlowiek_W_Atomizerze #########################################
 
 /Composers/Czlowiek_W_Atomizerze/The_One.sap
-  TITLE: Dragostea Din Tei
+  TITLE: Dragostea Din Tei [from DiscO-Zone]
  ARTIST: O-Zone
 
 ### /Composers/Daglish_Ben ###################################################
@@ -594,7 +594,7 @@ COMMENT: Music from the game 'Grunwald 1410' released by L.K. Firebird in 1995.
 ### /Composers/Diaz_Esteban ##################################################
 
 /Composers/Diaz_Esteban/CWKND.sap
-  TITLE: Computer Weekend
+  TITLE: Computer Weekend [from Revolutions]
  ARTIST: Jean Michel Jarre
 
 ### /Composers/Dojwa_Jacek ###################################################
@@ -652,7 +652,7 @@ COMMENT: Music from the game 'Trisz Divinis' released by ASF in 1993.
 ### /Composers/Drozdowski_Marek ##############################################
 
 /Composers/Drozdowski_Marek/Barymag_1_Music_8.sap
-  TITLE: Somebody's Watching Me
+  TITLE: Somebody's Watching Me [from Somebody's Watching Me]
  ARTIST: Rockwell
 COMMENT: This piece covers the version by Somebody Dance With Me by DJ Bobo.
 
@@ -776,7 +776,7 @@ COMMENT: Covers a version made by Jogeir Liljedahl on the Amiga.
 COMMENT: Covers a version made by Martin Nordell (Makrone) on the Amiga.
 
 /Composers/Eisenhammer_Zdenek/Jozin_z_bazin.sap
-  TITLE: Jozin z bazin
+  TITLE: Jozin z bazin [from Nashledanou]
  ARTIST: Ivan Mladek (music), performed by Banjo Band
 
 /Composers/Eisenhammer_Zdenek/Kaviar.sap
@@ -816,8 +816,8 @@ COMMENT: 2nd place at Forever 11 music compo.
 COMMENT: Covers the version arranged by Smokie
 
 /Composers/Eisenhammer_Zdenek/Radixex.sap
-  TITLE: Radix Extra Bjelle 2
- ARTIST: Radix
+  TITLE: Extra Bjelle 2 [from the Amiga MOD module]
+ ARTIST: Jakob Svanholm (Radix)
   TITLE: One Horse Open Sleigh (0:00-0:08)
  ARTIST: James Lord Pierpont
 
@@ -840,19 +840,19 @@ COMMENT: Covers the version arranged by Smokie
 
 /Composers/Eisenhammer_Zdenek/Summerdays.sap
   TITLE: Summerdays [from the Amiga MOD module]
- ARTIST: Radix
+ ARTIST: Jakob Svanholm (Radix)
 
 /Composers/Eisenhammer_Zdenek/Swapz_Hall_of_Fame.sap
   TITLE: Hammastahna [from the Amiga MOD module]
- ARTIST: Radix
+ ARTIST: Jakob Svanholm (Radix)
 
 /Composers/Eisenhammer_Zdenek/Swapz_Ingame.sap
   TITLE: Happy Sundays [from the Amiga MOD module]
- ARTIST: Radix
+ ARTIST: Jakob Svanholm (Radix)
 
 /Composers/Eisenhammer_Zdenek/Swapz_Title.sap
   TITLE: Brainless 3 [from the Amiga MOD module]
- ARTIST: Radix
+ ARTIST: Jakob Svanholm (Radix)
 
 /Composers/Eisenhammer_Zdenek/Turrican_2_Freedom.sap
   TITLE: Freedom [from the Amiga game Turrican II]
@@ -866,7 +866,6 @@ COMMENT: Covers the version arranged by Smokie
   TITLE: Navstevnici [from the TV series]
  ARTIST: Karel Svoboda
 COMMENT: Covers a version made by Lars Hutzelmann (The Blue Ninja) on the C64.
-
 
 /Composers/Eisenhammer_Zdenek/Xmas_Mix.sap
   TITLE: Grapevine7 [from the Amiga MOD module]
@@ -1080,7 +1079,7 @@ COMMENT: Same as /Composers/Esquivel_Sal/Unreal_Superhero_3.sap,
  ARTIST: Rafael Hernández
 
 /Composers/Ezcan_Kemal/Digiloo_Digiley.sap
-  TITLE: Diggiloo Diggiley
+  TITLE: Diggi-Loo Diggi-Ley
  ARTIST: Herreys
 COMMENT: This song won the Eurovision Song Contest in 1984.
 
@@ -1089,7 +1088,7 @@ COMMENT: This song won the Eurovision Song Contest in 1984.
  ARTIST: Yellow Magic Orchestra (YMO)
 
 /Composers/Ezcan_Kemal/Globetrotter.sap
-  TITLE: Ticket To Ride
+  TITLE: Ticket To Ride [from Help!]
  ARTIST: The Beatles
 
 /Composers/Ezcan_Kemal/Its_a_Sin.sap
