@@ -2389,15 +2389,15 @@ COMMENT: This covers the version "Moja Muzyka" by Bayer Full.
  ARTIST: Del Shannon
 
 /Composers/Krasuski_Jaroslaw/Saturday_Night.sap
-  TITLE: Saturday Night
+  TITLE: Saturday Night [from Whigfield]
  ARTIST: Whigfield
 
 /Composers/Krasuski_Jaroslaw/Saturday_Night_2.sap
-  TITLE: Saturday Night
+  TITLE: Saturday Night [from Whigfield]
  ARTIST: Whigfield
 
 /Composers/Krasuski_Jaroslaw/Stownboy.sap
-  TITLE: Smalltown Boy
+  TITLE: Smalltown Boy [from The Age of Consent]
  ARTIST: Bronski Beat
 
 /Composers/Krasuski_Jaroslaw/Summer_Is_Magic.sap
@@ -2406,7 +2406,7 @@ COMMENT: This covers the version "Moja Muzyka" by Bayer Full.
 
 /Composers/Krasuski_Jaroslaw/Sunny.sap
   TITLE: Sunny
- ARTIST: Boney M
+ ARTIST: Bobby Hebb
 
 /Composers/Krasuski_Jaroslaw/Video_Poker.sap
   TITLE: The Entertainer
@@ -2535,12 +2535,12 @@ COMMENT: Covering from the C64 version game by Ben Daglish that appeared in
  ARTIST: Procol Harum
 
 /Composers/Kuczek_Ireneusz/Afterglow.sap
-  TITLE: Afterglow
+  TITLE: Afterglow [from Wind & Wuthering]
  ARTIST: Genesis
 
 /Composers/Kuczek_Ireneusz/Always_Will_Love_You.sap
-  TITLE: Always Will Love You
- ARTIST: Willie Nelson
+  TITLE: Always on My Mind
+ ARTIST: Johnny Christopher, Mark James and Wayne Carson, performed by Brenda Lee
 
 /Composers/Kuczek_Ireneusz/Anna_Maria.sap
   TITLE: Anna Maria [from Czerwone Gitary 3]
@@ -2560,15 +2560,15 @@ COMMENT: This tune covers the UB40 cover.
  ARTIST: Jean Michel Jarre
 
 /Composers/Kuczek_Ireneusz/Dlonie.sap
-  TITLE: Na raz na dwa
+  TITLE: Dłonie [from Kolorowe Dzieci]
  ARTIST: Rafał Paczkowski (music), Jacek Cygan (lyrics), performed by Majka Jeżowska.
 
 /Composers/Kuczek_Ireneusz/Do_You_Want_To_Know_A_Secr.sap
-  TITLE: Do You Want To know A Secret
+  TITLE: Do You Want To know A Secret [from Please Please Me]
  ARTIST: The Beatles
 
 /Composers/Kuczek_Ireneusz/Dream.sap
-  TITLE: Dream Of Me
+  TITLE: Dream of Me (Based on Love's Theme) [from Liberator]
  ARTIST: O.M.D.
 
 /Composers/Kuczek_Ireneusz/Eleanor.sap
@@ -2584,40 +2584,40 @@ COMMENT: This tune covers the UB40 cover.
  ARTIST: The Police
 
 /Composers/Kuczek_Ireneusz/Go_West.sap
-  TITLE: Go West
+  TITLE: Go West [from Go West]
  ARTIST: The Village People
-COMMENT: This tune covers the Pet Shop Boys.
 
 /Composers/Kuczek_Ireneusz/Goniac_Kormorany.sap
   TITLE: Goniąc Kormorany
- ARTIST: Piotr Szczepanik
+ ARTIST: Andrzej Tylczyński (lyrics), Jerzy Woy-Wojciechowski (music),
+         performed by Piotr Szczepanik
 
 /Composers/Kuczek_Ireneusz/Here.sap
-  TITLE: Here, There and Everywhere
+  TITLE: Here, There and Everywhere [from Revolver]
  ARTIST: The Beatles
 
 /Composers/Kuczek_Ireneusz/Honey_Pie.sap
-  TITLE: Honey Pie
+  TITLE: Honey Pie [from The Beatles]
  ARTIST: The Beatles
 
 /Composers/Kuczek_Ireneusz/I_Feel.sap
-  TITLE: I Feel Fine
+  TITLE: I Feel Fine [from Beatles '65]
  ARTIST: The Beatles
 
 /Composers/Kuczek_Ireneusz/Imagine.sap
-  TITLE: Imagine
+  TITLE: Imagine [from Imagine]
  ARTIST: John Lennon
 
 /Composers/Kuczek_Ireneusz/In_My_Life.sap
-  TITLE: In My Life
+  TITLE: In My Life [from Rubber Soul]
  ARTIST: The Beatles
 
 /Composers/Kuczek_Ireneusz/Julia.sap
-  TITLE: Julia
+  TITLE: Julia [from The Beatles]
  ARTIST: The Beatles
 
 /Composers/Kuczek_Ireneusz/Love_Is_Around_Us.sap
-  TITLE: Miłość jest cudowna
+  TITLE: Miłość jest cudowna [from Maanam]
  ARTIST: Maanam
 
 /Composers/Kuczek_Ireneusz/Magnetic_Fields.sap
@@ -2625,8 +2625,8 @@ COMMENT: This tune covers the Pet Shop Boys.
  ARTIST: Jean Michel Jarre
 
 /Composers/Kuczek_Ireneusz/Mama.sap
-  TITLE: Mama
- ARTIST: Phil Collins
+  TITLE: Mama [from Genesis]
+ ARTIST: Genesis
 
 /Composers/Kuczek_Ireneusz/Moja_Muzyka.sap
   TITLE: Taka Piosenka
@@ -2646,39 +2646,40 @@ COMMENT: This covers the version "Moja Muzyka" by Bayer Full.
  ARTIST: Perfect
 
 /Composers/Kuczek_Ireneusz/Oh_Carol.sap
-  TITLE: Oh Carol
+  TITLE: Oh Carol [from Tuneweaver]
  ARTIST: Neil Sedaka
 
 /Composers/Kuczek_Ireneusz/Oprocz_blekitnego_nieba.sap
-  TITLE: Oprócz
+  TITLE: Oprócz błękitnego nieba [from No1]
  ARTIST: Marek Jackowski
 
 /Composers/Kuczek_Ireneusz/Plaza.sap
-  TITLE: Spacer dziką plażą
- ARTIST: Stan Borys
+  TITLE: Spacer dziką plażą [from To Ziemia]
+ ARTIST: Bohdan Kendelewicz (lyrics), Bohdan Kendelewicz (music),
+         performed by Stan Borys & Bizony
 
 /Composers/Kuczek_Ireneusz/Please_Forgive_Me.sap
-  TITLE: Please Forgive Me
+  TITLE: Please Forgive Me [from Bare Bones]
  ARTIST: Bryan Adams
 
 /Composers/Kuczek_Ireneusz/Speak.sap
-  TITLE: Speak Softly Love
- ARTIST: Nino Rota
+  TITLE: Speak Softly Love (Love Theme from the Godfather) [from the movie The Godfather]
+ ARTIST: Larry Kusic (lyrics), Nino Rota (music)
 
 /Composers/Kuczek_Ireneusz/Tears.sap
-  TITLE: Tears in Heaven
+  TITLE: Tears in Heaven [from Rush]
  ARTIST: Eric Clapton
 
 /Composers/Kuczek_Ireneusz/The_Days.sap
-  TITLE: These Are the Days of Our Lives
+  TITLE: These Are the Days of Our Lives [from Innuendo]
  ARTIST: Queen
 
 /Composers/Kuczek_Ireneusz/Uptown.sap
-  TITLE: Uptown Girl
+  TITLE: Uptown Girl [from An Innocent Man]
  ARTIST: Billy Joel
 
 /Composers/Kuczek_Ireneusz/When_64.sap
-  TITLE: When I'm Sixty - Four
+  TITLE: When I'm Sixty - Four [from Sgt. Pepper's Lonely Hearts Club Band]
  ARTIST: The Beatles
 
 /Composers/Kuczek_Ireneusz/Winner.sap
