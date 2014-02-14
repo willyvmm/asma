@@ -1278,7 +1278,7 @@ COMMENT: Cover version Those Were the Days, performed by Mary Hopkin.
 
 /Composers/Foerst_Kai/Downtown.sap
   TITLE: Downtown
- ARTIST: Petula Clark
+ ARTIST: Tony Hatch (music), performed by Petula Clark
 
 ### /Composers/Galinski_Adrian ###############################################
 
@@ -1368,7 +1368,7 @@ COMMENT: Lato Ludzików 2002 music compo entry.
 ### /Composers/Gorecki_Marek #################################################
 
 /Composers/Gorecki_Marek/Microdemo_4.sap
-  TITLE: Diggiloo Diggiley
+  TITLE: Diggi-Loo Diggi-Ley
  ARTIST: Herreys
 COMMENT: A cover of the tune from Atari XE/XL POKEY Digiloo Digiley by Kemal Ezcan.
 
@@ -1740,16 +1740,17 @@ COMMENT: Music from the game 'Around the Planet' released by Mirage in 1994.
 ### /Composers/Hawkins_Ron ###################################################
 
 /Composers/Hawkins_Ron/Love_Me_Tender.sap
-  TITLE: Love Me Tender
- ARTIST: Elvis Presley
+  TITLE: Aura Lea
+ ARTIST: George R. Poulton
+COMMENT: Covers the version "Love Me Tender" by Elvis Presley.
 
 /Composers/Hawkins_Ron/Loving_Her_Was_Easier.sap
   TITLE: Lovin' Her Was Easier [from The Silver Tongued Devil and I]
  ARTIST: Kris Kristofferson
 
 /Composers/Hawkins_Ron/Me_and_Bobby_McGee.sap
-  TITLE: Me and Bobby McGee
- ARTIST: Janis Joplin
+  TITLE: Me and Bobby McGee [from Roger Miller]
+ ARTIST: Song written by Kris Kristofferson and Fred Foster, performed by Roger Miller
 
 /Composers/Hawkins_Ron/Polk_Salad_Annie.sap
   TITLE: Polk Salad Annie [from Black and White]
@@ -1926,7 +1927,7 @@ COMMENT: Music from the game 'Władcy Ciemności' released by L.K. Avalon in
 ### /Composers/Hryn_Piotr ####################################################
 
 /Composers/Hryn_Piotr/Music_Compo_93.sap
-  TITLE: Somebody's Watching Me (0:30)
+  TITLE: Somebody's Watching Me [from Somebody's Watching Me] (0:30)
  ARTIST: Rockwell
 
 ### /Composers/Hubbard_Rob ###################################################
@@ -1999,7 +2000,7 @@ COMMENT: 10th place at SillyVenture 2011 music compo.
  ARTIST: Jan Hammer
 
 /Composers/Husak_Jakub/Garfield_Part_2.sap
-  TITLE: Musik Non Stop
+  TITLE: Musik Non Stop [from Electric Cafe]
  ARTIST: Kraftwerk
 
 /Composers/Husak_Jakub/Helix.sap
@@ -2148,20 +2149,20 @@ COMMENT: Silesian Atari Open party 1995 music compo entry.
 ### /Composers/Johnson_Steve #################################################
 
 /Composers/Johnson_Steve/Broons_Bane.sap
-  TITLE: Broon's Bane
- ARTIST: Exit Stage Left
+  TITLE: Broon's Bane [from Exit Stage Left]
+ ARTIST: Rush
 
 /Composers/Johnson_Steve/Enemy_Within.sap
-  TITLE: Enemy Within
- ARTIST: Grace Under Pressure
+  TITLE: Enemy Within [from Grace Under Pressure]
+ ARTIST: Rush
 
 /Composers/Johnson_Steve/Red_Barchetta.sap
-  TITLE: Red Barchetta
- ARTIST: Moving Pictures
+  TITLE: Red Barchetta [from Moving Pictures]
+ ARTIST: Rush
 
 /Composers/Johnson_Steve/Red_Sector_A.sap
-  TITLE: Red Sector A
- ARTIST: Grace Under Pressure
+  TITLE: Red Sector A [from Grace Under Pressure]
+ ARTIST: Rush
 
 ### /Composers/Kalinowski_Bartosz ############################################
 
@@ -2204,7 +2205,7 @@ COMMENT: Same as /Composers/Rosolek_Maciej/Magia_Fortuny_Ingame.sap
 
 /Composers/Karpowicz_Henryk/Podmoskiewskie_Wieczory.sap
   TITLE: Podmoskiewskie Wieczory
- ARTIST: Michail Lwowicz Matusowski
+ ARTIST: Vasily Solovyov-Sedoi (music), Mikhail Matusovsky (lyrics),performed by Władimir Troshin
 
 /Composers/Karpowicz_Henryk/Polonez.sap
   TITLE: Polonez A-dur Op.40 Nr 1
