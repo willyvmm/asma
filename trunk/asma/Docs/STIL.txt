@@ -2589,8 +2589,7 @@ COMMENT: This tune covers the UB40 cover.
 
 /Composers/Kuczek_Ireneusz/Goniac_Kormorany.sap
   TITLE: Goniąc Kormorany
- ARTIST: Andrzej Tylczyński (lyrics), Jerzy Woy-Wojciechowski (music),
-         performed by Piotr Szczepanik
+ ARTIST: Andrzej Tylczyński (lyrics), Jerzy Woy-Wojciechowski (music), performed by Piotr Szczepanik
 
 /Composers/Kuczek_Ireneusz/Here.sap
   TITLE: Here, There and Everywhere [from Revolver]
@@ -2655,8 +2654,7 @@ COMMENT: This covers the version "Moja Muzyka" by Bayer Full.
 
 /Composers/Kuczek_Ireneusz/Plaza.sap
   TITLE: Spacer dziką plażą [from To Ziemia]
- ARTIST: Bohdan Kendelewicz (lyrics), Bohdan Kendelewicz (music),
-         performed by Stan Borys & Bizony
+ ARTIST: Bohdan Kendelewicz (lyrics), Bohdan Kendelewicz (music), performed by Stan Borys & Bizony
 
 /Composers/Kuczek_Ireneusz/Please_Forgive_Me.sap
   TITLE: Please Forgive Me [from Bare Bones]
