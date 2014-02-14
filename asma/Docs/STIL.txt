@@ -2,7 +2,7 @@
 #
 #  STIL v3.8 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1603
+#  Total number of entries: 1604
 #
 ##############################################################################
 #
@@ -2589,7 +2589,7 @@ COMMENT: This tune covers the UB40 cover.
 
 /Composers/Kuczek_Ireneusz/Goniac_Kormorany.sap
   TITLE: Goniąc Kormorany
- ARTIST: Andrzej Tylczyński (lyrics), Jerzy Woy-Wojciechowski (music), performed by Piotr Szczepanik
+ ARTIST: Andrzej Tylczyński (lyrics), Jerzy Woy-Wojciechowski (music),performed by Piotr Szczepanik
 
 /Composers/Kuczek_Ireneusz/Here.sap
   TITLE: Here, There and Everywhere [from Revolver]
@@ -2663,6 +2663,10 @@ COMMENT: This covers the version "Moja Muzyka" by Bayer Full.
 /Composers/Kuczek_Ireneusz/Speak.sap
   TITLE: Speak Softly Love (Love Theme from the Godfather) [from the movie The Godfather]
  ARTIST: Larry Kusic (lyrics), Nino Rota (music)
+
+/Composers/Kuczek_Ireneusz/Sunny.sap
+  TITLE: Sunny
+ ARTIST: Bobby Hebb
 
 /Composers/Kuczek_Ireneusz/Tears.sap
   TITLE: Tears in Heaven [from Rush]
