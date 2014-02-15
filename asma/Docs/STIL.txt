@@ -3083,7 +3083,7 @@ COMMENT: 15th place at QuaST party 1996 music compo.
 COMMENT: 18th place at QuaST party 1996 music compo.
 
 /Composers/Majewski_Tomasz/Magic_Fly.sap
-  TITLE: Magic Fly
+  TITLE: Magic Fly [from Magic Fly]
  ARTIST: Didier Marouani (Ecama), performed by Space
 
 /Composers/Majewski_Tomasz/Mega_Player_151_Hidden_Mus.sap
@@ -3091,7 +3091,7 @@ COMMENT: 18th place at QuaST party 1996 music compo.
  ARTIST: Randy Edelman
 
 /Composers/Majewski_Tomasz/Only_You.sap
-  TITLE: Only You
+  TITLE: Only You [from Only You]
  ARTIST: The Platters
 
 /Composers/Majewski_Tomasz/Reksio_Theme.sap
@@ -3262,7 +3262,7 @@ COMMENT: Music from the game 'Zbir' released by Mirage in 1993.
  ARTIST: Led Zeppelin
 
 /Composers/Mrozowski_Robert/Rock_And_Roll.sap
-  TITLE: Rock And Roll
+  TITLE: Rock And Roll [from Led Zeppelin IV]
  ARTIST: Led Zeppelin
 
 /Composers/Mrozowski_Robert/Stairway_to_Heaven.sap
@@ -3279,7 +3279,7 @@ COMMENT: Music from the game 'Zbir' released by Mirage in 1993.
 
 /Composers/Murray_Chris/Henrys_House.sap
   TITLE: Rule Britannia
- ARTIST: Thomas Arne & James Thompson
+ ARTIST: Thomas Augustine Arne (music), James Thompson (lyrics)
 
 ### /Composers/MusicMarius ###################################################
 
@@ -3700,7 +3700,7 @@ COMMENT: 10th place at QuaST party 1996 music compo.
 
 /Composers/Pucinski_Rafal/Czarny_Alibaba.sap
   TITLE: Czarny Alibaba
- ARTIST: Helena Majdaniec & Niebiesko-Czarni
+ ARTIST: Bogusław Klimczuk (music), Tadeusz Urgacz (lyrics), performed by Helena Majdaniec & Niebiesko-Czarni
 COMMENT: Covers the version by Andrzej Zaucha.
 
 /Composers/Pucinski_Rafal/Kick.sap
