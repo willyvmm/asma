@@ -2,7 +2,7 @@
 #
 #  STIL v3.8 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1604
+#  Total number of entries: 1607
 #
 ##############################################################################
 #
@@ -3739,9 +3739,21 @@ COMMENT: An English folk song.
   TITLE: Another Day in Paradise [from ...But Seriously]
  ARTIST: Phil Collins
 
+/Composers/Quack_Ralf_Thomas/Auld_Lang_Syne.sap
+  TITLE: Auld Lang Syne
+ ARTIST: Scottish Traditional
+
 /Composers/Quack_Ralf_Thomas/Baby_Elephant_Walk.sap
   TITLE: Baby Elephant Walk [from the movie Hatari!]
  ARTIST: Henry Mancini
+
+/Composers/Quack_Ralf_Thomas/Bourree_in_E_Moll.sap
+  TITLE: Bouree In E Minor [from Suite in E minor for Lute, BWV 996 (BC L166)]
+ ARTIST: Johann Sebastian Bach
+
+/Composers/Quack_Ralf_Thomas/Bye_Bye_Fraulein.sap
+  TITLE: Bye Bye Fraulein
+ ARTIST: Micky
 
 /Composers/Quack_Ralf_Thomas/Can_Can.sap
   TITLE: Can Can [from the Orpheus in the Underworld]
