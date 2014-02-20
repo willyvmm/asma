@@ -3724,7 +3724,7 @@ COMMENT: An English folk song.
  ARTIST: Everly Brothers
 
 /Composers/Quack_Ralf_Thomas/Amarillo.sap
-  TITLE: Amarillo
+  TITLE: Is This the Way to Amarillo
  ARTIST: Tony Christie
 
 /Composers/Quack_Ralf_Thomas/Amazing_Grace.sap
@@ -3736,7 +3736,7 @@ COMMENT: An English folk song.
  ARTIST: Albert Parlow
 
 /Composers/Quack_Ralf_Thomas/Another_Day_in_Paradise.sap
-  TITLE: Another Day in Paradise
+  TITLE: Another Day in Paradise [from ...But Seriously]
  ARTIST: Phil Collins
 
 /Composers/Quack_Ralf_Thomas/Baby_Elephant_Walk.sap
@@ -3748,7 +3748,7 @@ COMMENT: An English folk song.
  ARTIST: Jacques Offenbach
 
 /Composers/Quack_Ralf_Thomas/Casathok.sap
-  TITLE: Kazaczok / Katyusha
+  TITLE: Katyusha
  ARTIST: Matwiej Blanter (music), Michail Isakowski (lyrics)
 
 /Composers/Quack_Ralf_Thomas/Chattanooga_Choo_Choo.sap
@@ -3764,7 +3764,7 @@ COMMENT: An English folk song.
  ARTIST: Blondie
 
 /Composers/Quack_Ralf_Thomas/Help.sap
-  TITLE: Help!
+  TITLE: Help! [from Help!]
  ARTIST: The Beatles
 
 /Composers/Quack_Ralf_Thomas/Hotel_California.sap
@@ -3776,12 +3776,13 @@ COMMENT: An English folk song.
  ARTIST: Glenn Miller Orchestra
 
 /Composers/Quack_Ralf_Thomas/Itsy_Bitsy_Teeny_Weeny.sap
-  TITLE: Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini
- ARTIST: Connie Francis
+  TITLE: Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini [from The Bashful Blond]
+ ARTIST: Paul Vance & Lee Pockriss, performed by Brian Hyland
 
 /Composers/Quack_Ralf_Thomas/Kansas_City.sap
   TITLE: Kansas City
- ARTIST: The Beatles
+ ARTIST: Jerry Leiber and Mike Stoller
+COMMENT: Covers the version by The Beatles.
 
 /Composers/Quack_Ralf_Thomas/Lady_in_Black.sap
   TITLE: Lady in Black [from Salisbury]
@@ -3804,11 +3805,11 @@ COMMENT: An English folk song.
  ARTIST: Frank Mills
 
 /Composers/Quack_Ralf_Thomas/Nah_Neh_Nah.sap
-  TITLE: Nah Neh Nah
+  TITLE: Nah Neh Nah [from Night Owls]
  ARTIST: Vaya Con Dios
 
 /Composers/Quack_Ralf_Thomas/Nights_in_White_Satin.sap
-  TITLE: Nights in White Satin
+  TITLE: Nights in White Satin [from Days of Future Passed]
  ARTIST: The Moody Blues
 
 /Composers/Quack_Ralf_Thomas/Ob_La_Di_Ob_La_Da.sap
