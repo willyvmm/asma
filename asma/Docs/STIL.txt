@@ -120,7 +120,7 @@ COMMENT: Composed for the iPhone/iPad game Cosmos And Pixel Invaders.
  ARTIST: Frédéric Motte (Moby)
 
 /Composers/Bienias_Adam/Crazy.sap
-  TITLE: She Drives Me Craz [from The Raw and the Cooked]
+  TITLE: She Drives Me Crazy [from The Raw and the Cooked]
  ARTIST: Fine Young Cannibals
 
 /Composers/Bienias_Adam/Digital_Bonanza.sap
