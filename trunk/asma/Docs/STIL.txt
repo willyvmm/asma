@@ -2,7 +2,7 @@
 #
 #  STIL v3.8 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1607
+#  Total number of entries: 1608
 #
 ##############################################################################
 #
@@ -3576,6 +3576,10 @@ COMMENT: Covers Hypnosis' disco version, from the album "Hypnosis".
 COMMENT: Cover from the C64 game Warhawk, tune #1 by Rob Hubbard.
 
 ### /Composers/Petrik_Alan ###################################################
+
+/Composers/Petrik_Alan/Atari_Style.sap
+  TITLE: Gangnam Style (0:06)
+ ARTIST: PSY
 
 /Composers/Petrik_Alan/Robots.sap
   TITLE: Die Roboter (The Robots) [from The Man Machine (Die Mensch-Maschine)]
