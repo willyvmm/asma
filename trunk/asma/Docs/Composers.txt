@@ -2,26 +2,27 @@ Known Atari composers and handles                                 Dec 20 2013
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This list contains only composers who have at least 3 songs in ASMA
 collection. The composers are sorted in ABC order according to their surnames
-(if known, otherwise by their handles). There are 230 composers in this list.
+(if known, otherwise by their handles). There are 232 composers in this list.
 
 Argentina - 1
-Canada - 1
+Canada - 2
 Chile - 2
 Czech Republic - 13
 Finland - 1
 France - 2
-Germany - 28
+Germany - 29
 Hungary - 1
-Netherlands - 4
+Netherlands - 5
 Mexico - 1
 Peru - 1
 Poland - 122
 Slovakia - 8
 Sweden - 1
 Ukraine - 1
-United Kingdom - 13
+United Kingdom - 10
+United Kingdom (England) - 2
 USA - 15
-Unknown - 15
+Unknown - 13
 
 <?> - Anal-lysator - Poland
 <?> - Anti-Cheat - USA
@@ -46,11 +47,11 @@ Bankowski, Krzysztof - sEXTOn - Poland
 Berger, Dominique - StaxX - France
 Bernasek, Jiri - Bewesoft - Czech Republic
 Bienias, Adam - SoTe - Poland
-Billyard, Adam - United Kingdom (?)
+Billyard, Adam - USA
 Bloszko, Marek - Markus - Poland
 Brady, Jerry - (?)
 Bratt, Harry - (?)
-Brooke, Jason C. - United Kingdom (?)
+Brooke, Jason C. - United Kingdom (England)
 Bruenninski, Uwe - Hu-Soft - Germany
 Buehrig, Bastian - Oson, Sit Meier - Germany
 Bryla, Krzysztof - Woppie, Foster - Poland
@@ -59,7 +60,7 @@ Brzezicki, Michal - Caruso - Poland
 Buettner, Falk - Germany
 Chamberlain, Craig - USA
 Checa Funcke, Marco Antonio - Peru
-Chichakly, R. M. - (?)
+Chichakly, Rashad M. - (?)
 Cierkonski, Michal - Morgoth - Poland
 Cieslewicz, Tomasz - TDC - Poland
 Coleman, Steve - USA
@@ -80,7 +81,7 @@ Duesterhoeft, Christian - Buddy - Germany
 Duesterhoeft, Stephan - Benjy - Germany
 Duma, Dariusz - Dhor - Poland
 Eisenhammer, Zdenek - PG, PseudoGrafx - Czech Republic
-von Eschenbach, Christoph Ebner - CEvE-Soft - Germany
+Eschenbach, von Christoph Ebner - CEvE-Soft - Germany
 Esquivel, Sal - Kjmann - USA
 Ezcan, Kemal - KE-SOFT - Germany
 Falton, Peter - France
@@ -129,6 +130,7 @@ Krasuski, Jaroslaw - Jaras - Poland
 Krawczyk, Adam - Monti - Poland
 Krix, Mario - emkay - Germany
 Krowarsch, Daniel - Germany
+Krueger, Christian - Irgendwer - Germany
 Kucharski, Konrad - Kuchara - Poland
 Kucisz, Tomasz - VLX - Poland
 Kuczek, Ireneusz - Poland
@@ -187,7 +189,7 @@ Podedworny, Wojtek - Ferro - Poland
 Polak, Krzysztof - Poland
 Poorten, Ivo van - The Gatekeeper - Netherlands
 Portelli, Jim - (?)
-Potter, Mike - (?)
+Potter, Mike - USA
 Przybyszewski, Krzysztof - BLB, Bloody Butcher - Poland
 Pucinski, Rafal - Dex - Poland
 Quack, Ralf Thomas - Germany
@@ -239,11 +241,12 @@ Vavra, Karel - Czech Republic
 Verdaasdonk, Robert - Fox-1 - Netherlands
 Vila, Jaime - JIMPACK - Chile
 Vogt, Dariusz - DJ V - Poland
+Vos, Roland - Triace - Netherlands
 Vybostok, Marian - Goldmaster - Slovakia
 Walters, Sean - B00daW - USA
 Wasiel, Bartek - BeWu - Poland
 Wasilewski, Dariusz - Trener - Poland
-Whittaker, David - United Kingdom
+Whittaker, David - United Kingdom (England)
 Wiatr, Przemyslaw - Profi - Poland
 Wieczorkowski, Bartlomiej - Wieczor - Poland
 Wiegmann, Stefan - Germany
