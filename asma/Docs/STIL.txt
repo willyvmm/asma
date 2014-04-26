@@ -4375,6 +4375,10 @@ COMMENT: Music from the game 'Caveman' released by Mirage in 1993.
 /Composers/Swierszcz_Piotr/Forgotten_Sounds.sap
 COMMENT: 4th place at Forever 5 music compo.
 
+/Composers/Swierszcz_Piotr/Gary_and_Denise.sap
+  TITLE: Gary & Denise [from the Amiga MOD module]
+ ARTIST: Loonie of Ramjam
+
 /Composers/Swierszcz_Piotr/Jimmy.sap
   TITLE: Jimmy Dean
  ARTIST: Troll
@@ -4458,7 +4462,7 @@ COMMENT: 1st place at QuaST party 1995 music compo.
 /Composers/Swierszcz_Piotr/White_Lamp.sap
   TITLE: Greensleeves
  ARTIST: Unknown
-COMMENT: Covers a version made by Richard Munns.2nd place at Atari Area
+COMMENT: Covers a version made by Richard Munns. 2nd place at Atari Area
          24h 'Black Lamp' music compo.
 
 ### /Composers/Szmatola_Krzysztof ############################################
