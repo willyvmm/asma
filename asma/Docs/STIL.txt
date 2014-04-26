@@ -1927,7 +1927,7 @@ COMMENT: Music from the game 'Władcy Ciemności' released by L.K. Avalon in
 ### /Composers/Hryn_Piotr ####################################################
 
 /Composers/Hryn_Piotr/Music_Compo_93.sap
-  TITLE: Somebody's Watching Me [from Somebody's Watching Me] (0:30)
+  TITLE: Somebody's Watching Me [from Somebody's Watching Me](0:30)
  ARTIST: Rockwell
 
 ### /Composers/Hubbard_Rob ###################################################
@@ -2205,7 +2205,7 @@ COMMENT: Same as /Composers/Rosolek_Maciej/Magia_Fortuny_Ingame.sap
 
 /Composers/Karpowicz_Henryk/Podmoskiewskie_Wieczory.sap
   TITLE: Podmoskiewskie Wieczory
- ARTIST: Vasily Solovyov-Sedoi (music), Mikhail Matusovsky (lyrics),performed by Władimir Troshin
+ ARTIST: Vasily Solovyov-Sedoi (music), Mikhail Matusovsky (lyrics), performed by Władimir Troshin
 
 /Composers/Karpowicz_Henryk/Polonez.sap
   TITLE: Polonez A-dur Op.40 Nr 1
@@ -2589,7 +2589,7 @@ COMMENT: This tune covers the UB40 cover.
 
 /Composers/Kuczek_Ireneusz/Goniac_Kormorany.sap
   TITLE: Goniąc Kormorany
- ARTIST: Andrzej Tylczyński (lyrics), Jerzy Woy-Wojciechowski (music),performed by Piotr Szczepanik
+ ARTIST: Andrzej Tylczyński (lyrics), Jerzy Woy-Wojciechowski (music), performed by Piotr Szczepanik
 
 /Composers/Kuczek_Ireneusz/Here.sap
   TITLE: Here, There and Everywhere [from Revolver]
@@ -4211,7 +4211,7 @@ COMMENT: 2nd place at Grayscale Music Competition I.
 
 /Composers/Spielmans_Martin/Sea_Fighter.sap
   TITLE: Stand by Me [from Don't Play That Song!]
- ARTIST: Ben E.King (written by Ben E.King, Jerry Leiber, Mike Stoller)
+ ARTIST: Ben E.King (written by Ben E. King, Jerry Leiber, Mike Stoller)
 
 ### /Composers/Stanik_Krzysztof ##############################################
 
@@ -4971,7 +4971,7 @@ COMMENT: Polish Christmas carol.
 /Composers/Szpilowski_Michal/Yie_Ar_Kung_Fu.sap
 COMMENT: This covers the version by Martin Galway on the C64.
          MIDI Conversions, except GAME OVER and LEVEL START tunes
-         (these were written by ear).Default tune is not used in the latest
+         (these were written by ear). Default tune is not used in the latest
          version of the game.
   TITLE: <?> [from the arcade game Yie Ar Kung Fu]
  ARTIST: Miki Higashino
@@ -5042,16 +5042,16 @@ COMMENT: "Entry in the annual Abbuc demo competition (can't remember the year)
          held at the 'Hobbytronic' Computer Fair in Dortmund, Germany.
          The song is an adaption of a popular tune from the Commodore C64.
          It's such a crappy rendition because this is a LOADER music, and you
-         can only use two voices while loading from floppy.The demo
-         (not this particular tune) won first price.Uses custom player
+         can only use two voices while loading from floppy. The demo
+         (not this particular tune) won first price. Uses custom player
          routines." (ST)
 
 /Composers/Tegethoff_Sven/ABBUC_21_1.sap
   TITLE: Commando, Tune #2 [from the C64 game]
  ARTIST: Rob Hubbard
-COMMENT: "The second loader music from the same demo.This is an equally
+COMMENT: "The second loader music from the same demo. This is an equally
          crappy rendition of the High Score theme from the C64 game
-         'Commando'.The demo (not this particular tune) won first price.
+         'Commando'. The demo (not this particular tune) won first price.
          Uses custom player routines." (ST)
 
 /Composers/Tegethoff_Sven/ABBUC_21_2.sap
@@ -5059,7 +5059,7 @@ COMMENT: "The second loader music from the same demo.This is an equally
  ARTIST: Jeroen Tel
 COMMENT: "Another entry in the annual ABBUC demo competition (can't remember
          the year) held at the 'Hobbytronic' Computer Fair in Dortmund,
-         Germany.The demo (not this particular tune) won first price.Written
+         Germany. The demo (not this particular tune) won first price. Written
          using 'The Black Magic Composer'.
 
 /Composers/Tegethoff_Sven/Dance.sap
@@ -5068,25 +5068,25 @@ COMMENT: "Another entry in the annual ABBUC demo competition (can't remember
 
 /Composers/Tegethoff_Sven/Opus_X.sap
 COMMENT: "Entry in the annual ABBUC demo competition 1990 held at the
-         'Hobbytronic' Computer Fair in Dortmund, Germany.Written using 'The
-         Black Magic Composer' with Digi-Drums.Drums were blatantly ripped
+         'Hobbytronic' Computer Fair in Dortmund, Germany. Written using 'The
+         Black Magic Composer' with Digi-Drums. Drums were blatantly ripped
          from various Chris Hülsbeck modules :)" (ST)
 
 /Composers/Tegethoff_Sven/Pulse.sap
 COMMENT: "Another entry in the annual ABBUC demo competition (can't remember
          the year) held at the 'Hobbytronic' Computer Fair in Dortmund,
-         Germany.Written using 'The Black Magic Composer' with Digi-Drums.
+         Germany. Written using 'The Black Magic Composer' with Digi-Drums.
          Drums were blatantly ripped from various Chris Hülsbeck modules :)"
          (ST)
 
 /Composers/Tegethoff_Sven/The_Top_2_2.sap
 COMMENT: "This song was part of the same ABBUC Demo like ABBUC_20_1.sap and
-         ABBUC_21_2.sap.The complete demo (not this particular tune) won
-         first price.The tune was ripped and re-used by some Czech demo crew
-         in a demo called 'the top'.But I forgive them, because they gave me
+         ABBUC_21_2.sap. The complete demo (not this particular tune) won
+         first price. The tune was ripped and re-used by some Czech demo crew
+         in a demo called 'the top'. But I forgive them, because they gave me
          the proper credits :) Makes heavy uses of the very few modulations
-         the atari sound chip allowed for.Written using 'The Black Magic
-         Composer' with Digi-Drums.Drums were blatantly ripped from various
+         the atari sound chip allowed for. Written using 'The Black Magic
+         Composer' with Digi-Drums. Drums were blatantly ripped from various
          Chris Hülsbeck modules :)" (ST)
          Sven is wrong here, The Top demos were produced in Poland.
 
@@ -5250,7 +5250,7 @@ COMMENT: Covers parts of above title.Erroneously named.
 /Composers/Whittaker_David/Panther.sap
 COMMENT: This music is also present in the game Buckaneer by Mastertronic.
          Whittaker used the same music in an Amiga game called SideWinder as
-         loader tune.Also used in the game "Linewars", most probably without
+         loader tune. Also used in the game "Linewars", most probably without
          Whittaker's permission, because the programmers of that game credited
          this tune to themselves.
 
@@ -5699,7 +5699,7 @@ COMMENT: Apart from covering classical music, this also covers the arcade
 COMMENT: This is not cover.
 
 /Games/Kissin_Kousins.sap
-  TITLE: Finale, March Of The Swiss Soldiers [ from Overture to the opera William Tell]
+  TITLE: Finale, March Of The Swiss Soldiers [from Overture to the opera William Tell]
  ARTIST: Gioachino Rossini
 
 /Games/Last_V8.sap
@@ -6212,14 +6212,14 @@ COMMENT: An example of 16th century lute music.
   TITLE: God Save the King/Queen (The National Anthem of the U.K.)
  ARTIST: Traditional
 COMMENT: This anthem is traditional and possibly one of the most known
-         national anthems in the world.Each verse was written at a different
+         national anthems in the world. Each verse was written at a different
          time, ranging from the 1740s to the present day.
 
 /Unknown/God_Save_the_Queen_2.sap
   TITLE: God Save the King/Queen (The National Anthem of the U.K.)
  ARTIST: Traditional
 COMMENT: This anthem is traditional and possibly one of the most known
-         national anthems in the world.Each verse was written at a different
+         national anthems in the world. Each verse was written at a different
          time, ranging from the 1740s to the present day.
 
 /Unknown/Hawkeye.sap
@@ -6666,7 +6666,7 @@ COMMENT: Covers the "Bumble Boogie" version by Bumble B. and the Stingers.
   TITLE: God Save the King/Queen (The National Anthem of the U.K.)
  ARTIST: Traditional
 COMMENT: This anthem is traditional and possibly one of the most known
-         national anthems in the world.Each verse was written at a different
+         national anthems in the world. Each verse was written at a different
          time, ranging from the 1740s to the present day.
 
 /Unknown/AMS/Green_Sleeves.sap
@@ -7115,4 +7115,3 @@ COMMENT: Made famous in a Oscar Mayer commercial.
 /Unknown/AMS/Young_Turks.sap
   TITLE: Young Turks [from Tonight I'm Yours]
  ARTIST: Rod Stewart
-
