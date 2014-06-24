@@ -6908,7 +6908,7 @@ COMMENT: "PuckMan" is known outside Japan as "Pac-Man".
  ARTIST: John Williams
 
 /Unknown/AMS/Rosanna.sap
-  TITLE: Rosanna
+  TITLE: Rosanna [from Toto IV]
  ARTIST: Toto
 
 /Unknown/AMS/Santa_Claus_Is_Coming_to.sap
@@ -7047,8 +7047,8 @@ COMMENT: The title translates from Italian as "In the Blue Painted Blue",
  ARTIST: Written by George Michael, performed by Wham!
 
 /Unknown/AMS/We_Build_This_City.sap
-  TITLE: We Built This City On Rock & Roll
- ARTIST: Jefferson Starship
+  TITLE: We Built This City [from Knee Deep in the Hoopla]
+ ARTIST: Starship
 
 /Unknown/AMS/We_Can_Work_It_out.sap
   TITLE: We Can Work It Out [from 1]
@@ -7086,7 +7086,7 @@ COMMENT: Made famous in a Oscar Mayer commercial.
 
 /Unknown/AMS/Winter_Wonderland.sap
   TITLE: Walking in a Winter Wonderland
- ARTIST: Felix Bernard and Richard B.Smith
+ ARTIST: Felix Bernard (music), Richard B.Smith (lyrics)
 
 /Unknown/AMS/Witchy_Woman.sap
   TITLE: Witchy Woman [from Eagles]
