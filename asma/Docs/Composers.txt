@@ -10,9 +10,9 @@ Chile - 2
 Czech Republic - 13
 Finland - 1
 France - 2
-Germany - 29
+Germany - 30
 Hungary - 1
-Netherlands - 5
+Netherlands - 4
 Mexico - 1
 Peru - 1
 Poland - 122
@@ -241,7 +241,7 @@ Vavra, Karel - Czech Republic
 Verdaasdonk, Robert - Fox-1 - Netherlands
 Vila, Jaime - JIMPACK - Chile
 Vogt, Dariusz - DJ V - Poland
-Vos, Roland - Triace - Netherlands
+Voss, Roland - Triace - Germany
 Vybostok, Marian - Goldmaster - Slovakia
 Walters, Sean - B00daW - USA
 Wasiel, Bartek - BeWu - Poland
