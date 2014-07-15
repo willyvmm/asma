@@ -6793,8 +6793,9 @@ COMMENT: The song was composed by Eric Clapton, who had been a member and
  ARTIST: The Beatles
 
 /Unknown/AMS/Love_Me_Tender.sap
-  TITLE: Love Me Tender
- ARTIST: Elvis Presley
+  TITLE: Aura Lea
+ ARTIST: George R. Poulton
+COMMENT: Covers the version "Love Me Tender" by Elvis Presley.
 
 /Unknown/AMS/Lucy_in_the_Sky_with_Diamo.sap
   TITLE: Lucy in the Sky with Diamonds
