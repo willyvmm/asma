@@ -2,7 +2,7 @@
 #
 #  STIL v3.8 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1609
+#  Total number of entries: 1612
 #
 ##############################################################################
 #
@@ -6191,6 +6191,14 @@ COMMENT: A Turkish march or marcia alla turca is a march
   TITLE: Dajana
  ARTIST: Paul Anka
 
+/Unknown/Dla_Elizy.sap
+  TITLE: Für Elise
+ ARTIST: Ludwig van Beethoven
+
+/Unknown/Dom_w_Dolinie_Mgiel.sap
+  TITLE: Dom w dolinie mgiel [from E=mc2]
+ ARTIST: Marek Biliński
+
 /Unknown/Fable.sap
   TITLE: Fable [from Dreamland]
  ARTIST: Robert Miles
@@ -6254,6 +6262,10 @@ COMMENT: Present also in "Fortress Underground" game, no author credited.
 /Unknown/Mega_Magazine_3.sap
   TITLE: Wilderness [from the arcade game Golden Axe]
  ARTIST: SEGA Sound Team
+
+/Unknown/Mendel.sap
+  TITLE: Wedding March [from A Midsummer Night's Dream]
+ ARTIST: Felix Mendelssohn Bartholdy
 
 /Unknown/Music2.sap
   TITLE: El Condor Pasa
