@@ -4465,6 +4465,16 @@ COMMENT: 1st place at QuaST party 1995 music compo.
 COMMENT: Covers a version made by Richard Munns. 2nd place at Atari Area
          24h 'Black Lamp' music compo.
 
+### /Composers/Szerniewicz_Robert ############################################
+
+/Composers/Szerniewicz_Robert/Biedny_Pies_Antoni_II.sap
+  TITLE: Sea Dog
+ ARTIST: <?>
+
+/Composers/Szerniewicz_Robert/Sub_Chase_Menu_Theme.sap
+  TITLE: Sea Battle
+ ARTIST: Slam Tilt
+
 ### /Composers/Szmatola_Krzysztof ############################################
 
 /Composers/Szmatola_Krzysztof/Syn_Boga_Wiatru.sap
