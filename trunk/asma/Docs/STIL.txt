@@ -2,7 +2,7 @@
 #
 #  STIL v3.8 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1612
+#  Total number of entries: 1617
 #
 ##############################################################################
 #
@@ -68,6 +68,11 @@ COMMENT: 10th place at Shadows Party 1994 music compo.
 
 /Composers/Bankowski_Krzysztof/New_Generation.sap
 COMMENT: Last Party 1998 music compo entry.
+
+### /Composers/Bendyk_Piotr ##################################################
+
+/Composers/Bendyk_Piotr/Third.sap
+COMMENT: 1st place at Silly Venture 2014 music compo.
 
 ### /Composers/Berger_Dominique ##############################################
 
@@ -533,7 +538,7 @@ COMMENT: Although the C64 version was composed by Rob Hubbard, Hubbard has
 ### /Composers/Cybruch_Ryszard ###############################################
 
 /Composers/Cybruch_Ryszard/Sej_mik.sap
-COMMENT: 1st place at SillyVenture 2000 music compo.
+COMMENT: 1st place at Silly Venture 2000 music compo.
 
 ### /Composers/Czartynski_Marcin #############################################
 
@@ -1264,10 +1269,10 @@ COMMENT: Originally a C64 SID tune with POKEY routine added.
 ### /Composers/Feske_Nils ####################################################
 
 /Composers/Feske_Nils/Dashed_off.sap
-COMMENT: 3rd place at SillyVenture 2011 music compo.
+COMMENT: 3rd place at Silly Venture 2011 music compo.
 
 /Composers/Feske_Nils/Dupa.sap
-COMMENT: 2nd place at SillyVenture 2000 music compo.
+COMMENT: 2nd place at Silly Venture 2000 music compo.
 
 /Composers/Feske_Nils/Those_Were_the_Days.sap
   TITLE: Dorogoj dlinnoju
@@ -1702,12 +1707,15 @@ COMMENT: Music from the game 'Yoomp!' released in 2007.
 ### /Composers/Grayscale/Wasiel_Bartek #######################################
 
 /Composers/Grayscale/Wasiel_Bartek/Candy_Mountain.sap
-COMMENT: 1st place at SillyVenture 2011 music compo.
+COMMENT: 1st place at Silly Venture 2011 music compo.
 
 /Composers/Grayscale/Wasiel_Bartek/Dark_Lamp.sap
   TITLE: Greensleeves (0:00-0:12)
  ARTIST: Unknown
 COMMENT: 1st place at Atari Area 24h 'Black Lamp' music compo.
+
+/Composers/Grayscale/Wasiel_Bartek/Heavy_Traffic.sap
+COMMENT: 1st place at Silly Venture 2013 music compo.
 
 /Composers/Grayscale/Wasiel_Bartek/Rastan.sap
   TITLE: Agressive World [from the arcade game Rastan Saga]
@@ -1993,7 +2001,7 @@ COMMENT: Made using The Software Synthesizer "Softsynth".
 COMMENT: Music from the game 'Duch' released by Mirage in 1992.
 
 /Composers/Husak_Jakub/Extreme_Night.sap
-COMMENT: 10th place at SillyVenture 2011 music compo.
+COMMENT: 10th place at Silly Venture 2011 music compo.
 
 /Composers/Husak_Jakub/Garfield.sap
   TITLE: Crockett's Theme [from the TV series Miami Vice]
@@ -2044,6 +2052,9 @@ COMMENT: Made using The Software Synthesizer "Softsynth".
 /Composers/Husak_Jakub/Super_Fortuna.sap
 COMMENT: Music from the game 'Super Fortuna' released by Mirage in 1993.
 
+/Composers/Husak_Jakub/Sweet_Chip_Eighties.sap
+COMMENT: 1st place at Silly Venture 2010 music compo.
+
 /Composers/Husak_Jakub/Swiaszczennaja_Wojna.sap
   TITLE: Swiaszczennaja Wojna
  ARTIST: Aleksander Aleksandrow (music), Wasilij Lebiediew-Kumacz (lyrics).
@@ -2093,6 +2104,9 @@ COMMENT: Last Party 2001 music compo entry.
 
 /Composers/Iwaszko_Krystian/Samantha.sap
 COMMENT: 4th place at Forever 9 music compo.
+
+/Composers/Iwaszko_Krystian/THC_TMC.sap
+COMMENT: 1st place at Silly Venture 2004 music compo.
 
 /Composers/Iwaszko_Krystian/THC05.sap
 COMMENT: 2nd place at Forever 2 music compo.
@@ -2938,7 +2952,7 @@ COMMENT: 2nd place at Atari Area 24h 'Black Lamp' music compo.
 COMMENT: 4th place at Forever 6 music compo.
 
 /Composers/Lis_Piotr/Nic_sie_nie_stalo.sap
-COMMENT: 5th place at SillyVenture 2011 music compo.
+COMMENT: 5th place at Silly Venture 2011 music compo.
 
 /Composers/Lis_Piotr/Piczung_Do_Kurczaka_Na_Zac.sap
 COMMENT: 3rd place at Forever Reneg8 music compo.
@@ -3968,7 +3982,7 @@ COMMENT: Music from the game 'Neuroid' released by Sikor Soft in 1996.
 COMMENT: Music from the game 'Neuroid' released by Sikor Soft in 1996.
 
 /Composers/Radecki_Michal/Spark_Absorber.sap
-COMMENT: 6th place at SillyVenture 2011 music compo.
+COMMENT: 6th place at Silly Venture 2011 music compo.
 
 /Composers/Radecki_Michal/Spark_Absorber_Stereo.sap
 COMMENT: Same as /Composers/Radecki_Michal/Spark_Absorber.sap,
@@ -3979,7 +3993,7 @@ COMMENT: Same as /Composers/Radecki_Michal/Spark_Absorber.sap,
  ARTIST: Marek Biliński
 
 /Composers/Radecki_Michal/Tribute_to.sap
-COMMENT: 8th place at SillyVenture 2011 music compo.
+COMMENT: 8th place at Silly Venture 2011 music compo.
 
 /Composers/Radecki_Michal/Zdzicho_z_Pola.sap
   TITLE: Co Ty mi dasz?
@@ -4886,7 +4900,7 @@ COMMENT: Music from the game 'Sexy Six' released by Sikor Soft in 1995.
 COMMENT: Music from the game 'Sexy Six' released by Sikor Soft in 1995.
 
 /Composers/Szpilowski_Michal/Sleepy_Passage.sap
-COMMENT: 3rd place at SillyVenture 2000 music compo.
+COMMENT: 3rd place at Silly Venture 2000 music compo.
 
 /Composers/Szpilowski_Michal/Slodkiego_Milego_Zycia.sap
   TITLE: Słodkiego, miłego życia [from Nowy Rozdział]
@@ -5263,6 +5277,11 @@ COMMENT: This music is also present in the game Buckaneer by Mastertronic.
          loader tune. Also used in the game "Linewars", most probably without
          Whittaker's permission, because the programmers of that game credited
          this tune to themselves.
+
+### /Composers/Wieczorkowski_Bartlomiej ######################################	 
+
+/Composers/Wieczorkowski_Bartlomiej/Back_to_the_Scene.sap
+COMMENT: 1st place at Silly Venture 2012 music compo.
 
 ### /Composers/Wiegmann_Stefan ###############################################
 
