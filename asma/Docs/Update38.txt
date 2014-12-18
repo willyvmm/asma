@@ -6,14 +6,13 @@ Date: Dec ??, 2014
 These rips together with the original ASMA collection will make version 3.8
 of the ASMA (out of version 3.7).
 
-Number of new tunes: 180
+Number of new tunes: 165
 Credits fixes: 145
 Better/bugfixed rips: 5
-Removed files: 4
+Removed files: 3
 
 Removed files
 -------------
-/Composers/Eisenhammer_Zdenek/Flop_56.sap (was duplicated) [surely was there but i mention i could not found it]
 /Composers/Kidaj_Andrzej/D18.sap (had only first song from 3-songs' MTV.sap)
 /Composers/Kidaj_Andrzej/Logoman.sap (worse version)
 /Games/Speed_Puzzle.sap (its 2 songs already there, means a doubled)
@@ -61,7 +60,6 @@ New tunes
 /Composers/Dramczyk_Bartlomiej/Selftest_Terror.sap
 /Composers/Duma_Dariusz/Undesigned.sap
 /Composers/Eisenhammer_Zdenek/Bob_the_Snake.sap
-/Composers/Eisenhammer_Zdenek/Flop_magazin_56.sap
 /Composers/Eisenhammer_Zdenek/Flop_magazin_57.sap
 /Composers/Eisenhammer_Zdenek/POKEY_Forever.sap
 /Composers/Eisenhammer_Zdenek/POKEY_Forever_Final_Mix.sap
@@ -83,10 +81,7 @@ New tunes
 /Composers/Irrlicht_Project/Hyperdrive.sap
 /Composers/Jaakkola_Juha/Cooldown.sap
 /Composers/Jaakkola_Juha/Under_the_Crimson_Summer_S.sap
-/Composers/Krowarsch_Daniel
 /Composers/Krowarsch_Daniel/Bomba.sap
-/Composers/Krowarsch_Daniel/Dan_Music_1.sap
-/Composers/Krowarsch_Daniel/Dan_Music_1.sap
 /Composers/Krowarsch_Daniel/Dan_Music_2.sap
 /Composers/Krowarsch_Daniel/Dan_Music_3.sap
 /Composers/Krowarsch_Daniel/Dan_Music_4.sap
@@ -98,27 +93,19 @@ New tunes
 /Composers/Lis_Piotr/Vseobecna_Porucha.sap
 /Composers/Mister_Beep/Dark_Matter_Trap.sap
 /Composers/Mister_Beep/Night_Dancer.sap
-/Composers/Nieber_Christian
 /Composers/Nieber_Christian/Altenglischer_Tanz.sap
 /Composers/Nieber_Christian/Altenglischer_Tanz_v2.sap
-/Composers/Nieber_Christian/Countdown.sap
 /Composers/Nieber_Christian/Countdown.sap
 /Composers/Nieber_Christian/Da_Komm_Ich_Her.sap
 /Composers/Nieber_Christian/Dimension_X_v1.sap
 /Composers/Nieber_Christian/Dimension_X_v2.sap
 /Composers/Nieber_Christian/Drummer.sap
-/Composers/Nieber_Christian/Fuer_Elise.sap
-/Composers/Nieber_Christian/Fuer_Elise.sap
-/Composers/Nieber_Christian/Fughette.sap
 /Composers/Nieber_Christian/Fughette.sap
 /Composers/Nieber_Christian/Lang_lang_ists_her.sap
 /Composers/Nieber_Christian/Lang_lang_ists_her_v2.sap
 /Composers/Nieber_Christian/Menuett.sap
-/Composers/Nieber_Christian/Orgelchoral_vom_Himmel_Moch.sap
-/Composers/Nieber_Christian/Orgelchoral_vom_Himmel_Moch.sap
 /Composers/Nieber_Christian/RITT.sap
 /Composers/Nieber_Christian/Synthi.sap
-/Composers/Nieber_Christian/Time.sap
 /Composers/Nieber_Christian/Time.sap
 /Composers/Nieber_Christian/Tumba.sap
 /Composers/Nieber_Christian/Tumba_v2.sap
@@ -185,10 +172,6 @@ New tunes
 /Misc/Torture_Training.sap
 /Unknown/Battle.sap
 /Unknown/Box1.sap
-/Unknown/Dan_Music.sap
-/Unknown/Dan_Music.sap
-/Unknown/Demo_2.sap
-/Unknown/Demo_2.sap
 /Unknown/Demo2_softsynth.sap
 /Unknown/Dla_Elizy.sap
 /Unknown/Dom_w_Dolinie_Mgiel.sap
@@ -201,6 +184,7 @@ New tunes
 /Unknown/Szlak.sap
 /Unknown/Wonder.sap
 /Unknown/Wonder_2.sap
+
 
 Credits fixes (includes filename or location changes)
 ------------------------------------------------------
@@ -241,7 +225,7 @@ Credits fixes (includes filename or location changes)
 /Composers/Gilbertson_Gary/Tail_of_Beta_Lyrae.sap : NTSC
 /Composers/Husak_Jakub/Red_Dragon.sap : ARTIST "Jan Hammer / Snapshots"
 /Composers/Husak_Jakub/Swiaszczennaja_Wojna.sap : ARTIST "Wasilij Lebiediew-Kumacz / Aleksander Aleksandrow"
-/Composers/Husak_Jakub/Ucieczka_W_Nicosc.sap > Ucieczka_w_Nicosc.sap  : NAME "Ucieczka w Nicosc" [1140]
+/Composers/Husak_Jakub/Ucieczka_W_Nicosc.sap > Ucieczka_w_Nicosc.sap
 /Composers/Irrlicht_Proje/Levels_of_Doom.sap : DATE "01/2013"
 /Composers/Kidaj_Andrzej/St.sap > Logoman.sap : NAME "Logoman"
 /Composers/Langston_Peter/Ballblaster.sap : NTSC
