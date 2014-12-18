@@ -2,7 +2,7 @@
 #
 #  STIL v3.8 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1617
+#  Total number of entries: 1619
 #
 ##############################################################################
 #
@@ -2003,6 +2003,9 @@ COMMENT: Music from the game 'Duch' released by Mirage in 1992.
 /Composers/Husak_Jakub/Extreme_Night.sap
 COMMENT: 10th place at Silly Venture 2011 music compo.
 
+/Composers/Husak_Jakub/Flying_Microbits.sap
+COMMENT: Silly Venture 2014 music 1-bit (GTIA) compo entry.
+
 /Composers/Husak_Jakub/Garfield.sap
   TITLE: Crockett's Theme [from the TV series Miami Vice]
  ARTIST: Jan Hammer
@@ -2040,6 +2043,10 @@ COMMENT: Music from the game 'Problem Jasia' released by Mirage in 1992.
 
 /Composers/Husak_Jakub/Raszyn_1809.sap
 COMMENT: Music from the game 'Raszyn 1809' released by Mirage in 1992.
+
+/Composers/Husak_Jakub/Red_Dragon.sap
+  TITLE: Red Dragon [from Snapshots]
+ ARTIST: Jan Hammer
 
 /Composers/Husak_Jakub/Rycerz.sap
 COMMENT: Music from the game 'Rycerz' released by Mirage in 1993.
