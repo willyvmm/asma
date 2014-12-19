@@ -2,7 +2,7 @@ Known Atari composers and handles                                 Dec 20 2013
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This list contains only composers who have at least 3 songs in ASMA
 collection. The composers are sorted in ABC order according to their surnames
-(if known, otherwise by their handles). There are 234 composers in this list.
+(if known, otherwise by their handles). There are 235 composers in this list.
 
 Argentina - 1
 Canada - 2
@@ -10,7 +10,7 @@ Chile - 2
 Czech Republic - 13
 Finland - 1
 France - 2
-Germany - 30
+Germany - 31
 Hungary - 1
 Netherlands - 4
 Mexico - 1
@@ -238,6 +238,7 @@ Szurgot, Robert - Casper - Poland
 Szymczuk, Daniel - Lorien - Poland
 Takacs, Gabriel - GMX - Slovakia
 Tegethoff, Sven - Gnome Design - Germany
+Theissen, Hilton - Germany
 Trokowicz, Bartlomiej - Poland
 Vavra, Karel - Czech Republic
 Verdaasdonk, Robert - Fox-1 - Netherlands
