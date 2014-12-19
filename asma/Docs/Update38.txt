@@ -6,339 +6,342 @@ Date: Dec ??, 2014
 These rips together with the original ASMA collection will make version 3.8
 of the ASMA (out of version 3.7).
 
-Number of new tunes: 165
+Number of new tunes: 168
 Credits fixes: 145
 Better/bugfixed rips: 5
 Removed files: 3
 
 Removed files
 -------------
-/Composers/Kidaj_Andrzej/D18.sap (had only first song from 3-songs' MTV.sap)
-/Composers/Kidaj_Andrzej/Logoman.sap (worse version)
-/Games/Speed_Puzzle.sap (its 2 songs already there, means a doubled)
+Composers/Kidaj_Andrzej/D18.sap (had only first song from 3-songs' MTV.sap)
+Composers/Kidaj_Andrzej/Logoman.sap (worse version)
+Games/Speed_Puzzle.sap (its 2 songs already there, means a doubled)
 
 New tunes
 ---------
-/Composers/Banas_Pawel/Allesgut.sap
-/Composers/Bendyk_Piotr/Third.sap
-/Composers/Brzeski_Michal/Vantage_Point.sap
-/Composers/Ce_Pumpkin/Impossible_but_Real.sap
-/Composers/Ce_Pumpkin/Rolo_X.sap
-/Composers/Ce_Pumpkin/Too_Hard_2_1.sap
-/Composers/Ce_Pumpkin/Too_Hard_2_2.sap
-/Composers/Derkach_Andrey/Begin.sap
-/Composers/Derkach_Andrey/Bewerly.sap
-/Composers/Derkach_Andrey/Big.sap
-/Composers/Derkach_Andrey/Bike.sap
-/Composers/Derkach_Andrey/Blinky.sap
-/Composers/Derkach_Andrey/Darts.sap
-/Composers/Derkach_Andrey/Demo.sap
-/Composers/Derkach_Andrey/Diamenty.sap
-/Composers/Derkach_Andrey/Don.sap
-/Composers/Derkach_Andrey/Dontgo.sap
-/Composers/Derkach_Andrey/Draconus.sap
-/Composers/Derkach_Andrey/Game.sap
-/Composers/Derkach_Andrey/Hell.sap
-/Composers/Derkach_Andrey/Jarre.sap
-/Composers/Derkach_Andrey/Joy.sap
-/Composers/Derkach_Andrey/JVC.sap
-/Composers/Derkach_Andrey/Katruck.sap
-/Composers/Derkach_Andrey/Krik.sap
-/Composers/Derkach_Andrey/Lada.sap
-/Composers/Derkach_Andrey/Leogames.sap
-/Composers/Derkach_Andrey/Ninja.sap
-/Composers/Derkach_Andrey/Orc.sap
-/Composers/Derkach_Andrey/Proba.sap
-/Composers/Derkach_Andrey/Queen1.sap
-/Composers/Derkach_Andrey/Rex.sap
-/Composers/Derkach_Andrey/Sea.sap
-/Composers/Derkach_Andrey/Sony.sap
-/Composers/Derkach_Andrey/Star.sap
-/Composers/Derkach_Andrey/Triton.sap
-/Composers/Derkach_Andrey/Vechera.sap
-/Composers/Derkach_Andrey/Zybex.sap
-/Composers/Dramczyk_Bartlomiej/Selftest_Terror.sap
-/Composers/Duma_Dariusz/Undesigned.sap
-/Composers/Eisenhammer_Zdenek/Bob_the_Snake.sap
-/Composers/Eisenhammer_Zdenek/Flop_magazin_57.sap
-/Composers/Eisenhammer_Zdenek/POKEY_Forever.sap
-/Composers/Eisenhammer_Zdenek/POKEY_Forever_Final_Mix.sap
-/Composers/Grayscale/Sychowicz_Lukasz/Biedron.sap
-/Composers/Grayscale/Wasiel_Bartek/Arsantica_part_1.sap
-/Composers/Grayscale/Wasiel_Bartek/Arsantica_part_2.sap
-/Composers/Hay_Adam/Lunar_Blitz.sap
-/Composers/Hughes_Trevin/1bit_Body_Puncher.sap
-/Composers/Hughes_Trevin/1bit_Boss.sap
-/Composers/Hughes_Trevin/1bit_of_Advice.sap
-/Composers/Hughes_Trevin/1bit_of_Training_Before_Yo.sap
-/Composers/Hughes_Trevin/1bit_Phazer_Phunk.sap
-/Composers/Hughes_Trevin/1bit_Pirate.sap
-/Composers/Hughes_Trevin/1bit_Rock.sap
-/Composers/Hughes_Trevin/1bit_Smile.sap
-/Composers/Husak_Jakub/Flying_Microbits.sap
-/Composers/Husak_Jakub/SPEEDmaza.sap
-/Composers/Husak_Jakub/SPEEDmaza_in_Game.sap
-/Composers/Irrlicht_Project/Hyperdrive.sap
-/Composers/Jaakkola_Juha/Cooldown.sap
-/Composers/Jaakkola_Juha/Under_the_Crimson_Summer_S.sap
-/Composers/Krowarsch_Daniel/Bomba.sap
-/Composers/Krowarsch_Daniel/Dan_Music_2.sap
-/Composers/Krowarsch_Daniel/Dan_Music_3.sap
-/Composers/Krowarsch_Daniel/Dan_Music_4.sap
-/Composers/Krowarsch_Daniel/Runner.sap
-/Composers/Krueger_Christian/Perplexity.sap
-/Composers/Lis_Piotr/Chip_Spring_Tune_2.sap
-/Composers/Lis_Piotr/Gdansk_Airport.sap
-/Composers/Lis_Piotr/Let_Me_See_You_Dance_2.sap
-/Composers/Lis_Piotr/Vseobecna_Porucha.sap
-/Composers/Mister_Beep/Dark_Matter_Trap.sap
-/Composers/Mister_Beep/Night_Dancer.sap
-/Composers/Nieber_Christian/Altenglischer_Tanz.sap
-/Composers/Nieber_Christian/Altenglischer_Tanz_v2.sap
-/Composers/Nieber_Christian/Countdown.sap
-/Composers/Nieber_Christian/Da_Komm_Ich_Her.sap
-/Composers/Nieber_Christian/Dimension_X_v1.sap
-/Composers/Nieber_Christian/Dimension_X_v2.sap
-/Composers/Nieber_Christian/Drummer.sap
-/Composers/Nieber_Christian/Fughette.sap
-/Composers/Nieber_Christian/Lang_lang_ists_her.sap
-/Composers/Nieber_Christian/Lang_lang_ists_her_v2.sap
-/Composers/Nieber_Christian/Menuett.sap
-/Composers/Nieber_Christian/RITT.sap
-/Composers/Nieber_Christian/Synthi.sap
-/Composers/Nieber_Christian/Time.sap
-/Composers/Nieber_Christian/Tumba.sap
-/Composers/Nieber_Christian/Tumba_v2.sap
-/Composers/Petrik_Alan/Ghosts.sap
-/Composers/Poorten_Ivo/Earth_Wind_and_Fired.sap
-/Composers/Poorten_Ivo/Fly_Me_to_the_Moon.sap
-/Composers/Poorten_Ivo/Skeletons_of_Society.sap
-/Composers/Radecki_Michal/Back_in_Time.sap
-/Composers/Radecki_Michal/Destiny.sap
-/Composers/Radecki_Michal/Firstie.sap
-/Composers/Radecki_Michal/Great_Return_of_Penguins.sap
-/Composers/Radecki_Michal/I_Care.sap
-/Composers/Radecki_Michal/Pixeroids.sap
-/Composers/Rogers_Charles/Its_the_Future.sap
-/Composers/Rogers_Charles/Second_To_Last_Starfighter.sap
-/Composers/Szerniewicz_Robert/Biedny_Pies_Antoni_II.sap
-/Composers/Szerniewicz_Robert/Sub_Chase_Menu_Theme.sap
-/Composers/Szpilowski_Michal/2048.sap
-/Composers/Szpilowski_Michal/Ill_Cry_Instead.sap
-/Composers/Szpilowski_Michal/Lotharek_Dance.sap
-/Composers/Szpilowski_Michal/Nyan_Cat.sap
-/Composers/Szpilowski_Michal/Rubacka_vo_Kopec_1.sap
-/Composers/Szpilowski_Michal/Rubacka_vo_Kopec_2.sap
-/Composers/Szpilowski_Michal/Sad_Story_in_Eight_Lines.sap
-/Composers/Szpilowski_Michal/Samba_Gone_Bad.sap
-/Composers/Szpilowski_Michal/Treasure_Island_Dizzy.sap
-/Composers/Voss_Roland/AD_6502_ loading.sap [!error! - space in filename!!!]
-/Composers/Voss_Roland/AD_6502_ music_1.sap [!error! - space in filename!!!]
-/Composers/Voss_Roland/AD_6502_ music_2.sap [!error! - space in filename!!!]
-/Composers/Voss_Roland/AD_6502_ music_3.sap [!error! - space in filename!!!]
-/Composers/Voss_Roland/Arsantica_End_Theme.sap [aka Arsantica_part_3.sap]
-/Composers/Voss_Roland/Back_from_Fractalis_demo_version.sap
-/Composers/Voss_Roland/Back_from_Fractalis_full_version.sap
-/Composers/Voss_Roland/Fischtro.sap
-/Composers/Voss_Roland/Happy_Pokey_Stomper.sap
-/Composers/Voss_Roland/Repeating_Basics.sap [aka Twisthorizontal_Intro.sap]
-/Composers/Walters_Sean/Undocumented_Official.sap
-/Composers/Wieczorkowski_Bartlomiej/CyberPunk_party_version.sap
-/Composers/Wieczorkowski_Bartlomiej/Lost_Bytes_compo_version.sap
-/Composers/Wieczorkowski_Bartlomiej/Lost_Bytes_intro_version.sap
-/Composers/Wieczorkowski_Bartlomiej/Xmas_2013.sap
-/Games/Dimos_Quest_Ingame.sap
-/Games/IBM_Tetris.sap
-/Games/Ninja.sap (NTSC, there is still PAL version in ASMA)
-/Games/Pharaohs_Curse.sap (NTSC, there is still PAL version in ASMA)
-/Games/Rainbow_Walker.sap (NTSC, there is still PAL version in ASMA)
-/Misc/15_Shades_of_Grey.sap
-/Misc/Atari_Expo_Digi_Mix.sap
-/Misc/Be_Strong.sap
-/Misc/Breaka_Railway.sap
-/Misc/Demon_Invaders.sap
-/Misc/Depixol.sap [!error! - : DATE "2014 Slipstream"!!!]
-/Misc/Flying_into_the_Big_Sun.sap
-/Misc/HeartWare.sap
-/Misc/How_Deep_Is_Your_Love.sap
-/Misc/Incantation.sap
-/Misc/Lemon_Chicken.sap
-/Misc/Marsz_Turecki.sap
-/Misc/MechaRex.sap
-/Misc/My_Fault.sap
-/Misc/RebbStars.sap
-/Misc/Reveries_et_Souvenirs.sap
-/Misc/Too_Hard_2_3.sap
-/Misc/Torture_Training.sap
-/Unknown/Battle.sap
-/Unknown/Box1.sap
-/Unknown/Demo2_softsynth.sap
-/Unknown/Dla_Elizy.sap
-/Unknown/Dom_w_Dolinie_Mgiel.sap
-/Unknown/Lambada.sap
-/Unknown/LSD.sap
-/Unknown/Mendel.sap
-/Unknown/Schock.sap
-/Unknown/Sokoban_1.sap
-/Unknown/Sokoban_2.sap
-/Unknown/Szlak.sap
-/Unknown/Wonder.sap
-/Unknown/Wonder_2.sap
+Composers/Banas_Pawel/Allesgut.sap
+Composers/Bendyk_Piotr/Third.sap
+Composers/Brzeski_Michal/Vantage_Point.sap
+Composers/Ce_Pumpkin/Impossible_but_Real.sap
+Composers/Ce_Pumpkin/Rolo_X.sap
+Composers/Ce_Pumpkin/Too_Hard_2_1.sap
+Composers/Ce_Pumpkin/Too_Hard_2_2.sap
+Composers/Derkach_Andrey/Begin.sap
+Composers/Derkach_Andrey/Bewerly.sap
+Composers/Derkach_Andrey/Big.sap
+Composers/Derkach_Andrey/Bike.sap
+Composers/Derkach_Andrey/Blinky.sap
+Composers/Derkach_Andrey/Darts.sap
+Composers/Derkach_Andrey/Demo.sap
+Composers/Derkach_Andrey/Diamenty.sap
+Composers/Derkach_Andrey/Don.sap
+Composers/Derkach_Andrey/Dontgo.sap
+Composers/Derkach_Andrey/Draconus.sap
+Composers/Derkach_Andrey/Game.sap
+Composers/Derkach_Andrey/Hell.sap
+Composers/Derkach_Andrey/Jarre.sap
+Composers/Derkach_Andrey/Joy.sap
+Composers/Derkach_Andrey/JVC.sap
+Composers/Derkach_Andrey/Katruck.sap
+Composers/Derkach_Andrey/Krik.sap
+Composers/Derkach_Andrey/Lada.sap
+Composers/Derkach_Andrey/Leogames.sap
+Composers/Derkach_Andrey/Ninja.sap
+Composers/Derkach_Andrey/Orc.sap
+Composers/Derkach_Andrey/Proba.sap
+Composers/Derkach_Andrey/Queen1.sap
+Composers/Derkach_Andrey/Rex.sap
+Composers/Derkach_Andrey/Sea.sap
+Composers/Derkach_Andrey/Sony.sap
+Composers/Derkach_Andrey/Star.sap
+Composers/Derkach_Andrey/Triton.sap
+Composers/Derkach_Andrey/Vechera.sap
+Composers/Derkach_Andrey/Zybex.sap
+Composers/Dramczyk_Bartlomiej/Selftest_Terror.sap
+Composers/Duma_Dariusz/Undesigned.sap
+Composers/Eisenhammer_Zdenek/Bob_the_Snake.sap
+Composers/Eisenhammer_Zdenek/Flop_magazin_57.sap
+Composers/Eisenhammer_Zdenek/POKEY_Forever.sap
+Composers/Eisenhammer_Zdenek/POKEY_Forever_Final_Mix.sap
+Composers/Feske_Nils/Small_Men_With_Old_Devices.sap
+Composers/Grayscale/Sychowicz_Lukasz/Biedron.sap
+Composers/Grayscale/Wasiel_Bartek/Arsantica_part_1.sap
+Composers/Grayscale/Wasiel_Bartek/Arsantica_part_2.sap
+Composers/Hay_Adam/Lunar_Blitz.sap
+Composers/Hughes_Trevin/1bit_Body_Puncher.sap
+Composers/Hughes_Trevin/1bit_Boss.sap
+Composers/Hughes_Trevin/1bit_of_Advice.sap
+Composers/Hughes_Trevin/1bit_of_Training_Before_Yo.sap
+Composers/Hughes_Trevin/1bit_Phazer_Phunk.sap
+Composers/Hughes_Trevin/1bit_Pirate.sap
+Composers/Hughes_Trevin/1bit_Rock.sap
+Composers/Hughes_Trevin/1bit_Smile.sap
+Composers/Husak_Jakub/Flying_Microbits.sap
+Composers/Husak_Jakub/SPEEDmaza.sap
+Composers/Husak_Jakub/SPEEDmaza_in_Game.sap
+Composers/Irrlicht_Project/Hyperdrive.sap
+Composers/Jaakkola_Juha/Cooldown.sap
+Composers/Jaakkola_Juha/Under_the_Crimson_Summer_S.sap
+Composers/Krowarsch_Daniel/Bomba.sap
+Composers/Krowarsch_Daniel/Dan_Music_2.sap
+Composers/Krowarsch_Daniel/Dan_Music_3.sap
+Composers/Krowarsch_Daniel/Dan_Music_4.sap
+Composers/Krowarsch_Daniel/Runner.sap
+Composers/Krueger_Christian/Perplexity.sap
+Composers/Lis_Piotr/Chip_Spring_Tune_2.sap
+Composers/Lis_Piotr/Gdansk_Airport.sap
+Composers/Lis_Piotr/Let_Me_See_You_Dance_2.sap
+Composers/Lis_Piotr/Vseobecna_Porucha.sap
+Composers/Mister_Beep/Dark_Matter_Trap.sap
+Composers/Mister_Beep/Night_Dancer.sap
+Composers/Nieber_Christian/Altenglischer_Tanz.sap
+Composers/Nieber_Christian/Altenglischer_Tanz_v2.sap
+Composers/Nieber_Christian/Countdown.sap
+Composers/Nieber_Christian/Da_Komm_Ich_Her.sap
+Composers/Nieber_Christian/Dimension_X_v1.sap
+Composers/Nieber_Christian/Dimension_X_v2.sap
+Composers/Nieber_Christian/Drummer.sap
+Composers/Nieber_Christian/Fughette.sap
+Composers/Nieber_Christian/Lang_lang_ists_her.sap
+Composers/Nieber_Christian/Lang_lang_ists_her_v2.sap
+Composers/Nieber_Christian/Menuett.sap
+Composers/Nieber_Christian/RITT.sap
+Composers/Nieber_Christian/Synthi.sap
+Composers/Nieber_Christian/Time.sap
+Composers/Nieber_Christian/Tumba.sap
+Composers/Nieber_Christian/Tumba_v2.sap
+Composers/Petrik_Alan/Ghosts.sap
+Composers/Poorten_Ivo/Earth_Wind_and_Fired.sap
+Composers/Poorten_Ivo/Fly_Me_to_the_Moon.sap
+Composers/Poorten_Ivo/Skeletons_of_Society.sap
+Composers/Radecki_Michal/Back_in_Time.sap
+Composers/Radecki_Michal/Destiny.sap
+Composers/Radecki_Michal/Firstie.sap
+Composers/Radecki_Michal/Great_Return_of_Penguins.sap
+Composers/Radecki_Michal/I_Care.sap
+Composers/Radecki_Michal/Pixeroids.sap
+Composers/Rogers_Charles/Its_the_Future.sap
+Composers/Rogers_Charles/Second_To_Last_Starfighter.sap
+Composers/Szerniewicz_Robert/Biedny_Pies_Antoni_II.sap
+Composers/Szerniewicz_Robert/Sub_Chase_Menu_Theme.sap
+Composers/Szpilowski_Michal/2048.sap
+Composers/Szpilowski_Michal/Ill_Cry_Instead.sap
+Composers/Szpilowski_Michal/Lotharek_Dance.sap
+Composers/Szpilowski_Michal/Nyan_Cat.sap
+Composers/Szpilowski_Michal/Rubacka_vo_Kopec_1.sap
+Composers/Szpilowski_Michal/Rubacka_vo_Kopec_2.sap
+Composers/Szpilowski_Michal/Sad_Story_in_Eight_Lines.sap
+Composers/Szpilowski_Michal/Samba_Gone_Bad.sap
+Composers/Szpilowski_Michal/Treasure_Island_Dizzy.sap
+Composers/Voss_Roland/AD_6502_ loading.sap [!error! - space in filename!!!]
+Composers/Voss_Roland/AD_6502_ music_1.sap [!error! - space in filename!!!]
+Composers/Voss_Roland/AD_6502_ music_2.sap [!error! - space in filename!!!]
+Composers/Voss_Roland/AD_6502_ music_3.sap [!error! - space in filename!!!]
+Composers/Voss_Roland/Arsantica_End_Theme.sap [aka Arsantica_part_3.sap]
+Composers/Voss_Roland/Back_from_Fractalis_demo_version.sap
+Composers/Voss_Roland/Back_from_Fractalis_full_version.sap
+Composers/Voss_Roland/Fischtro.sap
+Composers/Voss_Roland/Happy_Pokey_Stomper.sap
+Composers/Voss_Roland/Repeating_Basics.sap [aka Twisthorizontal_Intro.sap]
+Composers/Walters_Sean/Undocumented_Official.sap
+Composers/Wieczorkowski_Bartlomiej/CyberPunk_party_version.sap
+Composers/Wieczorkowski_Bartlomiej/Lost_Bytes_compo_version.sap
+Composers/Wieczorkowski_Bartlomiej/Lost_Bytes_intro_version.sap
+Composers/Wieczorkowski_Bartlomiej/Xmas_2013.sap
+Games/Dimos_Quest_Ingame.sap
+Games/Dimos_Quest_Title.sap
+Games/Dimos_Quest_Title_2.sap
+Games/IBM_Tetris.sap
+Games/Ninja.sap (NTSC, there is still PAL version in ASMA)
+Games/Pharaohs_Curse.sap (NTSC, there is still PAL version in ASMA)
+Games/Rainbow_Walker.sap (NTSC, there is still PAL version in ASMA)
+Misc/15_Shades_of_Grey.sap
+Misc/Atari_Expo_Digi_Mix.sap
+Misc/Be_Strong.sap
+Misc/Breaka_Railway.sap
+Misc/Demon_Invaders.sap
+Misc/Depixol.sap [!error! - : DATE "2014 Slipstream"!!!]
+Misc/Flying_into_the_Big_Sun.sap
+Misc/HeartWare.sap
+Misc/How_Deep_Is_Your_Love.sap
+Misc/Incantation.sap
+Misc/Lemon_Chicken.sap
+Misc/Marsz_Turecki.sap
+Misc/MechaRex.sap
+Misc/My_Fault.sap
+Misc/RebbStars.sap
+Misc/Reveries_et_Souvenirs.sap
+Misc/Too_Hard_2_3.sap
+Misc/Torture_Training.sap
+Unknown/Battle.sap
+Unknown/Box1.sap
+Unknown/Demo2_softsynth.sap
+Unknown/Dla_Elizy.sap
+Unknown/Dom_w_Dolinie_Mgiel.sap
+Unknown/Lambada.sap
+Unknown/LSD.sap
+Unknown/Mendel.sap
+Unknown/Schock.sap
+Unknown/Sokoban_1.sap
+Unknown/Sokoban_2.sap
+Unknown/Szlak.sap
+Unknown/Wonder.sap
+Unknown/Wonder_2.sap
 
 
 Credits fixes (includes filename or location changes)
 ------------------------------------------------------
-/Composers/Crockford_Douglas/BallSong_1.sap : NTSC
-/Composers/Crockford_Douglas/BallSong_2.sap : NTSC
-/Composers/Crockford_Douglas/Eidolon.sap : NTSC
-/Composers/Crockford_Douglas/Koronis_Rift.sap : NTSC
-/Composers/Gilbertson_Gary/Alien.sap : NTSC
-/Composers/Gilbertson_Gary/All_Were_I.sap : NTSC
-/Composers/Gilbertson_Gary/Alternate_Reality_City_Dan.sap : NTSC
-/Composers/Gilbertson_Gary/Alternate_Reality_City_Dra.sap : NTSC
-/Composers/Gilbertson_Gary/Alternate_Reality_City_Gam.sap : NTSC
-/Composers/Gilbertson_Gary/Alternate_Reality_City_Gui.sap : NTSC
-/Composers/Gilbertson_Gary/Alternate_Reality_City_Int.sap : NTSC
-/Composers/Gilbertson_Gary/Alternate_Reality_City_Mom.sap : NTSC
-/Composers/Gilbertson_Gary/Alternate_Reality_City_Smi.sap : NTSC
-/Composers/Gilbertson_Gary/Alternate_Reality_City_T_W.sap : NTSC
-/Composers/Gilbertson_Gary/Alternate_Reality_City_Tre.sap : NTSC
-/Composers/Gilbertson_Gary/Alternate_Reality_D_mus_1.sap : NTSC
-/Composers/Gilbertson_Gary/Alternate_Reality_D_mus_2.sap : NTSC
-/Composers/Gilbertson_Gary/Alternate_Reality_D_mus_3.sap : NTSC
-/Composers/Gilbertson_Gary/Alternate_Reality_D_mus_4.sap : NTSC
-/Composers/Gilbertson_Gary/Alternate_Reality_D_mus_5.sap : NTSC
-/Composers/Gilbertson_Gary/Alternate_Reality_D_mus_6.sap : NTSC
-/Composers/Gilbertson_Gary/Alternate_Reality_D_mus_7.sap : NTSC
-/Composers/Gilbertson_Gary/Alternate_Reality_D_mus_8.sap : NTSC
-/Composers/Gilbertson_Gary/Alternate_Reality_D_mus_9.sap : NTSC
-/Composers/Gilbertson_Gary/Alternate_Reality_D_mus_A.sap : NTSC
-/Composers/Gilbertson_Gary/Arab_Navy.sap : NTSC
-/Composers/Gilbertson_Gary/Cosmic_Tunnels.sap : NTSC
-/Composers/Gilbertson_Gary/Face_of_the_Galaxy.sap : NTSC
-/Composers/Gilbertson_Gary/Frog.sap : NTSC
-/Composers/Gilbertson_Gary/Monster_Smash.s : NTSCap
-/Composers/Gilbertson_Gary/Mr_Robot_and_His_Robot : NTSC_Fac.sap
-/Composers/Gilbertson_Gary/Passionately.sap : NTSC
-/Composers/Gilbertson_Gary/Post_Navy.sap : NTSC
-/Composers/Gilbertson_Gary/Say_the_Things.sap : NTSC
-/Composers/Gilbertson_Gary/Tail_of_Beta_Lyrae.sap : NTSC
-/Composers/Husak_Jakub/Red_Dragon.sap : ARTIST "Jan Hammer / Snapshots"
-/Composers/Husak_Jakub/Swiaszczennaja_Wojna.sap : ARTIST "Wasilij Lebiediew-Kumacz / Aleksander Aleksandrow"
-/Composers/Husak_Jakub/Ucieczka_W_Nicosc.sap > Ucieczka_w_Nicosc.sap
-/Composers/Irrlicht_Proje/Levels_of_Doom.sap : DATE "01/2013"
-/Composers/Kidaj_Andrzej/St.sap > Logoman.sap : NAME "Logoman"
-/Composers/Langston_Peter/Ballblaster.sap : NTSC
-/Composers/Langston_Peter/Ballblazer.sap : NTSC
-/Composers/Langston_Peter/Behind_Jaggi_Lines.sap : NTSC
-/Composers/Pesout_Marek/Acid_1.sap : AUTHOR "Marek Pesout (Poison)"
-/Composers/Piscol_Juergen/Synthi_1.sap : TIME 00:36.54 LOOP
-/Games/221B_Baker_Street.sap : NTSC
-/Games/Alien_Ambush.sap : NTSC
-/Games/Alley_Cat.sap : NTSC
-/Games/Andromeda.sap : NTSC
-/Games/Archon.sap : NTSC
-/Games/Archon_II.sap : NTSC
-/Games/Arex.sap : NTSC
-/Games/Astro_Chase.sap : NTSC
-/Games/Ballistic_Interceptor.sap : NTSC
-/Games/Blue_Max.sap : NTSC
-/Games/Blue_Max_2001.sap : NTSC
-/Games/Boulder_Dash.sap : NTSC
-/Games/Boulder_Dash_2.sap : NTSC
-/Games/Bristles.sap : NTSC
-/Games/Bruce_Lee.sap : NTSC
-/Games/Capture_the_Flag.sap : NTSC
-/Games/Capture_the_Flag_Sirius.sap : NTSC
-/Games/Caverns_of_Khafka.sap : NTSC
-/Games/Claim_Jumper.sap : NTSC
-/Games/Clowns_and_Balloons.sap : NTSC
-/Games/Conan.sap : NTSC
-/Games/Decathlon.sap : NTSC
-/Games/Dimension_X.sap : NTSC
-/Games/Drol.sap : NTSC
-/Games/Eckn.sap > /Composers/Krueger_Christian/
-/Games/Eckn_Loader.sap > /Composers/Krueger_Christian/
-/Games/Electrician.sap : NTSC
-/Games/Elevator_Repairman.sap : NTSC
-/Games/Flip_and_Flop.sap : NTSC
-/Games/Floor_Walker.sap : NTSC
-/Games/Frogger.sap : NTSC
-/Games/Frogger_II.sap : NTSC
-/Games/Getaway.sap : NTSC
-/Games/Ghost_Chaser.sap : NTSC
-/Games/Ghostbusters.sap : NTSC
-/Games/Goonies.sap : NTSC
-/Games/Goonies_Disk_Version.sap : NTSC
-/Games/Gremlins.sap : NTSC
-/Games/Gunfight.sap : NTSC
-/Games/Gyruss.sap : NTSC
-/Games/HardBall.sap : NTSC
-/Games/Hazard_Run.sap : NTSC
-/Games/Hulk_Out.sap : NTSC
-/Games/James_Bond.sap : NTSC
-/Games/Jigsaws.sap : NTSC
-/Games/Jungle_Hunt.sap : NTSC
-/Games/Keystone_Kapers.sap : NTSC
-/Games/Last_Starfighter.sap : NTSC
-/Games/Lawkeeper.sap : NTSC
-/Games/Logic_Levels.sap : NTSC
-/Games/Lords_of_Conquest.sap : NTSC
-/Games/M_U_L_E.sap : NTSC
-/Games/Mario_Bros.sap : NTSC
-/Games/Master_of_the_Lamps.sap : NTSC
-/Games/Masters_of_Time.sap : NTSC
-/Games/Montezumas_Revenge.sap : NTSC
-/Games/Moon_Patrol.sap : NTSC
-/Games/Morky.sap : NTSC
-/Games/Mountain_King.sap : NTSC
-/Games/Mr_Do.sap : NTSC
-/Games/On_Track.sap : NTSC
-/Games/Pac_Man.sap : NTSC
-/Games/Pacific_Coast_Highway.sap : NTSC
-/Games/Paradise_Threat.sap : NTSC
-/Games/Pitfall_II.sap : NTSC
-/Games/Poker_Sam.sap : NTSC
-/Games/Pooyan.sap : NTSC
-/Games/Popcorn.sap : NTSC
-/Games/Preppie.sap : NTSC
-/Games/Preppie_II.sap : NTSC
-/Games/Professor_IQ.sap : NTSC
-/Games/Quasimodo.sap : NTSC
-/Games/Realm_of_Impossiblity.sap : NTSC
-/Games/Rent_Wars.sap : NTSC
-/Games/Sargon_II.sap : NTSC
-/Games/Sea_Chase.sap : NTSC
-/Games/Seawolf_II.sap : NTSC
-/Games/Seven_Cities_of_Gold.sap : NTSC
-/Games/Shamus.sap : NTSC
-/Games/Shamus_Case_II.sap : NTSC
-/Games/Softoy.sap : NTSC
-/Games/Spelunker.sap : NTSC
-/Games/Spy_Hunter.sap : NTSC
-/Games/Spys_Demise.sap : NTSC
-/Games/Star_Intruder.sap : NTSC
-/Games/Star_Raiders_II.sap : NTSC
-/Games/Starbowl_Football.sap : NTSC
-/Games/Stealth.sap : NTSC
-/Games/Tapper.sap : NTSC
-/Games/Tarzan_of_the_Apes.sap : NTSC
-/Games/Taxicab_Hill.sap : NTSC
-/Games/Tumble_Bugs.sap : NTSC
-/Games/Vanguard.sap : NTSC
-/Games/Xevious.sap : NTSC
-/Games/Zeppelin.sap : NTSC
-/Games/Zombies.sap : NTSC
-/Misc/15_Shades_of_Grey.sap : AUTHOR "Rebecca Byers (Bex)"
-/Misc/Surprise.sap > /Composers/Bendyk_Piotr/
-/Misc/Surprise_2.sap > /Composers/Bendyk_Piotr/
-/Unknown/906090.sap > /Composers/Pasek_Marek/90_60_90.sap : AUTHOR "Marek Pasek <?>" : NAME "90-60-90" : DATE "1993"
+Composers/Crockford_Douglas/BallSong_1.sap : NTSC
+Composers/Crockford_Douglas/BallSong_2.sap : NTSC
+Composers/Crockford_Douglas/Eidolon.sap : NTSC
+Composers/Crockford_Douglas/Koronis_Rift.sap : NTSC
+Composers/Gilbertson_Gary/Alien.sap : NTSC
+Composers/Gilbertson_Gary/All_Were_I.sap : NTSC
+Composers/Gilbertson_Gary/Alternate_Reality_City_Dan.sap : NTSC
+Composers/Gilbertson_Gary/Alternate_Reality_City_Dra.sap : NTSC
+Composers/Gilbertson_Gary/Alternate_Reality_City_Gam.sap : NTSC
+Composers/Gilbertson_Gary/Alternate_Reality_City_Gui.sap : NTSC
+Composers/Gilbertson_Gary/Alternate_Reality_City_Int.sap : NTSC
+Composers/Gilbertson_Gary/Alternate_Reality_City_Mom.sap : NTSC
+Composers/Gilbertson_Gary/Alternate_Reality_City_Smi.sap : NTSC
+Composers/Gilbertson_Gary/Alternate_Reality_City_T_W.sap : NTSC
+Composers/Gilbertson_Gary/Alternate_Reality_City_Tre.sap : NTSC
+Composers/Gilbertson_Gary/Alternate_Reality_D_mus_1.sap : NTSC
+Composers/Gilbertson_Gary/Alternate_Reality_D_mus_2.sap : NTSC
+Composers/Gilbertson_Gary/Alternate_Reality_D_mus_3.sap : NTSC
+Composers/Gilbertson_Gary/Alternate_Reality_D_mus_4.sap : NTSC
+Composers/Gilbertson_Gary/Alternate_Reality_D_mus_5.sap : NTSC
+Composers/Gilbertson_Gary/Alternate_Reality_D_mus_6.sap : NTSC
+Composers/Gilbertson_Gary/Alternate_Reality_D_mus_7.sap : NTSC
+Composers/Gilbertson_Gary/Alternate_Reality_D_mus_8.sap : NTSC
+Composers/Gilbertson_Gary/Alternate_Reality_D_mus_9.sap : NTSC
+Composers/Gilbertson_Gary/Alternate_Reality_D_mus_A.sap : NTSC
+Composers/Gilbertson_Gary/Arab_Navy.sap : NTSC
+Composers/Gilbertson_Gary/Cosmic_Tunnels.sap : NTSC
+Composers/Gilbertson_Gary/Face_of_the_Galaxy.sap : NTSC
+Composers/Gilbertson_Gary/Frog.sap : NTSC
+Composers/Gilbertson_Gary/Monster_Smash.s : NTSCap
+Composers/Gilbertson_Gary/Mr_Robot_and_His_Robot : NTSC_Fac.sap
+Composers/Gilbertson_Gary/Passionately.sap : NTSC
+Composers/Gilbertson_Gary/Post_Navy.sap : NTSC
+Composers/Gilbertson_Gary/Say_the_Things.sap : NTSC
+Composers/Gilbertson_Gary/Tail_of_Beta_Lyrae.sap : NTSC
+Composers/Husak_Jakub/Red_Dragon.sap : ARTIST "Jan Hammer / Snapshots"
+Composers/Husak_Jakub/Swiaszczennaja_Wojna.sap : ARTIST "Wasilij Lebiediew-Kumacz / Aleksander Aleksandrow"
+Composers/Husak_Jakub/Ucieczka_W_Nicosc.sap > Ucieczka_w_Nicosc.sap
+Composers/Irrlicht_Proje/Levels_of_Doom.sap : DATE "01/2013"
+Composers/Kidaj_Andrzej/St.sap > Logoman.sap : NAME "Logoman"
+Composers/Langston_Peter/Ballblaster.sap : NTSC
+Composers/Langston_Peter/Ballblazer.sap : NTSC
+Composers/Langston_Peter/Behind_Jaggi_Lines.sap : NTSC
+Composers/Pesout_Marek/Acid_1.sap : AUTHOR "Marek Pesout (Poison)"
+Composers/Piscol_Juergen/Synthi_1.sap : TIME 00:36.54 LOOP
+Games/221B_Baker_Street.sap : NTSC
+Games/Alien_Ambush.sap : NTSC
+Games/Alley_Cat.sap : NTSC
+Games/Andromeda.sap : NTSC
+Games/Archon.sap : NTSC
+Games/Archon_II.sap : NTSC
+Games/Arex.sap : NTSC
+Games/Astro_Chase.sap : NTSC
+Games/Ballistic_Interceptor.sap : NTSC
+Games/Blue_Max.sap : NTSC
+Games/Blue_Max_2001.sap : NTSC
+Games/Boulder_Dash.sap : NTSC
+Games/Boulder_Dash_2.sap : NTSC
+Games/Bristles.sap : NTSC
+Games/Bruce_Lee.sap : NTSC
+Games/Capture_the_Flag.sap : NTSC
+Games/Capture_the_Flag_Sirius.sap : NTSC
+Games/Caverns_of_Khafka.sap : NTSC
+Games/Claim_Jumper.sap : NTSC
+Games/Clowns_and_Balloons.sap : NTSC
+Games/Conan.sap : NTSC
+Games/Decathlon.sap : NTSC
+Games/Dimension_X.sap : NTSC
+Games/Drol.sap : NTSC
+Games/Eckn.sap > /Composers/Krueger_Christian/
+Games/Eckn_Loader.sap > /Composers/Krueger_Christian/
+Games/Electrician.sap : NTSC
+Games/Elevator_Repairman.sap : NTSC
+Games/Flip_and_Flop.sap : NTSC
+Games/Floor_Walker.sap : NTSC
+Games/Frogger.sap : NTSC
+Games/Frogger_II.sap : NTSC
+Games/Getaway.sap : NTSC
+Games/Ghost_Chaser.sap : NTSC
+Games/Ghostbusters.sap : NTSC
+Games/Goonies.sap : NTSC
+Games/Goonies_Disk_Version.sap : NTSC
+Games/Gremlins.sap : NTSC
+Games/Gunfight.sap : NTSC
+Games/Gyruss.sap : NTSC
+Games/HardBall.sap : NTSC
+Games/Hazard_Run.sap : NTSC
+Games/Hulk_Out.sap : NTSC
+Games/James_Bond.sap : NTSC
+Games/Jigsaws.sap : NTSC
+Games/Jungle_Hunt.sap : NTSC
+Games/Keystone_Kapers.sap : NTSC
+Games/Last_Starfighter.sap : NTSC
+Games/Lawkeeper.sap : NTSC
+Games/Logic_Levels.sap : NTSC
+Games/Lords_of_Conquest.sap : NTSC
+Games/M_U_L_E.sap : NTSC
+Games/Mario_Bros.sap : NTSC
+Games/Master_of_the_Lamps.sap : NTSC
+Games/Masters_of_Time.sap : NTSC
+Games/Montezumas_Revenge.sap : NTSC
+Games/Moon_Patrol.sap : NTSC
+Games/Morky.sap : NTSC
+Games/Mountain_King.sap : NTSC
+Games/Mr_Do.sap : NTSC
+Games/On_Track.sap : NTSC
+Games/Pac_Man.sap : NTSC
+Games/Pacific_Coast_Highway.sap : NTSC
+Games/Paradise_Threat.sap : NTSC
+Games/Pitfall_II.sap : NTSC
+Games/Poker_Sam.sap : NTSC
+Games/Pooyan.sap : NTSC
+Games/Popcorn.sap : NTSC
+Games/Preppie.sap : NTSC
+Games/Preppie_II.sap : NTSC
+Games/Professor_IQ.sap : NTSC
+Games/Quasimodo.sap : NTSC
+Games/Realm_of_Impossiblity.sap : NTSC
+Games/Rent_Wars.sap : NTSC
+Games/Sargon_II.sap : NTSC
+Games/Sea_Chase.sap : NTSC
+Games/Seawolf_II.sap : NTSC
+Games/Seven_Cities_of_Gold.sap : NTSC
+Games/Shamus.sap : NTSC
+Games/Shamus_Case_II.sap : NTSC
+Games/Softoy.sap : NTSC
+Games/Spelunker.sap : NTSC
+Games/Spy_Hunter.sap : NTSC
+Games/Spys_Demise.sap : NTSC
+Games/Star_Intruder.sap : NTSC
+Games/Star_Raiders_II.sap : NTSC
+Games/Starbowl_Football.sap : NTSC
+Games/Stealth.sap : NTSC
+Games/Tapper.sap : NTSC
+Games/Tarzan_of_the_Apes.sap : NTSC
+Games/Taxicab_Hill.sap : NTSC
+Games/Tumble_Bugs.sap : NTSC
+Games/Vanguard.sap : NTSC
+Games/Xevious.sap : NTSC
+Games/Zeppelin.sap : NTSC
+Games/Zombies.sap : NTSC
+Misc/15_Shades_of_Grey.sap : AUTHOR "Rebecca Byers (Bex)"
+Misc/Surprise.sap > /Composers/Bendyk_Piotr/
+Misc/Surprise_2.sap > /Composers/Bendyk_Piotr/
+Unknown/906090.sap > /Composers/Pasek_Marek/90_60_90.sap : AUTHOR "Marek Pasek <?>" : NAME "90-60-90" : DATE "1993"
 
 Better/bugfixed rips
 --------------------
-/Composers/Grayscale/Sychowicz_Lukasz/Stickman.sap (new rip)
-/Composers/Mister_Beep/1_bit_Synthetic_II.sap (sap of proper rip replaces doubled sap)
-/Games/Diamonds.sap (fixed)
-/Games/Murkomania.sap (fix one byte of data song for proper replay)
-/Unknown/Harold_II_Crack_Music.sap > Crackmusic_Herbert_II.sap (better rip, fixed name)
+Composers/Grayscale/Sychowicz_Lukasz/Stickman.sap (new rip)
+Composers/Mister_Beep/1_bit_Synthetic_II.sap (sap of proper rip replaces doubled sap)
+Games/Diamonds.sap (fixed)
+Games/Murkomania.sap (fix one byte of data song for proper replay)
+Unknown/Harold_II_Crack_Music.sap > Crackmusic_Herbert_II.sap (better rip, fixed name)
 
