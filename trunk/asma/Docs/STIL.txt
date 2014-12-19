@@ -2,7 +2,7 @@
 #
 #  STIL v3.8 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1619
+#  Total number of entries: 1620
 #
 ##############################################################################
 #
@@ -5222,6 +5222,12 @@ COMMENT: This piece covers the version by Somebody Dance With Me by DJ Bobo.
 /Composers/Vogt_Dariusz/Music_1.sap
 COMMENT: 12th place at QuaST party 1996 music compo.
 
+### /Composers/Voss_Roland ###################################################
+
+/Composers/Voss_Roland/Fischtro.sap
+  TITLE: Atemlos durch die Nacht
+ ARTIST: Helene Fischer
+
 ### /Composers/Vybostok_Marian ###############################################
 
 /Composers/Vybostok_Marian/Bristly_Hedgehog_Unlimited.sap
@@ -6123,7 +6129,7 @@ COMMENT: Lato Ludzików 2000 music compo entry.
  ARTIST: George Gershwin
 
 /Misc/Roza.sap
-  TITLE: Róża i bez [from the movie Jak rozpętałem drugą wojnę światową](0:23)
+  TITLE: Róża i bez [from the movie Jak rozpętałem II wojnę światową](0:23)
  ARTIST: Jerzy Matuszkiewicz (music), Andrzej Czekalski (lyrics), performed by Andrzej Żarnecki.
 COMMENT: Music from the game 'BR-032 Constellation' released by L.K. Avalon in 1992.
 
