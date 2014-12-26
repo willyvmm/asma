@@ -2,7 +2,7 @@
 #
 #  STIL v3.8 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1620
+#  Total number of entries: 1623
 #
 ##############################################################################
 #
@@ -675,9 +675,9 @@ COMMENT: This piece covers the version by Somebody Dance With Me by DJ Bobo.
 COMMENT: This cover uses just slightly different sounds.
 
 /Composers/Drozdowski_Marek/Sweet_Illusions_APC_Part.sap
-  TITLE: Obession [from Massive Luxury Overdose]
+  TITLE: Obession [from Massive Luxury Overdose] (0:00)
  ARTIST: Army of Lovers
-  TITLE: Maria Magdalena [from Ten on One]
+  TITLE: Maria Magdalena [from Ten on One] (1:00)
  ARTIST: Sandra Cretu
 
 ### /Composers/Dudek_Krzysztof ###############################################
@@ -6411,6 +6411,10 @@ COMMENT: Christmas song
   TITLE: Where Everybody Knows Your Name [from the TV series Cheers]
  ARTIST: Gary Portnoy & Judy Hart-Angelo, performed by Gary Portnoy
 
+/Unknown/AMP/Deckhall.sap
+  TITLE: Deck the Halls with Boughs of Holly
+ ARTIST: Welsh Traditional
+
 /Unknown/AMP/Dont_Bring_Me_Down.sap
   TITLE: Don't Bring Me Down
  ARTIST: Electric Light Orchestra
@@ -6427,9 +6431,17 @@ COMMENT: Christmas song
   TITLE: One Horse Open Sleigh
  ARTIST: James Lord Pierpont
 
+/Unknown/AMP/King_Pain.sap
+  TITLE: King of Pain [from Synchronicity]
+ ARTIST: The Police
+
 /Unknown/AMP/Pictures_4.sap
   TITLE: Pictures at an Exhibition
  ARTIST: Modest Musorgski
+
+/Unknown/AMP/Ritz.sap
+  TITLE: Puttin' On the Ritz
+ARTIST: Irving Berlin
 
 /Unknown/AMP/Silent_Night.sap
   TITLE: Stille Nacht! Heilige Nacht!
