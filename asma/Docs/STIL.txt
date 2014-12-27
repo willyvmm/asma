@@ -2,7 +2,7 @@
 #
 #  STIL v3.8 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1623
+#  Total number of entries: 1625
 #
 ##############################################################################
 #
@@ -3304,6 +3304,10 @@ COMMENT: Music from the game 'Zbir' released by Mirage in 1993.
 
 ### /Composers/MusicMarius ###################################################
 
+/Composers/MusicMarius/ABBUC_106.sap
+  TITLE: <?>
+ ARTIST: K3
+
 /Composers/MusicMarius/Alfred_J_Kwak.sap
   TITLE: Ik ben vandaag zo vrolijk [from the cartoon series Alfred Jodocus Kwak]
  ARTIST: Herman Van Veen
@@ -4629,6 +4633,10 @@ COMMENT: 6th place at Forever Reneg8 music compo.
 
 /Composers/Szpilowski_Michal/Earth_242.sap
 COMMENT: Silesian Atari Open party 1995 music compo entry.
+
+/Composers/Szpilowski_Michal/Easter_Chickens.sap
+  TITLE: Easter Chickens [from the Amiga MOD module]
+ ARTIST: David Molen (Stimpy)
 
 /Composers/Szpilowski_Michal/Enchanted_Land.sap
   TITLE: Ingame [from the Atari ST/Amiga game Enchanted Lands]
