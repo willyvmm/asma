@@ -2,7 +2,7 @@
 #
 #  STIL v3.8 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1625
+#  Total number of entries: 1627
 #
 ##############################################################################
 #
@@ -723,6 +723,10 @@ COMMENT: PG is abbreviation of PseudoGrafx.
 /Composers/Eisenhammer_Zdenek/Aurora_rev_2.sap
   TITLE: Hymn to Aurora [from the Amiga MOD module]
  ARTIST: Horace Wimp
+
+/Composers/Eisenhammer_Zdenek/Comic_Bakery.sap
+  TITLE: Comic Bakery, Tune #1 [from the C64 game]
+ ARTIST: Martin Galway
 
 /Composers/Eisenhammer_Zdenek/Deflektor.sap
   TITLE: Deflektor [from the C64 game]
@@ -3463,6 +3467,16 @@ COMMENT: This tune comes from the cracktro of Amiga version of "Mortal
   TITLE: Lost Scrotum [from the Amiga MOD module]
  ARTIST: Alexander Pannwitz (Paso)
 
+### /Composers/Patschke_Ralf #################################################
+
+/Composers/Patschke_Ralf/Fireworks_2015.sap
+  TITLE: Ice Machine
+ ARTIST: Depeche Mode
+
+/Composers/Patschke_Ralf/Lotus_II_Title.sap
+  TITLE: bootup [from the Amiga game Lotus Turbo Challenge II]
+ ARTIST: Barry Leitch
+
 ### /Composers/Pelc_Janusz ###################################################
 
 /Composers/Pelc_Janusz/Blue_Monday.sap
@@ -6083,10 +6097,6 @@ COMMENT: 6th place at Winter Chip II (Best Pokey) music compo.
 /Misc/KevSoft.sap
   TITLE: Living on Video [from Living on Video]
  ARTIST: Trans-X
-
-/Misc/Lotus_II_Title.sap
-  TITLE: bootup [from the Amiga game Lotus Turbo Challenge II]
- ARTIST: Barry Leitch
 
 /Misc/Luzik.sap
   TITLE: Zepi [from the Atari XE/XL POKEY]
