@@ -19,8 +19,8 @@ Poland - 123
 Slovakia - 8
 Sweden - 1
 Ukraine - 1
-United Kingdom - 10
-United Kingdom (England) - 3
+United Kingdom - 9
+United Kingdom (England) - 4
 USA - 16
 Unknown - 13
 
@@ -103,7 +103,7 @@ Grabowski, Pawel - Poland
 Grad, Jacek - Tabu - Poland
 Gretzschel, Dieter - Old Man Tower - Germany
 Grzyb, Janusz - Poland
-Gurney, Rebecca - Bex - United Kingdom
+Gurney, Rebecca - Bex - United Kingdom (England)
 Gwozdziej, Mirek - Zur-soft 1/2 - Poland
 Hawkins, Ron - (?)
 Hay, Adam - Sack - United Kingdom
