@@ -10,7 +10,7 @@ Chile - 2
 Czech Republic - 13
 Finland - 1
 France - 2
-Germany - 31
+Germany - 32
 Hungary - 1
 Netherlands - 4
 Mexico - 1
@@ -20,7 +20,7 @@ Slovakia - 8
 Sweden - 1
 Ukraine - 1
 United Kingdom - 10
-United Kingdom (England) - 2
+United Kingdom (England) - 3
 USA - 16
 Unknown - 13
 
@@ -103,6 +103,7 @@ Grabowski, Pawel - Poland
 Grad, Jacek - Tabu - Poland
 Gretzschel, Dieter - Old Man Tower - Germany
 Grzyb, Janusz - Poland
+Gurney, Rebecca - Bex - United Kingdom
 Gwozdziej, Mirek - Zur-soft 1/2 - Poland
 Hawkins, Ron - (?)
 Hay, Adam - Sack - United Kingdom
@@ -181,6 +182,7 @@ Padula, Jaroslaw - Solo - Poland
 Palicka, Vratislav - Czech Republic
 Pasek, Marek - Poland
 Pasiecznik, Michal - Pasiu - Poland
+Patschke, Ralf - PP's - Germany
 Pelc, Janusz - Poland
 Pesout, Marek - Poison - Czech Republic
 Petrik, Alan - Factor6 - Czech Republic
