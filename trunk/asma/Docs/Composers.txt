@@ -2,7 +2,7 @@ Known Atari composers and handles                                 Dec 20 2013
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This list contains only composers who have at least 3 songs in ASMA
 collection. The composers are sorted in ABC order according to their surnames
-(if known, otherwise by their handles). There are 235 composers in this list.
+(if known, otherwise by their handles). There are 236 composers in this list.
 
 Argentina - 1
 Canada - 2
@@ -16,6 +16,7 @@ Netherlands - 4
 Mexico - 1
 Peru - 1
 Poland - 123
+Romania - 1
 Slovakia - 8
 Sweden - 1
 Ukraine - 1
@@ -31,6 +32,7 @@ Unknown - 13
 <?> - Claas Clever - Germany
 <?> - Czlowiek W Atomizerze - Poland
 <?> - Irrlicht Project - Germany
+<?> - Mega9man - Romania
 <?> - Mister Beep - Poland
 <?> - MusicMarius - Netherlands
 <?> - null1024 - Canada
