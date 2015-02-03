@@ -4034,7 +4034,7 @@ COMMENT: 8th place at Silly Venture 2011 music compo.
   TITLE: Draconus, Tune #7
  ARTIST: Adam Gilmore
 
-/Composers/Radzikowski_Ireneusz/PuzIntro.sap
+/Composers/Radzikowski_Ireneusz/Puzmania_Intro.sap
   TITLE: Snow Blind [from the Amiga MOD module]
  ARTIST: Björn Lynne (Dr.Awesome)
 
