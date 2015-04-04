@@ -2,7 +2,7 @@
 #
 #  STIL v3.8 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1629
+#  Total number of entries: 1633
 #
 ##############################################################################
 #
@@ -1107,6 +1107,15 @@ COMMENT: This song won the Eurovision Song Contest in 1984.
 /Composers/Ezcan_Kemal/Karriere.sap
   TITLE: Money, Money [from the movie Cabaret]
  ARTIST: John Kander (music), Fred Ebb (lyrics), performed Joel Grey & Liza Minnelli
+
+/Composers/Ezcan_Kemal/Tecno_Ninja.sap
+(#1)
+  TITLE: Fourth Rendez-Vous [from Rendez-Vous]
+ ARTIST: Jean Michel Jarre
+
+/Composers/Ezcan_Kemal/Tinory_Quest_Invention_13.sap
+  TITLE: Two-Part Invention No. 13, in A minor (BWV 784)
+ ARTIST: Johann Sebastian Bach
 
 ### /Composers/Falton_Peter ##################################################
 
@@ -3620,6 +3629,9 @@ COMMENT: Cover from the C64 game Warhawk, tune #1 by Rob Hubbard.
   TITLE: Gangnam Style (0:06)
  ARTIST: PSY
 
+/Composers/Petrik_Alan/Lokalna_porucha.sap
+COMMENT: 1st place at Forever 16 music compo.
+
 /Composers/Petrik_Alan/Robots.sap
   TITLE: Die Roboter (The Robots) [from The Man Machine (Die Mensch-Maschine)]
  ARTIST: Kraftwerk
@@ -4675,6 +4687,10 @@ COMMENT: Covers the MIDI conversion by Borgar Thorsteinsson (Oedipus).
 
 /Composers/Szpilowski_Michal/Hall_of_Rabarbadon.sap
 COMMENT: 22nd place at QuaST party 1996 music compo.
+
+/Composers/Szpilowski_Michal/Happy_New_Year_2015.sap
+  TITLE: Get Down On It [from Something Special]
+ ARTIST: Kool and the Gang
 
 /Composers/Szpilowski_Michal/Isora.sap
 (#1)
