@@ -4260,7 +4260,7 @@ COMMENT: 2nd place at Grayscale Music Competition I.
 
 ### /Composers/Spielmans_Martin ##############################################
 
-/Composers/Spielmans_Martin/Sea_Fighter.sap
+/Composers/Spielmans_Martin/Stand_By_Me.sap
   TITLE: Stand by Me [from Don't Play That Song!]
  ARTIST: Ben E.King (written by Ben E. King, Jerry Leiber, Mike Stoller)
 
