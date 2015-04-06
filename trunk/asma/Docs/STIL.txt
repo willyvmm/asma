@@ -2,7 +2,7 @@
 #
 #  STIL v3.8 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1633
+#  Total number of entries: 1641
 #
 ##############################################################################
 #
@@ -1087,6 +1087,10 @@ COMMENT: Same as /Composers/Esquivel_Sal/Unreal_Superhero_3.sap,
   TITLE: El Cumbanchero
  ARTIST: Rafael Hernández
 
+/Composers/Ezcan_Kemal/Chromatics.sap
+TITLE: Air [from Orchestral Suite No.3 (BWV 1068)]
+ARTIST: Johann Sebastian Bach
+
 /Composers/Ezcan_Kemal/Digiloo_Digiley.sap
   TITLE: Diggi-Loo Diggi-Ley
  ARTIST: Herreys
@@ -1112,6 +1116,24 @@ COMMENT: This song won the Eurovision Song Contest in 1984.
 (#1)
   TITLE: Fourth Rendez-Vous [from Rendez-Vous]
  ARTIST: Jean Michel Jarre
+(#2)
+ TITLE: Equinoxe Part 3 [from Equinoxe]
+ARTIST: Jean Michel Jarre
+(#3)
+ TITLE: Industrial Revolution: Overture [from Revolutions]
+ARTIST: Jean Michel Jarre
+(#4)
+ TITLE: Oxygene (Part IV) [from Oxygene]
+ARTIST: Jean Michel Jarre
+(#5)
+ TITLE: First Rendez-Vous [from Rendez-Vous]
+ARTIST: Jean Michel Jarre
+(#7)
+ TITLE: Oxygene (Part VI) [from Oxygene]
+ARTIST: Jean Michel Jarre
+(#9)
+ TITLE: Second Rendez-Vous Part I [from Rendez-Vous]
+ARTIST: Jean Michel Jarre
 
 /Composers/Ezcan_Kemal/Tinory_Quest_Invention_13.sap
   TITLE: Two-Part Invention No. 13, in A minor (BWV 784)
