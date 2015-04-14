@@ -177,8 +177,8 @@ Composers/Voss_Roland/Fischtro.sap
 Composers/Voss_Roland/Happy_Pokey_Stomper.sap
 Composers/Voss_Roland/Intro_2015.sap
 Composers/Voss_Roland/Repeating_Basics.sap
-Composers/Walters_Sean/Sloppyjones.sap
-Composers/Walters_Sean/Undocumented_Official.sap
+Composers/Walters_Sean/Sloppyjones_Fuck_the_Cold.sap
+Composers/Walters_Sean/Undocumented_Official_Opco.sap
 Composers/Wasilewski_Dariusz/CT460.sap
 Composers/Wasilewski_Dariusz/Morph.sap
 Composers/Wiatr_Przemyslaw/Lajf.sap
