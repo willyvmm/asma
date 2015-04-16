@@ -4,10 +4,10 @@ binaries):
 Kemal Ezcan
 (any songs)
  0 Grad Nord,  Antquest,  Ashido,  Atlantis,  Atomic Gnom,  Bomb,  Bomber Jack,
- Bros,  Castle Mania,  Chromatics,  Cultivation,  Digout,  Donald,  Drag,  Dredis,
- Escape from Earth,  Fire,  Hotel,  Jumpin' Spider,  Jupiter Lander,  Lasermaze,
- Monster Hunt,  Oblitroid,  Pungo,  Pungoland,  Shit,  Sogon,
- Spider (demo),  Spider,  Super Miner,  Tecno-Ninja,  The Brundles,
+ Castle Mania,  Cultivation,  Digout,  Donald,  Drag,  Dredis,
+ Escape from Earth,  Hotel,  Jumpin' Spider,  Jupiter Lander,  Lasermaze,
+ Monster Hunt,  Oblitroid,  Pungo,  Shit,  Sogon,
+ Spider (demo),  Super Miner,  The Brundles,
  The Laser Robot,  Time Bandit,  Tinory Quest,  Tobot,  Tobot Part I,
  Vektor,  Zador,  Zebu-Land
 
@@ -15,15 +15,11 @@ Kemal Ezcan
 *** Classic games: ***
 
 - Ace Of Aces
-- Adebar
 - Admirandus
 - Advanced Pinball Simulator
 - Akcie A Tovarny
-- Alf In The Color Caves
-- Alien Encounter
 - Alp Man
 - Amnesia
-- Amphibian!
 - Arkaneth II
 - Atari Olympics
 - Atomix
@@ -36,7 +32,6 @@ Kemal Ezcan
 - Batman
 - Beach Landing
 - Beneath Apple Manor
-- BeWeSoft's Race
 - Blazer II
 - Blue-Print
 - Bomb Down
