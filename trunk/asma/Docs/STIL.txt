@@ -2,7 +2,7 @@
 #
 #  STIL v3.8 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1641
+#  Total number of entries: 1642
 #
 ##############################################################################
 #
@@ -4112,6 +4112,12 @@ COMMENT: 8th place at Silly Venture 2011 music compo.
 
 /Composers/Roemer_Markus/Way_You_Are.sap
 COMMENT: 6th place at Grayscale Music Competition II.
+
+### /Composers/Rogers_Charles ################################################
+
+/Composers/Rogers_Charles/Butterscotch_Drops_of_Lime.sap
+  TITLE: Butterscotch Drops of Lime [from the Nintendo Entertainment System]
+ ARTIST: Richard J. Armijo (Kulor)
 
 ### /Composers/Rosolek_Maciej ################################################
 
