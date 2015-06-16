@@ -2260,7 +2260,7 @@ COMMENT: Atari XL/XE official audio-visual test tune.
 COMMENT: Same as /Composers/Rosolek_Maciej/Magia_Fortuny_Ingame.sap
 
 /Composers/Karpowicz_Henryk/Podmoskiewskie_Wieczory.sap
-  TITLE: Podmoskiewskie Wieczory
+  TITLE: Moscow Nights
  ARTIST: Vasily Solovyov-Sedoi (music), Mikhail Matusovsky (lyrics), performed by Władimir Troshin
 
 /Composers/Karpowicz_Henryk/Polonez.sap
