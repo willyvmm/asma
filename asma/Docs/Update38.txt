@@ -1,12 +1,12 @@
 ASMA Update #38
-Date: Apr 16, 2015
+Date: Jun 17, 2015
 
 These rips together with the original ASMA collection will make version 3.8
 of the ASMA (out of version 3.7).
 
-Number of new tunes: 243
+Number of new tunes: 260
 Credits fixes: 159
-Better/bugfixed rips: 9
+Better/bugfixed rips: 11
 Removed files: 3
 
 Removed files
@@ -26,7 +26,9 @@ Composers/Ce_Pumpkin/Impossible_but_Real.sap
 Composers/Ce_Pumpkin/Rolo_X.sap
 Composers/Ce_Pumpkin/Too_Hard_2_1.sap
 Composers/Ce_Pumpkin/Too_Hard_2_2.sap
+Composers/Ce_Pumpkin/Tron.sap
 Composers/Chema64/Data_Lust.sap
+Composers/Czartynski_Marcin/Wkorwek.sap
 Composers/Derkach_Andrey/Begin.sap
 Composers/Derkach_Andrey/Bewerly.sap
 Composers/Derkach_Andrey/Big.sap
@@ -61,6 +63,7 @@ Composers/Derkach_Andrey/Zybex.sap
 Composers/Dramczyk_Bartlomiej/Selftest_Terror.sap
 Composers/Dramczyk_Bartlomiej/SWAY.sap
 Composers/Dramczyk_Bartlomiej/What_You_do_it_NOW.sap
+Composers/Drozdowski_Marek/Demko.sap
 Composers/Duma_Dariusz/Mammoth_Walk.sap
 Composers/Duma_Dariusz/Undesigned.sap
 Composers/Eisenhammer_Zdenek/Bob_the_Snake.sap
@@ -72,6 +75,7 @@ Composers/Eisenhammer_Zdenek/Ten_Minutes_to_Deadline.sap
 Composers/Eisenhammer_Zdenek/Tronix.sap
 Composers/Ezcan_Kemal/Bros.sap
 Composers/Ezcan_Kemal/Chromatics.sap
+Composers/Ezcan_Kemal/Dredis.sap
 Composers/Ezcan_Kemal/Fire.sap
 Composers/Ezcan_Kemal/Pungoland.sap
 Composers/Ezcan_Kemal/Spider.sap
@@ -108,6 +112,7 @@ Composers/Jaakkola_Juha/Thruster.sap
 Composers/Jaakkola_Juha/Under_the_Crimson_Summer_S.sap
 Composers/Karpowicz_Henryk/Kolysanka_Brahms.sap
 Composers/Karpowicz_Henryk/Sorrento.sap
+Composers/Karwoth_Torsten/Tron_The_Race.sap
 Composers/Krowarsch_Daniel/Bomba.sap
 Composers/Krowarsch_Daniel/Dan_Music_2.sap
 Composers/Krowarsch_Daniel/Dan_Music_3.sap
@@ -152,7 +157,14 @@ Composers/Pasek_Marek/Autumn.sap
 Composers/Patschke_Ralf/ABBUC_117.sap
 Composers/Patschke_Ralf/Fireworks_2015.sap
 Composers/Patschke_Ralf/Lotus_II_Title.sap
+Composers/Pesout_Marek/Flop_magazin_58.sap
+Composers/Pesout_Marek/Justmix.sap
+Composers/Pesout_Marek/Lastmsx.sap
 Composers/Pesout_Marek/Nemezyro.sap
+Composers/Pesout_Marek/Numeral.sap
+Composers/Pesout_Marek/Radiation_part_1.sap
+Composers/Pesout_Marek/Radiation_part_2.sap
+Composers/Pesout_Marek/Ulet.sap
 Composers/Petrik_Alan/Ghosts.sap
 Composers/Petrik_Alan/Lokalna_porucha.sap
 Composers/Pettersen_Njaal/Demon_Invaders.sap
@@ -173,6 +185,7 @@ Composers/Radzikowski_Ireneusz/Puzmania_Ingame_3.sap
 Composers/Radzikowski_Ireneusz/Puzmania_Ingame_4.sap
 Composers/Radzikowski_Ireneusz/Puzmania_Intermedia.sap
 Composers/Radzikowski_Ireneusz/Puzmania_Is_Dead.sap
+Composers/Rogers_Charles/Butterscotch_Drops_of_Lime.sap
 Composers/Rogers_Charles/Its_the_Future.sap
 Composers/Rogers_Charles/Second_To_Last_Starfighter.sap
 Composers/Rogers_Charles/Wandas_Witchy_Workshop.sap
@@ -187,6 +200,7 @@ Composers/Szpilowski_Michal/Glucholazy_2k15_Invitro.sap
 Composers/Szpilowski_Michal/Happy_New_Year_2015.sap
 Composers/Szpilowski_Michal/Ill_Cry_Instead.sap
 Composers/Szpilowski_Michal/Lotharek_Dance.sap
+Composers/Szpilowski_Michal/Nordlicht_2015_Greetro.sap
 Composers/Szpilowski_Michal/Nyan_Cat.sap
 Composers/Szpilowski_Michal/NYDS.sap
 Composers/Szpilowski_Michal/Rubacka_vo_Kopec_1.sap
@@ -209,6 +223,7 @@ Composers/Voss_Roland/Fischtro.sap
 Composers/Voss_Roland/Happy_Pokey_Stomper.sap
 Composers/Voss_Roland/Intro_2015.sap
 Composers/Voss_Roland/Repeating_Basics.sap
+Composers/Voss_Roland/Sky_full_of_Fanta.sap
 Composers/Voss_Roland/Space_Panda_Disco.sap
 Composers/Walters_Sean/Sloppyjones_Fuck_the_Cold.sap
 Composers/Walters_Sean/Undocumented_Official_Opco.sap
@@ -223,12 +238,14 @@ Games/Adebar.sap
 Games/Alf_in_the_Color_Caves.sap
 Games/Alien_Encounter.sap
 Games/Amphibian.sap
+Games/Crazy_Maze_Race.sap
 Games/Exoter.sap
 Games/IBM_Tetris.sap
 Misc/ABBUC_117.sap
 Misc/Atari_Expo_Digi_Mix.sap
 Misc/Be_Strong.sap
 Misc/Breaka_Railway.sap
+Misc/Dave_Ts_Disco.sap
 Misc/HeartWare.sap
 Misc/How_Deep_Is_Your_Love.sap
 Misc/Incantation.sap
@@ -431,7 +448,8 @@ Composers/Grayscale/Sychowicz_Lukasz/Barymag_2_8.sap > Miod_w_uszach.sap :NAME "
 Composers/Grayscale/Sychowicz_Lukasz/Barymag_2_Intro.sap > Wariacje_na_drutach.sap :NAME "Wariacje na drutach" (player replaced)
 Composers/Grayscale/Sychowicz_Lukasz/Stickman.sap (new rip)
 Composers/Mister_Beep/1_bit_Synthetic_II.sap (sap of proper rip replaces doubled sap)
+Composers/Pesout_Marek/Old_Gremlin.sap (replaced player with correct "Rzog-type" bass table)
 Games/Diamonds.sap (fixed)
 Games/Murkomania.sap (fix one byte of data song for proper replay)
+Misc/Do_You_See_the_Light.sap (proper rip with samples)
 Unknown/Harold_II_Crack_Music.sap > Crackmusic_Herbert_II.sap (better rip, fixed name)
-
