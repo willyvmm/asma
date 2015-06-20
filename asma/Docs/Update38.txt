@@ -4,7 +4,7 @@ Date: Jun 17, 2015
 These rips together with the original ASMA collection will make version 3.8
 of the ASMA (out of version 3.7).
 
-Number of new tunes: 260
+Number of new tunes: 261
 Credits fixes: 159
 Better/bugfixed rips: 11
 Removed files: 3
@@ -261,6 +261,7 @@ Misc/Reveries_et_Souvenirs.sap
 Misc/Swacklord420000.sap
 Misc/Too_Hard_2_3.sap
 Misc/Torture_Training.sap
+Unknown/Babbies_First_RMT.sap
 Unknown/Battle.sap
 Unknown/Box1.sap
 Unknown/Danger.sap
