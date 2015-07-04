@@ -5368,6 +5368,15 @@ COMMENT: 1st place at Silly Venture 2012 music compo.
   TITLE: Close To Me [from The Head on the Door]
  ARTIST: The Cure
 
+### /Composers/Williams_Bill #################################################
+
+/Composers/Williams_Bill/Alley_Cat.sap
+  TITLE: Omkring et Flygel
+ ARTIST: Glen Gray
+COMMENT: Covers the "Alley Cat", also known as "Alleycat" and "The Alley Cat,"
+         is a popular instrumental song made most famous by the Danish
+         pianist and composer Bent Fabricius-Bjerre.
+
 ### /Composers/Wisniewski_Mateusz ############################################
 
 /Composers/Wisniewski_Mateusz/High_Tide.sap
@@ -5628,13 +5637,6 @@ COMMENT: A Christmas song also known as "Silent Night".
 /Games/Alien_Ambush.sap
   TITLE: Ride of the Valkyries
  ARTIST: Richard Wagner
-
-/Games/Alley_Cat.sap
-  TITLE: Omkring et Flygel,
- ARTIST: Glen Gray
-COMMENT: Covers the "Alley Cat", also known as "Alleycat" and "The Alley Cat,"
-         is a popular instrumental song made most famous by the Danish
-         pianist and composer Bent Fabricius-Bjerre.
 
 /Games/Astro_Chase.sap
   TITLE: The Festival Overture: The Year 1812, Op.49
