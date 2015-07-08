@@ -2,7 +2,7 @@ Known Atari composers and handles                                 Dec 20 2013
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This list contains only composers who have at least 3 songs in ASMA
 collection. The composers are sorted in ABC order according to their surnames
-(if known, otherwise by their handles). There are 238 composers in this list.
+(if known, otherwise by their handles). There are 240 composers in this list.
 
 Argentina - 1
 Canada - 2
@@ -57,10 +57,10 @@ Brady, Jerry - (?)
 Bratt, Harry - (?)
 Brooke, Jason C. - United Kingdom (England)
 Bruenninski, Uwe - Hu-Soft - Germany
-Buehrig, Bastian - Oson, Sit Meier - Germany
 Bryla, Krzysztof - Woppie, Foster - Poland
 Brzeski, Michal - Michu, MCH - Poland
 Brzezicki, Michal - Caruso - Poland
+Buehrig, Bastian - Oson, Sit Meier - Germany
 Buettner, Falk - Germany
 Chamberlain, Craig - USA
 Checa Funcke, Marco Antonio - Peru
