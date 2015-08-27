@@ -1088,8 +1088,8 @@ COMMENT: Same as /Composers/Esquivel_Sal/Unreal_Superhero_3.sap,
  ARTIST: Rafael Hernández
 
 /Composers/Ezcan_Kemal/Chromatics.sap
-TITLE: Air [from Orchestral Suite No.3 (BWV 1068)]
-ARTIST: Johann Sebastian Bach
+  TITLE: Air [from Orchestral Suite No.3 (BWV 1068)]
+ ARTIST: Johann Sebastian Bach
 
 /Composers/Ezcan_Kemal/Digiloo_Digiley.sap
   TITLE: Diggi-Loo Diggi-Ley
@@ -1117,23 +1117,23 @@ COMMENT: This song won the Eurovision Song Contest in 1984.
   TITLE: Fourth Rendez-Vous [from Rendez-Vous]
  ARTIST: Jean Michel Jarre
 (#2)
- TITLE: Equinoxe Part 3 [from Equinoxe]
-ARTIST: Jean Michel Jarre
+  TITLE: Equinoxe Part 3 [from Equinoxe]
+ ARTIST: Jean Michel Jarre
 (#3)
- TITLE: Industrial Revolution: Overture [from Revolutions]
-ARTIST: Jean Michel Jarre
+  TITLE: Industrial Revolution: Overture [from Revolutions]
+ ARTIST: Jean Michel Jarre
 (#4)
- TITLE: Oxygene (Part IV) [from Oxygene]
-ARTIST: Jean Michel Jarre
+  TITLE: Oxygene (Part IV) [from Oxygene]
+ ARTIST: Jean Michel Jarre
 (#5)
- TITLE: First Rendez-Vous [from Rendez-Vous]
-ARTIST: Jean Michel Jarre
+  TITLE: First Rendez-Vous [from Rendez-Vous]
+ ARTIST: Jean Michel Jarre
 (#7)
- TITLE: Oxygene (Part VI) [from Oxygene]
-ARTIST: Jean Michel Jarre
+  TITLE: Oxygene (Part VI) [from Oxygene]
+ ARTIST: Jean Michel Jarre
 (#9)
- TITLE: Second Rendez-Vous Part I [from Rendez-Vous]
-ARTIST: Jean Michel Jarre
+  TITLE: Second Rendez-Vous Part I [from Rendez-Vous]
+ ARTIST: Jean Michel Jarre
 
 /Composers/Ezcan_Kemal/Tinory_Quest_Invention_13.sap
   TITLE: Two-Part Invention No. 13, in A minor (BWV 784)
@@ -5361,7 +5361,7 @@ COMMENT: This music is also present in the game Buckaneer by Mastertronic.
          Whittaker's permission, because the programmers of that game credited
          this tune to themselves.
 
-### /Composers/Wieczorkowski_Bartlomiej ######################################	 
+### /Composers/Wieczorkowski_Bartlomiej ######################################
 
 /Composers/Wieczorkowski_Bartlomiej/Back_to_the_Scene.sap
 COMMENT: 1st place at Silly Venture 2012 music compo.
@@ -6509,7 +6509,7 @@ COMMENT: Christmas song
 
 /Unknown/AMP/Ritz.sap
   TITLE: Puttin' On the Ritz
-ARTIST: Irving Berlin
+ ARTIST: Irving Berlin
 
 /Unknown/AMP/Silent_Night.sap
   TITLE: Stille Nacht! Heilige Nacht!
