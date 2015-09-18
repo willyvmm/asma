@@ -1,16 +1,18 @@
 ASMA Update #38
-Date: Jun 17, 2015
+Date: Sep 18, 2015
 
 These rips together with the original ASMA collection will make version 3.8
 of the ASMA (out of version 3.7).
 
-Number of new tunes: 261
-Credits fixes: 159
+Number of new tunes: 271
+Credits fixes: 163
 Better/bugfixed rips: 11
-Removed files: 3
+Removed files: 5
 
 Removed files
 -------------
+Composers/Ce_Pumpkin/Life2Back_Credits.sap (now included in a single file Life_2_Back.sap)
+Composers/Ce_Pumpkin/Life2Back_Main_Part.sap (now included in a single file Life_2_Back.sap)
 Composers/Kidaj_Andrzej/D18.sap (had only first song from 3-songs' MTV.sap)
 Composers/Kidaj_Andrzej/Logoman.sap (worse version)
 Games/Speed_Puzzle.sap (its sole 2 songs exist separately in ASMA already)
@@ -23,7 +25,9 @@ Composers/Bernasek_Jiri/Bewesofts_Race.sap
 Composers/Brzeski_Michal/Vantage_Point.sap
 Composers/Buehrig_Bastian/DITCH.sap
 Composers/Ce_Pumpkin/Impossible_but_Real.sap
+Composers/Ce_Pumpkin/Life_to_Back.sap
 Composers/Ce_Pumpkin/Rolo_X.sap
+Composers/Ce_Pumpkin/Rolo_XI.sap
 Composers/Ce_Pumpkin/Too_Hard_2_1.sap
 Composers/Ce_Pumpkin/Too_Hard_2_2.sap
 Composers/Ce_Pumpkin/Tron.sap
@@ -112,6 +116,7 @@ Composers/Jaakkola_Juha/Thruster.sap
 Composers/Jaakkola_Juha/Under_the_Crimson_Summer_S.sap
 Composers/Karpowicz_Henryk/Kolysanka_Brahms.sap
 Composers/Karpowicz_Henryk/Sorrento.sap
+Composers/Karwacki_Jakub/East_Party_5_Invitation.sap
 Composers/Karwoth_Torsten/Tron_The_Race.sap
 Composers/Krowarsch_Daniel/Bomba.sap
 Composers/Krowarsch_Daniel/Dan_Music_2.sap
@@ -128,7 +133,7 @@ Composers/Lis_Piotr/Let_Me_See_You_Dance_2.sap
 Composers/Lis_Piotr/New_Year_2k15_Intro.sap
 Composers/Lis_Piotr/Outline_Me.sap
 Composers/Lis_Piotr/Quite_a_sad_song.sap
-Composers/Lis_Piotr/Strasna Hudba_or_how_Matri.sap
+Composers/Lis_Piotr/Strasna_Hudba_or_how_Matri.sap
 Composers/Lis_Piotr/Vseobecna_Porucha.sap
 Composers/Lis_Piotr/We_Are_Brothers_In_Atrs_2.sap
 Composers/Mega9man/Flying_Into_the_Big_Sun.sap
@@ -156,7 +161,6 @@ Composers/Nieber_Christian/Tumba_v2.sap
 Composers/Pasek_Marek/Autumn.sap
 Composers/Patschke_Ralf/ABBUC_117.sap
 Composers/Patschke_Ralf/Fireworks_2015.sap
-Composers/Patschke_Ralf/Lotus_II_Title.sap
 Composers/Pesout_Marek/Flop_magazin_58.sap
 Composers/Pesout_Marek/Justmix.sap
 Composers/Pesout_Marek/Lastmsx.sap
@@ -187,6 +191,7 @@ Composers/Radzikowski_Ireneusz/Puzmania_Intermedia.sap
 Composers/Radzikowski_Ireneusz/Puzmania_Is_Dead.sap
 Composers/Rogers_Charles/Butterscotch_Drops_of_Lime.sap
 Composers/Rogers_Charles/Its_the_Future.sap
+Composers/Rogers_Charles/Rising_Up.sap
 Composers/Rogers_Charles/Second_To_Last_Starfighter.sap
 Composers/Rogers_Charles/Wandas_Witchy_Workshop.sap
 Composers/Swierszcz_Piotr/Strayball.sap
@@ -208,23 +213,26 @@ Composers/Szpilowski_Michal/Rubacka_vo_Kopec_2.sap
 Composers/Szpilowski_Michal/Sad_Story_in_Eight_Lines.sap
 Composers/Szpilowski_Michal/Samba_Gone_Bad.sap
 Composers/Szpilowski_Michal/Treasure_Island_Dizzy.sap
+Composers/Tegethoff_Sven/ABBUC_20_3.sap
 Composers/Theissen_Hilton/Dimos_Quest_Ingame.sap
 Composers/Theissen_Hilton/Dimos_Quest_Title.sap
 Composers/Theissen_Hilton/Dimos_Quest_Title_2.sap
 Composers/Voss_Roland/AD_6502_loading.sap
-Composers/Voss_Roland/AD_6502_music_1.sap
-Composers/Voss_Roland/AD_6502_music_2.sap
-Composers/Voss_Roland/AD_6502_music_3.sap
 Composers/Voss_Roland/AD_6502_music_4.sap
-Composers/Voss_Roland/Arsantica_3_Announcement.sap
 Composers/Voss_Roland/Arsantica_End_Theme.sap
 Composers/Voss_Roland/Back_from_Fractalis.sap
+Composers/Voss_Roland/Back_to_the_Northern_Light.sap
 Composers/Voss_Roland/Fischtro.sap
+Composers/Voss_Roland/Happy_Bonfire.sap
 Composers/Voss_Roland/Happy_Pokey_Stomper.sap
-Composers/Voss_Roland/Intro_2015.sap
+Composers/Voss_Roland/Planet_Rotation.sap
 Composers/Voss_Roland/Repeating_Basics.sap
-Composers/Voss_Roland/Sky_full_of_Fanta.sap
+Composers/Voss_Roland/Ride_the_Fractals.sap
+Composers/Voss_Roland/Sky_Full_of_Fanta.sap
 Composers/Voss_Roland/Space_Panda_Disco.sap
+Composers/Voss_Roland/Tease_the_Space_Pandas.sap
+Composers/Voss_Roland/Tentacles.sap
+Composers/Walters_Sean/Sloppyjones.sap
 Composers/Walters_Sean/Sloppyjones_Fuck_the_Cold.sap
 Composers/Walters_Sean/Undocumented_Official_Opco.sap
 Composers/Wasilewski_Dariusz/CT460.sap
@@ -238,12 +246,15 @@ Games/Adebar.sap
 Games/Alf_in_the_Color_Caves.sap
 Games/Alien_Encounter.sap
 Games/Amphibian.sap
+Games/Cosmic_Pirate.sap
 Games/Crazy_Maze_Race.sap
 Games/Exoter.sap
 Games/IBM_Tetris.sap
-Misc/ABBUC_117.sap
+Games/Turbo_Snail.sap
+Games/Who_Dares_Wins_II.sap
 Misc/Atari_Expo_Digi_Mix.sap
 Misc/Be_Strong.sap
+Misc/Beyond_the_Stars.sap
 Misc/Breaka_Railway.sap
 Misc/Dave_Ts_Disco.sap
 Misc/HeartWare.sap
@@ -257,6 +268,7 @@ Misc/Megadrain.sap
 Misc/My_Fault.sap
 Misc/RebbStars.sap
 Misc/Rescue_technological_demo.sap
+Misc/RetroKomp_LE_2015_Invitro.sap
 Misc/Reveries_et_Souvenirs.sap
 Misc/Swacklord420000.sap
 Misc/Too_Hard_2_3.sap
@@ -288,6 +300,7 @@ Composers/Crockford_Douglas/BallSong_2.sap : NTSC
 Composers/Crockford_Douglas/Eidolon.sap : NTSC
 Composers/Crockford_Douglas/Koronis_Rift.sap : NTSC
 Composers/Duma_Dariusz/Unplugged_Demo.sap > Unplugged_Pixels.sap : NAME "Unplugged Pixels"
+Composers/Eisenhammer_Zdenek/Flop_56.sap > Flop_magazin_56.sap : NAME "Flop magazin 56"
 Composers/Galinski_Adrian/Mayday_Demo.sap > Misc/Mayday_Demo.sap : AUTHOR "<?> (Darth)" : DATE "1995"
 Composers/Gilbertson_Gary/Alien.sap : NTSC
 Composers/Gilbertson_Gary/All_Were_I.sap : NTSC
@@ -321,7 +334,7 @@ Composers/Gilbertson_Gary/Post_Navy.sap : NTSC
 Composers/Gilbertson_Gary/Say_the_Things.sap : NTSC
 Composers/Gilbertson_Gary/Tail_of_Beta_Lyrae.sap : NTSC
 Composers/Husak_Jakub/Ucieczka_W_Nicosc.sap > Ucieczka_w_Nicosc.sap
-Composers/Irrlicht_Proje/Levels_of_Doom.sap : DATE "01/2013"
+Composers/Irrlicht_Project/Levels_of_Doom.sap : DATE "01/2013"
 Composers/Kidaj_Andrzej/St.sap > Logoman.sap : NAME "Logoman"
 Composers/Langston_Peter/Ballblaster.sap : NTSC
 Composers/Langston_Peter/Ballblazer.sap : NTSC
@@ -341,7 +354,7 @@ Composers/Spielmans_Martin/Sea_Fighter.sap > Stand_By_Me.sap :NAME "Stand_By_Me"
 Composers/Wasilewski_Dariusz/Demo.sap > Fractal_Demo_Theme.sap : NAME "Fractal Demo Theme"
 Games/221B_Baker_Street.sap : NTSC
 Games/Alien_Ambush.sap : NTSC
-Games/Alley_Cat.sap : NTSC
+Games/Alley_Cat.sap > Composers/Williams_Bill/ : NTSC
 Games/Andromeda.sap : NTSC
 Games/Archon.sap : NTSC
 Games/Archon_II.sap : NTSC
@@ -399,6 +412,7 @@ Games/Moon_Patrol.sap : NTSC
 Games/Morky.sap : NTSC
 Games/Mountain_King.sap : NTSC
 Games/Mr_Do.sap : NTSC
+Games/Necromancer.sap > Composers/Williams_Bill/ : AUTHOR "Bill Williams"
 Games/On_Track.sap : NTSC
 Games/Pac_Man.sap : NTSC
 Games/Pacific_Coast_Highway.sap : NTSC
@@ -435,6 +449,8 @@ Games/Vanguard.sap : NTSC
 Games/Xevious.sap : NTSC
 Games/Zeppelin.sap : NTSC
 Games/Zombies.sap : NTSC
+Misc/Lotus_II_Title.sap > Composers/Patschke_Ralf/
+Misc/Relax_Kaleidoscope.sap > Composers/Williams_Bill/Relax.sap : AUTHOR "Bill Williams <?>" NAME "Relax"
 Misc/Surprise.sap > Composers/Bendyk_Piotr/
 Misc/Surprise_2.sap > Composers/Bendyk_Piotr/
 Misc/Tritona_Explodarium.sap > Composers/Pettersen_Njaal/Tritona_Explodarium.sap
@@ -443,10 +459,10 @@ Unknown/Hotline_Intro.sap > Composers/Spielmans_Martin/Honky_Tonky.sap : AUTHOR 
 
 Better/bugfixed rips
 --------------------
-Composers/Grayscale/Sychowicz_Lukasz/Barymag_2_4.sap > Wakacje_Misia_Kolabora.sap :NAME "Wakacje Misia Kolabora" (player replaced)
-Composers/Grayscale/Sychowicz_Lukasz/Barymag_2_5.sap > Marsz_hipochondrykow.sap :NAME "Marsz hipochondrykow" (player replaced)
-Composers/Grayscale/Sychowicz_Lukasz/Barymag_2_8.sap > Miod_w_uszach.sap :NAME "Miod w uszach" (player replaced)
-Composers/Grayscale/Sychowicz_Lukasz/Barymag_2_Intro.sap > Wariacje_na_drutach.sap :NAME "Wariacje na drutach" (player replaced)
+Composers/Grayscale/Sychowicz_Lukasz/Barymag_2_4.sap > Wakacje_Misia_Kolabora.sap : NAME "Wakacje Misia Kolabora" (player replaced)
+Composers/Grayscale/Sychowicz_Lukasz/Barymag_2_5.sap > Marsz_hipochondrykow.sap : NAME "Marsz hipochondrykow" (player replaced)
+Composers/Grayscale/Sychowicz_Lukasz/Barymag_2_8.sap > Miod_w_uszach.sap : NAME "Miod w uszach" (player replaced)
+Composers/Grayscale/Sychowicz_Lukasz/Barymag_2_Intro.sap > Wariacje_na_drutach.sap : NAME "Wariacje na drutach" (player replaced)
 Composers/Grayscale/Sychowicz_Lukasz/Stickman.sap (new rip)
 Composers/Mister_Beep/1_bit_Synthetic_II.sap (sap of proper rip replaces doubled sap)
 Composers/Pesout_Marek/Old_Gremlin.sap (replaced player with correct "Rzog-type" bass table)
