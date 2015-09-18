@@ -17,9 +17,9 @@
                                   Version 3.7
 
                            Started on August 4, 1999
-                       Last updated on December 30, 2013
+                       Last updated on September 18, 2015
 
-                     Total number of songs: 5016 (400 new)
+                     Total number of songs: 5282 (271 new)
 
 
  Introduction
@@ -32,13 +32,13 @@
 
  Statistics
  ~~~~~~~~~~
- Number of songs:           5016 (6603 including subsongs)
- Compared to HVSC:          11.2 % (HVSC r60 contains 44670 songs)
- Disk space ocupied:        27997429 bytes (excluding documents and playlist)
- Average SAP filesize:      5582 bytes
+ Number of songs:           5282 (6997 including subsongs)
+ Compared to HVSC:          11.3 % (HVSC r66 contains 46851 songs)
+ Disk space ocupied:        29393449 bytes (excluding documents and playlist)
+ Average SAP filesize:      5565 bytes
  Total playtime:            8 days 7 hours 05 minutes 33 seconds
- Files with subsongs:       493
- Songs in stereo:           512
+ Files with subsongs:       531
+ Songs in stereo:           562
  Songs with unknown author: 540
  Number of musicians:       227
  Most active musician:      Michal Szpilowski (Miker)  (206 songs + 5
@@ -47,26 +47,26 @@
  Smallest SAP file:         Self_Test.sap       (172 bytes)
 
  Files with subsongs:
-  2 subsongs: 169 files
-  3 subsongs: 105 files
-  4 subsongs:  75 files
-  5 subsongs:  60 files
-  6 subsongs:  25 files
-  7 subsongs:  10 files
-  8 subsongs:  13 files
+  2 subsongs: 182 files
+  3 subsongs: 112 files
+  4 subsongs:  81 files
+  5 subsongs:  65 files
+  6 subsongs:  26 files
+  7 subsongs:  11 files
+  8 subsongs:  14 files
   9 subsongs:   7 files
- 10 subsongs:   6 files
+ 10 subsongs:   8 files
  11 subsongs:   5 files
  12 subsongs:   4 files
  13 subsongs:   1 file
- 14 subsongs:   2 files
- 15 subsongs:   3 files
+ 14 subsongs:   3 files
+ 15 subsongs:   4 files
  16 subsongs:   1 file
  18 subsongs:   1 file
  20 subsongs:   2 files
  21 subsongs:   1 file
  32 subsongs:   3 files
- Total: 1587 extra subsongs
+ Total: 1715 extra subsongs
 
 
  Help!
