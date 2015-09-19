@@ -1,3 +1,2 @@
 Composers/Eisenhammer_Zdenek/Deus_Ex_Machina.sap - strange noise after song end (?)
 Composers/Krasuski_Jaroslaw/Mojamuz.sap - duplicate of Composers/Kuczek_Ireneusz/Moja_Muzyka.sap
-Games/Schreckenstein.sap - invalid BRK instruction
