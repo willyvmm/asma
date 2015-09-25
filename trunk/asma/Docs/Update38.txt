@@ -1,13 +1,13 @@
 ASMA Update #38
-Date: Sep 18, 2015
+Date: Sep 29, 2015
 
 These rips together with the original ASMA collection will make version 3.8
 of the ASMA (out of version 3.7).
 
-Number of new tunes: 271
+Number of new tunes: 273
 Credits fixes: 163
-Better/bugfixed rips: 11
-Removed files: 5
+Better/bugfixed rips: 12
+Removed files: 8
 
 Removed files
 -------------
@@ -15,7 +15,10 @@ Composers/Ce_Pumpkin/Life2Back_Credits.sap (now included in a single file Life_2
 Composers/Ce_Pumpkin/Life2Back_Main_Part.sap (now included in a single file Life_2_Back.sap)
 Composers/Kidaj_Andrzej/D18.sap (had only first song from 3-songs' MTV.sap)
 Composers/Kidaj_Andrzej/Logoman.sap (worse version)
+Composers/Krasuski_Jaroslaw/Mojamuz.sap (same as Composers/Kuczek_Ireneusz/Moja_Muzyka.sap)
+Games/Landscape.sap (duplicate of Games/Stealth.sap)
 Games/Speed_Puzzle.sap (its sole 2 songs exist separately in ASMA already)
+Unknown/Preppie.sap (duplicate of Games/Preppie.sap, with missing subsongs and no NTSC tag)
 
 New tunes
 ---------
@@ -198,6 +201,7 @@ Composers/Swierszcz_Piotr/Strayball.sap
 Composers/Szerniewicz_Robert/Biedny_Pies_Antoni_II.sap
 Composers/Szerniewicz_Robert/CGS_Xmas_2014_Atari_Card.sap
 Composers/Szerniewicz_Robert/Sub_Chase_Menu_Theme.sap
+Composers/Szpilowski_Michal/100lat_na_Xlecie_Glucholaz.sap
 Composers/Szpilowski_Michal/2048.sap
 Composers/Szpilowski_Michal/Bajtek_Show_2.sap
 Composers/Szpilowski_Michal/Easter_Chickens.sap
@@ -232,7 +236,6 @@ Composers/Voss_Roland/Sky_Full_of_Fanta.sap
 Composers/Voss_Roland/Space_Panda_Disco.sap
 Composers/Voss_Roland/Tease_the_Space_Pandas.sap
 Composers/Voss_Roland/Tentacles.sap
-Composers/Walters_Sean/Sloppyjones.sap
 Composers/Walters_Sean/Sloppyjones_Fuck_the_Cold.sap
 Composers/Walters_Sean/Undocumented_Official_Opco.sap
 Composers/Wasilewski_Dariusz/CT460.sap
@@ -257,6 +260,7 @@ Misc/Be_Strong.sap
 Misc/Beyond_the_Stars.sap
 Misc/Breaka_Railway.sap
 Misc/Dave_Ts_Disco.sap
+Misc/Glucholazy_2015_Demo.sap
 Misc/HeartWare.sap
 Misc/How_Deep_Is_Your_Love.sap
 Misc/Incantation.sap
@@ -284,6 +288,7 @@ Unknown/Dracon1.sap
 Unknown/Lambada.sap
 Unknown/LSD.sap
 Unknown/Mendel.sap
+Unknown/RTypeboss.sap
 Unknown/Schock.sap
 Unknown/Sokoban_1.sap
 Unknown/Sokoban_2.sap
@@ -467,6 +472,7 @@ Composers/Grayscale/Sychowicz_Lukasz/Stickman.sap (new rip)
 Composers/Mister_Beep/1_bit_Synthetic_II.sap (sap of proper rip replaces doubled sap)
 Composers/Pesout_Marek/Old_Gremlin.sap (replaced player with correct "Rzog-type" bass table)
 Games/Diamonds.sap (fixed)
-Games/Murkomania.sap (fix one byte of data song for proper replay)
+Games/Murkomania.sap (fixed one byte of data song for proper replay)
+Games/Schreckenstein.sap (fixed invalid BRK instruction)
 Misc/Do_You_See_the_Light.sap (proper rip with samples)
 Unknown/Harold_II_Crack_Music.sap > Crackmusic_Herbert_II.sap (better rip, fixed name)
