@@ -2,7 +2,7 @@
 #
 #  STIL v3.8 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1643
+#  Total number of entries: 1642
 #
 ##############################################################################
 #
@@ -2422,11 +2422,6 @@ COMMENT: Sadly, Jaroslaw Krasuski (Jaras) passed away in 2007, at the age
 /Composers/Krasuski_Jaroslaw/Mario.sap
   TITLE: Overworld BGM [from the NES game Super Mario Bros.]
  ARTIST: Koji Kondo
-
-/Composers/Krasuski_Jaroslaw/Mojamuz.sap
-  TITLE: Taka Piosenka
- ARTIST: Karol Płudowski
-COMMENT: This covers the version "Moja Muzyka" by Bayer Full.
 
 /Composers/Krasuski_Jaroslaw/MULE.sap
   TITLE: M.U.L.E., Tune #1 [from the Atari/C64 game]
