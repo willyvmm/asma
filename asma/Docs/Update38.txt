@@ -5,8 +5,8 @@ These rips together with the original ASMA collection will make version 3.8
 of the ASMA (out of version 3.7).
 
 Number of new tunes: 273
-Credits fixes: 163
-Better/bugfixed rips: 12
+Credits fixes: 172
+Better/bugfixed rips: 13
 Removed files: 8
 
 Removed files
@@ -67,6 +67,7 @@ Composers/Derkach_Andrey/Star.sap
 Composers/Derkach_Andrey/Triton.sap
 Composers/Derkach_Andrey/Vechera.sap
 Composers/Derkach_Andrey/Zybex.sap
+Composers/Dramczyk_Bartlomiej/RTypeBoss.sap
 Composers/Dramczyk_Bartlomiej/Selftest_Terror.sap
 Composers/Dramczyk_Bartlomiej/SWAY.sap
 Composers/Dramczyk_Bartlomiej/What_You_do_it_NOW.sap
@@ -288,7 +289,6 @@ Unknown/Dracon1.sap
 Unknown/Lambada.sap
 Unknown/LSD.sap
 Unknown/Mendel.sap
-Unknown/RTypeboss.sap
 Unknown/Schock.sap
 Unknown/Sokoban_1.sap
 Unknown/Sokoban_2.sap
@@ -298,6 +298,13 @@ Unknown/Wonder_2.sap
 
 Credits fixes (includes filename or location changes)
 ------------------------------------------------------
+Composers/CEvE-Soft/World_of_Wonders_Against_C.sap > Composers/Ebner_Christoph_von_Eschen/
+Composers/CEvE-Soft/World_of_Wonders_Amiga_Meg.sap > Composers/Ebner_Christoph_von_Eschen/
+Composers/CEvE-Soft/World_of_Wonders_Anti_Comm.sap > Composers/Ebner_Christoph_von_Eschen/
+Composers/CEvE-Soft/World_of_Wonders_Atari_Fev.sap > Composers/Ebner_Christoph_von_Eschen/
+Composers/CEvE-Soft/World_of_Wonders_Fantasy.sap > Composers/Ebner_Christoph_von_Eschen/
+Composers/CEvE-Soft/World_of_Wonders_Goldrunne.sap > Composers/Ebner_Christoph_von_Eschen/
+Composers/CEvE-Soft/World_of_Wonders_Katakis.sap > Composers/Ebner_Christoph_von_Eschen/
 Composers/Coleman_Steve/Ninja.sap :NTSC
 Composers/Coleman_Steve/Pharaohs_Curse.sap :NTSC
 Composers/Crockford_Douglas/BallSong_1.sap : NTSC
@@ -456,10 +463,12 @@ Games/Zeppelin.sap : NTSC
 Games/Zombies.sap : NTSC
 Misc/Lotus_II_Title.sap > Composers/Patschke_Ralf/
 Misc/Relax_Kaleidoscope.sap > Composers/Williams_Bill/Relax.sap : AUTHOR "Bill Williams <?>" NAME "Relax"
+Misc/Roza.sap > Games/BR_032_Constellation.sap : "NAME "BR-032 Constellation"
 Misc/Surprise.sap > Composers/Bendyk_Piotr/
 Misc/Surprise_2.sap > Composers/Bendyk_Piotr/
 Misc/Tritona_Explodarium.sap > Composers/Pettersen_Njaal/Tritona_Explodarium.sap
 Unknown/906090.sap > Composers/Pasek_Marek/90_60_90.sap : AUTHOR "Marek Pasek" : NAME "90-60-90" : DATE "1993"
+Unknown/Bach_Mix.sap > Mozart_Mix.sap : NAME "Mozart Mix <?>"
 Unknown/Hotline_Intro.sap > Composers/Spielmans_Martin/Honky_Tonky.sap : AUTHOR "Martin Spielmans (Spueli-Soft)" :NAME "Honky Tonky"
 
 Better/bugfixed rips
@@ -472,6 +481,7 @@ Composers/Grayscale/Sychowicz_Lukasz/Stickman.sap (new rip)
 Composers/Mister_Beep/1_bit_Synthetic_II.sap (sap of proper rip replaces doubled sap)
 Composers/Pesout_Marek/Old_Gremlin.sap (replaced player with correct "Rzog-type" bass table)
 Games/Diamonds.sap (fixed)
+Games/Masters_of_Time.sap (fixed NTSC incompatibility)
 Games/Murkomania.sap (fixed one byte of data song for proper replay)
 Games/Schreckenstein.sap (fixed invalid BRK instruction)
 Misc/Do_You_See_the_Light.sap (proper rip with samples)

@@ -1,4 +1,4 @@
-Known Atari composers and handles                                 Dec 20 2013
+Known Atari composers and handles                                 Sep 19 2015
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This list contains only composers who have at least 3 songs in ASMA
 collection. The composers are sorted in ABC order according to their surnames
@@ -23,8 +23,8 @@ Sweden - 1
 Ukraine - 1
 United Kingdom - 9
 United Kingdom (England) - 3
-USA - 17
-Unknown - 13
+USA - 19
+Unknown - 14
 
 <?> - Anal-lysator - Poland
 <?> - Anti-Cheat - USA
@@ -84,8 +84,8 @@ Dudek, Krzysztof - Xxl - Poland
 Duesterhoeft, Christian - Buddy - Germany
 Duesterhoeft, Stephan - Benjy - Germany
 Duma, Dariusz - Dhor - Poland
+Ebner, Christoph von Eschenbach - CEvE-Soft - Germany
 Eisenhammer, Zdenek - PG, PseudoGrafx - Czech Republic
-Eschenbach, von Christoph Ebner - CEvE-Soft - Germany
 Esquivel, Sal - Kjmann - USA
 Ezcan, Kemal - KE-SOFT - Germany
 Falton, Peter - France
@@ -122,8 +122,8 @@ Iwaszko, Krystian - Pinokio, Pin - Poland
 Jaakkola, Juha - Warlord - Finland
 Jacob, Uwe - Modi-Soft - Germany
 Jastrzemski, Marcin - Fatman - Poland
-Johnston, Stephen - Fearofdark - United Kingdom (?)
 Johnson, Steve - (?)
+Johnston, Stephen - Fearofdark - United Kingdom (?)
 Kalinowski, Bartosz - Bartman - Poland
 Karpowicz, Henryk - Poland
 Karwacki, Jakub - Yezus - Poland
@@ -189,7 +189,7 @@ Patschke, Ralf - PP's - Germany
 Pelc, Janusz - Poland
 Pesout, Marek - Poison - Czech Republic
 Petrik, Alan - Factor6 - Czech Republic
-Petruzela, Tomas - Centy Brown - Czech Republic (?)
+Petruzela, Tomas - Centy Brown - Czech Republic
 Pettersen, Njaal - MovieMovies1 - Norway
 Pieczko, Szymon - Sim Piko - Poland
 Piscol, Juergen - Germany
