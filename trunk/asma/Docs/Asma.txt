@@ -34,13 +34,13 @@
  ~~~~~~~~~~
  Number of songs:           5281 (6996 including subsongs)
  Compared to HVSC:          11.3 % (HVSC r66 contains 46851 songs)
- Disk space ocupied:        29387480 bytes (excluding documents and playlist)
+ Disk space ocupied:        29387482 bytes (excluding documents and playlist)
  Average SAP filesize:      5565 bytes
- Total playtime:            8 days 15 hours 22 minutes 8 seconds
+ Total playtime:            8 days 15 hours 22 minutes 15 seconds
  Files with subsongs:       530
  Songs in stereo:           562
- Songs with unknown author: 540
- Number of musicians:       227
+ Songs with unknown author: 555
+ Number of musicians:       240
  Most active musician:      Michal Szpilowski (Miker) (222 songs + 5
                             cooperations)
  Largest SAP file:          Garfield_Part_2.sap (61559 bytes)

@@ -2,7 +2,7 @@
 #
 #  STIL v3.8 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1642
+#  Total number of entries: 1635
 #
 ##############################################################################
 #
@@ -409,37 +409,6 @@ COMMENT: Lato Ludzików 2002 music compo entry. Its full name is Skisłodrom.
  ARTIST: Gershon Kingsley
 COMMENT: Cover of original ZX Spectrum version of "Whole" soundtrack.
 
-### /Composers/CEvE-Soft #####################################################
-
-/Composers/CEvE-Soft/World_of_Wonders_Against_C.sap
-  TITLE: The Hootchy Kootchy Dance
- ARTIST: Sol Bloom
-
-/Composers/CEvE-Soft/World_of_Wonders_Amiga_Meg.sap
-  TITLE: Heart [from Actually](0:00-0:14)
- ARTIST: Pet Shop Boys
-  TITLE: Nodisco (0:15-0:30)
- ARTIST: Depeche Mode
-  TITLE: Gimme Gimme Gimme (A Man After Midnight) [from Voulez Vous](1:32-1:47)
- ARTIST: ABBA
-  TITLE: Oh L'amour [from Wonderland](2:03-2:18)
- ARTIST: Erasure
-  TITLE: Just Can't Get Enough [from Speak & Spell](2:49-3:04)
- ARTIST: Depeche Mode
-  TITLE: Photographic [from Speak & Spell](3:20-4:17)
- ARTIST: Depeche Mode
-  TITLE: Gimme Gimme Gimme (A Man After Midnight) [from Voulez Vous](5:38-5:53)
- ARTIST: ABBA
-  TITLE: Axel F [from the movie Beverly Hills Cop](6:09-6:25)
- ARTIST: Harold Faltermeyer
-COMMENT: Possibly a conversion attempt of the Amiga SoundTracker module
-         "Papermix" by Enno & FDT.
-
-/Composers/CEvE-Soft/World_of_Wonders_Goldrunne.sap
-  TITLE: Human Race, Tune #4 [from the C64 game]
- ARTIST: Rob Hubbard
-COMMENT: Also used in "GoldRunner" on the Atari ST.
-
 ### /Composers/Chamberlain_Craig #############################################
 
 /Composers/Chamberlain_Craig/Happy_Birthday_Song.sap
@@ -714,6 +683,37 @@ COMMENT: Popular folk song. Since 1971 the "Summer with Radio" broadcast
 
 /Composers/Duma_Dariusz/Nonsense_Song.sap
 COMMENT: 5th place at Forever Reneg8 music compo.
+
+### /Composers/Ebner_Christoph_von_Eschen ####################################
+
+/Composers/Ebner_Christoph_von_Eschen/World_of_Wonders_Against_C.sap
+  TITLE: The Hootchy Kootchy Dance
+ ARTIST: Sol Bloom
+
+/Composers/Ebner_Christoph_von_Eschen/World_of_Wonders_Amiga_Meg.sap
+  TITLE: Heart [from Actually](0:00-0:14)
+ ARTIST: Pet Shop Boys
+  TITLE: Nodisco (0:15-0:30)
+ ARTIST: Depeche Mode
+  TITLE: Gimme Gimme Gimme (A Man After Midnight) [from Voulez Vous](1:32-1:47)
+ ARTIST: ABBA
+  TITLE: Oh L'amour [from Wonderland](2:03-2:18)
+ ARTIST: Erasure
+  TITLE: Just Can't Get Enough [from Speak & Spell](2:49-3:04)
+ ARTIST: Depeche Mode
+  TITLE: Photographic [from Speak & Spell](3:20-4:17)
+ ARTIST: Depeche Mode
+  TITLE: Gimme Gimme Gimme (A Man After Midnight) [from Voulez Vous](5:38-5:53)
+ ARTIST: ABBA
+  TITLE: Axel F [from the movie Beverly Hills Cop](6:09-6:25)
+ ARTIST: Harold Faltermeyer
+COMMENT: Possibly a conversion attempt of the Amiga SoundTracker module
+         "Papermix" by Enno & FDT.
+
+/Composers/Ebner_Christoph_von_Eschen/World_of_Wonders_Goldrunne.sap
+  TITLE: Human Race, Tune #4 [from the C64 game]
+ ARTIST: Rob Hubbard
+COMMENT: Also used in "GoldRunner" on the Atari ST.
 
 ### /Composers/Eisenhammer_Zdenek ############################################
 
@@ -5663,6 +5663,11 @@ COMMENT: A Christmas song also known as "Silent Night".
   TITLE: Overture [from The Nutcracker]
  ARTIST: Pyotr Ilyich Tchaikovsky
 
+/Games/BR_032_Constellation.sap
+  TITLE: Róża i bez [from the movie Jak rozpętałem II wojnę światową] (0:23)
+ ARTIST: Jerzy Matuszkiewicz (music), Andrzej Czekalski (lyrics), performed by Andrzej Żarnecki.
+COMMENT: Music from the game 'BR-032 Constellation' released by L.K. Avalon in 1992.
+
 /Games/Bruce_Lee.sap
   TITLE: Bruce Lee, Tune #1 [from the C64 game]
  ARTIST: John A.Fitzpatrick
@@ -6191,11 +6196,6 @@ COMMENT: Lato Ludzików 2000 music compo entry.
   TITLE: Rhapsody in Blue
  ARTIST: George Gershwin
 
-/Misc/Roza.sap
-  TITLE: Róża i bez [from the movie Jak rozpętałem II wojnę światową](0:23)
- ARTIST: Jerzy Matuszkiewicz (music), Andrzej Czekalski (lyrics), performed by Andrzej Żarnecki.
-COMMENT: Music from the game 'BR-032 Constellation' released by L.K. Avalon in 1992.
-
 /Misc/Sap_Trap.sap
 COMMENT: 4th place at Winter Chip II (Best Pokey) music compo.
 
@@ -6273,12 +6273,6 @@ COMMENT: This song is converted from a C64 production made by Censor Design.
 /Unknown/Bach.sap
   TITLE: Flute Duet: Invention #01
  ARTIST: Johann Sebastian Bach
-
-/Unknown/Bach_Mix.sap
-  TITLE: Rondo alla turca [from Piano Sonata No.11 A major KV 331](0:07)
- ARTIST: Wolfgang Amadeus Mozart
-COMMENT: A Turkish march or marcia alla turca is a march
-         written by a classical composer in the Turkish styl.
 
 /Unknown/Bee.sap
   TITLE: Flight of the Bumblebee [from opera The Tale of Tsar Saltan]
@@ -6371,6 +6365,12 @@ COMMENT: Present also in "Fortress Underground" game, no author credited.
 /Unknown/Mendel.sap
   TITLE: Wedding March [from A Midsummer Night's Dream]
  ARTIST: Felix Mendelssohn Bartholdy
+
+/Unknown/Mozart_Mix.sap
+  TITLE: Rondo alla turca [from Piano Sonata No.11 A major KV 331] (0:07)
+ ARTIST: Wolfgang Amadeus Mozart
+COMMENT: A Turkish march or marcia alla turca is a march
+         written by a classical composer in the Turkish style.
 
 /Unknown/Music2.sap
   TITLE: El Condor Pasa
