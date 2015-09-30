@@ -724,7 +724,7 @@ COMMENT: PG is abbreviation of PseudoGrafx.
   TITLE: Hymn to Aurora [from the Amiga MOD module]
  ARTIST: Horace Wimp
 
-/Composers/Eisenhammer_Zdenek/Comic_Bakery.sap
+/Composers/Eisenhammer_Zdenek/Comic_Squares.sap
   TITLE: Comic Bakery, Tune #1 [from the C64 game]
  ARTIST: Martin Galway
 
