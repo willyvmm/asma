@@ -1,0 +1,2 @@
+Composers/Eisenhammer_Zdenek/Deus_Ex_Machina.sap - strange noise after song end (?)
+Games/N_Y_C.sap - does not play from start
