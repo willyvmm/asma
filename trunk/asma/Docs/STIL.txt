@@ -3373,6 +3373,12 @@ COMMENT: Best known from as the title theme to the comedy TV series "The Benny
 /Composers/Nedved_Vojtech/Aoki.sap
 COMMENT: 5th place at Forever 9 music compo.
 
+### /Composers/Nieber_Christian ##############################################
+
+/Composers/Nieber_Christian/Over_the_Rainbow.sap
+  TITLE: Over The Rainbow [from the movie The Wizard of Oz]
+ ARTIST: Harold Arlen (music), E.Y.Harburg (lyrics), performed by Judy Garland
+
 ### /Composers/Niestegge_Stefan ##############################################
 
 /Composers/Niestegge_Stefan/Aggressive.sap
@@ -6113,6 +6119,10 @@ COMMENT: Forever 2e3 music compo entry.
   TITLE: Do You See The Light (Looking For)
  ARTIST: Snap!
 
+/Misc/Dom_w_Dolinie_Mgiel.sap
+  TITLE: Dom w dolinie mgiel [from E=mc2]
+ ARTIST: Marek Biliński
+
 /Misc/Dyer_Maker.sap
   TITLE: D'yer Mak'er [from Houses of the Holy]
  ARTIST: Led Zeppelin
@@ -6164,10 +6174,6 @@ COMMENT: Also known as Nyan Cat Song, one of the most famous internet memes.
  ARTIST: Jerzy Matuszkiewicz
   TITLE: Main Title [from the TV series Janosik](1:09-1:33)
  ARTIST: Jerzy Matuszkiewicz
-
-/Misc/Over_the_Rainbow.sap
-  TITLE: Over The Rainbow [from the movie The Wizard of Oz]
- ARTIST: Harold Arlen (music), E.Y.Harburg (lyrics), performed by Judy Garland
 
 /Misc/Pizza_Margerita_Suxx.sap
 COMMENT: Lato Ludzików 2000 music compo entry.
@@ -6293,10 +6299,6 @@ COMMENT: This song is converted from a C64 production made by Censor Design.
 /Unknown/Dla_Elizy.sap
   TITLE: Für Elise
  ARTIST: Ludwig van Beethoven
-
-/Unknown/Dom_w_Dolinie_Mgiel.sap
-  TITLE: Dom w dolinie mgiel [from E=mc2]
- ARTIST: Marek Biliński
 
 /Unknown/Fable.sap
   TITLE: Fable [from Dreamland]
