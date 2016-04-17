@@ -2,7 +2,7 @@ Known Atari composers and handles                                 Sep 19 2015
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This list contains only composers who have at least 3 songs in ASMA
 collection. The composers are sorted in ABC order according to their surnames
-(if known, otherwise by their handles). There are 242 composers in this list.
+(if known, otherwise by their handles). There are 246 composers in this list.
 
 Argentina - 1
 Canada - 1
@@ -10,13 +10,13 @@ Chile - 2
 Czech Republic - 13
 Finland - 1
 France - 2
-Germany - 32
+Germany - 33
 Hungary - 1
 Mexico - 1
-Netherlands - 4
+Netherlands - 5
 Norway - 1
 Peru - 1
-Poland - 123
+Poland - 125
 Romania - 1
 Slovakia - 8
 Sweden - 1
@@ -33,6 +33,7 @@ Unknown - 15
 <?> - Claas Clever - Germany
 <?> - Czlowiek W Atomizerze - Poland
 <?> - Irrlicht Project - Germany
+<?> - Makary Brauner - Poland
 <?> - Mega9man - Romania
 <?> - Mister Beep - Poland
 <?> - MusicMarius - Netherlands
@@ -122,11 +123,12 @@ Husak, Jakub - Poland
 Iwaszko, Krystian - Pinokio, Pin - Poland
 Jaakkola, Juha - Warlord - Finland
 Jacob, Uwe - Modi-Soft - Germany
-Janov, Oleksandr - Ukraine
+Janov, Oleksandr -  Alex Janov - Ukraine
 Jastrzemski, Marcin - Fatman - Poland
 Johnson, Steve - (?)
 Johnston, Stephen - Fearofdark - United Kingdom (?)
 Kalinowski, Bartosz - Bartman - Poland
+Kalinowski, Pawel - Pirx - Poland
 Karpowicz, Henryk - Poland
 Karwacki, Jakub - Yezus - Poland
 Karwoth, Torsten - Germany
@@ -160,6 +162,7 @@ Luberda, Michal - Poland
 Lusth, John W. - (?)
 Luszcz, Tomasz - Poland
 Maderanek, Peter - Baron Semedy - Slovakia
+Mahn, Jan - Germany
 Majchrzak, Marcin - Soldier, Major - Poland
 Majewski, Jerzy - Zur-soft 2/2 - Poland
 Majewski, Tomasz - Mayonez - Poland
@@ -199,6 +202,7 @@ Podedworny, Wojtek - Ferro - Poland
 Polak, Krzysztof - Poland
 Poorten, Ivo van - The Gatekeeper - Netherlands
 Portelli, Jim - (?)
+Pos, Bernhard - Analmux, ANALogue MUltipleXer - Netherlands
 Potter, Mike - USA
 Przybyszewski, Krzysztof - BLB, Bloody Butcher - Poland
 Pucinski, Rafal - Dex - Poland
