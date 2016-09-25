@@ -465,22 +465,22 @@ COMMENT: Music starts at 0:03.
 /Composers/Cierkonski_Michal/Yo.sap
 COMMENT: 21th place at QuaST party 1996 music compo.
 
-### /Composers/Cieslewicz_Tomasz #############################################
+### /Composers/Cieslewicz_Tomasz_and_Dombek_K ################################
 
-/Composers/Cieslewicz_Tomasz/Dom.sap
+/Composers/Cieslewicz_Tomasz_and_Dombek_K/Dom.sap
 (#1)
   TITLE: Dom w dolinie mgieł [from E=mc2]
  ARTIST: Marek Biliński
 
-/Composers/Cieslewicz_Tomasz/Koziol.sap
+/Composers/Cieslewicz_Tomasz_and_Dombek_K/Koziol.sap
   TITLE: Koziołek Matołek [from a cartoon series]
  ARTIST: Adam Markiewicz
 
-/Composers/Cieslewicz_Tomasz/Roxette.sap
+/Composers/Cieslewicz_Tomasz_and_Dombek_K/Roxette.sap
   TITLE: Listen to Your Heart [from Look Sharp!]
  ARTIST: Roxette
 
-/Composers/Cieslewicz_Tomasz/Roxette_2.sap
+/Composers/Cieslewicz_Tomasz_and_Dombek_K/Roxette_2.sap
   TITLE: The Look [from Look Sharp!]
  ARTIST: Roxette
 
@@ -567,7 +567,7 @@ COMMENT: Music from the game 'Grunwald 1410' released by L.K. Firebird in 1995.
 
 ### /Composers/Diaz_Esteban ##################################################
 
-/Composers/Diaz_Esteban/CWKND.sap
+/Composers/Diaz_Esteban/Computer_Weekend.sap
   TITLE: Computer Weekend [from Revolutions]
  ARTIST: Jean Michel Jarre
 
