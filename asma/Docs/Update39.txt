@@ -4,8 +4,8 @@ Date: XXX XX, 201X
 These rips together with the original ASMA collection will make version 3.9
 of the ASMA (out of version 3.8).
 
-Number of new tunes: 4
-Credits fixes: 9
+Number of new tunes: 9
+Credits fixes: 5
 Better/bugfixed rips: 0
 Removed files: 0
 
@@ -26,10 +26,12 @@ Misc/IronMan.sap
 
 Credits fixes (includes filename or location changes)
 ------------------------------------------------------
+Composers/Diaz_Esteban/CWKND.sap > Computer_Weekend.sap : NAME "Computer Weekend"
 Composers/Eisenhammer_Zdenek/Comic_Bakery.sap > Comic_Squares.sap : NAME "Comic Squares"
 Composers/Hay_Adam/Lunar_Blitz.sap : NAME "Lunar Blitz" AUTHOR "Adam Hay (Sack)"
 Composers/Voss_Roland/Back_to_the_Northern_Light.sap : NAME "Back to the Northern Lights" AUTHOR "Roland Voss (Triace)"
 Composers/Rogers_Charles/Its_the_Future.sap > It_s_the_Future_and_Waffle.sap : NAME "It's the Future And Waffles Are Illegal" AUTHOR "Charles Rogers (Chip Champion)"
+
 
 Better/bugfixed rips
 --------------------
