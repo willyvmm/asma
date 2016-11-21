@@ -16,7 +16,7 @@ Mexico - 1
 Netherlands - 5
 Norway - 1
 Peru - 1
-Poland - 125
+Poland - 126
 Romania - 1
 Slovakia - 8
 Sweden - 1
@@ -24,7 +24,7 @@ Ukraine - 2
 United Kingdom - 10
 United Kingdom (England) - 3
 USA - 19
-Unknown - 16
+Unknown - 15
 
 <?> - Anal-lysator - Poland
 <?> - Anti-Cheat - USA
@@ -36,7 +36,7 @@ Unknown - 16
 <?> - Makary Brauner - Poland
 <?> - Mega9man - Romania
 <?> - Mister Beep - Poland
-<?> - MotionRide - (?)
+<?> - MotionRide - Poland
 <?> - MusicMarius - Netherlands
 <?> - null1024 - Canada
 <?> - Panopticum - Poland

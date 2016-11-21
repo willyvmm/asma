@@ -2,7 +2,7 @@
 #
 #  STIL v3.8 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1635
+#  Total number of entries: 1637
 #
 ##############################################################################
 #
@@ -70,6 +70,9 @@ COMMENT: 10th place at Shadows Party 1994 music compo.
 COMMENT: Last Party 1998 music compo entry.
 
 ### /Composers/Bendyk_Piotr ##################################################
+
+/Composers/Bendyk_Piotr/Fifth_Generation.sap
+COMMENT: 2nd place at Silly Venture 2016 music compo.
 
 /Composers/Bendyk_Piotr/Third.sap
 COMMENT: 1st place at Silly Venture 2014 music compo.
@@ -3305,6 +3308,12 @@ COMMENT: Music from the game 'Magia' released by Mirage in 1993.
 
 /Composers/Mikolajczak_Pawel/Zbir.sap
 COMMENT: Music from the game 'Zbir' released by Mirage in 1993.
+
+### /Composers/MotionRide ####################################################
+
+/Composers/MotionRide/Monday.sap
+  TITLE: Monday [from the Amiga MOD module]
+ ARTIST: Edvin Fladen (Random Voice)
 
 ### /Composers/Mrozowski_Robert ##############################################
 
