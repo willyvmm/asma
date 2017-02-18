@@ -1,8 +1,8 @@
 ﻿##############################################################################
 #
-#  STIL v3.8 - SAP Tune Information List
+#  STIL v3.9 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1637
+#  Total number of entries: 1642
 #
 ##############################################################################
 #
@@ -791,6 +791,9 @@ COMMENT: Covers a version made by Martin Nordell (Makrone) on the Amiga.
   TITLE: Jozin z bazin [from Nashledanou]
  ARTIST: Ivan Mladek (music), performed by Banjo Band
 
+/Composers/Eisenhammer_Zdenek/Just_Be_Happy.sap
+COMMENT: 4th place at Forever 14 music compo.
+
 /Composers/Eisenhammer_Zdenek/Kaviar.sap
   TITLE: Kaviar [from the Amiga MOD module]
  ARTIST: Erno Zalka (Ern0)
@@ -807,6 +810,9 @@ COMMENT: Covers a version made by Martin Nordell (Makrone) on the Amiga.
   TITLE: Zoolrave [from the Amiga game Zool]
  ARTIST: Patrick Phelan
 
+/Composers/Eisenhammer_Zdenek/Maze_Rush.sap
+COMMENT: 3rd place at Forever 13 music compo.
+
 /Composers/Eisenhammer_Zdenek/Mind_Blast_Ingame.sap
   TITLE: Stardust Memories [from the Amiga MOD module]
  ARTIST: Volker Tripp (Jester)
@@ -822,6 +828,9 @@ COMMENT: Covers a version made by Martin Nordell (Makrone) on the Amiga.
 /Composers/Eisenhammer_Zdenek/Phase_08.sap
 COMMENT: 2nd place at Forever 11 music compo.
 
+/Composers/Eisenhammer_Zdenek/POKEY_Forever.sap
+COMMENT: 2nd place at Forever 15 music compo.
+
 /Composers/Eisenhammer_Zdenek/Quest_for_Elvis.sap
   TITLE: Living Next Door to Alice
  ARTIST: New World
@@ -832,6 +841,9 @@ COMMENT: Covers the version arranged by Smokie
  ARTIST: Jakob Svanholm (Radix)
   TITLE: One Horse Open Sleigh (0:00-0:08)
  ARTIST: James Lord Pierpont
+
+/Composers/Eisenhammer_Zdenek/Rain_Bliss.sap
+COMMENT: 2nd place at Forever 17 music compo.
 
 /Composers/Eisenhammer_Zdenek/Rolltris_Game.sap
   TITLE: beyond music [from the Amiga MOD module]
@@ -865,6 +877,9 @@ COMMENT: Covers the version arranged by Smokie
 /Composers/Eisenhammer_Zdenek/Swapz_Title.sap
   TITLE: Brainless 3 [from the Amiga MOD module]
  ARTIST: Jakob Svanholm (Radix)
+
+/Composers/Eisenhammer_Zdenek/Ten_Minutes_To_Deadline.sap
+COMMENT: 4th place at Forever 16 music compo.
 
 /Composers/Eisenhammer_Zdenek/Turrican_2_Freedom.sap
   TITLE: Freedom [from the Amiga game Turrican II]
