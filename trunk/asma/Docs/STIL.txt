@@ -1338,6 +1338,17 @@ COMMENT: Cover version Those Were the Days, performed by Mary Hopkin.
   TITLE: Downtown
  ARTIST: Tony Hatch (music), performed by Petula Clark
 
+### /Composers/Fusik_Piotr ###################################################
+
+/Composers/Fusik_Piotr/Falcon.sap
+COMMENT: 8th place at Silly Venture 2016 music compo.
+
+/Composers/Fusik_Piotr/Future.sap
+COMMENT: 3rd place at Forever 17 music compo.
+
+/Composers/Fusik_Piotr/New.sap
+COMMENT: 6th place at Forever 18 music compo.
+
 ### /Composers/Galinski_Adrian ###############################################
 
 /Composers/Galinski_Adrian/
