@@ -4,7 +4,7 @@ Date: XXX XX, 201X
 These rips together with the original ASMA collection will make version 3.9
 of the ASMA (out of version 3.8).
 
-Number of new tunes: 10
+Number of new tunes: 12
 Credits fixes: 5
 Better/bugfixed rips: 1
 Removed files: 0
@@ -23,6 +23,8 @@ Composers/Eisenhammer_Zdenek/Rockford_at_the_Olympic_Ga.sap
 Composers/Eisenhammer_Zdenek/Rolling_Stars.sap
 Composers/Eisenhammer_Zdenek/Thetris_Ingame.sap
 Composers/Eisenhammer_Zdenek/Thetris_Title.sap
+Composers/Sporka_Adam/Dutch_Tune_a_k_a_For_Ember.sap
+Composers/Sporka_Adam/Story_Of_Three_Medium_Size.sap
 Misc/IronMan.sap
 
 Credits fixes (includes filename or location changes)
