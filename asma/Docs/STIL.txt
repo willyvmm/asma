@@ -2,7 +2,7 @@
 #
 #  STIL v3.9 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1642
+#  Total number of entries: 1643
 #
 ##############################################################################
 #
@@ -726,6 +726,11 @@ COMMENT: PG is abbreviation of PseudoGrafx.
 /Composers/Eisenhammer_Zdenek/Aurora_rev_2.sap
   TITLE: Hymn to Aurora [from the Amiga MOD module]
  ARTIST: Horace Wimp
+
+/Composers/Eisenhammer_Zdenek/Blue_Sky_Action.sap
+  TITLE: Blue Sky Action
+ ARTIST: Above & Beyond [from We Are All We Need]
+COMMENT: 2nd place at Forever 18 music compo.
 
 /Composers/Eisenhammer_Zdenek/Comic_Squares.sap
   TITLE: Comic Bakery, Tune #1 [from the C64 game]
