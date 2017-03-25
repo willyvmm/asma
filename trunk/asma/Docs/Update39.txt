@@ -4,7 +4,7 @@ Date: XXX XX, 201X
 These rips together with the original ASMA collection will make version 3.9
 of the ASMA (out of version 3.8).
 
-Number of new tunes: 12
+Number of new tunes: 13
 Credits fixes: 5
 Better/bugfixed rips: 1
 Removed files: 0
@@ -15,6 +15,7 @@ Removed files
 New tunes
 ---------
 Composers/Ce_Pumpkin/Booby_Jackpot.sap
+Composers/Eisenhammer_Zdenek/Blue_Sky_Action.sap
 Composers/Eisenhammer_Zdenek/Maze_Rush.sap
 Composers/Eisenhammer_Zdenek/MPG_Productions_Jingle.sap
 Composers/Eisenhammer_Zdenek/Rain_Bliss.sap
