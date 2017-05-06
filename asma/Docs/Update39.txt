@@ -48,7 +48,6 @@ Composers/Duma_Dariusz/Heavy_Christs_to_all.sap
 Composers/Duma_Dariusz/Insane_First_Syndrome.sap
 Composers/Duma_Dariusz/Unrunnable.sap
 Composers/Eisenhammer_Zdenek/Blue_Sky_Action.sap
-Composers/Eisenhammer_Zdenek/Comic_Squares.sap
 Composers/Eisenhammer_Zdenek/Maze_Rush.sap
 Composers/Eisenhammer_Zdenek/MPG_Productions_Jingle.sap
 Composers/Eisenhammer_Zdenek/Rain_Bliss.sap
