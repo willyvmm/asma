@@ -2,7 +2,7 @@
 #
 #  STIL v3.9 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1643
+#  Total number of entries: 1649
 #
 ##############################################################################
 #
@@ -1342,6 +1342,20 @@ COMMENT: Cover version Those Were the Days, performed by Mary Hopkin.
 /Composers/Foerst_Kai/Downtown.sap
   TITLE: Downtown
  ARTIST: Tony Hatch (music), performed by Petula Clark
+
+### /Composers/Fragmare ######################################################
+
+/Composers/Fragmare/Journey_to_Sillius_Stage_2.sap
+  TITLE: Underground Concourse Stage [from the NES game Journey to Silius]
+ ARTIST: Naoki Kodaka
+
+/Composers/Fragmare/NES_Batman_Intermission.sap
+  TITLE: Intermission [from the NES game Batman]
+ ARTIST: Naoki Kodaka
+
+/Composers/Fragmare/NES_Batman_Stage_1.sap
+  TITLE: Gotham City Streets Stage [from the NES game Batman]
+ ARTIST: Naoki Kodaka
 
 ### /Composers/Fusik_Piotr ###################################################
 
