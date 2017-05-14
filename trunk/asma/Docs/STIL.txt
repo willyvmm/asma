@@ -5338,6 +5338,10 @@ COMMENT: This piece covers the version by Somebody Dance With Me by DJ Bobo.
   TITLE: Main Title [from all the Star Wars movies]
  ARTIST: John Williams
 
+/Composers/Vila_Jaime/Starshine.sap
+  TITLE: Starshine [from ScreamTracker S3M module]
+ ARTIST: Jonne Valtonen (Purple Motion)
+
 ### /Composers/Vogt_Dariusz ##################################################
 
 /Composers/Vogt_Dariusz/Ballada_O_Januszku.sap
@@ -6235,10 +6239,6 @@ COMMENT: Lato Ludzików 2000 music compo entry.
 /Misc/Preludium_no_20.sap
   TITLE: Prelude No.20 in A minor (BWV 889)
  ARTIST: Johann Sebastian Bach
-
-/Misc/Purple_Motion.sap
-  TITLE: Starshine [from ScreamTracker S3M module]
- ARTIST: Jonne Valtonen (Purple Motion)
 
 /Misc/Pytaj.sap
   TITLE: Nie pytaj o Polskę
