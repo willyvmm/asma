@@ -2,7 +2,7 @@
 #
 #  STIL v3.9 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1649
+#  Total number of entries: 1651
 #
 ##############################################################################
 #
@@ -758,6 +758,11 @@ COMMENT: The intro part is cut off from this cover.
   TITLE: Abra1 [from the Amiga MOD module]
  ARTIST: Jogeir Liljedahl
 
+/Composers/Eisenhammer_Zdenek/Duck_Tales_The_Moon.sap
+  TITLE: Duck Tales - The Moon [from the Nintendo Entertainment System
+         game.
+ ARTIST: Hiroshige Tonomura
+
 /Composers/Eisenhammer_Zdenek/Flop_magazin_53.sap
   TITLE: The Alibi [from the C64 SID]
  ARTIST: Thomas E. Petersen (Laxity)
@@ -885,6 +890,12 @@ COMMENT: 2nd place at Forever 17 music compo.
 
 /Composers/Eisenhammer_Zdenek/Ten_Minutes_To_Deadline.sap
 COMMENT: 4th place at Forever 16 music compo.
+
+/Composers/Eisenhammer_Zdenek/Tronix.sap
+  TITLE: Clubbed to Death [from Furious Angels]
+ ARTIST: Rob Dougan
+COMMENT: The cover is incomplete, as featured in an unfinished entry for the
+         Realtime Compo at Forever 2015.
 
 /Composers/Eisenhammer_Zdenek/Turrican_2_Freedom.sap
   TITLE: Freedom [from the Amiga game Turrican II]

@@ -1,10 +1,10 @@
 ASMA Update #39
-Date: XXX XX, 201X
+Date: XXX XX, 2017
 
 These rips together with the original ASMA collection will make version 3.9
 of the ASMA (out of version 3.8).
 
-Number of new tunes: 261
+Number of new tunes: 264
 Credits fixes: 73
 Better/bugfixed rips: 3
 Removed files: 4
@@ -48,12 +48,15 @@ Composers/Duma_Dariusz/Heavy_Christs_to_all.sap
 Composers/Duma_Dariusz/Insane_First_Syndrome.sap
 Composers/Duma_Dariusz/Unrunnable.sap
 Composers/Eisenhammer_Zdenek/Blue_Sky_Action.sap
+Composers/Eisenhammer_Zdenek/Cubesex.sap
+Composers/Eisenhammer_Zdenek/Duck_Tales_The_Moon.sap
 Composers/Eisenhammer_Zdenek/Maze_Rush.sap
 Composers/Eisenhammer_Zdenek/MPG_Productions_Jingle.sap
 Composers/Eisenhammer_Zdenek/Rain_Bliss.sap
 Composers/Eisenhammer_Zdenek/RGB.sap
 Composers/Eisenhammer_Zdenek/Rockford_at_the_Olympic_Ga.sap
 Composers/Eisenhammer_Zdenek/Rolling_Stars.sap
+Composers/Eisenhammer_Zdenek/Spellbinder.sap
 Composers/Eisenhammer_Zdenek/Thetris_Ingame.sap
 Composers/Eisenhammer_Zdenek/Thetris_Title.sap
 Composers/Esquivel_Sal/Merry_Christmas.sap
