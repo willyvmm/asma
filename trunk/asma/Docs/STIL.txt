@@ -2,7 +2,7 @@
 #
 #  STIL v3.9 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1651
+#  Total number of entries: 1665
 #
 ##############################################################################
 #
@@ -1356,9 +1356,22 @@ COMMENT: Cover version Those Were the Days, performed by Mary Hopkin.
 
 ### /Composers/Fragmare ######################################################
 
+/Composers/Fragmare/Castlevania_III_Demon_Seed.sap
+  TITLE: Demon Seed (Under Dracula Castle) [from the NES game Castlevania III: Dracula's Curse]
+ ARTIST: Jun Funahashi, Yoshinori Sasaki, Yukie Morimoto (as Konami Kukeiha Club)
+COMMENT: The music is also known as Luminescent Blues.
+
 /Composers/Fragmare/Journey_to_Sillius_Stage_2.sap
   TITLE: Underground Concourse Stage [from the NES game Journey to Silius]
  ARTIST: Naoki Kodaka
+
+/Composers/Fragmare/Mega_Man_2_Dr_Wily_1.sap
+  TITLE: Dr. Wily Stages 1-2 (Castle Song) [from the NES game Mega Man 2]
+ ARTIST: Takashi Tateishi
+
+/Composers/Fragmare/Mega_Man_2_Flash_Man.sap
+  TITLE: Flashman Stage [from the NES game Mega Man 2]
+ ARTIST: Takashi Tateishi
 
 /Composers/Fragmare/NES_Batman_Intermission.sap
   TITLE: Intermission [from the NES game Batman]
@@ -1367,6 +1380,26 @@ COMMENT: Cover version Those Were the Days, performed by Mary Hopkin.
 /Composers/Fragmare/NES_Batman_Stage_1.sap
   TITLE: Gotham City Streets Stage [from the NES game Batman]
  ARTIST: Naoki Kodaka
+
+/Composers/Fragmare/Ninja_Gaiden_Pushing_Onwar.sap
+  TITLE: Pushing Onward (1-1, 5-2, 6-3 stage music) [from the NES game Ninja Gaiden]
+ ARTIST: Keiji Yamagishi, Ryuichi Nitta
+
+/Composers/Fragmare/Ninja_Gaiden_Unbreakable_D.sap
+  TITLE: Unbreakable Determination (4-2 stage music) [from the NES game Ninja Gaiden]
+ ARTIST: Keiji Yamagishi, Ryuichi Nitta
+
+/Composers/Fragmare/Ys_Fountain_of_Love.sap
+  TITLE: Fountain of Love [from the NEC PC-8801 game Ys I]
+ ARTIST: Yuzo Koshiro <?>
+
+/Composers/Fragmare/Ys_Last_Moment_of_the_Dark.sap
+  TITLE: The Last Moment of the Dark [from the NEC PC-8801 game Ys I]
+ ARTIST: Yuzo Koshiro
+
+/Composers/Fragmare/Ys_Rest_in_Peace.sap
+  TITLE: Rest in Peace [from the NEC PC-8801 game Ys I]
+ ARTIST: Yuzo Koshiro <?>
 
 ### /Composers/Fusik_Piotr ###################################################
 
@@ -2628,6 +2661,11 @@ COMMENT: Covering from the C64 version game by Ben Daglish that appeared in
   TITLE: Stardust Memories [from the Amiga MOD module]
  ARTIST: Volker Tripp (Jester)
 
+/Composers/Krix_Mario/Zybex_Remix.sap
+  TITLE: Zybex, Tune #4
+ ARTIST: Adam Gilmore
+COMMENT: Heavily based on /Composers/Makary_Brauner/Zybex_Remix.sap.
+
 ### /Composers/Kucisz_Tomasz #################################################
 
 /Composers/Kucisz_Tomasz/Complications.sap
@@ -3217,6 +3255,29 @@ COMMENT: 18th place at QuaST party 1996 music compo.
 /Composers/Makara_Grzegorz/Neron_Winner.sap
   TITLE: The Model [from The Man Machine]
  ARTIST: Kraftwerk
+
+### /Composers/Makary_Brauner ################################################
+
+/Composers/Makary_Brauner/Clubbed_to_Death.sap
+  TITLE: Clubbed to Death [from the movie Matrix]
+ ARTIST: Rob Dougan
+COMMENT: 1st place at Wapniak 2017 cover music compo.
+
+/Composers/Makary_Brauner/Fred_Main_Theme.sap
+  TITLE: A cover of the tune from Atari XE/XL POKEY Fred by Janusz Pelc
+ ARTIST: Janusz Pelc
+
+/Composers/Makary_Brauner/Life_after_Death.sap
+COMMENT: 1st place at Silly Venture 2016 music compo.
+
+/Composers/Makary_Brauner/Rob_Hubbards_Thalamusik.sap
+  TITLE: Thalamusik [from the C64 game Sanxion loader]
+ ARTIST: Rob Hubbard
+COMMENT: A cover of the tune from C64 SID Thalamusik by Rob Hubbard.
+
+/Composers/Makary_Brauner/Zybex_Remix.sap
+  TITLE: Zybex, Tune #4
+ ARTIST: Adam Gilmore
 
 ### /Composers/Makowski_Robert ###############################################
 
