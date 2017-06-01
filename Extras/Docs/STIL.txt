@@ -1,0 +1,61 @@
+﻿##############################################################################
+#
+#  STIL Extras v3.8 - SAP Tune Information List at Extras
+#  Maintained (as is) by Marok
+#  Total number of entries: 15
+#
+##############################################################################
+
+### /Extras/anoth_music/not_fixed ########################################################
+
+/anoth_music/not_fixed/Advanced_Pinball_Simulator.sap
+COMMENT: Not finished - to remove 1st subsong, doublet and eventually similar,
+         or optionally even all sfx, then add time.
+         Default subsong time is 00:25.71 LOOP.
+
+/anoth_music/not_fixed/Bugrunner.sap
+COMMENT: 2nd & 3rd subsongs end to start play 1st subsong. Miss TIME tags.
+
+/anoth_music/not_fixed/D-Bug.sap
+COMMENT: Miss TIME tags.
+
+/anoth_music/not_fixed/Teenage_Mutant_Ninja_Turtles.sap
+COMMENT: Not accept to main folder. Besides sap itself may needs rebuild.
+
+### /Extras/oth_version ######################################################
+
+/oth_version/AD_2044_Sexmisja_a1.sap
+COMMENT: All sfx from game in subsongs.
+
+/oth_version/Ducks_Ahoy_a1.sap
+COMMENT: ver. with music only.
+
+/oth_version/Fidget_a1.sap
+COMMENT: ver. with one additional subsong from the game.
+
+/oth_version/Floyd_of_the_Jungle_a1.sap
+COMMENT: ver. with music only.
+
+/oth_version/Rescue_on_Fractalus.sap
+COMMENT: ~ 97% same as /Composers/Langston_Peter/Behind_Jaggi_Lines.sap
+
+/oth_version/Seahorses_a1.sap
+COMMENT: All sfx from game in subsongs.
+
+/oth_version/Trident_a1.sap
+COMMENT: ver. to play in cms double mode.
+
+/oth_version/Who_1.sap
+COMMENT: Almost 100% same as /Composers/Pesout_Marek/Czech_Sound_1.sap
+
+### /Extras/anoth_music #############################################################
+
+/anoth_music/Drelbs_ext1.sap
+COMMENT: Sfx extract from the game.
+
+/anoth_music/Drelbs_ext2.sap
+COMMENT: Sfx extract from the game.
+
+/anoth_music/Spark_Bugs.sap
+COMMENT: Not 'quality' tune.
+
