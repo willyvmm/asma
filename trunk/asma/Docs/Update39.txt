@@ -4,7 +4,7 @@ Date: XXX XX, 2017
 These rips together with the original ASMA collection will make version 3.9
 of the ASMA (out of version 3.8).
 
-Number of new tunes: 264
+Number of new tunes: 266
 Credits fixes: 73
 Better/bugfixed rips: 3
 Removed files: 4
@@ -83,7 +83,9 @@ Composers/Fusik_Piotr/New.sap
 Composers/Gurney_Rebecca/Rouge_Chromazon.sap
 Composers/Hay_Adam/Boy_Sets_Fire.sap
 Composers/Hay_Adam/MD201701.sap
+Composers/Holik_Antonin/Bad_Apple.sap
 Composers/Holik_Antonin/Belegost.sap
+Composers/Holik_Antonin/Multiloops.sap
 Composers/Husak_Jakub/Sarepska.sap
 Composers/Husak_Jakub/Ulietai_na_Krylach_Wietra.sap
 Composers/Irrlicht_Project/Hump_Atari.sap

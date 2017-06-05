@@ -2,7 +2,7 @@
 #
 #  STIL v3.9 - SAP Tune Information List
 #  Maintained by Mariusz Rozwadowski (Ramos)
-#  Total number of entries: 1665
+#  Total number of entries: 1667
 #
 ##############################################################################
 #
@@ -2058,6 +2058,16 @@ COMMENT: Music from the game 'Władcy Ciemności' released by L.K. Avalon in
 /Composers/Holda_Leszek/Wladcy_Ciemnosci_Ingame.sap
 COMMENT: Music from the game 'Władcy Ciemności' released by L.K. Avalon in
          1993.
+
+### /Composers/Holik_Antonin #################################################
+
+/Composers/Holik_Antonin/Bad_Apple.sap
+  TITLE: Bad Apple [from Lovelight]
+ ARTIST: Alstroemeria Records
+
+/Composers/Holik_Antonin/Belegost.sap
+  TITLE: Belegost [from the ZX Spectrum game]
+ ARTIST: Frantisek Fuka
 
 ### /Composers/Hryn_Piotr ####################################################
 
