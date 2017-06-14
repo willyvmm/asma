@@ -2,11 +2,14 @@
 #
 #  STIL Extras v3.8 - SAP Tune Information List at Extras
 #  Maintained (as is) by Marok
-#  Total number of entries: 15
+#  Total number of entries: 26
 #
 ##############################################################################
 
-### /Extras/anoth_music/not_fixed ########################################################
+### /Extras/anoth_music/not_fixed ############################################
+
+/anoth_music\not_fixed/Ace_of_Aces.sap
+COMMENT: Not finished (e.g. sap type).
 
 /anoth_music/not_fixed/Advanced_Pinball_Simulator.sap
 COMMENT: Not finished - to remove 1st subsong, doublet and eventually similar,
@@ -17,38 +20,68 @@ COMMENT: Not finished - to remove 1st subsong, doublet and eventually similar,
 COMMENT: 2nd & 3rd subsongs end to start play 1st subsong. Miss TIME tags.
 
 /anoth_music/not_fixed/D-Bug.sap
-COMMENT: Miss TIME tags.
+COMMENT: Miss some TIME tags.
+
+/not_fixed/Decision_in_the_Desert.sap
+COMMENT: Not finished (e.g. sap type).
+
+/not_fixed/Racing_Destruction_Set.sap
+COMMENT: The routine wrong loops the music, miss TIME tag.
 
 /anoth_music/not_fixed/Teenage_Mutant_Ninja_Turtles.sap
-COMMENT: Not accept to main folder. Besides sap itself may needs rebuild.
+COMMENT: Needs rebuild.
 
 ### /Extras/oth_version ######################################################
 
 /oth_version/AD_2044_Sexmisja_a1.sap
 COMMENT: All sfx from game in subsongs.
 
+/oth_version/Arcade_Fruit_Machine_Simul_a1.sap
+COMMENT: Consist only main 16 song/efx. (Gains data reduction).
+
+/oth_version/Arcade_Fruit_Machine_Simul_a2.sap
+COMMENT: Consist the game's no. 17-47 sfx (exclusively).
+
 /oth_version/Ducks_Ahoy_a1.sap
-COMMENT: ver. with music only.
+COMMENT: Ver. with music only.
 
 /oth_version/Fidget_a1.sap
-COMMENT: ver. with one additional subsong from the game.
+COMMENT: Add sfx as 2nd subsong.
 
 /oth_version/Floyd_of_the_Jungle_a1.sap
-COMMENT: ver. with music only.
+COMMENT: Ver. with music only.
+
+/oth_version/Intro_xxl_atari_pl_r1.sap
+COMMENT: Special version of /Composers/Radecki_Michal/Intro.sap.
+
+/oth_version/Jumpman_Junior_a1.sap
+COMMENT: All game sfx in subsongs.
+
+/oth_version/Multi_Dash_a1.sap
+COMMENT: All game sfx in subsongs.
+
+/oth_version/Pengo_a1.sap
+COMMENT: All game sfx in subsongs.
+
+/oth_version/Plattermania_a1.sap
+COMMENT: Add sfx as 2nd subsong.
+
+/oth_version/Q_Bert_a1.sap
+COMMENT: All game sfx in subsongs.
 
 /oth_version/Rescue_on_Fractalus.sap
 COMMENT: ~ 97% same as /Composers/Langston_Peter/Behind_Jaggi_Lines.sap
 
 /oth_version/Seahorses_a1.sap
-COMMENT: All sfx from game in subsongs.
+COMMENT: All game sfx in subsongs.
 
 /oth_version/Trident_a1.sap
-COMMENT: ver. to play in cms double mode.
+COMMENT: Ver. to play in cms double mode.
 
 /oth_version/Who_1.sap
 COMMENT: Almost 100% same as /Composers/Pesout_Marek/Czech_Sound_1.sap
 
-### /Extras/anoth_music #############################################################
+### /Extras/anoth_music ######################################################
 
 /anoth_music/Drelbs_ext1.sap
 COMMENT: Sfx extract from the game.
