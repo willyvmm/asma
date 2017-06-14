@@ -8,7 +8,7 @@
 
 ### /Extras/anoth_music/not_fixed ############################################
 
-/anoth_music\not_fixed/Ace_of_Aces.sap
+/anoth_music/not_fixed/Ace_of_Aces.sap
 COMMENT: Not finished (e.g. sap type).
 
 /anoth_music/not_fixed/Advanced_Pinball_Simulator.sap
@@ -37,10 +37,10 @@ COMMENT: Needs rebuild.
 COMMENT: All sfx from game in subsongs.
 
 /oth_version/Arcade_Fruit_Machine_Simul_a1.sap
-COMMENT: Consist only main 16 song/efx. (Gains data reduction).
+COMMENT: Consists only main 16 song/efx. (Gains data reduction).
 
 /oth_version/Arcade_Fruit_Machine_Simul_a2.sap
-COMMENT: Consist the game's no. 17-47 sfx (exclusively).
+COMMENT: Consists the game's no. 17-47 sfx (exclusively).
 
 /oth_version/Ducks_Ahoy_a1.sap
 COMMENT: Ver. with music only.
